@@ -62,5 +62,13 @@
     "owner_username": "catra",
     "slug": "test2",
     "created": "2025-05-09T05:02:06.300799+00:00"
+  },
+  {
+    "name": "builder test",
+    "build_type": "skateboard",
+    "skating_type": "cruisin",
+    "owner_username": "skateguilt456",
+    "slug": "builder-test",
+    "created": "2025-05-11T20:23:57.960725+00:00"
   }
 ]
