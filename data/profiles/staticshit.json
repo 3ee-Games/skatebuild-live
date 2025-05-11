@@ -6,9 +6,20 @@
   ],
   "stance": "regular",
   "status": "amateur",
-  "sponsors": [],
-  "contest_results": [],
-  "image": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/profile-image-default-2.png",
-  "imageSmall": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/profile-image-default.png",
-  "social_urls": []
+  "sponsors": [
+    "Tooker"
+  ],
+  "contest_results": [
+    {
+      "name": "sdfsfd",
+      "division": "sdfsdf",
+      "date": "2025-05-11",
+      "placement": 1
+    }
+  ],
+  "image": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250511/1eye_omlpg0",
+  "imageSmall": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250511/ef0af0b6b5d64f2b99a08faa829c379e_ng9gdx",
+  "social_urls": [
+    "https://facebook.com/ryansk"
+  ]
 }
