@@ -5,6 +5,7 @@ on:
     paths:
       - 'data/builds/**/*.json'
       - 'scripts/generate-all-builds.js'
+  workflow_dispatch:
 
 jobs:
   generate-manifest:
