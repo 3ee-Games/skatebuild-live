@@ -1,0 +1,27 @@
+{
+  "productName": "Huck Wonderland Wheels Who Are You? 54mm 98A 4pk",
+  "productBrand": "Huck",
+  "productType": "skate park wheels",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746371052/metacrawler/hcuav6zrpunrin1gdnaa.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569739,
+  "productVendorUrl": "https://www.derbywarehouse.com/Huck_Wonderland_Wheels/descpage-HSSWW.html",
+  "productPrices": [
+    {
+      "derbywarehouse": "45.00",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Huck_Wonderland_Wheels/descpage-HSSWW.html"
+    },
+    {
+      "medusaskates": "89.99",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/huck-wonderland-skate-park-wheels-8-pack/"
+    },
+    {
+      "suregrip": "45.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/huck-wheels"
+    }
+  ]
+}

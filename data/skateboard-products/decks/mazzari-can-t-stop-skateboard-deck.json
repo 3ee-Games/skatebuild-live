@@ -1,0 +1,22 @@
+{
+  "productName": "Mazzari Cant Stop Deck",
+  "productBrand": "DGK",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397218/ldjsonbuild/phyxgaxroxhvbhhvtwbh.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/dgk/mazzari-cant-stop-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "64.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/dgk/mazzari-cant-stop-825-skateboard-deck"
+    },
+    {
+      "spot": "70.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/dgk-will-mazzari-cant-stop-deck?variant=51297470316817"
+    }
+  ]
+}

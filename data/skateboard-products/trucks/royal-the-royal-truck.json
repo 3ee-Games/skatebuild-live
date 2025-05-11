@@ -1,0 +1,17 @@
+{
+  "productName": "Royal The Royal Truck",
+  "productBrand": "Royal",
+  "productType": "products",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416894/ldjsonbuild/bacwvlx3mq1y89fprfnz.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544886,
+  "productVendorUrl": "https://skateparkoftampa.com/products/royal-the-royal-truck-88995?variant=48246200631569",
+  "productPrices": [
+    {
+      "spot": "24.5",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/royal-the-royal-truck-88995?variant=48246200631569"
+    }
+  ]
+}

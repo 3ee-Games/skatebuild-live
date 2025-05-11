@@ -1,0 +1,17 @@
+{
+  "productName": "Visitor Deck",
+  "productBrand": "Alien Workshop",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400171/ldjsonbuild/vyvtvsoto7l0bqlfnknp.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/alien-workshop/visitor-80-skateboard-deck/pink",
+  "productPrices": [
+    {
+      "tactics": "62.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/alien-workshop/visitor-80-skateboard-deck/pink"
+    }
+  ]
+}

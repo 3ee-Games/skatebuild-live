@@ -1,0 +1,27 @@
+{
+  "productName": "Spitfire Cheapshot Bearings",
+  "productBrand": "Spitfire",
+  "productType": "Skateboard Parts",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460509/zumiezbuild/fcojojz3tn0ylahyctr8.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544876,
+  "productVendorUrl": "/spitfire-cheapshot-bearings.html",
+  "productPrices": [
+    {
+      "zumiez": "11.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/spitfire-cheapshot-bearings.html"
+    },
+    {
+      "tactics": "11.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/spitfire/cheapshots-skateboard-bearings"
+    },
+    {
+      "spot": "11.95",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/spitfire-cheapshots-bearing-25730?variant=48243426066705"
+    }
+  ]
+}

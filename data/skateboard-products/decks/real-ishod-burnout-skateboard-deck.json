@@ -1,0 +1,22 @@
+{
+  "productName": "Real Ishod Burnout Deck",
+  "productBrand": "Real Skateboards",
+  "productType": "The Car Collection",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461075/zumiezbuild/s0qtfk9fbraeeykjtwkw.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/real-ishod-burnout-8-38-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "64.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/real-ishod-burnout-8-38-skateboard-deck.html"
+    },
+    {
+      "tactics": "62.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/the-heated-wheel/burnout-925-skateboard-deck"
+    }
+  ]
+}

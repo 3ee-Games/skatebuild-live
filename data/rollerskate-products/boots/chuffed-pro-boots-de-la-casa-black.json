@@ -1,0 +1,17 @@
+{
+  "productName": "Chuffed Pro De La Casa",
+  "productBrand": "Chuffed",
+  "productType": "",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370172/metacrawler/y3cxh4wczo8qhowfjob3.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569735,
+  "productVendorUrl": "https://www.derbywarehouse.com/Chuffed_Pro/descpage-CSPRO.html",
+  "productPrices": [
+    {
+      "derbywarehouse": "225.00",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Chuffed_Pro/descpage-CSPRO.html"
+    }
+  ]
+}

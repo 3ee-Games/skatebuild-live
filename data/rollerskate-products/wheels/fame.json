@@ -1,0 +1,17 @@
+{
+  "productName": "FAME",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375224/ldjsonbuild/vymwv5hwhghumqwjfhpg.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569739,
+  "productVendorUrl": "https://www.suregrip.com/products/fame",
+  "productPrices": [
+    {
+      "suregrip": "49.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/fame"
+    }
+  ]
+}

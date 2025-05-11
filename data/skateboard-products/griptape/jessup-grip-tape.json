@@ -1,0 +1,17 @@
+{
+  "productName": "Jessup Grip Tape",
+  "productBrand": "Jessup Grip Tape",
+  "productType": "Griptape",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462190/zumiezbuild/m0og7f6zpdlhboisvlpb.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544883,
+  "productVendorUrl": "/jessup-grip-tape.html",
+  "productPrices": [
+    {
+      "zumiez": "5.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/jessup-grip-tape.html"
+    }
+  ]
+}

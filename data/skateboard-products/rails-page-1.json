@@ -1,0 +1,292 @@
+[
+  {
+    "slug": "bonesaw-rails",
+    "productName": "Bonesaw Rails",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392799/ldjsonbuild/vrjjqfio65ia0pwo6jzd.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "11.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/creature/bonesaw-rails/orange"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-skateboards-slider-rails",
+    "productName": "Creature Slider Rails",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416450/ldjsonbuild/xrqf9xkgi1uaawwlzns7.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "10.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-slider-rails-71436?variant=48243897860369"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "deathwish-glitter-death-rails",
+    "productName": "Deathwish Glitter Death Rails",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416396/ldjsonbuild/p2qvzs3neqhr5lbusevv.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "12.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-glitter-death-rails-78440?variant=48244745732369"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "doom-sayers-slider-rails",
+    "productName": "Doom Sayers Slider Rails",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416432/ldjsonbuild/cbbwiqrmlwv9pplnvdcg.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "13.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/doom-sayers-slider-rails-73148?variant=48244052230417"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "girl-og-rails",
+    "productName": "Girl OG Rails",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416441/ldjsonbuild/qiyfxtx2xz6qf1d0etoz.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "8.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/girl-og-rails-72400?variant=48243984662801"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "glow-stick-rails",
+    "productName": "Glow Stick Rails",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392775/ldjsonbuild/gzj2783zpf761ng9d4bi.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "11.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/heroin/glow-stick-rails/glow"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "grabrailz",
+    "productName": "Grabrailz",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1745959116/skatebuild/ehjmomaxddipcibjsmqw.webp",
+    "imageWidth": 40,
+    "imageHeight": 250,
+    "productPrices": [
+      {
+        "tactics": "15.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/rad-railz/grabrailz/royal"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "jacuzzi-rails",
+    "productName": "Jacuzzi Rails",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392835/ldjsonbuild/jmhfjf2sc5dzixwxwgyi.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "11.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/jacuzzi-rails/salmon"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "juice-bar-rails-single-rail",
+    "productName": "Juice Bar Rails single rail",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392823/ldjsonbuild/cxjovumi0amdylafychu.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "6.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/oj/juice-bar-rails-single-rail/orange-single"
+      },
+      {
+        "spot": "5.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/oj-3-juice-bar-rails-83898?variant=48245477212433"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "madness-repeat-rails",
+    "productName": "Madness Repeat Rails",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416388/ldjsonbuild/u6igsbmvb7toyzbt84qw.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "6.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/madness-repeat-rails-82484?variant=48245319696657"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "neon-deck-rails",
+    "productName": "Neon Deck Rails",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392829/ldjsonbuild/doy4qtynqgfyonryyfs1.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "12.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/pig/neon-deck-rails/ledge"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "pig-pig-rails",
+    "productName": "Pig Pig Rails",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416353/ldjsonbuild/eugruig1w5gmlvapvrvd.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "14.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/pig-pig-rails-94671?variant=48246938599697"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "powell-peralta-rib-bones-rails",
+    "productName": "Powell Peralta Rib Bones Rails",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416461/ldjsonbuild/hl47efiggxvvi5ojwd1w.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "14.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/powell-peralta-rib-bones-rails-55018?variant=48243472728337"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "rail-devils",
+    "productName": "Rail Devils",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392781/ldjsonbuild/ulayoorx30wyz3ibgdph.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "29.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/tail-devil/rail-devils"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "rib-bones-deck-rails",
+    "productName": "Rib Bones Deck Rails",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392793/ldjsonbuild/rnfphcqxg8llscblfzhp.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "12.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/powell-peralta/rib-bones-deck-rails/red"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "santa-cruz-slimline-rails",
+    "productName": "Santa Cruz Slimline Rails",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416400/ldjsonbuild/batmitmx29ka0atfj6ko.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "11.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-slimline-rails-77305?variant=48244584939793"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "shake-junt-rails",
+    "productName": "Shake Junt Rails",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416392/ldjsonbuild/cmkq2osnxjblboq1fck0.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "11.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/shake-junt-rails-79759?variant=48244902461713"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "sj-deck-rails",
+    "productName": "SJ Deck Rails",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392787/ldjsonbuild/tijba0mcczuxtkgxh40v.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "11.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/shake-junt/sj-deck-rails"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "slimline-hsr-rails",
+    "productName": "Slimline HSR Rails",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392805/ldjsonbuild/haev42fdxtx9ndd2mrdy.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "14.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/santa-cruz/slimline-hsr-rails/black"
+      }
+    ],
+    "productTags": []
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "productName": "Almqvist Hello March Deck",
+  "productBrand": "WKND",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400063/ldjsonbuild/zjrvbvv88s5qfnztytyz.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/wknd-skateboards/almqvist-hello-march-8375-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/wknd-skateboards/almqvist-hello-march-8375-skateboard-deck"
+    }
+  ]
+}

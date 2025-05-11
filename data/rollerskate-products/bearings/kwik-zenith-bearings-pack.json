@@ -1,0 +1,22 @@
+{
+  "productName": "Kwik Zenith Bearings 8mm, 16-Pack",
+  "productBrand": "Riedell",
+  "productType": "kwik zenith bearings",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468004/ldjsonbuild/wkwqb6kpco5w7t3tizwz.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569734,
+  "productVendorUrl": "https://medusaskates.com/kwik-zenith-bearings/",
+  "productPrices": [
+    {
+      "medusaskates": "40",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/kwik-zenith-bearings/"
+    },
+    {
+      "moxi": "40.0",
+      "url": "https://www.moxiskates.com",
+      "productVendorUrl": "https://www.moxiskates.com/collections/bearings/products/kwik-brand-zenith-bearings"
+    }
+  ]
+}

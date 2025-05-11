@@ -1,0 +1,17 @@
+{
+  "productName": "Foy 33 Degrees Deck",
+  "productBrand": "Deathwish",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400797/ldjsonbuild/dofwglpwhmzec3pd4vmy.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/deathwish/foy-33-degrees-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "73.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/deathwish/foy-33-degrees-825-skateboard-deck"
+    }
+  ]
+}

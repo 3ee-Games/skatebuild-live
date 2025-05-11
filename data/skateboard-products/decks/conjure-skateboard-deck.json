@@ -1,0 +1,17 @@
+{
+  "productName": "Conjure Deck",
+  "productBrand": "Creature",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402251/ldjsonbuild/ltademuamjpb2ds7cu2q.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/creature/conjure-853-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "66.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/creature/conjure-853-skateboard-deck"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "We Are Still The World Deck",
+  "productBrand": "Tactics",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395854/ldjsonbuild/xc6ufwgndo6wstmk8de2.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/tactics/we-are-still-the-world-skateboard-deck/multi",
+  "productPrices": [
+    {
+      "tactics": "44.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/tactics/we-are-still-the-world-skateboard-deck/multi"
+    }
+  ]
+}

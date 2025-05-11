@@ -1,0 +1,22 @@
+{
+  "productName": "Riedell Solaris",
+  "productBrand": "Riedell",
+  "productType": "",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370281/metacrawler/hapx8fyc3pnzhrjfv9b7.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569735,
+  "productVendorUrl": "https://www.derbywarehouse.com/Riedell_Solaris/descpage-SOLARIS.html",
+  "productPrices": [
+    {
+      "derbywarehouse": "409.00",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Riedell_Solaris/descpage-SOLARIS.html"
+    },
+    {
+      "medusaskates": "409",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/riedell-solaris-boots/"
+    }
+  ]
+}

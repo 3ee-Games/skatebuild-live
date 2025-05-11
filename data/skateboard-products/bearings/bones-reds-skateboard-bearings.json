@@ -1,0 +1,27 @@
+{
+  "productName": "Bones REDS Bearings",
+  "productBrand": "Bones",
+  "productType": "Gifts under $25",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460502/zumiezbuild/rckx9xipdbgerrsmkq1q.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544876,
+  "productVendorUrl": "/bones-reds-skateboard-bearings.html",
+  "productPrices": [
+    {
+      "zumiez": "18.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/bones-reds-skateboard-bearings.html"
+    },
+    {
+      "tactics": "17.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/bones-bearings/reds-skateboard-bearings/red"
+    },
+    {
+      "spot": "18.95",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/collections/bearings/products/bones-bones-reds-bearings-1387?variant=48243326353681"
+    }
+  ]
+}

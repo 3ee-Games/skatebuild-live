@@ -1,0 +1,27 @@
+{
+  "productName": "Flow Roller Skate Park Wheels",
+  "productBrand": "Bont",
+  "productType": "roller skate wheels",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746365364/ldjsonbuild/f7ppvwzbwn0us0t53dod.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569739,
+  "productVendorUrl": "https://bont.com/collections/roller-skate-wheels/products/flow-roller-skate-wheels",
+  "productPrices": [
+    {
+      "bont": "69.9",
+      "url": "https://bont.com",
+      "productVendorUrl": "https://bont.com/collections/roller-skate-wheels/products/flow-roller-skate-wheels"
+    },
+    {
+      "derbywarehouse": "33.20",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Bont_Flow/descpage-BDFLW.html"
+    },
+    {
+      "medusaskates": "34.99",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/bont-skate-park-wheels/"
+    }
+  ]
+}

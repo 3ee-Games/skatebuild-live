@@ -1,0 +1,17 @@
+{
+  "productName": "SJ Deck Rails",
+  "productBrand": "Shake Junt",
+  "productType": "Deck Accessories",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392787/ldjsonbuild/tijba0mcczuxtkgxh40v.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544884,
+  "productVendorUrl": "https://www.tactics.com/shake-junt/sj-deck-rails",
+  "productPrices": [
+    {
+      "tactics": "11.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/shake-junt/sj-deck-rails"
+    }
+  ]
+}

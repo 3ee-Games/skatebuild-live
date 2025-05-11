@@ -1,0 +1,22 @@
+{
+  "productName": "5Boro Always Run Deck",
+  "productBrand": "5Boro Skateboards",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461837/zumiezbuild/xasszni5hnt6oqcgrqvh.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/5boro-always-run-8-25-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "49.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/5boro-always-run-8-25-skateboard-deck.html"
+    },
+    {
+      "tactics": "59.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/5boro/always-run-825-skateboard-deck/blue"
+    }
+  ]
+}

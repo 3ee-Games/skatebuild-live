@@ -1,0 +1,28 @@
+{
+  "productName": "Sonar Riva Wheels White 96A 57x32mm 4pk",
+  "productBrand": "Sonar",
+  "productType": "",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746372789/metacrawler/j2ayvgkr4h8wn3pgxmzm.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569739,
+  "productVendorUrl": "https://www.derbywarehouse.com/Sonar_Riva_Wheels_4pk/descpage-SNRIVA.html",
+  "productPrices": [
+    {
+      "derbywarehouse": "25.00",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Sonar_Riva_Wheels_4pk/descpage-SNRIVA.html"
+    },
+    {
+      "moxi": "50.0",
+      "url": "https://www.moxiskates.com",
+      "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/radar-riva-wheels"
+    },
+    {
+      "medusaskates": "25",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/sonar-riva-indoor-wheels-96a-57mm-4-pack/"
+    }
+    
+  ]
+}

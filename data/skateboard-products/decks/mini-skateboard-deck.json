@@ -1,0 +1,17 @@
+{
+  "productName": "Mini Deck",
+  "productBrand": "Bacon Skateboards",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396354/ldjsonbuild/y3pqkjlpmonpi9s6w1qu.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/bacon/mini-73-skateboard-deck/blue",
+  "productPrices": [
+    {
+      "tactics": "54.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/bacon/mini-73-skateboard-deck/blue"
+    }
+  ]
+}

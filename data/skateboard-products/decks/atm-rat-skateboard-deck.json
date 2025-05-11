@@ -1,0 +1,17 @@
+{
+  "productName": "ATM Rat Deck",
+  "productBrand": "ATM Skateboards",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461613/zumiezbuild/qst3sup53wccr9ozyrpk.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/atm-rat-8-375-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "45.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/atm-rat-8-375-skateboard-deck.html"
+    }
+  ]
+}

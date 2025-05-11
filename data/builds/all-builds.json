@@ -1,0 +1,66 @@
+[
+  {
+    "name": "great googly moogly",
+    "build_type": "skateboard",
+    "skating_type": "park",
+    "owner_username": "catra",
+    "slug": "great-googly-moogly",
+    "created": "2025-05-09T12:52:22.181806+00:00"
+  },
+  {
+    "name": "jessup park skating",
+    "build_type": "skateboard",
+    "skating_type": "park",
+    "owner_username": "catra",
+    "slug": "jessup-park-skating",
+    "created": "2025-05-09T05:04:31.600715+00:00"
+  },
+  {
+    "name": "mookie decker",
+    "build_type": "skateboard",
+    "skating_type": "park",
+    "owner_username": "catra",
+    "slug": "mookie-decker",
+    "created": "2025-05-09T05:03:25.325914+00:00"
+  },
+  {
+    "name": "oootie speed deck",
+    "build_type": "skateboard",
+    "skating_type": "park",
+    "owner_username": "catra",
+    "slug": "oootie-speed-deck",
+    "created": "2025-05-09T05:03:06.635480+00:00"
+  },
+  {
+    "name": "roller derby",
+    "build_type": "rollerskate",
+    "skating_type": "roller derby",
+    "owner_username": "catra",
+    "slug": "roller-derby",
+    "created": "2025-05-09T05:05:09.478610+00:00"
+  },
+  {
+    "name": "smaggomg fuckers",
+    "build_type": "skateboard",
+    "skating_type": "cruisin",
+    "owner_username": "catra",
+    "slug": "smaggomg-fuckers",
+    "created": "2025-05-09T05:04:03.001552+00:00"
+  },
+  {
+    "name": "test1",
+    "build_type": "skateboard",
+    "skating_type": "street",
+    "owner_username": "catra",
+    "slug": "test1",
+    "created": "2025-05-09T05:01:32.897033+00:00"
+  },
+  {
+    "name": "test2",
+    "build_type": "skateboard",
+    "skating_type": "vert",
+    "owner_username": "catra",
+    "slug": "test2",
+    "created": "2025-05-09T05:02:06.300799+00:00"
+  }
+]

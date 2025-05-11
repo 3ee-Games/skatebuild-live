@@ -1,0 +1,17 @@
+{
+  "productName": "Swiss Bearings",
+  "productBrand": "Chocolate",
+  "productType": "Bearings",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746391670/ldjsonbuild/ill5pgwma4secxvscjh5.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544876,
+  "productVendorUrl": "https://www.tactics.com/chocolate/swiss-skateboard-bearings",
+  "productPrices": [
+    {
+      "tactics": "31.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/chocolate/swiss-skateboard-bearings"
+    }
+  ]
+}

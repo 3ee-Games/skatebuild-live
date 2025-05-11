@@ -1,0 +1,17 @@
+{
+  "productName": "Venture V-Hollow Truck",
+  "productBrand": "Venture",
+  "productType": "products",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416647/ldjsonbuild/s8yusckqihadmf3b4wlu.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544886,
+  "productVendorUrl": "https://skateparkoftampa.com/products/venture-v-hollow-truck?variant=50717487038737",
+  "productPrices": [
+    {
+      "spot": "32.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/venture-v-hollow-truck?variant=50717487038737"
+    }
+  ]
+}

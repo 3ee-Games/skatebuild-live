@@ -1,0 +1,22 @@
+{
+  "productName": "Baker Casper Oil Slick Deck",
+  "productBrand": "Baker Skateboards",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460623/zumiezbuild/zxqfx8fzqeuwgh9o8sao.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/baker-casper-oil-slick-8-5-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "78.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/baker-casper-oil-slick-8-5-skateboard-deck.html"
+    },
+    {
+      "tactics": "73.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/baker/casper-oil-slick-85-skateboard-deck"
+    }
+  ]
+}

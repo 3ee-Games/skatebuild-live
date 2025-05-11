@@ -1,0 +1,17 @@
+{
+  "productName": "Jart Smoke Deck",
+  "productBrand": "Jart Skateboards",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462110/zumiezbuild/r232zd7wqxpforiyfqzv.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/jart-smoke-8-0-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "47.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/jart-smoke-8-0-skateboard-deck.html"
+    }
+  ]
+}

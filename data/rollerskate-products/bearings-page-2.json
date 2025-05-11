@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "wicked-twincam-ilq7-bearings",
+    "productName": "Wicked Twincam ILQ7 Bearings 16pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746373469/metacrawler/oot0psqynisdgytkjgo7.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "39.99",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Wicked_Twincam_ILQ7/descpage-WTC7.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "wicked-twincam-sus-rustproof-bearings",
+    "productName": "Wicked Twincam SUS Rustproof Bearings 4pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746373480/metacrawler/ubtehgwcbdnf5jt0gbsg.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "22.95",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Wicked_Twincam_SUS_Rustproof/descpage-310080.html"
+      }
+    ],
+    "productTags": []
+  }
+]

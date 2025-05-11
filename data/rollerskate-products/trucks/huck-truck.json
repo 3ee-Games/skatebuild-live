@@ -1,0 +1,17 @@
+{
+  "productName": "Huck Truck",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746374992/ldjsonbuild/f7pjioohs03tl9oxujcq.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569738,
+  "productVendorUrl": "https://www.suregrip.com/products/huck-truck",
+  "productPrices": [
+    {
+      "suregrip": "95.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/huck-truck"
+    }
+  ]
+}

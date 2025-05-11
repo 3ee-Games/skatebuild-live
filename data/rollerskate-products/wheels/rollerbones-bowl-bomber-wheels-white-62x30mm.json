@@ -1,0 +1,22 @@
+{
+  "productName": "Rollerbones Bowl Bomber Wheels 101A White 62x30mm 8pk",
+  "productBrand": "RollerBones",
+  "productType": "skate park wheels",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746371090/metacrawler/cgbezgxa4baxrmoe2com.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569739,
+  "productVendorUrl": "https://www.derbywarehouse.com/RollerBones_Bowl_Bombers/descpage-RBBBW.html",
+  "productPrices": [
+    {
+      "derbywarehouse": "87.95",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/RollerBones_Bowl_Bombers/descpage-RBBBW.html"
+    },
+    {
+      "medusaskates": "99.99",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/rollerbones-bowl-bombers-wheels-red-101a-57mm-8-pack/"
+    }
+  ]
+}

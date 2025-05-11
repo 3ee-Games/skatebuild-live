@@ -1,0 +1,17 @@
+{
+  "productName": "Safety Vest Deck",
+  "productBrand": "Sci-Fi Fantasy",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398477/ldjsonbuild/w0hem8ig7gmp1pfg7w4z.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/sci-fi-fantasy/safety-vest-85-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/sci-fi-fantasy/safety-vest-85-skateboard-deck"
+    }
+  ]
+}

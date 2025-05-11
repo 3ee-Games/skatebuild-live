@@ -1,0 +1,17 @@
+{
+  "productName": "Ceramic",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375514/ldjsonbuild/uvbuiamscteqbulif77o.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569734,
+  "productVendorUrl": "https://www.suregrip.com/products/ceramic",
+  "productPrices": [
+    {
+      "suregrip": "129.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/ceramic"
+    }
+  ]
+}

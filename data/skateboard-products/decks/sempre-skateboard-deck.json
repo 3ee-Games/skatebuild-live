@@ -1,0 +1,17 @@
+{
+  "productName": "Sempre Deck",
+  "productBrand": "Space Program",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392338/ldjsonbuild/yuvuu3wzxkn0hzo3gibv.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/space-program/sempre-838-skateboard-deck/orange",
+  "productPrices": [
+    {
+      "tactics": "58.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/space-program/sempre-838-skateboard-deck/orange"
+    }
+  ]
+}

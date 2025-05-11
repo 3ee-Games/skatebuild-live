@@ -1,0 +1,30 @@
+{
+  "name": "micher",
+  "hometown": "Tampa",
+  "skater_type": [
+    "skateboarder"
+  ],
+  "stance": "regular",
+  "status": "pro",
+  "sponsors": [
+    "sdfsdfs",
+    "coke"
+  ],
+  "contest_results": [
+    {
+      "name": "jonnu",
+      "division": "papa",
+      "date": "2025-04-27",
+      "placement": 1
+    },
+    {
+      "name": "fukbou",
+      "division": "sde",
+      "date": "2025-04-27",
+      "placement": 1
+    }
+  ],
+  "builds": [],
+  "image": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250427/Screenshot_2025-03-31_at_9.42.10PM_wxua4d",
+  "imageSmall": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250427/87b460f796cb46f480ad870083a7abd0_xntdjj"
+}

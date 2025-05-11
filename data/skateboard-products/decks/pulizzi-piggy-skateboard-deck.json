@@ -1,0 +1,17 @@
+{
+  "productName": "Pulizzi Piggy Deck",
+  "productBrand": "Jacuzzi Unlimited",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396385/ldjsonbuild/sfjfgztfdkol4y7nc9t6.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/pulizzi-piggy-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "64.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/pulizzi-piggy-825-skateboard-deck"
+    }
+  ]
+}

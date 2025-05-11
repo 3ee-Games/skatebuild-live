@@ -1,0 +1,22 @@
+{
+  "productName": "Radar Donut Pink Sprinkle Wheels",
+  "productBrand": "Riedell",
+  "productType": "outdoor wheels",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746230446/ldjsonbuild/a7y1jsqo4t3pk7xcfhbl.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569739,
+  "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/radar-donut-sprinkle-wheels",
+  "productPrices": [
+    {
+      "moxi": "78.0",
+      "url": "https://www.moxiskates.com",
+      "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/radar-donut-sprinkle-wheels"
+    },
+    {
+      "derbywarehouse": "39.00",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Radar_Donut/descpage-DONUT.html"
+    }
+  ]
+}

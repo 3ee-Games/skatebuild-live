@@ -1,0 +1,17 @@
+{
+  "productName": "Langston Birds Of A Feather Deck",
+  "productBrand": "Roger Skateboards",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398709/ldjsonbuild/weznar3vn09romklfkvm.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/roger-skateboards/langston-birds-of-a-feather-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "64.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/roger-skateboards/langston-birds-of-a-feather-825-skateboard-deck"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Alba Mr. Mon-Kay Deck",
+  "productBrand": "Frog",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398391/ldjsonbuild/x5bitrbbjiri5s11xlo7.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/frog/alba-mr-mon-kay-838-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "71.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/frog/alba-mr-mon-kay-838-skateboard-deck"
+    }
+  ]
+}

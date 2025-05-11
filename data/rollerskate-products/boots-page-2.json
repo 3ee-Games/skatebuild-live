@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "vnla-a-la-mode-boots-only",
+    "productName": "VNLA A La Mode Only",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468135/ldjsonbuild/vpewkcrhqnomflfsmuaf.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "149.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/vnla-a-la-mode-boots-only/"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "vnla-classic-limited-edition",
+    "productName": "VNLA Classic Limited Edition",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468151/ldjsonbuild/ubjqxc4wrtk9efoyhgfk.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "179.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/vnla-classic-limited-edition/"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "vnla-evolution-boot",
+    "productName": "VNLA Evolution",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468146/ldjsonbuild/lfzimmjq2tny4bhbbncx.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "189.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/vnla-evolution-boot/"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "vnla-freestyle-anniversary-boot",
+    "productName": "VNLA Freestyle Anniversary",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468162/ldjsonbuild/buhw5slvrcogw6bzfjyw.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "189.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/vnla-freestyle-anniversary-boot/"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "vnla-freestyle-boot-black-and-white",
+    "productName": "VNLA Freestyle , Black and White",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468156/ldjsonbuild/kr9fakx3i3f9hx8sktkm.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "179.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/vnla-freestyle-boot-black-and-white/"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "vnla-luna-boots-only",
+    "productName": "VNLA Luna Only",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468140/ldjsonbuild/oekgagasdlcdpp1fb3lu.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "149.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/vnla-luna-boots-only/"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "wifa-street-suede-boots-turquoise",
+    "productName": "WIFA Street Suede Turquoise",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370838/metacrawler/kbmh0dcvzybs4ecyinaw.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "269.95",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/WIFA_Street_Suede_Boots/descpage-WIFASSB.html"
+      }
+    ],
+    "productTags": []
+  }
+]

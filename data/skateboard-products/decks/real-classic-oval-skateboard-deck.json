@@ -1,0 +1,27 @@
+{
+  "productName": "Real Classic Oval Deck",
+  "productBrand": "Real Skateboards",
+  "productType": "Retro Skate",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461424/zumiezbuild/vmzbbphulp2ais1gxub0.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/real-classic-oval-8-5-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "74.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/real-classic-oval-8-5-skateboard-deck.html"
+    },
+    {
+      "tactics": "72.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/real/team-classic-oval-85-skateboard-deck"
+    },
+    {
+      "spot": "70.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/real-classic-oval-deck-86673?variant=48245858730257"
+    }
+  ]
+}

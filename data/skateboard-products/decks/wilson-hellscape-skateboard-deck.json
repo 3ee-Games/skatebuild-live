@@ -1,0 +1,22 @@
+{
+  "productName": "Wilson Hellscape Deck",
+  "productBrand": "Heroin",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401461/ldjsonbuild/heoh3d9is8qb04nnbrtt.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/heroin/wilson-hellscape-85-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "73.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/heroin/wilson-hellscape-85-skateboard-deck"
+    },
+    {
+      "spot": "79.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/heroin-skateboards-aaron-wilson-hellscape-deck?variant=50718141841681"
+    }
+  ]
+}

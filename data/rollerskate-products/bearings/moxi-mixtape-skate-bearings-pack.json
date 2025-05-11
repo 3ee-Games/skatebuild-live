@@ -1,0 +1,27 @@
+{
+  "productName": "Moxi Mixtape Skate Bearings 8mm, 16-Pack",
+  "productBrand": "Moxi",
+  "productType": "moxi mixtape bearings 8mm 16 pack",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468048/ldjsonbuild/eccbynkdphnilhamjy1t.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569734,
+  "productVendorUrl": "https://medusaskates.com/moxi-mixtape-bearings-8mm-16-pack/",
+  "productPrices": [
+    {
+      "medusaskates": "34.99",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/moxi-mixtape-bearings-8mm-16-pack/"
+    },
+    {
+      "moxi": "35.0",
+      "url": "https://www.moxiskates.com",
+      "productVendorUrl": "https://www.moxiskates.com/collections/bearings/products/mixtape-bearings"
+    },
+    {
+      "derbywarehouse": "35.00",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Moxi_Mixtape/descpage-MIXTAPE.html"
+    }
+  ]
+}

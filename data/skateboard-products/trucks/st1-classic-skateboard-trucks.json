@@ -1,0 +1,17 @@
+{
+  "productName": "ST1 Classic Trucks",
+  "productBrand": "Slappy",
+  "productType": "Trucks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393266/ldjsonbuild/m0qnvveno8zuu5zaouwr.webp",
+  "imageWidth": 263,
+  "imageHeight": 144,
+  "updated": 1746544886,
+  "productVendorUrl": "https://www.tactics.com/slappy/st1-classic-skateboard-trucks/polished-85",
+  "productPrices": [
+    {
+      "tactics": "51.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/slappy/st1-classic-skateboard-trucks/polished-85"
+    }
+  ]
+}

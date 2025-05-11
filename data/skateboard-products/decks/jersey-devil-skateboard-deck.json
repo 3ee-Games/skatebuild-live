@@ -1,0 +1,22 @@
+{
+  "productName": "Jersey Devil Deck",
+  "productBrand": "Metal",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395836/ldjsonbuild/bqft37hyn0kzett0tmlc.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/metal-skateboards/jersey-devil-86-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "67.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/metal-skateboards/jersey-devil-86-skateboard-deck"
+    },
+    {
+      "spot": "70.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-jersey-devil-deck?variant=51397908398353"
+    }
+  ]
+}

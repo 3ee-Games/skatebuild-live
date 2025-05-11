@@ -1,0 +1,22 @@
+{
+  "productName": "Thunder Nora Campus Pro Purple & Silver 147 Truck",
+  "productBrand": "Thunder Trucks",
+  "productType": "Trucks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462493/zumiezbuild/fguxf03xfaggr88csyac.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544886,
+  "productVendorUrl": "/thunder-nora-campus-pro-purple-and-silver-147-skateboard-truck.html",
+  "productPrices": [
+    {
+      "zumiez": "28.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/thunder-nora-campus-pro-purple-and-silver-147-skateboard-truck.html"
+    },
+    {
+      "spot": "28.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/thunder-nora-vasconcellos-campus-pro-truck?variant=50965264859409"
+    }
+  ]
+}

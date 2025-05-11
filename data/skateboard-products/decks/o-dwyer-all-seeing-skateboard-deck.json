@@ -1,0 +1,17 @@
+{
+  "productName": "ODwyer All Seeing Deck",
+  "productBrand": "Deathwish",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400328/ldjsonbuild/hqprrrimndokxknokehz.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/deathwish/odwyer-all-seeing-85-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "78.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/deathwish/odwyer-all-seeing-85-skateboard-deck"
+    }
+  ]
+}

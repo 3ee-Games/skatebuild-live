@@ -1,0 +1,17 @@
+{
+  "productName": "Hopps Pops Deck",
+  "productBrand": "Hopps",
+  "productType": "products",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414332/ldjsonbuild/ygfq24n2ioofspppg35b.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544882,
+  "productVendorUrl": "https://skateparkoftampa.com/products/hopps-pops-deck?variant=51453403005201",
+  "productPrices": [
+    {
+      "spot": "75.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/hopps-pops-deck?variant=51453403005201"
+    }
+  ]
+}

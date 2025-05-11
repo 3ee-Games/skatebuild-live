@@ -1,0 +1,17 @@
+{
+  "productName": "Platinum Bearings",
+  "productBrand": "Sector 9",
+  "productType": "Bearings",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746391766/ldjsonbuild/q6huvvrk4dxfie2gvwff.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544876,
+  "productVendorUrl": "https://www.tactics.com/sector-9/platinum-skateboard-bearings",
+  "productPrices": [
+    {
+      "tactics": "29.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/sector-9/platinum-skateboard-bearings"
+    }
+  ]
+}

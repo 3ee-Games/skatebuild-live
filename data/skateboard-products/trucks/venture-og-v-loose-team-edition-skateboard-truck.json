@@ -1,0 +1,22 @@
+{
+  "productName": "Venture OG V Loose Team Edition Truck",
+  "productBrand": "Venture",
+  "productType": "Trucks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462495/zumiezbuild/nvruj84jisqkwdbs3j8b.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544886,
+  "productVendorUrl": "/venture-og-v-loose-team-edition-5-8-skateboard-truck.html",
+  "productPrices": [
+    {
+      "zumiez": "26.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/venture-og-v-loose-team-edition-5-8-skateboard-truck.html"
+    },
+    {
+      "spot": "24.95",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/venture-awake-team-edition-truck-94664?variant=48246938108177"
+    }
+  ]
+}

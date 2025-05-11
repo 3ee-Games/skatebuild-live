@@ -1,0 +1,757 @@
+[
+  {
+    "slug": "andrew-allen-graphic-skateboard-grip-tape",
+    "productName": "Andrew Allen Graphic Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746404189/ldjsonbuild/i7mbhvgsnxxe7fgjbk8k.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "11.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/pepper/andrew-allen-graphic-skateboard-grip-tape"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "andy-anderson-theory-map-graphic-skateboard-grip-tape",
+    "productName": "Andy Anderson Theory Map Graphic Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392497/ldjsonbuild/satpelajhgw68zsok16k.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "14.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/powell-peralta/andy-anderson-theory-map-graphic-skateboard-grip-tape"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "andy-roy-web-skateboard-grip-tape",
+    "productName": "Andy Roy Web Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392664/ldjsonbuild/pd7wvcs64dhjgop6ygms.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "14.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/hard-luck/andy-roy-web-skateboard-grip-tape/clear-black"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "art-project-heart-of-forest-grip-tape",
+    "productName": "Art Project Heart Of Forest Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462340/zumiezbuild/rddzewzlnoakmxrljpc.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "9.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/art-project-heart-of-forest-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "art-project-x-biigfoot-meditation-grip-tape",
+    "productName": "Art Project x BiIGFOOT Meditation Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462315/zumiezbuild/cjszrqjdgpnpesxekb2s.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "4.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/art-project-x-biigfoot-meditation-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "bapholit-graphic-skateboard-grip-tape",
+    "productName": "Bapholit Graphic Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392548/ldjsonbuild/qdz3mxtdfnaccvvu6fl8.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "13.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/welcome/bapholit-graphic-skateboard-grip-tape/black"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "bighead-glitter-graphic-skateboard-grip-tape",
+    "productName": "Bighead Glitter Graphic Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392566/ldjsonbuild/n3gx0qmq9kcrsyhh60ih.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "11.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/spitfire/bighead-glitter-graphic-skateboard-grip-tape"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "bighopps-cut-out-skateboard-grip-tape",
+    "productName": "BIGHOPPS Cut-Out Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392736/ldjsonbuild/lwd3wynl5wts1yl1ihtu.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "11.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/hopps-skateboards/bighopps-cut-out-skateboard-grip-tape"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "blackout-koi-grip-tape",
+    "productName": "Blackout Koi Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462217/zumiezbuild/khmzb2x3f8d2ymuqxdgn.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "11.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/blackout-koi-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "bro-style-black-grip-tape",
+    "productName": "Bro Style Black Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462268/zumiezbuild/ytqthfcxetkbjlr2ctbx.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "5.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/bro-style-black-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "bro-style-thumb-grip-tape",
+    "productName": "Bro Style Thumb Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462257/zumiezbuild/r4ulfexkney6rlysam64.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "7.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/bro-style-thumb-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "bury-the-hatchet-graphic-skateboard-grip-tape",
+    "productName": "Bury The Hatchet Graphic Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392530/ldjsonbuild/jdngv4rdgjoqulzpnqwk.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "13.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/toy-machine/bury-the-hatchet-graphic-skateboard-grip-tape"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "choice-skateboard-grip-tape",
+    "productName": "Choice Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392627/ldjsonbuild/cr1lhvmno2aov1xahrb4.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "4.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/bro-style/choice-skateboard-grip-tape"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "classic-griptape-classic-die-cut-griptape",
+    "productName": "Classic Griptape Classic Die-Cut Griptape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416299/ldjsonbuild/jfn1jmg6dgfmacyna4ch.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "10.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/classic-griptape-classic-die-cut-griptape-95564?variant=49244082831633"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "clear-bear-cut-out-perforated-skateboard-grip-tape",
+    "productName": "Clear Bear Cut-Out Perforated Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746404156/ldjsonbuild/nmklxsrmnam6otpl0hgq.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "8.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/grizzly/clear-bear-cut-out-perforated-skateboard-grip-tape/clear"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "clear-logo-graphic-skateboard-grip-tape",
+    "productName": "Clear Logo Graphic Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746404138/ldjsonbuild/ck8gbp4hhc4lvdvravbz.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "9.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/almost/clear-logo-graphic-skateboard-grip-tape/black"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "clear-perforated-skateboard-grip-tape",
+    "productName": "Clear Perforated Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392615/ldjsonbuild/o8694xfaycu9tgajd6vj.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "7.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/mob-grip/clear-perforated-skateboard-grip-tape/clear"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "clear-stamp-perforated-skateboard-grip-tape",
+    "productName": "Clear Stamp Perforated Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746404281/ldjsonbuild/mapobrj5r8saynckgnbs.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "12.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/grizzly/clear-stamp-perforated-skateboard-grip-tape/clear"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "colored-skateboard-grip-tape",
+    "productName": "Colored Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392560/ldjsonbuild/aknxpjdhlxbt3en7iumh.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "7.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/jessup/colored-skateboard-grip-tape/panic-red"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dgk-blessed-trip-grip-tape",
+    "productName": "DGK Blessed Trip Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462345/zumiezbuild/i8i43dftzlaaht2bozv4.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "7.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/dgk-blessed-trip-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dgk-fire-blossom-grip-tape",
+    "productName": "DGK Fire Blossom Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462196/zumiezbuild/zam5a1eo6if0yfd3zpws.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "12.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/dgk-fire-blossom-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dgk-glow-gooms-grip-tape",
+    "productName": "DGK Glow Gooms Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462219/zumiezbuild/izzhsqrvowgzocejl1he.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "17.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/dgk-glow-gooms-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dgk-glow-up-grip-glow-in-the-dark-grip-tape",
+    "productName": "DGK Glow Up Grip Glow In The Dark Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462311/zumiezbuild/etu4zaxzpwvvyr28xul2.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "17.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/dgk-glow-up-grip-glow-in-the-dark-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dgk-gooms-grip-tape",
+    "productName": "DGK Gooms Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462200/zumiezbuild/w1opyi66c8mdlxzbz6hy.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "12.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/dgk-gooms-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dgk-grand-grip-tape",
+    "productName": "DGK Grand Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462302/zumiezbuild/norrvxxqbrjjb09hruua.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "9.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/dgk-grand-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dgk-nightmare-grip-tape",
+    "productName": "DGK Nightmare Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462321/zumiezbuild/fdnzzmyhgugfob8qb0d8.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "13.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/dgk-nightmare-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dgk-rosary-grip-tape",
+    "productName": "DGK Rosary Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462336/zumiezbuild/nlff7fog4ukjhyihdfjb.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "9.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/dgk-rosary-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dgk-x-afro-samurai-grip-tape",
+    "productName": "DGK x Afro Samurai Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462361/zumiezbuild/sihfjojo6cquvt4fnuxt.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "14.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/dgk-x-afro-samurai-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "downhill-heavy-grit-skateboard-grip-tape",
+    "productName": "Downhill Heavy Grit Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392754/ldjsonbuild/arecq1bjotkk75hzvgec.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "6.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/jessup/downhill-heavy-grit-skateboard-grip-tape/black"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "eat-shit-clear-graphic-skateboard-grip-tape",
+    "productName": "Eat Shit 2 Clear Graphic Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746404222/ldjsonbuild/oh77ior8ejklszwgsjuz.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "14.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/hard-luck/eat-shit-2-clear-graphic-skateboard-grip-tape/black-clear"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "frog-flower-sand-grip-tape",
+    "productName": "Frog Flower Sand Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462312/zumiezbuild/dlubowqgzbr3efh8liop.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "7.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/frog-flower-sand-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "frog-secret-penguin-black-grip-tape",
+    "productName": "Frog Secret Penguin Black Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462334/zumiezbuild/tsv2pzsfr3uywbed5slw.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "9.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/frog-secret-penguin-black-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "frog-skateboards-black-grip-tape",
+    "productName": "Frog Black Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462328/zumiezbuild/sqyv0f58bygbjnlc77ug.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "9.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/frog-skateboards-black-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "frog-skateboards-dark-olive-grip-tape",
+    "productName": "Frog Dark Olive Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462297/zumiezbuild/ssojnmq9vnfgbcfd9ol0.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "7.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/frog-skateboards-dark-olive-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "frog-skater-dark-red-grip-tape",
+    "productName": "Frog Skater Dark Red Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462271/zumiezbuild/es0zwxjogxczubhbgwbf.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "9.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/frog-skater-dark-red-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "g5-skateboard-grip-tape",
+    "productName": "G5 Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392760/ldjsonbuild/dhg6amboeax81aifzwss.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "6.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/pepper/g5-skateboard-grip-tape"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "goodwood-checkered-black-white-grip-tape",
+    "productName": "Goodwood Checkered Black & White Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462233/zumiezbuild/cig6j4apueanhyp04qjn.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "11.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/goodwood-checkered-black-white-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "grizzly-already-dead-grip-tape",
+    "productName": "Grizzly Already Dead Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462246/zumiezbuild/u25vcx22hocvq1gr3h4b.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "12.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/grizzly-already-dead-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "grizzly-blank-grip-tape",
+    "productName": "Grizzly Blank Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462194/zumiezbuild/o1dlxvsrd7qjgbga6vau.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "5.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/grizzly-blank-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "grizzly-burn-out-stamp-red-griptape",
+    "productName": "Grizzly Burn Out Stamp Red Griptape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416334/ldjsonbuild/j4z2ckwqtbb9hhefe3bc.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "14.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/grizzly-burn-out-stamp-red-griptape?variant=50954064789777"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "grizzly-fahrenheit-red-flame-grip-tape",
+    "productName": "Grizzly Fahrenheit Red Flame Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462231/zumiezbuild/g85zh3mpouenrr31kx8o.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "12.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/grizzly-fahrenheit-red-flame-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "grizzly-fire-starter-grip-tape",
+    "productName": "Grizzly Fire Starter Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462273/zumiezbuild/hraydsxk7spvgj6xlypr.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "7.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/grizzly-fire-starter-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "grizzly-float-on-grip-tape",
+    "productName": "Grizzly Float On Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462244/zumiezbuild/kwrcms9mmrt8qjkfc37h.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "12.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/grizzly-float-on-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "grizzly-grizzly-x-spot-city-star-bear-griptape",
+    "productName": "Grizzly Grizzly x SPoT City Star Bear Griptape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416185/ldjsonbuild/ucyuxfq6w36313jdnty2.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "13.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/grizzly-grizzly-x-spot-city-star-bear-griptape-95353?variant=48247011279121"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "grizzly-grizzly-x-spot-tampa-stamp-griptape",
+    "productName": "Grizzly Grizzly x SPoT Tampa Stamp Griptape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416211/ldjsonbuild/ntgy2rmtt6hraekzmqlr.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "13.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/grizzly-grizzly-x-spot-tampa-stamp-griptape-95352?variant=48247012098321"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "grizzly-in-my-feelings-griptape",
+    "productName": "Grizzly In My Feelings Griptape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416240/ldjsonbuild/tmyxus1u9bceb0zjst6e.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "10.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/grizzly-in-my-feelings-griptape-96135?variant=49244151021841"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "grizzly-leticia-bufoni-camo-griptape",
+    "productName": "Grizzly Leticia Bufoni Camo Griptape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416201/ldjsonbuild/a6hmekvhygxtcwrpzdnr.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "14.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/grizzly-leticia-bufoni-camo-griptape-90934?variant=48246463627537"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "grizzly-og-bear-cut-out-grip-tape",
+    "productName": "Grizzly OG Bear Cut Out Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462204/zumiezbuild/ookjp6aubhelrt10aemd.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "7.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/grizzly-og-bear-cut-out-grip-tape.html"
+      },
+      {
+        "spot": "8.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/grizzly-bear-cut-out-griptape-53697?variant=48243461128465"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "grizzly-por-vida-grip-tape",
+    "productName": "Grizzly Por Vida Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462238/zumiezbuild/xqwjxgewywpxavy90zw0.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "9.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/grizzly-por-vida-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "grizzly-x-smiley-meltdown-black-grip-tape",
+    "productName": "Grizzly x Smiley Meltdown Black Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462332/zumiezbuild/euciooerkqqfl2fpd6tz.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "9.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/grizzly-x-smiley-meltdown-black-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  }
+]

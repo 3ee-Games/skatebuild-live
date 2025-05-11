@@ -1,0 +1,27 @@
+{
+  "productName": "Santa Cruz Asta Space Cat VX Deck",
+  "productBrand": "Santa Cruz Skate",
+  "productType": "Skate Gift Ideas",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460806/zumiezbuild/eziflkfh9qcdugujbsi0.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/santa-cruz-8-25-asta-space-cat-vx-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "96.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/santa-cruz-8-25-asta-space-cat-vx-skateboard-deck.html"
+    },
+    {
+      "tactics": "71.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/santa-cruz/asta-cosmic-cat-80-skateboard-deck"
+    },
+    {
+      "spot": "73.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-tom-asta-cosmic-cat-deck?variant=50616944230673"
+    }
+  ]
+}

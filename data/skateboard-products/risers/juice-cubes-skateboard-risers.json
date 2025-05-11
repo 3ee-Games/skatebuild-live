@@ -1,0 +1,17 @@
+{
+  "productName": "Juice Cubes Risers",
+  "productBrand": "OJ",
+  "productType": "Risers",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392929/ldjsonbuild/uilktwlj7cgtyf093ibd.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544885,
+  "productVendorUrl": "https://www.tactics.com/oj/juice-cubes-skateboard-risers/orange",
+  "productPrices": [
+    {
+      "tactics": "6.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/oj/juice-cubes-skateboard-risers/orange"
+    }
+  ]
+}

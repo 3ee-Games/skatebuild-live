@@ -1,0 +1,17 @@
+{
+  "productName": "Milic Tree Trunk Deck",
+  "productBrand": "Frog",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397183/ldjsonbuild/ehs7yrv6p4r9yn40saum.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/frog/milic-tree-trunk-838-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "71.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/frog/milic-tree-trunk-838-skateboard-deck"
+    }
+  ]
+}

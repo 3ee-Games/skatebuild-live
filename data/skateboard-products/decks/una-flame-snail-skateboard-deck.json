@@ -1,0 +1,17 @@
+{
+  "productName": "Una Flame Snail Deck",
+  "productBrand": "Krooked",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397043/ldjsonbuild/surwxtm1vn9ttsr2yyhh.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/krooked/una-flame-snail-825-skateboard-deck/navy",
+  "productPrices": [
+    {
+      "tactics": "73.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/krooked/una-flame-snail-825-skateboard-deck/navy"
+    }
+  ]
+}

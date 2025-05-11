@@ -1,0 +1,22 @@
+{
+  "productName": "Girl Davis The Suzuki Method Deck",
+  "productBrand": "Girl",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460898/zumiezbuild/d7u1n7plsbnld41qayge.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/girl-davis-the-suzuki-method-8-125-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "64.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/girl-davis-the-suzuki-method-8-125-skateboard-deck.html"
+    },
+    {
+      "tactics": "58.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/girl/geering-suzuki-method-85-skateboard-deck"
+    }
+  ]
+}

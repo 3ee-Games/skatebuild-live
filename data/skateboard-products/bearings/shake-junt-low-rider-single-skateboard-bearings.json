@@ -1,0 +1,22 @@
+{
+  "productName": "Shake Junt Low Rider Single Bearings",
+  "productBrand": "Shake Junt",
+  "productType": "Skateboard Parts",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460520/zumiezbuild/sqhtwyayxgzicgdg1tni.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544876,
+  "productVendorUrl": "/shake-junt-low-rider-single-skateboard-bearings.html",
+  "productPrices": [
+    {
+      "zumiez": "11.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/shake-junt-low-rider-single-skateboard-bearings.html"
+    },
+    {
+      "tactics": "12.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/shake-junt/low-rider-skateboard-bearings"
+    }
+  ]
+}

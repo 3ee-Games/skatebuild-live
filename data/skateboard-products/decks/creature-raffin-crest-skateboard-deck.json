@@ -1,0 +1,22 @@
+{
+  "productName": "Creature Raffin Crest Deck",
+  "productBrand": "Creature",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460940/zumiezbuild/gkmq30kngxle26e1scpt.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/creature-raffin-crest-8-8-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "54.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/creature-raffin-crest-8-8-skateboard-deck.html"
+    },
+    {
+      "tactics": "64.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/creature/lockwood-crest-825-skateboard-deck"
+    }
+  ]
+}

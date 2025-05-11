@@ -1,0 +1,22 @@
+{
+  "productName": "Creature Logo Outline Stumps Deck",
+  "productBrand": "Creature",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461572/zumiezbuild/jpmnemrr2oypexcoqmot.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/creature-logo-outline-stumps-8-0-skateboard-deck-1.html",
+  "productPrices": [
+    {
+      "zumiez": "67.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/creature-logo-outline-stumps-8-0-skateboard-deck-1.html"
+    },
+    {
+      "tactics": "65.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/creature/logo-outline-stumps-88-skateboard-deck"
+    }
+  ]
+}

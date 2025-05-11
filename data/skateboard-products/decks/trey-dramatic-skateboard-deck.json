@@ -1,0 +1,17 @@
+{
+  "productName": "Trey Dramatic Deck",
+  "productBrand": "Opera",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399198/ldjsonbuild/rce9wuut1jflt2adoc6l.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/opera/trey-dramatic-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "64.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/opera/trey-dramatic-825-skateboard-deck"
+    }
+  ]
+}

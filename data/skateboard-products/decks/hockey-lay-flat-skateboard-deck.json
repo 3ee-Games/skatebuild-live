@@ -1,0 +1,17 @@
+{
+  "productName": "Hockey Lay Flat Deck",
+  "productBrand": "Hockey",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461850/zumiezbuild/wt0cz3fwxhyvsb95ifql.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/hockey-lay-flat-8-75-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "81.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/hockey-lay-flat-8-75-skateboard-deck.html"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Apache YSNL Deck",
+  "productBrand": "Apache",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461616/zumiezbuild/glinqqjqnsuvogqgy9rw.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/apache-ysnl-8-0-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "64.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/apache-ysnl-8-0-skateboard-deck.html"
+    }
+  ]
+}

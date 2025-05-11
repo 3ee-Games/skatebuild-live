@@ -1,0 +1,17 @@
+{
+  "productName": "Titanium Bearings",
+  "productBrand": "Modus",
+  "productType": "Bearings",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746391725/ldjsonbuild/supf8issrphanavdicwu.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544876,
+  "productVendorUrl": "https://www.tactics.com/modus-bearings/titanium-skateboard-bearings/white",
+  "productPrices": [
+    {
+      "tactics": "29.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/modus-bearings/titanium-skateboard-bearings/white"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "productName": "Ace Deedz Hollow 55 AF1 Black Truck",
+  "productBrand": "Ace Trucks",
+  "productType": "Skateboard Parts",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462423/zumiezbuild/qyxvsusaepmdymzradtb.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544886,
+  "productVendorUrl": "/ace-deedz-hollow-55-af1-black-skateboard-truck.html",
+  "productPrices": [
+    {
+      "zumiez": "36.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/ace-deedz-hollow-55-af1-black-skateboard-truck.html"
+    },
+    {
+      "spot": "37.95",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/ace-trucks-spanky-limited-af1-hollowed-truck?variant=50191988097297"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Mischief Deck",
+  "productBrand": "Space Program",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397832/ldjsonbuild/e9xwyhndind6szhavcqp.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/space-program/mischief-825-skateboard-deck/blue",
+  "productPrices": [
+    {
+      "tactics": "58.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/space-program/mischief-825-skateboard-deck/blue"
+    }
+  ]
+}

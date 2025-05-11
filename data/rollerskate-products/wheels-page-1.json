@@ -1,0 +1,1031 @@
+[
+  {
+    "slug": "aerobic",
+    "productName": "Aerobic",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375230/ldjsonbuild/roq8icburf5ayuodtjac.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "suregrip": "49.0",
+        "url": "https://www.suregrip.com",
+        "productVendorUrl": "https://www.suregrip.com/products/aerobic"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "85a"
+      }
+    ]
+  },
+  {
+    "slug": "all-american-dream-fo-mac",
+    "productName": "All American Dream / Fo-Mac",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375396/ldjsonbuild/vxta8shtn1zrtvy4zxog.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "suregrip": "155.0",
+        "url": "https://www.suregrip.com",
+        "productVendorUrl": "https://www.suregrip.com/products/all-american-dream"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "101a"
+      }
+    ]
+  },
+  {
+    "slug": "all-american-dream-wheels-pack",
+    "productName": "All American Dream Wheels 57mm, 8-Pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468998/ldjsonbuild/mnlayyg8xh0l3thviyrp.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "154.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/all-american-dream-wheels-57mm-8-pack/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "92a"
+      }
+    ]
+  },
+  {
+    "slug": "all-american-gold-wheels-pack",
+    "productName": "All American Gold Wheels 59mm, 8-Pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746469066/ldjsonbuild/aitjsfdyq1nxqga8irvs.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "124.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/all-american-gold-wheels-59mm-8-pack/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99a"
+      }
+    ]
+  },
+  {
+    "slug": "all-american-plus-fo-mac",
+    "productName": "All American Plus / Fo-Mac",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375320/ldjsonbuild/nxvbnd02h5khru6pptar.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "suregrip": "125.0",
+        "url": "https://www.suregrip.com",
+        "productVendorUrl": "https://www.suregrip.com/products/all-american-plus"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "82a"
+      }
+    ]
+  },
+  {
+    "slug": "atom-alloy-wheels-pack",
+    "productName": "Atom Alloy 13 Wheels 92A, 62mm, 4-Pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468828/ldjsonbuild/hyguabxdehw2c8bh6ddr.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "67.5",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/atom-alloy-13-wheels-92a-62mm-4-pack/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "92a"
+      }
+    ]
+  },
+  {
+    "slug": "atom-electron-park-wheels-59x37mm",
+    "productName": "Atom Electron Park Wheels 101A 59x37mm 4pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746371002/metacrawler/y7fkwcwq463bslag5vqv.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "24.97",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Atom_Electron/descpage-AELCPW.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "101a"
+      }
+    ]
+  },
+  {
+    "slug": "atom-poison-hybrid-derby-wheels",
+    "productName": "Atom Poison Hybrid Derby Wheels 84A, 62mm",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746469144/ldjsonbuild/sowdycfcgpagozjsy0hj.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "42",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/atom-poison-hybrid-derby-wheels/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "84a"
+      }
+    ]
+  },
+  {
+    "slug": "atom-pulse-wheels-red",
+    "productName": "Atom Pulse Wheels Red 65mm 78A 4pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746372899/metacrawler/fv1y7bbisytbatbia77f.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "35.00",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Atom_Pulse_Wheels/descpage-PULSE.html"
+      },
+      {
+        "medusaskates": "34.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/atom-pulse-outdoor-wheels/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "78a"
+      }
+    ]
+  },
+  {
+    "slug": "atom-savant-wheels-pack",
+    "productName": "Atom Savant Wheels 59mm, 4-Pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746469184/ldjsonbuild/akolhigby7dd88rc3ram.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "49.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/atom-savant-wheels/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "97a"
+      }
+    ]
+  },
+  {
+    "slug": "atom-tone-indoor-dance-wheels-pack",
+    "productName": "Atom Tone Indoor Dance Wheels 97A, 57mm, 4-Pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468917/ldjsonbuild/wyfftr4lvu6xjcyjt9td.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "49.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/atom-tone-indoor-dance-wheels-97a-57mm-4-pack/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "97a"
+      }
+    ]
+  },
+  {
+    "slug": "atom-tone-wheels-white-57x32mm",
+    "productName": "Atom Tone Wheels 97A - White 57x32mm 4pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746372728/metacrawler/ff4z75lzuyrte7rnuirw.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "40.00",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Atom_Tone_Wheels/descpage-QWA6300.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "97a"
+      }
+    ]
+  },
+  {
+    "slug": "backspin-eclipse-wheels-pack",
+    "productName": "Backspin Eclipse Wheels 8-Pack, 95A, 62mm",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468863/ldjsonbuild/t5wlenxitvfd4avvne9w.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "119.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/backspin-eclipse-wheels-8-pack-95a-62mm/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "95a"
+      }
+    ]
+  },
+  {
+    "slug": "balance",
+    "productName": "Balance",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375243/ldjsonbuild/pqldzfdhy1de4bziq14m.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "suregrip": "59.0",
+        "url": "https://www.suregrip.com",
+        "productVendorUrl": "https://www.suregrip.com/products/balance"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "95a"
+      }
+    ]
+  },
+  {
+    "slug": "ballistic-roller-skate-wheels",
+    "productName": "Ballistic Roller Skate Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746365372/ldjsonbuild/b8dl3fkvrkantkqimnf4.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "bont": "",
+        "url": "https://bont.com",
+        "productVendorUrl": "https://bont.com/collections/roller-skate-wheels/products/ballistic-roller-skate-wheels"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "92a"
+      }
+    ]
+  },
+  {
+    "slug": "black-girls-skate-x-last-supper-holythane-classics",
+    "productName": "Black Girls Skate X Last Supper Holythane Classics 53mm/101a",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746230120/ldjsonbuild/rmkm9sd9jeyzaczzffkh.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "moxi": "80.0",
+        "url": "https://www.moxiskates.com",
+        "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/black-girls-skate-x-last-supper-holythane-classics-53mm-101a"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "101a"
+      }
+    ]
+  },
+  {
+    "slug": "boardwalk-limited-edition",
+    "productName": "Boardwalk 65mm Limited Edition",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375256/ldjsonbuild/uj9ianl5noyfbbkvmogn.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "suregrip": "65.0",
+        "url": "https://www.suregrip.com",
+        "productVendorUrl": "https://www.suregrip.com/products/boardwalk-limited-edition"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "78a"
+      }
+    ]
+  },
+  {
+    "slug": "boardwalk-outdoor-wheel",
+    "productName": "Boardwalk 57mm Outdoor Wheel",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375198/ldjsonbuild/e5cluzaiweh3kcrsw4ha.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "suregrip": "30.0",
+        "url": "https://www.suregrip.com",
+        "productVendorUrl": "https://www.suregrip.com/products/boardwalk-57mm-outdoor-wheel"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "82a"
+      }
+    ]
+  },
+  {
+    "slug": "boardwalk",
+    "productName": "Boardwalk 65mm",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375250/ldjsonbuild/tg06nxrlljm26wqi70q7.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "suregrip": "65.0",
+        "url": "https://www.suregrip.com",
+        "productVendorUrl": "https://www.suregrip.com/products/boardwalk"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "78a"
+      }
+    ]
+  },
+  {
+    "slug": "bont-ballistic-wheels-pack",
+    "productName": "Bont Ballistic Wheels 92A, 60mm, 8-Pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746469009/ldjsonbuild/sdjk093ldeism92yrhmv.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "59.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/bont-ballistic-wheels-92a-60mm-8-pack/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "92a"
+      }
+    ]
+  },
+  {
+    "slug": "bont-bpm-wheels-pink-62x35mm",
+    "productName": "Bont BPM Wheels Pink 62x35mm 78A 4pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746372910/metacrawler/d0zhjgkhiiodm92brh2b.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "29.95",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Bont_BPM/descpage-BDBPM.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "78a"
+      }
+    ]
+  },
+  {
+    "slug": "bont-full-flight-wheels-red",
+    "productName": "Bont Full Flight Wheels Red 101A 53mm 4pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746371007/metacrawler/jotl9rwacf2xxg1hnnkm.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "36.00",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Bont_Full_Flight_Wheels/descpage-BFFPW.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "101a"
+      }
+    ]
+  },
+  {
+    "slug": "bont-glide-outdoor-wheels-pack",
+    "productName": "Bont Glide Outdoor Wheels 78A, 57mm, 4-Pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468962/ldjsonbuild/wi7cqon0oglzltqfjelt.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "29.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/bont-glide-outdoor-wheels-78a-57mm/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "78a"
+      }
+    ]
+  },
+  {
+    "slug": "bont-glide-wheels-white-purple-57x35mm",
+    "productName": "Bont Glide Wheels White/Purple 78A 57x35mm 4pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746372915/metacrawler/ht4muf3ch5cl6btrq0o1.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "32.95",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Bont_Glide_Wheels/descpage-BDGLW.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "78a"
+      }
+    ]
+  },
+  {
+    "slug": "bont-glow-jam-led-wheels-obsidian-black",
+    "productName": "Bont Glow Jam LED Wheels Obsidian Black 58mm 4pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746372739/metacrawler/olvxjhicckw4izovli5s.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "45.00",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Bont_Glow_Jam/descpage-BGJLQW.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "101a"
+      }
+    ]
+  },
+  {
+    "slug": "bont-glow-led-wheels-tickle-blue",
+    "productName": "Bont Glow LED Wheels Tickle Blue 62mm 4pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746372921/metacrawler/fvm9nzbbzdjemhu2topl.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "36.00",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Bont_Glow_LED_Wheels/descpage-BGLQW.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "83a"
+      }
+    ]
+  },
+  {
+    "slug": "bont-glow-light-up-led-indoor-roller-skate-wheels-pack",
+    "productName": "Bont GLOW Light Up LED Indoor Roller Skate Wheels 101A, 58mm, 8-Pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468934/ldjsonbuild/ndolc7wnc39yawft4eez.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "85.8",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/bont-glow-light-up-led-indoor-roller-skate-wheels-101a-58mm-8-pack/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "101a"
+      }
+    ]
+  },
+  {
+    "slug": "bont-glow-light-up-led-roller-skate-wheels-pack",
+    "productName": "Bont GLOW Light Up LED Roller Skate Wheels 83A, 62mm, 4-Pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746469121/ldjsonbuild/dhsdegixgj7sgtxixyjd.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "42.9",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/bont-glow-light-up-led-roller-skate-wheels-83a-62mm-4-pack/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "83a"
+      }
+    ]
+  },
+  {
+    "slug": "bont-nio-roller-skate-wheels",
+    "productName": "Bont Nio 3 Roller Skate Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746365310/ldjsonbuild/vyj8eunrkdepw7kih79h.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "bont": "349.0",
+        "url": "https://bont.com",
+        "productVendorUrl": "https://bont.com/collections/roller-skate-wheels/products/bont-nio-3-roller-skate-wheels"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "92a"
+      }
+    ]
+  },
+  {
+    "slug": "bont-royal-assassin-roller-skate-wheels",
+    "productName": "Bont Royal Assassin Roller Skate Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746365304/ldjsonbuild/t0qurssv4l69q3yaakt6.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "bont": "349.0",
+        "url": "https://bont.com",
+        "productVendorUrl": "https://bont.com/collections/roller-skate-wheels/products/royal-assassin-roller-skate-wheels"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "92a"
+      }
+    ]
+  },
+  {
+    "slug": "bpm-roller-skate-outdoor-wheels",
+    "productName": "BPM 78A Roller Skate Outdoor Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746365358/ldjsonbuild/tvwqz3orz7xzmjzlsdig.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "bont": "69.9",
+        "url": "https://bont.com",
+        "productVendorUrl": "https://bont.com/collections/roller-skate-wheels/products/bpm-roller-skate-outdoor-wheels"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "78a"
+      }
+    ]
+  },
+  {
+    "slug": "brunny-gero-gero-wheels",
+    "productName": "Brunny Gero Gero Wheels 98A 58mm 8pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746371018/metacrawler/eeyg5ep2fqjgrhh1sluf.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "120.00",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Brunny_Gero_Gero_Wheels/descpage-BRGGW.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "98a"
+      }
+    ]
+  },
+  {
+    "slug": "cannibal",
+    "productName": "Cannibal",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375376/ldjsonbuild/hhgyieidfe77gnaumycp.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "suregrip": "149.0",
+        "url": "https://www.suregrip.com",
+        "productVendorUrl": "https://www.suregrip.com/products/cannibal"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99a"
+      }
+    ]
+  },
+  {
+    "slug": "chaya-big-softies-wheels-clear-red",
+    "productName": "Chaya Big Softies Wheels Clear Red 4pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746372937/metacrawler/u4xaqbxgwx25edspjeub.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "29.95",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Chaya_Big_Softies/descpage-810687.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "78a"
+      }
+    ]
+  },
+  {
+    "slug": "chaya-drama-mama-pro-wheels-58x32mm",
+    "productName": "Chaya Drama Mama Pro Wheels 58x32mm 100A 4pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746371024/metacrawler/tx2oqdmmc1chnjplqdam.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "39.95",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Chaya_Drama_Mama_Pro/descpage-810751.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "100a"
+      }
+    ]
+  },
+  {
+    "slug": "chaya-neon-led-wheels-white",
+    "productName": "Chaya Neon LED Wheels White 65mm 78A 4pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746372926/metacrawler/p0u4ethfoxqypiqu28bl.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "29.95",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Chaya_Neon_Quad/descpage-810703.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "78a"
+      }
+    ]
+  },
+  {
+    "slug": "cherries-boot-skoot-skate-park-wheels-pack",
+    "productName": "Cherries Skoot Skate Park Wheels 99A, 55mm, 4-Pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468834/ldjsonbuild/fqrhwbsuhqzqu1f2eaxr.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "41.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/cherries-boot-skoot-skate-park-wheels-99a-55mm-4-pack/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99a"
+      }
+    ]
+  },
+  {
+    "slug": "cherries-curb-devils-skate-park-wheels-pack",
+    "productName": "Cherries Curb Devils Skate Park Wheels 99A, 101A, 4-Pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468892/ldjsonbuild/ppi9noxjkqoatplb4qim.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "42",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/cherries-curb-devils-skate-park-wheels-99a-101a-4-pack/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "101a"
+      }
+    ]
+  },
+  {
+    "slug": "cherries-spiders-black-skate-park-wheels-or-pack",
+    "productName": "Cherries Spiders Black Skate Park Wheels 99A, 57mm or 54mm, 4-Pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468857/ldjsonbuild/i43cdjcfke8ewzfgapge.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "42",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/cherries-spiders-black-skate-park-wheels-99a-57mm-or-54mm-4-pack/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99a"
+      }
+    ]
+  },
+  {
+    "slug": "cherries-sunflowers-skate-park-wheels-pack",
+    "productName": "Cherries Sunflowers Skate Park Wheels 95A, 56mm, 4-Pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468899/ldjsonbuild/wy2qifqvmibcvnwkuql5.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "41",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/cherries-sunflowers-skate-park-wheels-95a-56mm-4-pack/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "95a"
+      }
+    ]
+  },
+  {
+    "slug": "cheshire-cat-wheels",
+    "productName": "Cheshire Cat 55mm/100A Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746230080/ldjsonbuild/pt8u8krlnly6dbzhpt0n.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "moxi": "90.0",
+        "url": "https://www.moxiskates.com",
+        "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/cheshire-cat-55mm-100a"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "100a"
+      }
+    ]
+  },
+  {
+    "slug": "cib-wheels-park-white-blue",
+    "productName": "CIB Wheels Park White/Blue 58mm 98A 4pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746371029/metacrawler/yftvmh344f8brqayuonc.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "25.00",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Chicks_in_Bowls_Wheels/descpage-RCIB.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "98a"
+      }
+    ]
+  },
+  {
+    "slug": "cib-x-reckless-aggressive-skate-wheels-pack",
+    "productName": "CIB x Reckless Aggressive Skate Wheels - 8 Pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746469201/ldjsonbuild/u4aeaz7ddn8pdtzp1gye.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "59.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/cib-x-reckless-aggressive-skate-wheels-8-pack/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "98a"
+      }
+    ]
+  },
+  {
+    "slug": "crazy-illumin8-led-wheels-white-62x36mm",
+    "productName": "Crazy Illumin8 LED Wheels 85A White 62x36mm 2pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746372943/metacrawler/z59k1kw5cogmnfkhdbfn.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "12.00",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Crazy_illumin8/descpage-ILLU.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "85a"
+      }
+    ]
+  },
+  {
+    "slug": "estro-jen-bowl-bombers-rollerbones-skatepark-wheels-pack",
+    "productName": "Estro Jen Bowl Bombers Rollerbones Skatepark Wheels 101A, 57mm & 62mm, 4-Pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746469126/ldjsonbuild/wjy1fkxshqywap5u1nlc.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "49.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/estro-jen-bowl-bombers-rollerbones-skatepark-wheels-101a-57mm-62mm-4-pack/"
+      },
+      {
+        "moxi": "49.95",
+        "url": "https://www.moxiskates.com",
+        "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/estro-jen-bowl-bombers"
+      },
+      {
+        "derbywarehouse": "49.95",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/RollerBones_Estro_Jen_Bowl_Bombers/descpage-RMMSBB.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "101a"
+      },
+      {
+        "field": "combine",
+        "value": "bomber"
+      }
+    ]
+  },
+  {
+    "slug": "evolve-roller-skate-wheels",
+    "productName": "Evolve 63mm Roller Skate Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746365345/ldjsonbuild/adqfv11swhnjqcovl7ok.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "bont": "98.0",
+        "url": "https://bont.com",
+        "productVendorUrl": "https://bont.com/collections/roller-skate-wheels/products/evolve-63mm-roller-skate-wheels"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "88a"
+      }
+    ]
+  },
+  {
+    "slug": "fame-artistic-clear-limited-edition",
+    "productName": "Fame Artistic Clear Limited Edition",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375262/ldjsonbuild/kzlrfgpmwdphqlljgfgs.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "suregrip": "65.0",
+        "url": "https://www.suregrip.com",
+        "productVendorUrl": "https://www.suregrip.com/products/fame-clear-limited-edition"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "95a"
+      }
+    ]
+  },
+  {
+    "slug": "fame-artistic-wheels-clear-teal",
+    "productName": "Fame Artistic Wheels Clear Teal 57mm 95A 8pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746372820/metacrawler/vtkcya1jycflpleoklgy.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "65.00",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip_Fame_Artistic_Wheels/descpage-SGFRT.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "95a"
+      }
+    ]
+  },
+  {
+    "slug": "fame",
+    "productName": "FAME",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375224/ldjsonbuild/vymwv5hwhghumqwjfhpg.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "suregrip": "49.0",
+        "url": "https://www.suregrip.com",
+        "productVendorUrl": "https://www.suregrip.com/products/fame"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "95a"
+      }
+    ]
+  },
+  {
+    "slug": "flow-roller-skate-park-wheels",
+    "productName": "Flow Roller Skate Park Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746365364/ldjsonbuild/f7ppvwzbwn0us0t53dod.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "bont": "69.9",
+        "url": "https://bont.com",
+        "productVendorUrl": "https://bont.com/collections/roller-skate-wheels/products/flow-roller-skate-wheels"
+      },
+      {
+        "derbywarehouse": "33.20",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Bont_Flow/descpage-BDFLW.html"
+      },
+      {
+        "medusaskates": "34.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/bont-skate-park-wheels/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "89a"
+      }
+    ]
+  }
+]

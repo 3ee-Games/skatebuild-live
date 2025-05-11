@@ -1,0 +1,17 @@
+{
+  "productName": "Air Nowhere Deck",
+  "productBrand": "Tactics",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396156/ldjsonbuild/binfy4axiootbupbuqfi.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/tactics/air-nowhere-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "44.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/tactics/air-nowhere-skateboard-deck"
+    }
+  ]
+}

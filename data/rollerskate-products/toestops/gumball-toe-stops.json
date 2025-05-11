@@ -1,0 +1,17 @@
+{
+  "productName": "Gumball Toe Stops",
+  "productBrand": "Antik",
+  "productType": "gumball toe stops",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468775/ldjsonbuild/d9yqail44phwvaw2ndpb.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569737,
+  "productVendorUrl": "https://medusaskates.com/gumball-toe-stops/",
+  "productPrices": [
+    {
+      "medusaskates": "30",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/gumball-toe-stops/"
+    }
+  ]
+}

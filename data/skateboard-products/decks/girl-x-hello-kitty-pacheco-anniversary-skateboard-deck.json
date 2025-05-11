@@ -1,0 +1,22 @@
+{
+  "productName": "Girl x Hello Kitty Pacheco 50th Anniversary Deck",
+  "productBrand": "Girl",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460627/zumiezbuild/jk5ej7n1rtsq7eqwysnn.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/girl-x-hello-kitty-pacheco-50th-anniversary-8-5-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "64.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/girl-x-hello-kitty-pacheco-50th-anniversary-8-5-skateboard-deck.html"
+    },
+    {
+      "tactics": "58.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/girl/bannerot-sanrio-hello-kitty-50th-anniversary-85-skateboard-deck"
+    }
+  ]
+}

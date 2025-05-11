@@ -1,0 +1,22 @@
+{
+  "productName": "Cernicky Metal Parking Lot Deck",
+  "productBrand": "Krooked",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402220/ldjsonbuild/x2peivo2bvnqjoen6zai.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/krooked/cernicky-metal-parking-lot-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "73.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/krooked/cernicky-metal-parking-lot-825-skateboard-deck"
+    },
+    {
+      "spot": "72.95",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/krooked-eddie-cernicky-metal-park-deck?variant=50234778386705"
+    }
+  ]
+}

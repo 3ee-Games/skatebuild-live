@@ -1,0 +1,17 @@
+{
+  "productName": "Glass Deck",
+  "productBrand": "DGK",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399478/ldjsonbuild/glvd43vgrjjz3i0gibrs.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/dgk/glass-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "64.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/dgk/glass-825-skateboard-deck"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Thomas Stipo Deck",
+  "productBrand": "Zero",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398385/ldjsonbuild/uzmzrbw0h8at5uxqgz6y.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/zero/thomas-stipo-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/zero/thomas-stipo-825-skateboard-deck"
+    }
+  ]
+}

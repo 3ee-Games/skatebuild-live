@@ -1,0 +1,17 @@
+{
+  "productName": "Welcome Garcia Paradox Deck",
+  "productBrand": "Welcome Skateboards",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461044/zumiezbuild/qtfxjawwypy1fzzpedzk.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/welcome-garcia-paradox-8-38-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "74.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/welcome-garcia-paradox-8-38-skateboard-deck.html"
+    }
+  ]
+}

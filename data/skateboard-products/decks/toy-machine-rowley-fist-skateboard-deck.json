@@ -1,0 +1,22 @@
+{
+  "productName": "Toy Machine Rowley Fist Deck",
+  "productBrand": "Toy Machine",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460938/zumiezbuild/iryv2sz29a4srnwwj7ar.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/toy-machine-rowley-fist-8-5-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "59.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/toy-machine-rowley-fist-8-5-skateboard-deck.html"
+    },
+    {
+      "spot": "67.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/toy-machine-fists-deck?variant=50578472075537"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productName": "Estro Jen Bowl Bombers Rollerbones Skatepark Wheels 101A, 57mm & 62mm, 4-Pack",
+  "productBrand": "Bones",
+  "productType": "estro jen bowl bombers rollerbones skatepark wheels 101a 57mm 62mm 4 pack",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746469126/ldjsonbuild/wjy1fkxshqywap5u1nlc.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569739,
+  "productVendorUrl": "https://medusaskates.com/estro-jen-bowl-bombers-rollerbones-skatepark-wheels-101a-57mm-62mm-4-pack/",
+  "productPrices": [
+    {
+      "medusaskates": "49.99",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/estro-jen-bowl-bombers-rollerbones-skatepark-wheels-101a-57mm-62mm-4-pack/"
+    },
+    {
+      "moxi": "49.95",
+      "url": "https://www.moxiskates.com",
+      "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/estro-jen-bowl-bombers"
+    },
+    {
+      "derbywarehouse": "49.95",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/RollerBones_Estro_Jen_Bowl_Bombers/descpage-RMMSBB.html"
+    }
+  ]
+}

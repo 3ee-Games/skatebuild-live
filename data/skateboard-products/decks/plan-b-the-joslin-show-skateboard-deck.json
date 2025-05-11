@@ -1,0 +1,22 @@
+{
+  "productName": "Plan B The Joslin Show Deck",
+  "productBrand": "Plan B Skateboards",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461389/zumiezbuild/mpepxwhhe8nayvhzykxd.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/plan-b-the-joslin-show-8-25-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "64.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/plan-b-the-joslin-show-8-25-skateboard-deck.html"
+    },
+    {
+      "spot": "70.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-chris-joslin-show-deck?variant=51362940518673"
+    }
+  ]
+}

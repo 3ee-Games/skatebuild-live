@@ -1,0 +1,17 @@
+{
+  "productName": "Herrick 5Ball Deck",
+  "productBrand": "5boro",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399869/ldjsonbuild/cx7jabjhahbh1so1drzs.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/5boro/herrick-5ball-8375-skateboard-deck/green",
+  "productPrices": [
+    {
+      "tactics": "59.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/5boro/herrick-5ball-8375-skateboard-deck/green"
+    }
+  ]
+}

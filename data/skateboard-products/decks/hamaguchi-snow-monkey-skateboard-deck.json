@@ -1,0 +1,17 @@
+{
+  "productName": "Hamaguchi Snow Monkey Deck",
+  "productBrand": "Thank You",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398692/ldjsonbuild/zt4wveresvrktojacbto.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/thank-you/hamaguchi-snow-monkey-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/thank-you/hamaguchi-snow-monkey-825-skateboard-deck"
+    }
+  ]
+}

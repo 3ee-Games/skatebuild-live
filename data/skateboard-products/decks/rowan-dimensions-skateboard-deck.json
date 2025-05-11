@@ -1,0 +1,17 @@
+{
+  "productName": "Rowan Dimensions Deck",
+  "productBrand": "Baker",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400240/ldjsonbuild/odhkwca1zz5jjxz8vc6a.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/baker/rowan-dimensions-8125-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "73.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/baker/rowan-dimensions-8125-skateboard-deck"
+    }
+  ]
+}

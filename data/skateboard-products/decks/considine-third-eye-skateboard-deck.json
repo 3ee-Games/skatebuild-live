@@ -1,0 +1,17 @@
+{
+  "productName": "Considine Third Eye Deck",
+  "productBrand": "WKND",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402787/ldjsonbuild/juxj6ikp3q6yvj1oeeze.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/wknd-skateboards/considine-third-eye-85-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "71.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/wknd-skateboards/considine-third-eye-85-skateboard-deck"
+    }
+  ]
+}

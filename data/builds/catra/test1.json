@@ -1,0 +1,16 @@
+{
+  "name": "test1",
+  "build_type": "skateboard",
+  "skating_type": "street",
+  "deck_slug": "aidan-portrait-skateboard-deck",
+  "griptape_slug": "bro-style-thumb-grip-tape",
+  "risers_slug": "",
+  "trucks_slug": "royal-vincent-alvarez-signature-truck",
+  "bearings_slug": "swiss-ceramic-skateboard-bearings",
+  "wheels_slug": "spitfire-super-wide-cmyk-wheels",
+  "bushings_slug": "independent-genuine-parts-standard-super-soft-set-of-bushings",
+  "slug": "test1",
+  "owner_username": "catra",
+  "created": "2025-05-09T05:01:32.897033+00:00",
+  "updated": "2025-05-09T05:01:32.897033+00:00"
+}

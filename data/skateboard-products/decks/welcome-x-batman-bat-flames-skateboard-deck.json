@@ -1,0 +1,22 @@
+{
+  "productName": "Welcome x Batman Bat Flames Deck",
+  "productBrand": "Welcome Skateboards",
+  "productType": "Skate Gift Ideas",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461461/zumiezbuild/nqheyecosjpzfdev1fao.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/welcome-x-batman-bat-flames-8-5-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "84.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/welcome-x-batman-bat-flames-8-5-skateboard-deck.html"
+    },
+    {
+      "tactics": "68.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/welcome/batman-heart-of-hush-85-skateboard-deck"
+    }
+  ]
+}

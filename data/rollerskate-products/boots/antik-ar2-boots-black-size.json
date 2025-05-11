@@ -1,0 +1,22 @@
+{
+  "productName": "Antik AR2",
+  "productBrand": "Antik",
+  "productType": "",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370325/metacrawler/jfa7cp9d3jvzkptv9jlg.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569735,
+  "productVendorUrl": "https://www.derbywarehouse.com/Antik_AR2/descpage-AR218.html",
+  "productPrices": [
+    {
+      "derbywarehouse": "429.00",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Antik_AR2/descpage-AR218.html"
+    },
+    {
+      "medusaskates": "429",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/antik-ar2-skate-boots/"
+    }
+  ]
+}

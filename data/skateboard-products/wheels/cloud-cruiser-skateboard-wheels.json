@@ -1,0 +1,17 @@
+{
+  "productName": "Cloud Cruiser Wheels",
+  "productBrand": "Ricta",
+  "productType": "Cruiser/Soft Wheels",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393432/ldjsonbuild/p1bnzu6yxql7uk7qxstx.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544888,
+  "productVendorUrl": "https://www.tactics.com/ricta/cloud-cruiser-skateboard-wheels/white-red-86a",
+  "productPrices": [
+    {
+      "tactics": "37.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/ricta/cloud-cruiser-skateboard-wheels/white-red-86a"
+    }
+  ]
+}

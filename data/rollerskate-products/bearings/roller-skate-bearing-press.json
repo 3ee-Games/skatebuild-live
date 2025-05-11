@@ -1,0 +1,17 @@
+{
+  "productName": "Roller Skate Bearing Press",
+  "productBrand": "Bont",
+  "productType": "roller skate bearings",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746365679/ldjsonbuild/jn77clozqvlfudxbhtdm.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569734,
+  "productVendorUrl": "https://bont.com/collections/roller-skate-bearings/products/roller-skate-bearing-press",
+  "productPrices": [
+    {
+      "bont": "65.0",
+      "url": "https://bont.com",
+      "productVendorUrl": "https://bont.com/collections/roller-skate-bearings/products/roller-skate-bearing-press"
+    }
+  ]
+}

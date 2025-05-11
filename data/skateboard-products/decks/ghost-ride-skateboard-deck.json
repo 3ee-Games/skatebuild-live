@@ -1,0 +1,22 @@
+{
+  "productName": "Ghost Ride Deck",
+  "productBrand": "Doom Sayers Club",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395517/ldjsonbuild/vztuv0yntbini6qlqgn6.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/doom-sayers-club/ghost-ride-86-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "59.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/doom-sayers-club/ghost-ride-86-skateboard-deck"
+    },
+    {
+      "spot": "64.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/doom-sayers-ghost-ride-deck?variant=51283744686353"
+    }
+  ]
+}

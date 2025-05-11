@@ -1,0 +1,17 @@
+{
+  "productName": "WKND Look Out Deck",
+  "productBrand": "WKND Skateboards",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461966/zumiezbuild/xzsfqq3l09anztdyhvzt.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/wknd-look-out-8-0-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "71.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/wknd-look-out-8-0-skateboard-deck.html"
+    }
+  ]
+}

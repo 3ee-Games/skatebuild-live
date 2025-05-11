@@ -1,0 +1,17 @@
+{
+  "productName": "Riedell 3200 Roller Skate - MADE TO ORDER",
+  "productBrand": "Riedell",
+  "productType": "riedell 3200 roller skate boots",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468394/ldjsonbuild/gh8n4drjfyatf9leodxg.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569735,
+  "productVendorUrl": "https://medusaskates.com/riedell-3200-roller-skate-boots/",
+  "productPrices": [
+    {
+      "medusaskates": "705",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/riedell-3200-roller-skate-boots/"
+    }
+  ]
+}

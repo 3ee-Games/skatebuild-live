@@ -1,0 +1,17 @@
+{
+  "productName": "Hawk The Bat Deck",
+  "productBrand": "Birdhouse",
+  "productType": "Cruiser Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395995/ldjsonbuild/yusj063ek7sgl4zefw0p.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/birdhouse/hawk-the-bat-1025-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "79.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/birdhouse/hawk-the-bat-1025-skateboard-deck"
+    }
+  ]
+}

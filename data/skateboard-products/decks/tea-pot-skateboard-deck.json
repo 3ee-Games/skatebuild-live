@@ -1,0 +1,17 @@
+{
+  "productName": "Tea Pot Deck",
+  "productBrand": "Jacuzzi Unlimited",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399840/ldjsonbuild/sdgbd6afhxbvzbp90cax.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/tea-pot-85-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "68.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/tea-pot-85-skateboard-deck"
+    }
+  ]
+}

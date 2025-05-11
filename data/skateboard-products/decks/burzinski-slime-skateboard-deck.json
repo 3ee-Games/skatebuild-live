@@ -1,0 +1,17 @@
+{
+  "productName": "Burzinski Slime Deck",
+  "productBrand": "WKND",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746403000/ldjsonbuild/fsrrhwyx76bbx0vgj139.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/wknd-skateboards/burzinski-slime-85-skateboard-deck/brown-yellow",
+  "productPrices": [
+    {
+      "tactics": "71.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/wknd-skateboards/burzinski-slime-85-skateboard-deck/brown-yellow"
+    }
+  ]
+}

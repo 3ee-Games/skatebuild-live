@@ -1,0 +1,17 @@
+{
+  "productName": "Motion",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375269/ldjsonbuild/fnkcbsvw24wapshnlwwe.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569739,
+  "productVendorUrl": "https://www.suregrip.com/products/motion",
+  "productPrices": [
+    {
+      "suregrip": "65.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/motion"
+    }
+  ]
+}

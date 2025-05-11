@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "zombie",
+    "productName": "Zombie",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375294/ldjsonbuild/xbcmfeds8juywupt00lk.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "suregrip": "75.0",
+        "url": "https://www.suregrip.com",
+        "productVendorUrl": "https://www.suregrip.com/products/zombie"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "98a"
+      }
+    ]
+  },
+  {
+    "slug": "zoom",
+    "productName": "Zoom",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375204/ldjsonbuild/dfrw6rwgznc7ijhpmrem.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "suregrip": "45.0",
+        "url": "https://www.suregrip.com",
+        "productVendorUrl": "https://www.suregrip.com/products/zoom"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "93a"
+      }
+    ]
+  }
+]

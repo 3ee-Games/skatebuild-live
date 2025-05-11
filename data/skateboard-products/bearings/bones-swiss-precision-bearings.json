@@ -1,0 +1,27 @@
+{
+  "productName": "Bones Swiss Precision Bearings",
+  "productBrand": "Bones",
+  "productType": "products",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746413881/ldjsonbuild/cobtrroumwpqiw8zv0n0.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544876,
+  "productVendorUrl": "https://skateparkoftampa.com/products/bones-bones-swiss-precision-bearings-2690?variant=48243345588497",
+  "productPrices": [
+    {
+      "spot": "49.95",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/bones-bones-swiss-precision-bearings-2690?variant=48243345588497"
+    },
+    {
+      "zumiez": "49.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/bones-black-swiss-skateboard-bearings.html"
+    },
+    {
+      "tactics": "52.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/bones-bearings/super-swiss-6-skateboard-bearings/blue"
+    }
+  ]
+}

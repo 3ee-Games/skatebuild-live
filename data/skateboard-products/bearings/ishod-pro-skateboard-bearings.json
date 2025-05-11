@@ -1,0 +1,17 @@
+{
+  "productName": "Ishod Pro Bearings",
+  "productBrand": "SKF",
+  "productType": "Bearings",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746391754/ldjsonbuild/eos655cqpc4dap4fibo4.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544876,
+  "productVendorUrl": "https://www.tactics.com/skf/ishod-pro-skateboard-bearings",
+  "productPrices": [
+    {
+      "tactics": "39.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/skf/ishod-pro-skateboard-bearings"
+    }
+  ]
+}

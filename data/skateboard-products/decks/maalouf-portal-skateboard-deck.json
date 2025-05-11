@@ -1,0 +1,17 @@
+{
+  "productName": "Maalouf Portal Deck",
+  "productBrand": "WKND",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396743/ldjsonbuild/aeca2ivydafdo1bhknbg.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/wknd-skateboards/maalouf-portal-825-skateboard-deck/yellow",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/wknd-skateboards/maalouf-portal-825-skateboard-deck/yellow"
+    }
+  ]
+}

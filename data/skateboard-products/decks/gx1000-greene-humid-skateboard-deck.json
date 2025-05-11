@@ -1,0 +1,22 @@
+{
+  "productName": "GX1000 Greene Humid Deck",
+  "productBrand": "GX1000",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461390/zumiezbuild/ubypexs7y3kktkuwgwdf.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/gx1000-greene-humid-8-125-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "71.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/gx1000-greene-humid-8-125-skateboard-deck.html"
+    },
+    {
+      "tactics": "71.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/gx1000/greene-humid-85-skateboard-deck"
+    }
+  ]
+}

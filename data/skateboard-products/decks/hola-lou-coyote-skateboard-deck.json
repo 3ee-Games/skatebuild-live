@@ -1,0 +1,17 @@
+{
+  "productName": "Hola Lou Coyote Deck",
+  "productBrand": "Loaded",
+  "productType": "Cruiser Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396865/ldjsonbuild/jbg5zq8rridrvm8pyrax.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/loaded/hola-lou-coyote-3075-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "96.00",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/loaded/hola-lou-coyote-3075-skateboard-deck"
+    }
+  ]
+}

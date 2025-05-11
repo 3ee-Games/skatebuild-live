@@ -1,0 +1,17 @@
+{
+  "productName": "Riedell 495 Skate",
+  "productBrand": "",
+  "productType": "riedell 495 skate boot",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468340/ldjsonbuild/fbmth0gctirhr37sfkmv.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569735,
+  "productVendorUrl": "https://medusaskates.com/riedell-495-skate-boot/",
+  "productPrices": [
+    {
+      "medusaskates": "389",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/riedell-495-skate-boot/"
+    }
+  ]
+}

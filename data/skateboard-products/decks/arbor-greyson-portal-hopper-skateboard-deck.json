@@ -1,0 +1,22 @@
+{
+  "productName": "Arbor Greyson Portal Hopper Deck",
+  "productBrand": "Arbor Collective",
+  "productType": "Shaped Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462147/zumiezbuild/xdxhjmpehm1vpqrs556b.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/arbor-greyson-portal-hopper-9-75-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "79.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/arbor-greyson-portal-hopper-9-75-skateboard-deck.html"
+    },
+    {
+      "tactics": "84.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/arbor/greyson-portal-hopper-975-wheel-wells-skateboard-deck"
+    }
+  ]
+}

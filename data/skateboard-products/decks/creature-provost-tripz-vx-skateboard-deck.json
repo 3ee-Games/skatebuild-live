@@ -1,0 +1,22 @@
+{
+  "productName": "Creature Provost Tripz VX Deck",
+  "productBrand": "Creature",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461328/zumiezbuild/bmgbvgdd9a2bmwr3gq4t.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/creature-provost-tripz-vx-8-47-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "94.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/creature-provost-tripz-vx-8-47-skateboard-deck.html"
+    },
+    {
+      "spot": "93.95",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-collin-provost-manor-vx-deck?variant=50280289730833"
+    }
+  ]
+}

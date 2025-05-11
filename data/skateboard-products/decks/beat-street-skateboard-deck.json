@@ -1,0 +1,17 @@
+{
+  "productName": "Beat Street Deck",
+  "productBrand": "Zero",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396785/ldjsonbuild/gpl5vgpe3xnyrm0urveh.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/zero/beat-street-85-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "71.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/zero/beat-street-85-skateboard-deck"
+    }
+  ]
+}

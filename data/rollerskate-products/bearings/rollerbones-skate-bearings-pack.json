@@ -1,0 +1,22 @@
+{
+  "productName": "Rollerbones Skate Bearings 8mm, 16-Pack",
+  "productBrand": "Bones",
+  "productType": "medusaskates.com",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468020/ldjsonbuild/r6b0hrkbdznzafadeqbl.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569734,
+  "productVendorUrl": "https://medusaskates.com/rollerbones-bearings",
+  "productPrices": [
+    {
+      "medusaskates": "24.99",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/rollerbones-bearings"
+    },
+    {
+      "derbywarehouse": "23.99",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/RollerBones/descpage-RBB16.html"
+    }
+  ]
+}

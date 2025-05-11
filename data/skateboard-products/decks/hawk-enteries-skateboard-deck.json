@@ -1,0 +1,17 @@
+{
+  "productName": "Hawk Enteries Deck",
+  "productBrand": "Birdhouse",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398774/ldjsonbuild/w6ftm0assxpgt2obgi8f.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/birdhouse/hawk-enteries-85-skateboard-deck/black",
+  "productPrices": [
+    {
+      "tactics": "73.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/birdhouse/hawk-enteries-85-skateboard-deck/black"
+    }
+  ]
+}

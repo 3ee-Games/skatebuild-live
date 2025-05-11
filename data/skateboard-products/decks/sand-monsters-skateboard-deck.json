@@ -1,0 +1,17 @@
+{
+  "productName": "Sand Monsters Deck",
+  "productBrand": "Tactics",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392437/ldjsonbuild/rwepcofajorqug9qzrpc.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/tactics/sand-monsters-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "44.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/tactics/sand-monsters-skateboard-deck"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "productName": "Wilkins Key Of Life Deck",
+  "productBrand": "Real",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402648/ldjsonbuild/hh8sg89ev86o32erbbfj.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/real/wilkins-key-of-life-85-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "83.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/real/wilkins-key-of-life-85-skateboard-deck"
+    },
+    {
+      "spot": "73.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/real-jimmy-wilkins-key-of-life-deck?variant=51392658080017"
+    }
+  ]
+}

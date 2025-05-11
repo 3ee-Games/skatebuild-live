@@ -1,0 +1,17 @@
+{
+  "productName": "RIPNDIP McFuckin Grip Tape",
+  "productBrand": "RIPNDIP",
+  "productType": "Skateboard Parts",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462248/zumiezbuild/azpe1egmojslj70hosqe.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544883,
+  "productVendorUrl": "/ripndip-mcfuckin-grip-tape.html",
+  "productPrices": [
+    {
+      "zumiez": "9.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/ripndip-mcfuckin-grip-tape.html"
+    }
+  ]
+}

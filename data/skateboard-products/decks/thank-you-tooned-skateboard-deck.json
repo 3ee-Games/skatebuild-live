@@ -1,0 +1,17 @@
+{
+  "productName": "Thank You Tooned Deck",
+  "productBrand": "Thank You Skateboards",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461863/zumiezbuild/t9rytol30ntbuiixy1to.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/thank-you-tooned-8-0-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "44.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/thank-you-tooned-8-0-skateboard-deck.html"
+    }
+  ]
+}

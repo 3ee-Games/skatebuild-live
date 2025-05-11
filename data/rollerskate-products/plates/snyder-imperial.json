@@ -1,0 +1,17 @@
+{
+  "productName": "Snyder Imperial",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375639/ldjsonbuild/z0unwoo0lhp0wcwxa9yb.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569736,
+  "productVendorUrl": "https://www.suregrip.com/products/imperial",
+  "productPrices": [
+    {
+      "suregrip": "375.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/imperial"
+    }
+  ]
+}

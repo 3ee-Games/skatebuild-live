@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "sure-grip-super-x-century-rock-avanti-aluminum-truck-single",
+    "productName": "Sure-Grip Super X, Century, Rock, Avanti Aluminum Truck Single",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468616/ldjsonbuild/oq2owx3owjwcztmjm2na.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "6.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/sure-grip-super-x-truck/"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "sure-grip-super-x-roller-skate-plate",
+    "productName": "Sure-Grip Super X Roller Skate Plate",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468492/ldjsonbuild/t09ka2lep94mat5vqzw2.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/sure-grip-super-x-roller-skate-plate/"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "sure-grip-universal-pivot-cup-single",
+    "productName": "Sure-Grip Universal Pivot Cup Single",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468623/ldjsonbuild/y345g8kmn72gclslfdtn.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "2",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/sure-grip-universal-pivot-cup-single/"
+      }
+    ],
+    "productTags": []
+  }
+]

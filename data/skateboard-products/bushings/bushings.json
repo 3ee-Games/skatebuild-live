@@ -1,0 +1,17 @@
+{
+  "productName": "Bushings",
+  "productBrand": "Pig",
+  "productType": "Truck Accessories",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1745960597/skatebuild/cglk9qxxj9ugfrwyahxr.webp",
+  "imageWidth": 200,
+  "imageHeight": 164,
+  "updated": 1746544876,
+  "productVendorUrl": "https://www.tactics.com/pig/bushings/orange-soft",
+  "productPrices": [
+    {
+      "tactics": "9.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/pig/bushings/orange-soft"
+    }
+  ]
+}

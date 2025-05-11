@@ -1,0 +1,22 @@
+{
+  "productName": "Zero Chrome Logo Deck",
+  "productBrand": "Zero",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461763/zumiezbuild/vmueplg0idjshpnncdl9.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/zero-chrome-logo-8-0-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "69.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/zero-chrome-logo-8-0-skateboard-deck.html"
+    },
+    {
+      "tactics": "71.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/zero/chrome-logo-8375-skateboard-deck"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Catra",
+  "hometown": "Test Town",
+  "skater_type": [
+    "skateboarder"
+  ],
+  "stance": "goofy",
+  "status": "beginner",
+  "sponsors": [
+    "BrandA",
+    "BrandB"
+  ],
+  "images": {
+    "normal": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250107/soccerus_ybici9",
+    "small": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250107/7f8b493482e647a2ad9712cd20436415_nir1fx"
+  },
+  "contest_results": [
+    {
+      "name": "Damn Am QA",
+      "division": "Men's Street",
+      "date": "2025-04-23",
+      "placement": 1
+    }
+  ],
+
+  "social_urls": [
+    "https://www.instagram.com/ryan.on.quads/",
+    "https://www.youtube.com/@ryan_on_quads"
+  ]
+}

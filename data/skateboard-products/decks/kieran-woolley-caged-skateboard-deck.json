@@ -1,0 +1,22 @@
+{
+  "productName": "Kieran Woolley Caged Deck",
+  "productBrand": "Opera",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399506/ldjsonbuild/r7zl3oacvufq0afowkg1.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/opera/kieran-woolley-caged-85-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "68.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/opera/kieran-woolley-caged-85-skateboard-deck"
+    },
+    {
+      "spot": "70.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/opera-kieran-woolley-upward-ex7-deck?variant=50977564066065"
+    }
+  ]
+}

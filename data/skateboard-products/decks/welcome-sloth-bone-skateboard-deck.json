@@ -1,0 +1,22 @@
+{
+  "productName": "Welcome Sloth Bone Deck",
+  "productBrand": "Welcome Skateboards",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461493/zumiezbuild/qntsgtn5etje0co6yn3s.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/welcome-sloth-bone-8-0-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "74.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/welcome-sloth-bone-8-0-skateboard-deck.html"
+    },
+    {
+      "spot": "74.95",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/welcome-skateboards-sloth-deck?variant=50552983781649"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "productName": "Juice Bar Rails single rail",
+  "productBrand": "OJ",
+  "productType": "Deck Accessories",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392823/ldjsonbuild/cxjovumi0amdylafychu.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544884,
+  "productVendorUrl": "https://www.tactics.com/oj/juice-bar-rails-single-rail/orange-single",
+  "productPrices": [
+    {
+      "tactics": "6.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/oj/juice-bar-rails-single-rail/orange-single"
+    },
+    {
+      "spot": "5.95",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/oj-3-juice-bar-rails-83898?variant=48245477212433"
+    }
+  ]
+}

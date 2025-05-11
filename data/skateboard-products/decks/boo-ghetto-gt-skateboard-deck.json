@@ -1,0 +1,17 @@
+{
+  "productName": "Boo Ghetto GT Deck",
+  "productBrand": "DGK",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400374/ldjsonbuild/zoostvg0gescvio6cpde.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/dgk/boo-ghetto-gt-79-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "64.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/dgk/boo-ghetto-gt-79-skateboard-deck"
+    }
+  ]
+}

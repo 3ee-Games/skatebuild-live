@@ -1,0 +1,17 @@
+{
+  "productName": "Super X",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375558/ldjsonbuild/tn5ldw5rt8uilrbf5rdx.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569736,
+  "productVendorUrl": "https://www.suregrip.com/products/century-nts",
+  "productPrices": [
+    {
+      "suregrip": "99.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/century-nts"
+    }
+  ]
+}

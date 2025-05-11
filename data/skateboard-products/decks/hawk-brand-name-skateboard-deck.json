@@ -1,0 +1,17 @@
+{
+  "productName": "Hawk Brand Name Deck",
+  "productBrand": "Baker",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401788/ldjsonbuild/ezxgucvmn7mftqu5jccv.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/baker/hawk-brand-name-85-skateboard-deck/neon-green",
+  "productPrices": [
+    {
+      "tactics": "73.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/baker/hawk-brand-name-85-skateboard-deck/neon-green"
+    }
+  ]
+}

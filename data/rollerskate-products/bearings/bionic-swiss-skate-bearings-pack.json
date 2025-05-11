@@ -1,0 +1,22 @@
+{
+  "productName": "Bionic Swiss Skate Bearings 8mm, 16-Pack",
+  "productBrand": "Atom",
+  "productType": "bionic swiss bearings",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468025/ldjsonbuild/soonc0aesbngkigxqqgu.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569734,
+  "productVendorUrl": "https://medusaskates.com/bionic-swiss-bearings/",
+  "productPrices": [
+    {
+      "medusaskates": "69.99",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/bionic-swiss-bearings/"
+    },
+    {
+      "derbywarehouse": "69.95",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Bionic_Swiss/descpage-BIOSW.html"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "productName": "Avanti Magnesium",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375600/ldjsonbuild/patnotkopvjr0if49iu5.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569736,
+  "productVendorUrl": "https://www.suregrip.com/products/avanti-magnesium",
+  "productPrices": [
+    {
+      "suregrip": "210.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/avanti-magnesium"
+    },
+    {
+      "derbywarehouse": "210.00",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip_Avanti_Magnesium/descpage-AVNTMAG.html"
+    },
+    {
+      "bruisedboutique": "210.00",
+      "url": "https://bruisedboutique.com",
+      "productVendorUrl": "https://bruisedboutique.com/sure-grip-avanti-magnesium-plate/?setCurrencyId=1&sku=286-ID"
+    },
+    {
+      "bruisedboutique": "210.00",
+      "url": "https://www.rhinorollerskates.com",
+      "productVendorUrl": "https://www.rhinorollerskates.com/product-page/sure-grip-avanti-magnesium-plates"
+    },
+    {
+      "bosboots": "210.00",
+      "url": "https://bosbootsonwheels.com",
+      "productVendorUrl": "https://www.rhinorollerskates.com/product-page/sure-grip-avanti-magnesium-plates"
+    },
+    {
+      "legacyskateskc": "199.00",
+      "url": "https://legacyskateskc.com",
+      "productVendorUrl": "https://legacyskateskc.com/products/sure-grip-avanti-magnesium-plates?variant=43337192833281"
+    }
+  ]
+}

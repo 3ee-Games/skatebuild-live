@@ -1,0 +1,17 @@
+{
+  "productName": "Bullseye",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375725/ldjsonbuild/x66mo9aqcjyqce8pirvk.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569737,
+  "productVendorUrl": "https://www.suregrip.com/products/bullseye-toe-stop",
+  "productPrices": [
+    {
+      "suregrip": "9.95",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/bullseye-toe-stop"
+    }
+  ]
+}

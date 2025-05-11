@@ -1,0 +1,17 @@
+{
+  "productName": "Royal Standard Truck",
+  "productBrand": "Royal",
+  "productType": "products",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417239/ldjsonbuild/db6aocogxouq9thieznq.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544886,
+  "productVendorUrl": "https://skateparkoftampa.com/products/royal-standard-truck-70901?variant=48243850182929",
+  "productPrices": [
+    {
+      "spot": "22.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/royal-standard-truck-70901?variant=48243850182929"
+    }
+  ]
+}

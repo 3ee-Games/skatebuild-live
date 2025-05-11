@@ -1,0 +1,17 @@
+{
+  "productName": "Blue Bearings",
+  "productBrand": "Modus",
+  "productType": "Bearings",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746391880/ldjsonbuild/v7shpvbbrzzlhlhsh8wp.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544876,
+  "productVendorUrl": "https://www.tactics.com/modus-bearings/blue-skateboard-bearings/blue",
+  "productPrices": [
+    {
+      "tactics": "15.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/modus-bearings/blue-skateboard-bearings/blue"
+    }
+  ]
+}

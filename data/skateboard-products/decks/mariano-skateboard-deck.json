@@ -1,0 +1,17 @@
+{
+  "productName": "Mariano 1990 Deck",
+  "productBrand": "April",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400666/ldjsonbuild/n7tighyzfro1idyc8arh.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/april/mariano-1990-85-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "67.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/april/mariano-1990-85-skateboard-deck"
+    }
+  ]
+}

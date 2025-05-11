@@ -1,0 +1,32 @@
+{
+  "productName": "Moxi Gummy Wheels",
+  "productBrand": "Riedell",
+  "productType": "outdoor wheels",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746230430/ldjsonbuild/tfehfgg7gpmcevkmgjrk.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569739,
+  "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/moxi-gummy-wheels",
+  "productPrices": [
+    {
+      "moxi": "78.0",
+      "url": "https://www.moxiskates.com",
+      "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/moxi-gummy-wheels"
+    },
+    {
+      "medusaskates": "55",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/moxi-gummy-outdoor-wheels-cosmetic-blemish-78a-65mm-8-pack/"
+    },
+    {
+      "derbywarehouse": "37.00",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Moxi_Classic_Wheels/descpage-MOXIWH.html"
+    },
+    {
+      "medusaskates": "39",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/moxi-gummy-outdoor-wheels-78a-65mm-4-pack/"
+    }
+  ]
+}

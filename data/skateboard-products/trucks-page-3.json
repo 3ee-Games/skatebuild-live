@@ -1,0 +1,547 @@
+[
+  {
+    "slug": "st1-inverted-hollow-lights-skateboard-trucks",
+    "productName": "ST1 Inverted Hollow Lights Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393161/ldjsonbuild/eqi69axa7rhjtoh4bbrl.webp",
+    "imageWidth": 263,
+    "imageHeight": 144,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/slappy/st1-inverted-hollow-lights-skateboard-trucks/polished-gold-825"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "standard-skate-trucks",
+    "productName": "Standard Skate Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393108/ldjsonbuild/nb8xtyxcbqweorxoy6qt.webp",
+    "imageWidth": 263,
+    "imageHeight": 144,
+    "productPrices": [
+      {
+        "tactics": "28.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/bullet/standard-skate-trucks/black-130mm"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "tensor-mag-light-white-skateboard-truck",
+    "productName": "Tensor Mag Light White Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462590/zumiezbuild/ak8csi8q3idwjukfmptv.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "14.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/tensor-mag-light-5-0-white-skateboard-truck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "the-heated-wheel-polarizer-trucks",
+    "productName": "The Heated Wheel Polarizer Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416781/ldjsonbuild/rp8uh3x5szauwfno1kgi.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "54.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/the-heated-wheel-polarizer-trucks-94689?variant=50066907660561"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "theories-of-atlantis-af-hollow-skateboard-trucks",
+    "productName": "Theories Of Atlantis AF-1 Hollow Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746405098/ldjsonbuild/zn03bgiobzoggmxulimf.webp",
+    "imageWidth": 263,
+    "imageHeight": 144,
+    "productPrices": [
+      {
+        "tactics": "64.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/ace/theories-of-atlantis-af-1-hollow-skateboard-trucks/raw-black-ano"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "thunder-anderson-airstrike-white-skateboard-truck",
+    "productName": "Thunder Anderson Airstrike White 147 Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462476/zumiezbuild/qmqsl3hkkhwqdxkcycna.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "29.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/thunder-anderson-airstrike-white-147-skateboard-truck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "thunder-catalyst-team-edition-truck",
+    "productName": "Thunder Catalyst Team Edition Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416824/ldjsonbuild/jcyvshcdmd6i2rzm4dei.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "20.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/thunder-catalyst-team-edition-truck-94048?variant=48246873882897"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "thunder-gilded-team-hollow-light-truck",
+    "productName": "Thunder Gilded Team Hollow Light Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416659/ldjsonbuild/f89ge6atpyo1eplibfqr.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "24.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/thunder-gilded-team-hollow-light-truck?variant=50268662399249"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "thunder-grenade-hollow-lights-grey-skateboard-truck",
+    "productName": "Thunder Grenade Hollow Lights Grey 147 Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462439/zumiezbuild/cpdywhmufjmpazafebjr.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "36.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/thunder-grenade-hollow-lights-grey-147-skateboard-truck.html"
+      },
+      {
+        "spot": "22.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/thunder-death-grip-light-truck-95305?variant=48247007445265"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "thunder-hollow-lights-ii-truck",
+    "productName": "Thunder Hollow Lights II Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417058/ldjsonbuild/nqxk9nzloylhipm9rkji.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "32.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/thunder-hollow-lights-ii-truck-82113?variant=48245243707665"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "thunder-inverted-editions-polished-silver-skateboard-truck",
+    "productName": "Thunder Inverted Editions Polished Silver 149 Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462410/zumiezbuild/eqlcprursa1eh5fhy3mo.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "29.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/thunder-inverted-editions-polished-silver-149-skateboard-truck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "thunder-ishod-wair-dawg-team-hollow-truck",
+    "productName": "Thunder Ishod Wair Dawg Team Hollow Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416800/ldjsonbuild/gdeus0zes6safyf6snjg.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "23.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/thunder-ishod-wair-dawg-team-hollow-truck-94662?variant=48246937714961"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "thunder-jamie-foy-fauna-pro-truck",
+    "productName": "Thunder Jamie Foy Fauna Pro Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416591/ldjsonbuild/ebddjfif89dmcmdbwixc.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "28.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/thunder-jamie-foy-fauna-pro-truck?variant=51392900923665"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "thunder-mariano-customs-team-hollow-skateboard-truck",
+    "productName": "Thunder Mariano Customs Team 148 Hollow Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462422/zumiezbuild/j0lutcm2m0ohvpanocv7.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "36.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/thunder-mariano-customs-team-148-hollow-skateboard-truck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "thunder-medieval-team-edition-skateboard-truck",
+    "productName": "Thunder Medieval Team Edition 148 Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462538/zumiezbuild/imyardzcd6couha5hcns.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "28.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/thunder-medieval-team-edition-148-skateboard-truck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "thunder-miles-silvas-masked-hollow-light-truck",
+    "productName": "Thunder Miles Silvas Masked Hollow Light Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416741/ldjsonbuild/knyylxpldymc8iptnxi7.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "24.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/thunder-miles-silvas-masked-hollow-light-truck-96303?variant=49244163244305"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "thunder-nora-campus-pro-purple-silver-skateboard-truck",
+    "productName": "Thunder Nora Campus Pro Purple & Silver 147 Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462493/zumiezbuild/fguxf03xfaggr88csyac.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "28.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/thunder-nora-campus-pro-purple-and-silver-147-skateboard-truck.html"
+      },
+      {
+        "spot": "28.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/thunder-nora-vasconcellos-campus-pro-truck?variant=50965264859409"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "thunder-silvas-masked-hollow-black-skateboard-truck",
+    "productName": "Thunder Silvas Masked Hollow Black 148 Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462451/zumiezbuild/i4tzj4e23pfodn316yns.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "36.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/thunder-silvas-masked-hollow-black-148-skateboard-truck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "thunder-team-hollow-polished-truck",
+    "productName": "Thunder Team Hollow Polished Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416596/ldjsonbuild/nzuhtiqykhlqdkcg8v35.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "32.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/thunder-team-hollow-polished-truck?variant=51372458836241"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "thunder-truck",
+    "productName": "Thunder Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417393/ldjsonbuild/pumz6l6le58oisyslad9.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "24.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/thunder-thunder-truck-2541?variant=48243342541073"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "thunder-villani-to-pieces-black-skateboard-truck",
+    "productName": "Thunder Villani To Pieces Black 147 Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462416/zumiezbuild/yb7wlhwuefue0ioxfcoj.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "28.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/thunder-villani-to-pieces-black-147-skateboard-truck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "v-lights-skateboard-trucks",
+    "productName": "V-Lights Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393244/ldjsonbuild/wuxrozo9zilbdphfneye.webp",
+    "imageWidth": 263,
+    "imageHeight": 144,
+    "productPrices": [
+      {
+        "tactics": "55.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/venture/v-lights-skateboard-trucks/all-polished-56-hi"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "venture-john-shanahan-street-v-light-truck",
+    "productName": "Venture John Shanahan Street V-Light Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416736/ldjsonbuild/r9ply4koevedber6sura.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "22.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/venture-john-shanahan-street-v-light-truck-96304?variant=49244163637521"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "venture-kader-bloodshot-v-cast-hollow-light-truck",
+    "productName": "Venture Kader Bloodshot V-Cast Hollow Light Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416682/ldjsonbuild/rj03tivztgl0digl9fkp.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "31.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/venture-kader-bloodshot-v-cast-hollow-light-truck-97205?variant=50087707312401"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "venture-koston-v8-silver-skateboard-truck",
+    "productName": "Venture Koston V8 Silver Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462489/zumiezbuild/h3vdekmt6dubky70b05n.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "27.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/venture-koston-v8-silver-5-6-skateboard-truck.html"
+      },
+      {
+        "spot": "28.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/venture-eric-koston-v8-polished-truck?variant=50917099929873"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "venture-og-v-loose-team-edition-skateboard-truck",
+    "productName": "Venture OG V Loose Team Edition Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462495/zumiezbuild/nvruj84jisqkwdbs3j8b.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "26.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/venture-og-v-loose-team-edition-5-8-skateboard-truck.html"
+      },
+      {
+        "spot": "24.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/venture-awake-team-edition-truck-94664?variant=48246938108177"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "venture-salt-pepper-ii-skateboard-trucks",
+    "productName": "Venture Salt & Pepper II Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462598/zumiezbuild/ldypdgiskqbrljx0mhr5.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "14.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/venture-salt-pepper-ii-5-6-skateboard-trucks.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "venture-v-forged-polished-truck",
+    "productName": "Venture V-Forged Polished Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416572/ldjsonbuild/yd2iuu2sj4fg54knztzz.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "25.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/venture-v-forged-polished-truck?variant=51484168618257"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "venture-v-hollow-truck",
+    "productName": "Venture V-Hollow Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416647/ldjsonbuild/s8yusckqihadmf3b4wlu.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "32.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/venture-v-hollow-truck?variant=50717487038737"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "venture-v-light-trucks",
+    "productName": "Venture V-Light Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417121/ldjsonbuild/e9qug4gatfe96gug3g8h.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "28.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/venture-v-light-trucks-79457?variant=48244872413457"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "venture-venture-x-violet-team-truck",
+    "productName": "Venture Venture x Violet Team Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416819/ldjsonbuild/uh52xt8sei2w5f7a4hbo.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "21.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/venture-venture-x-violet-team-truck-94431?variant=48246910550289"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "venture-vue-skateboard-truck",
+    "productName": "Venture Vue Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462482/zumiezbuild/l7nc6yowtwty4h0yh63w.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "19.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/venture-vue-5-2-skateboard-truck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "venture-x-bronze-team-edition-silver-bronze-skateboard-truck",
+    "productName": "Venture x Bronze 56K Team Edition Silver & Bronze Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462566/zumiezbuild/vmbwgi61axodahypuswd.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "26.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/venture-x-bronze-56k-team-edition-silver-and-bronze-5-8-skateboard-truck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "venture-yuto-pro-edition-liquid-chrome-skateboard-truck",
+    "productName": "Venture Yuto Pro Edition Liquid Chrome Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462521/zumiezbuild/wtpc1waesptcddt5tkji.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "19.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/venture-yuto-pro-edition-liquid-chrome-5-6-skateboard-truck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "venture-yuto-v-hollows-great-wave-silver-blue-skateboard-truck",
+    "productName": "Venture Yuto V-Hollows Great Wave Silver & Blue Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462445/zumiezbuild/nowbdrq5iqc3u24vb0z3.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "36.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/venture-yuto-v-hollows-great-wave-silver-blue-5-6-skateboard-truck.html"
+      }
+    ],
+    "productTags": []
+  }
+]

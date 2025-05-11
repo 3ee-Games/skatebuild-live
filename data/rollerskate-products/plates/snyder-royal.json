@@ -1,0 +1,17 @@
+{
+  "productName": "Snyder Royal",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375652/ldjsonbuild/wk7r8rqed1pqfl1f2t3d.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569736,
+  "productVendorUrl": "https://www.suregrip.com/products/snyder-royal",
+  "productPrices": [
+    {
+      "suregrip": "450.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/snyder-royal"
+    }
+  ]
+}

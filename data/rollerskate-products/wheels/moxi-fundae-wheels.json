@@ -1,0 +1,27 @@
+{
+  "productName": "Moxi Fundae Wheels",
+  "productBrand": "Riedell",
+  "productType": "hybrid wheels",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746230060/ldjsonbuild/ly6k7zpcadgovffwgq7w.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569739,
+  "productVendorUrl": "https://www.moxiskates.com/collections/hybrid-wheels/products/moxi-fundae-blue-birthday-cake",
+  "productPrices": [
+    {
+      "moxi": "60.0",
+      "url": "https://www.moxiskates.com",
+      "productVendorUrl": "https://www.moxiskates.com/collections/hybrid-wheels/products/moxi-fundae-blue-birthday-cake"
+    },
+    {
+      "derbywarehouse": "45.00",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Moxi_Fundae/descpage-MOXIFD.html"
+    },
+    {
+      "medusaskates": "45",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/moxi-fundae-hybrid-wheels-92a-57mm-4-pack/"
+    }
+  ]
+}

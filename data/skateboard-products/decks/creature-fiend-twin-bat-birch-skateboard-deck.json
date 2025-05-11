@@ -1,0 +1,22 @@
+{
+  "productName": "Creature Fiend Twin Bat Birch Deck",
+  "productBrand": "Creature",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461467/zumiezbuild/uuj2gvw5l4inipb6fn8k.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/creature-fiend-twin-birch-8-2-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "59.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/creature-fiend-twin-birch-8-2-skateboard-deck.html"
+    },
+    {
+      "tactics": "54.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/creature/fiend-twin-bat-82-7-ply-birch-skateboard-deck"
+    }
+  ]
+}

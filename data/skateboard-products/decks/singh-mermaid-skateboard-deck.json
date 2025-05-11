@@ -1,0 +1,17 @@
+{
+  "productName": "Singh Mermaid Deck",
+  "productBrand": "5boro",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398184/ldjsonbuild/avzuvrctqkcjzrhscecv.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/5boro/singh-mermaid-8375-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/5boro/singh-mermaid-8375-skateboard-deck"
+    }
+  ]
+}

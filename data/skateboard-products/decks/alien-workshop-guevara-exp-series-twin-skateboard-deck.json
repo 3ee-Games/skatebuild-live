@@ -1,0 +1,22 @@
+{
+  "productName": "Alien Workshop Guevara EXP Series Twin Deck",
+  "productBrand": "Alien Workshop",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461309/zumiezbuild/pqxqawak9s4l3abn7m0y.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/alien-workshop-guevara-exp-series-twin-8-375-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "54.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/alien-workshop-guevara-exp-series-twin-8-375-skateboard-deck.html"
+    },
+    {
+      "spot": "70.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/alien-workshop-joey-guevara-exp-series-deck-97238?variant=50087710392593"
+    }
+  ]
+}

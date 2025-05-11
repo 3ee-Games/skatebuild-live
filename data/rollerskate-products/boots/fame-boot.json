@@ -1,0 +1,17 @@
+{
+  "productName": "Fame",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746374920/ldjsonbuild/a5tmkkgmuzjxliuhphy4.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569735,
+  "productVendorUrl": "https://www.suregrip.com/products/fame-boot",
+  "productPrices": [
+    {
+      "suregrip": "99.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/fame-boot"
+    }
+  ]
+}

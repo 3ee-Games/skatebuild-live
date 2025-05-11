@@ -1,0 +1,17 @@
+{
+  "productName": "Standard Bearings",
+  "productBrand": "SKF",
+  "productType": "Bearings",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746391914/ldjsonbuild/wlulxfrmptvbhxqtb7ll.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544876,
+  "productVendorUrl": "https://www.tactics.com/skf/standard-skateboard-bearings",
+  "productPrices": [
+    {
+      "tactics": "35.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/skf/standard-skateboard-bearings"
+    }
+  ]
+}

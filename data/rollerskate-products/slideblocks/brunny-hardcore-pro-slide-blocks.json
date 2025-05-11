@@ -1,0 +1,27 @@
+{
+  "productName": "Brunny Hardcore Pro Slide Blocks",
+  "productBrand": "Brunny Hardcore",
+  "productType": "brunny hardcore pro slide blocks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468652/ldjsonbuild/lzxufjs2nnkxxruwllcc.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569737,
+  "productVendorUrl": "https://medusaskates.com/brunny-hardcore-pro-slide-blocks/",
+  "productPrices": [
+    {
+      "medusaskates": "130",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/brunny-hardcore-pro-slide-blocks/"
+    },
+    {
+      "moxi": "125.0",
+      "url": "https://www.moxiskates.com",
+      "productVendorUrl": "https://www.moxiskates.com/products/brunny-hardcore-pro-blocks?variant=45140876656827"
+    },
+    {
+      "derbywarehouse": "125.00",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Brunny_Pro_Blocks_3056/descpage-BPBSL.html"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Bionic Super Stoppers",
+  "productBrand": "Atom",
+  "productType": "bionic super stoppers",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468741/ldjsonbuild/bc5yw8vwkj1w3xszdlab.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569737,
+  "productVendorUrl": "https://medusaskates.com/bionic-super-stoppers/",
+  "productPrices": [
+    {
+      "medusaskates": "19.99",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/bionic-super-stoppers/"
+    }
+  ]
+}

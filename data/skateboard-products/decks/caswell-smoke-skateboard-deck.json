@@ -1,0 +1,17 @@
+{
+  "productName": "Caswell Smoke Deck",
+  "productBrand": "Jacuzzi Unlimited",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400660/ldjsonbuild/nz7iibbbmidjxgjfooj4.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/caswell-smoke-8375-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "68.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/caswell-smoke-8375-skateboard-deck"
+    }
+  ]
+}

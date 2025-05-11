@@ -1,0 +1,22 @@
+{
+  "productName": "Wilson Turn Out Deck",
+  "productBrand": "Krooked",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397896/ldjsonbuild/jxurnoe2uqyjrwvakfik.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/krooked/wilson-turn-out-838-skateboard-deck/teal",
+  "productPrices": [
+    {
+      "tactics": "76.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/krooked/wilson-turn-out-838-skateboard-deck/teal"
+    },
+    {
+      "spot": "73.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/krooked-andrew-wilson-turn-out-deck?variant=51207880081681"
+    }
+  ]
+}

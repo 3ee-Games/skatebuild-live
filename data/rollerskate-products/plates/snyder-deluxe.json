@@ -1,0 +1,17 @@
+{
+  "productName": "Snyder Deluxe",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375633/ldjsonbuild/tzdbexyyujl81job0qsq.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569736,
+  "productVendorUrl": "https://www.suregrip.com/products/snyder-delux",
+  "productPrices": [
+    {
+      "suregrip": "375.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/snyder-delux"
+    }
+  ]
+}

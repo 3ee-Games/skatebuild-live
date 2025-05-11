@@ -1,0 +1,717 @@
+[
+  {
+    "slug": "snellings-big-dogs-skateboard-wheels",
+    "productName": "Snellings Big Dogs Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393586/ldjsonbuild/apxsecqkcc60buun8lxw.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "29.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/snot/snellings-big-dogs-skateboard-wheels/white-99a"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99a"
+      }
+    ]
+  },
+  {
+    "slug": "soft-shells-skateboard-wheels",
+    "productName": "Soft Shells Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746406245/ldjsonbuild/eqemnuwofffatya8jv9l.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "34.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/speedlab/soft-shells-skateboard-wheels/yellow-95a"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "95a"
+      }
+    ]
+  },
+  {
+    "slug": "specters-skateboard-wheels",
+    "productName": "Specters Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393463/ldjsonbuild/farjzlr6wcaydq36kkvv.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "29.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/orbs/specters-skateboard-wheels/pink-yellow-swirl-99a"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99a"
+      }
+    ]
+  },
+  {
+    "slug": "spiders-conical-skateboard-wheels",
+    "productName": "Spiders Conical Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746405610/ldjsonbuild/yotwhunl4chkjgtn1b4b.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "34.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/cherries-wheels/spiders-conical-skateboard-wheels/black-99a"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99a"
+      }
+    ]
+  },
+  {
+    "slug": "spitfire-big-beatdowns-formula-four-white-classic-skateboard-wheels",
+    "productName": "Spitfire Big Beatdowns Formula Four 66.6mm 99a White Classic Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462929/zumiezbuild/e0gjuiawzsmkgfbkfqyr.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "34.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/spitfire-big-beatdowns-formula-four-66-6mm-99a-white-classic-skateboard-wheels.html"
+      },
+      {
+        "tactics": "46.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/spitfire/formula-four-conical-skateboard-wheels/white-green-101d"
+      },
+      {
+        "spot": "43.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/spitfire-formula-four-101d-conical-full-shaped-wheels-66582?variant=48243668746513"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99a"
+      }
+    ]
+  },
+  {
+    "slug": "spitfire-burners-purple-skateboard-wheels",
+    "productName": "Spitfire Burners Purple 56mm 99a Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462728/zumiezbuild/bcspsbmjvcklmbnez6be.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "29.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/spitfire-burners-purple-56mm-99a-skateboard-wheels.html"
+      },
+      {
+        "spot": "30.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/spitfire-burner-99d-wheels?variant=50717556080913"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99a"
+      }
+    ]
+  },
+  {
+    "slug": "spitfire-chargers-classic-full-wheels",
+    "productName": "Spitfire 80HD Chargers Classic Full Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417870/ldjsonbuild/a9egctu7t4b8wyfbsyfk.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "42.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/spitfire-80hd-chargers-classic-full-wheels-91707?variant=48246553444625"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "80hd"
+      }
+    ]
+  },
+  {
+    "slug": "spitfire-classic-wheels",
+    "productName": "Spitfire Classic Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746418261/ldjsonbuild/kjdpuzmisjczajwmdcov.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "34.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/spitfire-classic-wheels-2004?variant=48243337396497"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99a"
+      }
+    ]
+  },
+  {
+    "slug": "spitfire-demon-gate-radial-full-glow-formula-four-wheels",
+    "productName": "Spitfire Demon Gate Radial Full Glow Formula Four 99D Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417491/ldjsonbuild/t1fgvvjqvnow5k8wo3yh.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "43.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/spitfire-demon-gate-radial-full-glow-formula-four-99d-wheels?variant=51392797376785"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99d"
+      }
+    ]
+  },
+  {
+    "slug": "spitfire-fade-formula-four-red-conical-skateboard-wheels",
+    "productName": "Spitfire Fade Formula Four 58mm 80a Red Conical Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462973/zumiezbuild/ltmuhaomlvsqvyegqg6p.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "39.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/spitfire-fade-formula-four-58mm-80a-red-conical-skateboard-wheels.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "80a"
+      }
+    ]
+  },
+  {
+    "slug": "spitfire-fireball-conical-og-f4-skateboard-wheels",
+    "productName": "Spitfire Fireball Conical OG F4 54MM 99D Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462886/zumiezbuild/cgmzum5evpcqg0my4lbj.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "45.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/spitfire-fireball-conical-og-f4-54mm-99d-skateboard-wheels.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99d"
+      }
+    ]
+  },
+  {
+    "slug": "spitfire-formula-four-yuto-cherry-blossom-black-pink-skateboard-wheels",
+    "productName": "Spitfire Formula Four Yuto Cherry Blossom Black & Pink 56mm 99a Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462630/zumiezbuild/ukpxzqf5nptw9ftoeatt.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "49.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/spitfire-formula-four-yuto-cherry-blossom-black-and-pink-56mm-99a-skateboard-wheels.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99a"
+      }
+    ]
+  },
+  {
+    "slug": "spitfire-grant-formula-four-radial-skateboard-wheels",
+    "productName": "Spitfire Grant Formula Four Radial 55.5mm Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462748/zumiezbuild/f15sa16j1r9lkyz0ebuc.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "39.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/spitfire-grant-formula-four-radial-55-5mm-skateboard-wheels.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99a"
+      }
+    ]
+  },
+  {
+    "slug": "spitfire-neon-yellow-bighead-wheels",
+    "productName": "Spitfire Neon Yellow Bighead 99D Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417407/ldjsonbuild/ssqcxbrbptwzsxxs8mir.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "36.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/spitfire-neon-yellow-bighead-99d-wheels?variant=51484175827217"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99d"
+      }
+    ]
+  },
+  {
+    "slug": "spitfire-super-wide-cmyk-wheels",
+    "productName": "Spitfire 80HD Super Wide CMYK 80HD Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417457/ldjsonbuild/esr9mor437ica8s11lmz.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "45.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/spitfire-80hd-super-wide-cmyk-80hd-wheels?variant=51393550844177"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "80hd"
+      }
+    ]
+  },
+  {
+    "slug": "spitfire-superwide-black-skateboard-wheels",
+    "productName": "Spitfire Superwide 80HD 62mm Black Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746463059/zumiezbuild/ln7exb5st66cx1tdkpqm.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "49.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/spitfire-superwide-80hd-62mm-black-skateboard-wheels.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "80hd"
+      }
+    ]
+  },
+  {
+    "slug": "spitfire-superwide-ice-grey-skateboard-wheels",
+    "productName": "Spitfire Superwide 80HD 60mm Ice Grey Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462977/zumiezbuild/qfkavivgjx0bkgxrbx4x.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "39.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/spitfire-superwide-80hd-60mm-ice-grey-skateboard-wheels.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "80hd"
+      }
+    ]
+  },
+  {
+    "slug": "spitfire-superwide-orange-skateboard-wheels",
+    "productName": "Spitfire Superwide 80HD 58mm Orange Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462706/zumiezbuild/avryvaqh61eicfffirng.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "24.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/spitfire-superwide-hd-80hd-58mm-orange-skateboard-wheels.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "80hd"
+      }
+    ]
+  },
+  {
+    "slug": "spitfire-tiago-lemos-sure-shot-f499d-classic-wheels",
+    "productName": "Spitfire Tiago Lemos Sure Shot F499D Classic Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417695/ldjsonbuild/a1dpb1g4xleiig6rdyno.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "43.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/spitfire-tiago-lemos-sure-shot-f499d-classic-wheels?variant=50717551821073"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99d"
+      }
+    ]
+  },
+  {
+    "slug": "spitfire-x-skate-like-a-girl-formula-four-radial-white-skateboard-wheels",
+    "productName": "Spitfire x Skate Like A Girl Formula Four Radial 54mm 99a White Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462776/zumiezbuild/a90tctgnffxrxledzuky.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "49.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/spitfire-x-skate-like-a-girl-formula-four-radial-54mm-99a-white-skateboard-wheels.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99a"
+      }
+    ]
+  },
+  {
+    "slug": "strangehouse-skateboard-wheels",
+    "productName": "Strangehouse Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746406116/ldjsonbuild/mkenxdz3m4uifgmxxejt.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "34.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/speedlab/strangehouse-skateboard-wheels/pink-black-split-95a"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "95a"
+      }
+    ]
+  },
+  {
+    "slug": "sunflowers-conical-curb-buster-formula-skateboard-wheels",
+    "productName": "Sunflowers Conical Curb Buster Formula Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746405675/ldjsonbuild/xw6ujt73urfuziebn1b1.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "34.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/cherries-wheels/sunflowers-conical-curb-buster-formula-skateboard-wheels/white-95a-101a"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "101a"
+      }
+    ]
+  },
+  {
+    "slug": "swampy-gators-og-shape-skateboard-wheels",
+    "productName": "Swampy Gators OG Shape Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393505/ldjsonbuild/beiyxukg7ccbceqjofvj.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "33.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/snot/swampy-gators-og-shape-skateboard-wheels/natural-glow-in-the-dark-core-99a"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99a"
+      }
+    ]
+  },
+  {
+    "slug": "tear-away-maggots-hardline-cruiser-skateboard-wheels",
+    "productName": "Tear Away Maggots Hardline Cruiser Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746406163/ldjsonbuild/e5wjnioijd3znbvtvi4v.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "36.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/slime-balls/tear-away-maggots-hardline-cruiser-skateboard-wheels/neon-pink-97a"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "97a"
+      }
+    ]
+  },
+  {
+    "slug": "the-heated-wheel-phasecaster-sofa-tone-wheels",
+    "productName": "The Heated Wheel Phasecaster Sofa Tone 78a Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417743/ldjsonbuild/eyup0z149k121lwgjru3.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "38.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/the-heated-wheel-phasecaster-sofa-tone-78a-wheels-96897?variant=49835709235473"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "78a"
+      }
+    ]
+  },
+  {
+    "slug": "throw-ups-chubbies-skateboard-wheels",
+    "productName": "Throw Ups Chubbies Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393367/ldjsonbuild/hebrgruhzeqeqsu3cd40.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "39.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/oj/throw-ups-chubbies-skateboard-wheels/red-101a"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "101a"
+      }
+    ]
+  },
+  {
+    "slug": "thunder-juice-cruiser-skateboard-wheels",
+    "productName": "Thunder Juice Cruiser Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746406394/ldjsonbuild/ujwso9eomvr39gsdl2ec.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "51.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/oj/thunder-juice-cruiser-skateboard-wheels/orange-78a"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "78a"
+      }
+    ]
+  },
+  {
+    "slug": "time-flies-skateboard-wheels",
+    "productName": "Time Flies Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746405959/ldjsonbuild/vcgtgwhtippapjselggu.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "34.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/speedlab/time-flies-skateboard-wheels/grey-98a"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "98a"
+      }
+    ]
+  },
+  {
+    "slug": "triclops-blue-marble-skateboard-wheels",
+    "productName": "Triclops Blue Marble 52mm 95a Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746463009/zumiezbuild/byyxg3au5hhy8ispsdv7.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "24.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/triclops-blue-marble-52mm-95a-skateboard-wheels.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "95a"
+      }
+    ]
+  },
+  {
+    "slug": "triclops-crush-red-skateboard-wheel",
+    "productName": "Triclops Crush 53mm 90a Red Wheel",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462958/zumiezbuild/ucdbsdqow4fkxhpjfzej.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "19.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/triclops-crush-53mm-90a-red-skateboard-wheel.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "90a"
+      }
+    ]
+  },
+  {
+    "slug": "triclops-sniper-skateboard-wheels",
+    "productName": "Triclops Sniper 56mm 99a Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462840/zumiezbuild/ttbhnj0yrwnlca1bgk0f.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "19.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/triclops-sniper-56mm-99a-skateboard-wheels.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99a"
+      }
+    ]
+  },
+  {
+    "slug": "triclops-trax-skateboard-wheel",
+    "productName": "Triclops Trax 58mm 99a Wheel",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462905/zumiezbuild/y7j58tdoo8wfrtvw6hpw.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "19.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/triclops-trax-58mm-99a-skateboard-wheel.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99a"
+      }
+    ]
+  },
+  {
+    "slug": "x-formula-v1-standard-skateboard-wheels",
+    "productName": "X-Formula V1 Standard Wheels",
+    "cloudinaryUrl": "",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "41.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/bones/x-formula-v1-standard-skateboard-wheels/yin-yang-97a"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "97a"
+      }
+    ]
+  },
+  {
+    "slug": "x-formula-v6-wide-cut-skateboard-wheels",
+    "productName": "X-Formula V6 Wide-Cut Wheels",
+    "cloudinaryUrl": "",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "41.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/bones/x-formula-v6-wide-cut-skateboard-wheels/smokin-skull-99a"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99a"
+      }
+    ]
+  },
+  {
+    "slug": "x-rays-cruiser-skateboard-wheels",
+    "productName": "X Rays Cruiser Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746405691/ldjsonbuild/pbneswctu6ntfnqpg12x.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "33.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/snot/x-rays-cruiser-skateboard-wheels/ice-blue-82a"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "82a"
+      }
+    ]
+  }
+]

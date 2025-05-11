@@ -1,0 +1,27 @@
+{
+  "productName": "5Boro Cinco Barrios White Deck",
+  "productBrand": "5Boro Skateboards",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461694/zumiezbuild/qykgvcrn8eugnqf83isu.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/5boro-cinco-white-8-0-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "49.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/5boro-cinco-white-8-0-skateboard-deck.html"
+    },
+    {
+      "tactics": "59.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/5boro/cinco-barrios-85-skateboard-deck/white"
+    },
+    {
+      "spot": "65.95",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/5boro-cinco-barrios-deck-12594?variant=48243371933969"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Fish Series Deck",
+  "productBrand": "5boro",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399244/ldjsonbuild/abdgy1wargm5wm7arlpd.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/5boro/fish-series-8375-skateboard-deck/pike",
+  "productPrices": [
+    {
+      "tactics": "59.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/5boro/fish-series-8375-skateboard-deck/pike"
+    }
+  ]
+}

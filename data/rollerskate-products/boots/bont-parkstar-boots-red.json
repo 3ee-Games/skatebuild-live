@@ -1,0 +1,17 @@
+{
+  "productName": "Bont Parkstar Red",
+  "productBrand": "Bont",
+  "productType": "",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370449/metacrawler/jelsxnvnvgpetpcilcvf.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569735,
+  "productVendorUrl": "https://www.derbywarehouse.com/Bont_ParkStar_Boots/descpage-BPS18.html",
+  "productPrices": [
+    {
+      "derbywarehouse": "209.00",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Bont_ParkStar_Boots/descpage-BPS18.html"
+    }
+  ]
+}

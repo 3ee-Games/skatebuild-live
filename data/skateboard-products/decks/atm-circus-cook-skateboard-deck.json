@@ -1,0 +1,17 @@
+{
+  "productName": "ATM Circus Cook Deck",
+  "productBrand": "ATM Skateboards",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462082/zumiezbuild/s6n1vdsju71hvwgyy3sw.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/atm-circus-cook-9-5-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "49.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/atm-circus-cook-9-5-skateboard-deck.html"
+    }
+  ]
+}

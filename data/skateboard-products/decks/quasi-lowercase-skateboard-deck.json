@@ -1,0 +1,17 @@
+{
+  "productName": "Quasi Lowercase Deck",
+  "productBrand": "Quasi",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461801/zumiezbuild/wgs1txdmy20ikl0wf8hi.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/quasi-lowercase-8-0-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "54.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/quasi-lowercase-8-0-skateboard-deck.html"
+    }
+  ]
+}

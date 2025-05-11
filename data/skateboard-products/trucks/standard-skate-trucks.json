@@ -1,0 +1,17 @@
+{
+  "productName": "Standard Skate Trucks",
+  "productBrand": "Bullet",
+  "productType": "Trucks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393108/ldjsonbuild/nb8xtyxcbqweorxoy6qt.webp",
+  "imageWidth": 263,
+  "imageHeight": 144,
+  "updated": 1746544886,
+  "productVendorUrl": "https://www.tactics.com/bullet/standard-skate-trucks/black-130mm",
+  "productPrices": [
+    {
+      "tactics": "28.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/bullet/standard-skate-trucks/black-130mm"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "productName": "Chico Brenes Nicaraguan Sunrise Deck",
+  "productBrand": "Chocolate",
+  "productType": "Cruiser Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400551/ldjsonbuild/dzyre55wehflwyifs8ov.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/chocolate/chico-brenes-nicaraguan-sunrise-975-skateboard-deck/yellow",
+  "productPrices": [
+    {
+      "tactics": "76.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/chocolate/chico-brenes-nicaraguan-sunrise-975-skateboard-deck/yellow"
+    },
+    {
+      "spot": "74.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/chocolate-chico-brenes-nicaraguan-sunrise-deck?variant=51104751157521"
+    }
+  ]
+}

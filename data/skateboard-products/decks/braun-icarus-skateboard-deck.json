@@ -1,0 +1,22 @@
+{
+  "productName": "Braun Icarus Deck",
+  "productBrand": "StrangeLove",
+  "productType": "Cruiser Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397427/ldjsonbuild/czthikh4rxneeo1y7tpy.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/strangelove/braun-icarus-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/strangelove/braun-icarus-825-skateboard-deck"
+    },
+    {
+      "spot": "70.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/strangelove-jake-braun-icarus-deck?variant=50522930512145"
+    }
+  ]
+}

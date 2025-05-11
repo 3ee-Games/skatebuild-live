@@ -1,0 +1,17 @@
+{
+  "productName": "Bender Man Deck",
+  "productBrand": "Hopps",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398018/ldjsonbuild/vr8h0cz7ywlrhvx117ex.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/hopps-skateboards/bender-man-825-skateboard-deck/green",
+  "productPrices": [
+    {
+      "tactics": "74.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/hopps-skateboards/bender-man-825-skateboard-deck/green"
+    }
+  ]
+}

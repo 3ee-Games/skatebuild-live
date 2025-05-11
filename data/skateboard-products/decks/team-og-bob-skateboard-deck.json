@@ -1,0 +1,17 @@
+{
+  "productName": "Team OG Bob Deck",
+  "productBrand": "SK8MAFIA",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395699/ldjsonbuild/z6t5cuu5bbfix4u5trbe.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/sk8mafia/team-og-bob-85-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "44.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/sk8mafia/team-og-bob-85-skateboard-deck"
+    }
+  ]
+}

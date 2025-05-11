@@ -1,0 +1,17 @@
+{
+  "productName": "Karsten Sparky Deck",
+  "productBrand": "WKND",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397639/ldjsonbuild/ooc8044o3ueoo5m8rjfo.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/wknd-skateboards/karsten-sparky-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/wknd-skateboards/karsten-sparky-825-skateboard-deck"
+    }
+  ]
+}

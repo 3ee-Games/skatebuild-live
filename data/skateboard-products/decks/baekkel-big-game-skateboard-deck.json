@@ -1,0 +1,17 @@
+{
+  "productName": "Baekkel Big Game Deck",
+  "productBrand": "Creature",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400540/ldjsonbuild/utmrnyk8vctivj7lclz1.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/creature/baekkel-big-game-853-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "72.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/creature/baekkel-big-game-853-skateboard-deck"
+    }
+  ]
+}

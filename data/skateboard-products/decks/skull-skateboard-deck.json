@@ -1,0 +1,17 @@
+{
+  "productName": "Skull Deck",
+  "productBrand": "Cleaver",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399250/ldjsonbuild/iagt35jnqsrvkq7tpx0r.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/cleaver/skull-8375-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "51.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/cleaver/skull-8375-skateboard-deck"
+    }
+  ]
+}

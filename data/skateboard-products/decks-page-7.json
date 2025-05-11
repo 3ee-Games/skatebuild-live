@@ -1,0 +1,787 @@
+[
+  {
+    "slug": "cowgirl-skateboard-deck",
+    "productName": "Cowgirl Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396196/ldjsonbuild/xantry3rgskdnng3lqrs.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "49.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/yew/cowgirl-875-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-baekkel-doomsday-skateboard-deck",
+    "productName": "Creature Baekkel Doomsday Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460588/zumiezbuild/rs7uuegfowf0xqyt8u27.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "71.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-baekkel-doomsday-8-375-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-baekkel-metal-xx-skateboard-deck",
+    "productName": "Creature Baekkel Metal XX Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460611/zumiezbuild/kfsm7akxoyy0l3cmcw9v.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "68.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-baekkel-metal-xx-8-51-skateboard-deck.html"
+      },
+      {
+        "tactics": "66.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/creature/baekkel-metal-xx-851-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-baekkel-two-moons-too-skateboard-deck",
+    "productName": "Creature Baekkel Two Moons Too Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461097/zumiezbuild/xlwtokxe3e7u0bu1fe8j.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "59.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-baekkel-two-moons-too-8-6-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-baekkel-wasteland-skateboard-deck",
+    "productName": "Creature Baekkel Wasteland Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461278/zumiezbuild/nkiyeatxdrvcdntllzss.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "79.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-baekkel-wasteland-8-6-skateboard-deck.html"
+      },
+      {
+        "tactics": "72.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/creature/baekkel-wasteland-86-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-catacomb-relic-skateboard-deck",
+    "productName": "Creature Catacomb Relic Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461654/zumiezbuild/xcegthso962ejyhfbvwb.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "60.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-catacomb-relic-8-5-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-fiend-twin-bat-birch-skateboard-deck",
+    "productName": "Creature Fiend Twin Bat Birch Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461467/zumiezbuild/uuj2gvw5l4inipb6fn8k.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "59.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-fiend-twin-birch-8-2-skateboard-deck.html"
+      },
+      {
+        "tactics": "54.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/creature/fiend-twin-bat-82-7-ply-birch-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-gravette-truce-skateboard-deck",
+    "productName": "Creature Gravette Truce Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461295/zumiezbuild/fsnkt4kxv44pw6g9kn2v.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "67.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-gravette-truce-8-3-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-hitz-larb-machine-skateboard-deck",
+    "productName": "Creature Hitz Larb Machine Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462044/zumiezbuild/jj4vcfdyx1lnjspeepjq.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "68.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-hitz-larb-machine-8-9-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-igniter-skateboard-deck",
+    "productName": "Creature Igniter Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461919/zumiezbuild/td5f2aullafnyuynx56j.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "59.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-igniter-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-kimbel-fiend-flash-vx-skateboard-deck",
+    "productName": "Creature Kimbel Fiend Flash VX Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460845/zumiezbuild/o2tenjhhurnc9zn4tgph.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "74.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-kimbel-fiend-flash-vx-9-0-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-larry-skateboard-deck",
+    "productName": "Creature Larry Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461240/zumiezbuild/nyzso7oaacyyeydzvwo9.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "75.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-larry-8-75-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-lockwood-xploration-vx-skateboard-deck",
+    "productName": "Creature Lockwood Xploration VX Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460978/zumiezbuild/jh7288fixwwnm9el2mi7.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "91.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-lockwood-xploration-vx-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-logo-outline-stumps-skateboard-deck",
+    "productName": "Creature Logo Outline Stumps Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461572/zumiezbuild/jpmnemrr2oypexcoqmot.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "67.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-logo-outline-stumps-8-0-skateboard-deck-1.html"
+      },
+      {
+        "tactics": "65.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/creature/logo-outline-stumps-88-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-martinez-pharmacy-skateboard-deck",
+    "productName": "Creature Martinez Pharmacy Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460869/zumiezbuild/ibs6fbyvm5xvmfwbc2gw.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "72.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-martinez-pharmacy-8-6-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-martinez-shrine-skateboard-deck",
+    "productName": "Creature Martinez Shrine Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460668/zumiezbuild/u37szdrxerkyjckljlhj.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "68.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-martinez-shrine-8-7-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-provost-tripz-vx-skateboard-deck",
+    "productName": "Creature Provost Tripz VX Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461328/zumiezbuild/bmgbvgdd9a2bmwr3gq4t.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "94.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-provost-tripz-vx-8-47-skateboard-deck.html"
+      },
+      {
+        "spot": "93.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-collin-provost-manor-vx-deck?variant=50280289730833"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-raffin-crest-skateboard-deck",
+    "productName": "Creature Raffin Crest Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460940/zumiezbuild/gkmq30kngxle26e1scpt.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "54.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-raffin-crest-8-8-skateboard-deck.html"
+      },
+      {
+        "tactics": "64.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/creature/lockwood-crest-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-russel-reaper-vx-skateboard-deck",
+    "productName": "Creature Russel Reaper VX Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461351/zumiezbuild/vdtmap4btf2tq0xbsguh.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "91.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-russel-reaper-vx-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-russell-beastial-skateboard-deck",
+    "productName": "Creature Russell Beastial Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460871/zumiezbuild/zlrxjsmmylaifvoc1do0.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "68.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-8-6-russell-beastial-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-skateboards-cody-lockwood-memento-vx-everslick-deck",
+    "productName": "Creature Cody Lockwood Memento VX Everslick Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415528/ldjsonbuild/szt9lsfzldgmjgnhjor8.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "99.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-cody-lockwood-memento-vx-everslick-deck?variant=50590123360529"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-skateboards-forever-undead-deck",
+    "productName": "Creature Forever Undead Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415591/ldjsonbuild/f28uqutkav4i1azayuwy.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "55.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-forever-undead-deck?variant=50577805967633"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-skateboards-kevin-baekkel-demon-pro-deck",
+    "productName": "Creature Kevin Baekkel Demon Pro Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414432/ldjsonbuild/hvnwve4rwfgkblpcomdy.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "68.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-kevin-baekkel-demon-pro-deck?variant=51434089251089"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-worthington-alter-skateboard-deck",
+    "productName": "Creature Worthington Alter Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460647/zumiezbuild/ahhrokhigrsbos9hpacw.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "59.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-worthington-alter-8-6-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-worthington-bandits-skateboard-deck",
+    "productName": "Creature Worthington Bandits Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461054/zumiezbuild/kib4t4hlm5dgv1kicz6t.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "68.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-worthington-bandits-8-8-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-worthington-skullburn-skateboard-deck",
+    "productName": "Creature Worthington Skullburn Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460649/zumiezbuild/a41x4k7fgneax80zah2f.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "75.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-worthington-skullburn-8-6-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "creature-x-sketchy-tank-provost-trippy-tanks-vx-skateboard-deck",
+    "productName": "Creature x Sketchy Tank Provost Trippy Tanks VX Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460982/zumiezbuild/yqpxghxrux0pkusmu9gw.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "93.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/creature-x-sketchy-tank-provost-trippy-tanks-vx-8-8-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "crescent-bone-hand-ply-birch-skateboard-deck",
+    "productName": "Crescent Bone Hand 7 Ply Birch Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401560/ldjsonbuild/nlijlzjkvnqsbn4urdwl.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "54.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/santa-cruz/crescent-bone-hand-825-7-ply-birch-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "crockett-bio-skateboard-deck",
+    "productName": "Crockett Bio Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398512/ldjsonbuild/qtzz9j7n9mze8vjdscks.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/quasi-skateboards/crockett-bio-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "crockett-the-puker-skateboard-deck",
+    "productName": "Crockett The Puker Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397224/ldjsonbuild/lra8ufynjf253y8h7nim.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/quasi-skateboards/crockett-the-puker-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "cromer-cute-cate-skateboard-deck",
+    "productName": "Cromer Cute Cate Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400533/ldjsonbuild/oquffctesswswoik53mh.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "73.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/krooked/cromer-cute-cate-806-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "cross-eyed-skateboard-deck",
+    "productName": "Cross Eyed Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398443/ldjsonbuild/caagixe3xyfpiaoau7zf.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "54.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/umaverse/cross-eyed-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "cyborg-skateboard-deck",
+    "productName": "Cyborg Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402723/ldjsonbuild/fho1k34e8qwrt2as5cav.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "72.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/creature/cyborg-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "cydonia-skateboard-deck",
+    "productName": "Cydonia Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398042/ldjsonbuild/kukwlruvynwgp6z4mhqy.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "68.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/cydonia-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "cyrus-bennett-morph-skateboard-deck",
+    "productName": "Cyrus Bennett Morph Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399191/ldjsonbuild/f0dr5zqazio0ragtuyye.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "76.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/limosine/cyrus-bennett-morph-825-skateboard-deck"
+      },
+      {
+        "spot": "78.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/limosine-cyrus-bennett-morph-deck?variant=50996808352017"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "daan-absentes-skateboard-deck",
+    "productName": "Daan Absentes Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398634/ldjsonbuild/bcmmvlsdkcv9wlmbvgtg.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "83.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/anti-hero/daan-absentes-838-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "daewon-monsters-skateboard-deck",
+    "productName": "Daewon 3 Monsters Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399347/ldjsonbuild/csluvxxwsfqbftem7nq5.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/thank-you/daewon-3-monsters-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "damion-skateboard-deck",
+    "productName": "Damion Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396030/ldjsonbuild/hqlgnwqswsha3neowj38.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "61.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/transportation-unit-skateboards/damion-85-skateboard-deck/red"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dashawn-aim-skateboard-deck",
+    "productName": "Dashawn Aim Deck",
+    "cloudinaryUrl": "",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/april/dashawn-aim-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dashawn-character-skateboard-deck",
+    "productName": "Dashawn Character Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399231/ldjsonbuild/s7zooeyn2gcifwra12ut.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/april/dashawn-character-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "david-strenstrom-tape-panther-d1-wheel-wells-shape",
+    "productName": "David Strenström Tape & Panther D1 Wheel Wells Shape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400815/ldjsonbuild/qwwxmkozidqo29cnzsoo.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "76.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/polar-skate-co/david-strenstrm-tape-panther-925-d1-wheel-wells-shape"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "david-strenstrom-toba-skateboard-deck",
+    "productName": "David Strenström Toba Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402316/ldjsonbuild/ww7zip8kvfduwvucwzrd.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "71.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/polar-skate-co/david-strenstrm-toba-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "davis-serif-skateboard-deck",
+    "productName": "Davis Serif Deck",
+    "cloudinaryUrl": "",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "58.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/girl/davis-serif-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dbx-oval-basalt-skateboard-deck",
+    "productName": "DBX Oval Basalt Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401615/ldjsonbuild/if71t7jad6airhyxsnmh.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "114.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/real/dbx-oval-85-basalt-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dead-dave-allegory-of-fear-skateboard-deck",
+    "productName": "Dead Dave Allegory Of Fear Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399341/ldjsonbuild/gh18ct5doawh5lsbb5dz.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "82.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/heroin/dead-dave-allegory-of-fear-101-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dead-dave-bug-skateboard-deck",
+    "productName": "Dead Dave Bug Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401536/ldjsonbuild/rec0ustoqc3g9jlkliop.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "84.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/heroin/dead-dave-bug-101-skateboard-deck/yellow"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dead-dave-hellscape-skateboard-deck",
+    "productName": "Dead Dave Hellscape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396470/ldjsonbuild/rppcugtqjesd9cycx1qj.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "82.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/heroin/dead-dave-hellscape-101-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dead-moon-skateboard-deck",
+    "productName": "Dead Moon Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396208/ldjsonbuild/qvoshq9hhj3p7hceb3vn.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "74.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/zero/dead-moon-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dear-george-skateboard-deck",
+    "productName": "Dear George 2 Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402600/ldjsonbuild/pwx8pysu1nezabuqjsyn.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "71.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/frog/dear-george-2-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "deathwish-big-boy-foy-new-balance-skateboard-deck",
+    "productName": "Deathwish Big Boy Foy New Balance Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460996/zumiezbuild/bnfthgod6akfwzqjqyyb.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "78.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/deathwish-big-boy-foy-new-balance-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  }
+]

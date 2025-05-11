@@ -1,0 +1,17 @@
+{
+  "productName": "Chris Anderson 5Ball Deck",
+  "productBrand": "5boro",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398524/ldjsonbuild/eeg7tbsmsu2ann65qxtp.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/5boro/chris-anderson-5ball-85-skateboard-deck/black",
+  "productPrices": [
+    {
+      "tactics": "59.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/5boro/chris-anderson-5ball-85-skateboard-deck/black"
+    }
+  ]
+}

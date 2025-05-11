@@ -1,0 +1,17 @@
+{
+  "productName": "Grund Untitled Deck",
+  "productBrand": "Polar Skate Co.",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400080/ldjsonbuild/jpbdm03tbweip0j6ijtq.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/polar-skate-co/grund-untitled-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "71.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/polar-skate-co/grund-untitled-825-skateboard-deck"
+    }
+  ]
+}

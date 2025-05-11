@@ -1,0 +1,17 @@
+{
+  "productName": "Terpening CPU Deck",
+  "productBrand": "Swim Skateboard Co",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395818/ldjsonbuild/vgsyzsidnxz07xxwckkb.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/swim-skateboard-co/terpening-cpu-85-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/swim-skateboard-co/terpening-cpu-85-skateboard-deck"
+    }
+  ]
+}

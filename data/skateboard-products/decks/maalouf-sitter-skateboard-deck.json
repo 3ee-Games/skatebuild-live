@@ -1,0 +1,17 @@
+{
+  "productName": "Maalouf Sitter Deck",
+  "productBrand": "WKND",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401001/ldjsonbuild/hmseq7uxqg3v3gtjacdu.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/wknd-skateboards/maalouf-sitter-85-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/wknd-skateboards/maalouf-sitter-85-skateboard-deck"
+    }
+  ]
+}

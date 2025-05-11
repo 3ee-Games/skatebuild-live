@@ -1,0 +1,17 @@
+{
+  "productName": "Grizzly Boneyard Deck",
+  "productBrand": "Grizzly Griptape",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461786/zumiezbuild/imikls9y1vsjztvn25c3.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/grizzly-boneyard-8-25-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "59.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/grizzly-boneyard-8-25-skateboard-deck.html"
+    }
+  ]
+}

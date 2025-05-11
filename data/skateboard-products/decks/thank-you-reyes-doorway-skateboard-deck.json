@@ -1,0 +1,22 @@
+{
+  "productName": "Thank You Reyes Doorway Deck",
+  "productBrand": "Thank You Skateboards",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461175/zumiezbuild/yskgdgc5var8iu2nhqeh.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/thank-you-reyes-doorway-8-5-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "44.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/thank-you-reyes-doorway-8-5-skateboard-deck.html"
+    },
+    {
+      "tactics": "71.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/thank-you/reyes-doorway-85-skateboard-deck"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Cyborg Deck",
+  "productBrand": "Creature",
+  "productType": "Cruiser Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402723/ldjsonbuild/fho1k34e8qwrt2as5cav.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/creature/cyborg-85-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "72.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/creature/cyborg-85-skateboard-deck"
+    }
+  ]
+}

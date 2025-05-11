@@ -1,0 +1,17 @@
+{
+  "productName": "Monster Deck",
+  "productBrand": "Toy Machine",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401118/ldjsonbuild/x6jbqstt5tym5epoz0kv.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/toy-machine/monster-825-skateboard-deck/orange",
+  "productPrices": [
+    {
+      "tactics": "68.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/toy-machine/monster-825-skateboard-deck/orange"
+    }
+  ]
+}

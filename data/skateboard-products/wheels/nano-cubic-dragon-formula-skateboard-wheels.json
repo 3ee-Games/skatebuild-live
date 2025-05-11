@@ -1,0 +1,22 @@
+{
+  "productName": "Nano Cubic Dragon Formula Wheels",
+  "productBrand": "Powell Peralta",
+  "productType": "Park/Street Wheels",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746405823/ldjsonbuild/pxq8ov64ngkjnbpmmywq.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544888,
+  "productVendorUrl": "https://www.tactics.com/powell-peralta/nano-cubic-dragon-formula-skateboard-wheels/off-white-52-93a",
+  "productPrices": [
+    {
+      "tactics": "42.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/powell-peralta/nano-cubic-dragon-formula-skateboard-wheels/off-white-52-93a"
+    },
+    {
+      "spot": "44.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/powell-peralta-nano-cubic-dragon-formula-93a-wheels?variant=50986490036497"
+    }
+  ]
+}

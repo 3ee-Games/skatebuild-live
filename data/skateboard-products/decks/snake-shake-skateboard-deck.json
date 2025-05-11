@@ -1,0 +1,17 @@
+{
+  "productName": "Snake Shake Deck",
+  "productBrand": "Doom Sayers Club",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397497/ldjsonbuild/jdtvyomkv5unhrhiobea.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/doom-sayers-club/snake-shake-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "59.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/doom-sayers-club/snake-shake-825-skateboard-deck"
+    }
+  ]
+}

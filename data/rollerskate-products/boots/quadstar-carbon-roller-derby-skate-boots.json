@@ -1,0 +1,22 @@
+{
+  "productName": "Quadstar Carbon Roller Derby Skate",
+  "productBrand": "Bont",
+  "productType": "huck wheels",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746364559/ldjsonbuild/yyh1vnwkqfuxhkngsrct.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569735,
+  "productVendorUrl": "https://bont.com/collections/roller-derby-skates/products/quadstar-carbon-roller-derby-skate-boots",
+  "productPrices": [
+    {
+      "bont": "289.0",
+      "url": "https://bont.com",
+      "productVendorUrl": "https://bont.com/collections/roller-derby-skates/products/quadstar-carbon-roller-derby-skate-boots"
+    },
+    {
+      "medusaskates": "389",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/bont-hybrid-carbon-roller-derby-skate-boot-leather/"
+    }
+  ]
+}

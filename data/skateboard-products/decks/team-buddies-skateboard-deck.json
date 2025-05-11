@@ -1,0 +1,17 @@
+{
+  "productName": "Team Buddies Deck",
+  "productBrand": "Space Program",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398592/ldjsonbuild/j9x89tqhrjlr5vrcbesz.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/space-program/team-buddies-825-skateboard-deck/army",
+  "productPrices": [
+    {
+      "tactics": "58.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/space-program/team-buddies-825-skateboard-deck/army"
+    }
+  ]
+}

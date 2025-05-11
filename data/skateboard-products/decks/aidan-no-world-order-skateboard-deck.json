@@ -1,0 +1,22 @@
+{
+  "productName": "Aidan No World Order Deck",
+  "productBrand": "Fucking Awesome",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400092/ldjsonbuild/x0mpbeiytf82r0hdt8hq.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/fucking-awesome/aidan-no-world-order-844-skateboard-deck/red",
+  "productPrices": [
+    {
+      "tactics": "77.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/fucking-awesome/aidan-no-world-order-844-skateboard-deck/red"
+    },
+    {
+      "spot": "78.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/fucking-awesome-aidan-mackey-no-world-order-deck?variant=51071732351249"
+    }
+  ]
+}

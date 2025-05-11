@@ -1,0 +1,22 @@
+{
+  "productName": "Krooked Eyes White Deck",
+  "productBrand": "Krooked Skateboards",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461439/zumiezbuild/tlme4toyrob0qy8igkis.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/krooked-eyes-white-8-06-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "69.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/krooked-eyes-white-8-06-skateboard-deck.html"
+    },
+    {
+      "spot": "70.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/krooked-dipped-white-team-eyes-deck?variant=51372468961553"
+    }
+  ]
+}

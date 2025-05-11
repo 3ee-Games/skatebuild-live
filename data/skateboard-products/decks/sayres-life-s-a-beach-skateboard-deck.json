@@ -1,0 +1,17 @@
+{
+  "productName": "Sayres Lifes A Beach Deck",
+  "productBrand": "Traffic",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397246/ldjsonbuild/cvjpzu5rq0d91tspfdvv.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/traffic-skateboards/sayres-lifes-a-beach-838-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "55.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/traffic-skateboards/sayres-lifes-a-beach-838-skateboard-deck"
+    }
+  ]
+}

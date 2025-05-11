@@ -1,0 +1,17 @@
+{
+  "productName": "Polarizer Trucks",
+  "productBrand": "The Heated Wheel",
+  "productType": "Trucks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393142/ldjsonbuild/uaoyxyhsohea5ig95msv.webp",
+  "imageWidth": 263,
+  "imageHeight": 144,
+  "updated": 1746544886,
+  "productVendorUrl": "https://www.tactics.com/the-heated-wheel/polarizer-skateboard-trucks/black",
+  "productPrices": [
+    {
+      "tactics": "53.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/the-heated-wheel/polarizer-skateboard-trucks/black"
+    }
+  ]
+}

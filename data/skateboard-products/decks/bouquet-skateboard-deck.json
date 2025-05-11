@@ -1,0 +1,17 @@
+{
+  "productName": "Bouquet Deck",
+  "productBrand": "Opera",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400182/ldjsonbuild/wrmgyxrqvuo0qo5hkp3y.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/opera/bouquet-87-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "68.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/opera/bouquet-87-skateboard-deck"
+    }
+  ]
+}

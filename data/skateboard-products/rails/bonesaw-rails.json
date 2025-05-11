@@ -1,0 +1,17 @@
+{
+  "productName": "Bonesaw Rails",
+  "productBrand": "Creature",
+  "productType": "Deck Accessories",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392799/ldjsonbuild/vrjjqfio65ia0pwo6jzd.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544884,
+  "productVendorUrl": "https://www.tactics.com/creature/bonesaw-rails/orange",
+  "productPrices": [
+    {
+      "tactics": "11.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/creature/bonesaw-rails/orange"
+    }
+  ]
+}

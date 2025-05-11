@@ -1,0 +1,17 @@
+{
+  "productName": "Mini Gripper",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375749/ldjsonbuild/icm1ksax4cgof9irhufc.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569737,
+  "productVendorUrl": "https://www.suregrip.com/products/mini-gripper",
+  "productPrices": [
+    {
+      "suregrip": "14.95",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/mini-gripper"
+    }
+  ]
+}

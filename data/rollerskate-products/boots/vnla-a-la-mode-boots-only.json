@@ -1,0 +1,17 @@
+{
+  "productName": "VNLA A La Mode Only",
+  "productBrand": "VNLA",
+  "productType": "vnla a la mode boots only",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468135/ldjsonbuild/vpewkcrhqnomflfsmuaf.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569735,
+  "productVendorUrl": "https://medusaskates.com/vnla-a-la-mode-boots-only/",
+  "productPrices": [
+    {
+      "medusaskates": "149.99",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/vnla-a-la-mode-boots-only/"
+    }
+  ]
+}

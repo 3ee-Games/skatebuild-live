@@ -1,0 +1,17 @@
+{
+  "productName": "Powerdyne Arius Truck Single",
+  "productBrand": "Riedell",
+  "productType": "arius replacement truck",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468611/ldjsonbuild/oj8kjc7qelsmqqs22v2s.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569738,
+  "productVendorUrl": "https://medusaskates.com/arius-replacement-truck/",
+  "productPrices": [
+    {
+      "medusaskates": "19.99",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/arius-replacement-truck/"
+    }
+  ]
+}

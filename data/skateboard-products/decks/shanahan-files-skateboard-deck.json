@@ -1,0 +1,22 @@
+{
+  "productName": "Shanahan Files Deck",
+  "productBrand": "DGK",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400103/ldjsonbuild/giuygrcybnpohm7j7xra.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/dgk/shanahan-files-838-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/dgk/shanahan-files-838-skateboard-deck"
+    },
+    {
+      "spot": "75.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/dgk-john-shanahan-thrift-deck?variant=51297382727953"
+    }
+  ]
+}

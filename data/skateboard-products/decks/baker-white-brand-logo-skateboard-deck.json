@@ -1,0 +1,27 @@
+{
+  "productName": "Baker White Brand Logo Deck",
+  "productBrand": "Baker Skateboards",
+  "productType": "Retro Skate",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461428/zumiezbuild/u29xtlzjacnxh4wr69r6.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/baker-white-brand-logo-8-5-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "78.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/baker-white-brand-logo-8-5-skateboard-deck.html"
+    },
+    {
+      "tactics": "39.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/tactics/oval-logo-skateboard-deck/orange"
+    },
+    {
+      "spot": "72.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/april-skateboards-og-logo-photo-deck?variant=51397818941713"
+    }
+  ]
+}

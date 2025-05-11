@@ -1,0 +1,17 @@
+{
+  "productName": "PC Deck",
+  "productBrand": "Santa Monica Airlines",
+  "productType": "Cruiser Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396945/ldjsonbuild/gqqcfwbuud4mnht0saly.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/santa-monica-airlines/pc-95-skateboard-deck/black-stain",
+  "productPrices": [
+    {
+      "tactics": "109.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/santa-monica-airlines/pc-95-skateboard-deck/black-stain"
+    }
+  ]
+}

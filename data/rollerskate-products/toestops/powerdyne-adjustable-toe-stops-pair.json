@@ -1,0 +1,22 @@
+{
+  "productName": "PowerDyne Adjustable Toe Stops Pair",
+  "productBrand": "Riedell",
+  "productType": "powerdyne adjustable toe stops pair",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468687/ldjsonbuild/wcc4njjc8bx2fj8ulncu.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569737,
+  "productVendorUrl": "https://medusaskates.com/powerdyne-adjustable-toe-stops-pair/",
+  "productPrices": [
+    {
+      "medusaskates": "10",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/powerdyne-adjustable-toe-stops-pair/"
+    },
+    {
+      "moxi": "12.0",
+      "url": "https://www.moxiskates.com",
+      "productVendorUrl": "https://www.moxiskates.com/collections/toe-stops/products/powerdyne-adjustable-toe-stops"
+    }
+  ]
+}

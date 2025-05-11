@@ -1,0 +1,17 @@
+{
+  "productName": "Specters Wheels",
+  "productBrand": "Orbs",
+  "productType": "Park/Street Wheels",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393463/ldjsonbuild/farjzlr6wcaydq36kkvv.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544888,
+  "productVendorUrl": "https://www.tactics.com/orbs/specters-skateboard-wheels/pink-yellow-swirl-99a",
+  "productPrices": [
+    {
+      "tactics": "29.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/orbs/specters-skateboard-wheels/pink-yellow-swirl-99a"
+    }
+  ]
+}

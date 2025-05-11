@@ -1,0 +1,17 @@
+{
+  "productName": "McCoy Space Chick VX Deck",
+  "productBrand": "Santa Cruz",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400256/ldjsonbuild/i233jmnez20v3701ains.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/santa-cruz/mccoy-space-chick-825-vx-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "88.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/santa-cruz/mccoy-space-chick-825-vx-skateboard-deck"
+    }
+  ]
+}

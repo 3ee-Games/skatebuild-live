@@ -1,0 +1,17 @@
+{
+  "productName": "Jacopo Dimensions Deck",
+  "productBrand": "Baker",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402049/ldjsonbuild/rzcyxv9207a5qiip3bys.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/baker/jacopo-dimensions-80-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "73.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/baker/jacopo-dimensions-80-skateboard-deck"
+    }
+  ]
+}

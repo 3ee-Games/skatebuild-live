@@ -1,0 +1,17 @@
+{
+  "productName": "Pilz Patrons Deck",
+  "productBrand": "Jacuzzi Unlimited",
+  "productType": "Cruiser Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399483/ldjsonbuild/zlecifvhkirepfm0hckg.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/pilz-patrons-9125-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "68.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/pilz-patrons-9125-skateboard-deck"
+    }
+  ]
+}

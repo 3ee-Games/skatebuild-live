@@ -1,0 +1,17 @@
+{
+  "productName": "BRAT Deck",
+  "productBrand": "Carpet",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397421/ldjsonbuild/cg2xvmnfkvrho85h1miq.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/carpet/brat-81-skateboard-deck/red",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/carpet/brat-81-skateboard-deck/red"
+    }
+  ]
+}

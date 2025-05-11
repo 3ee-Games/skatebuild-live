@@ -1,0 +1,22 @@
+{
+  "productName": "Kai Kishi Figures Deck",
+  "productBrand": "April",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/april/kai-kishi-figures-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/april/kai-kishi-figures-825-skateboard-deck"
+    },
+    {
+      "spot": "72.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/april-skateboards-kai-kishi-figures-deck?variant=51474250105105"
+    }
+  ]
+}

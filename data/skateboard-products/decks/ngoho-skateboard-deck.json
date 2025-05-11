@@ -1,0 +1,17 @@
+{
+  "productName": "Ngoho Deck",
+  "productBrand": "Santa Monica Airlines",
+  "productType": "Cruiser Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397844/ldjsonbuild/b3xra0me3n9pousthkmw.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/santa-monica-airlines/ngoho-95-skateboard-deck/yellow-stain",
+  "productPrices": [
+    {
+      "tactics": "109.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/santa-monica-airlines/ngoho-95-skateboard-deck/yellow-stain"
+    }
+  ]
+}

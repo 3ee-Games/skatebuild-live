@@ -1,0 +1,17 @@
+{
+  "productName": "Sect Eye Deck",
+  "productBrand": "Toy Machine",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402132/ldjsonbuild/wi7ngacrkngbwnvgvi67.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/toy-machine/sect-eye-813-skateboard-deck/bloodshot",
+  "productPrices": [
+    {
+      "tactics": "48.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/toy-machine/sect-eye-813-skateboard-deck/bloodshot"
+    }
+  ]
+}

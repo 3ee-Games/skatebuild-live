@@ -1,0 +1,17 @@
+{
+  "productName": "Denley Throwie Deck",
+  "productBrand": "Hopps",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746403570/ldjsonbuild/kpwnusv645ppuhkjq4v7.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/hopps-skateboards/denley-throwie-825-skateboard-deck/red",
+  "productPrices": [
+    {
+      "tactics": "55.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/hopps-skateboards/denley-throwie-825-skateboard-deck/red"
+    }
+  ]
+}

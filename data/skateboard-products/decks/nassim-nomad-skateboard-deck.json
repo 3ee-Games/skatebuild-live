@@ -1,0 +1,17 @@
+{
+  "productName": "Nassim Nomad Deck",
+  "productBrand": "Opera",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392385/ldjsonbuild/akjampflu1a2c73qd2kv.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/opera/nassim-nomad-8375-skateboard-deck/black-blue",
+  "productPrices": [
+    {
+      "tactics": "68.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/opera/nassim-nomad-8375-skateboard-deck/black-blue"
+    }
+  ]
+}

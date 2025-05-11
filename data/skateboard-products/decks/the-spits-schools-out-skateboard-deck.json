@@ -1,0 +1,17 @@
+{
+  "productName": "The Spits Schools Out Deck",
+  "productBrand": "Zero",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746403246/ldjsonbuild/axxjv7q0ca0ek0qcjjjg.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/zero/the-spits-schools-out-925-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "79.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/zero/the-spits-schools-out-925-skateboard-deck"
+    }
+  ]
+}

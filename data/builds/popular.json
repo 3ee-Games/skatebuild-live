@@ -1,0 +1,29 @@
+{
+    "builds": [
+        {
+            "name": "sbooker t roller",
+            "type": "skateboard",
+            "url": "/builds/catra/sboook-sdfsdf"
+        },
+        {
+            "name": "street skate",
+            "type": "skateboard",
+            "url": "/builds/catra/street-skate"
+        },
+        {
+            "name": "oh lordie",
+            "type": "skateboard",
+            "url": "/builds/catra/oh-lordie"
+        },
+        {
+            "name": "giblet",
+            "type": "rollerskate",
+            "url": "/builds/catra/giblet"
+        },
+        {
+            "name": "asdaw roller",
+            "type": "skateboard",
+            "url": "/builds/catra/sboook-sdfsdf"
+        }
+    ]
+}

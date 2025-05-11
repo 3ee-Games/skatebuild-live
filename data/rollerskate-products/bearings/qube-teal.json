@@ -1,0 +1,17 @@
+{
+  "productName": "QUBE Teal",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375490/ldjsonbuild/ib6dz5uitoxfcfeihcgw.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569734,
+  "productVendorUrl": "https://www.suregrip.com/products/qube-teal",
+  "productPrices": [
+    {
+      "suregrip": "29.95",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/qube-teal"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Heart Deck",
+  "productBrand": "Limosine",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395813/ldjsonbuild/re06ifqsmtha8chcivfj.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/limosine/heart-825-skateboard-deck/black",
+  "productPrices": [
+    {
+      "tactics": "76.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/limosine/heart-825-skateboard-deck/black"
+    }
+  ]
+}

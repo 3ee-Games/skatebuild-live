@@ -1,0 +1,17 @@
+{
+  "productName": "Juice",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375496/ldjsonbuild/mpxvswg9gf6headxmsho.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569734,
+  "productVendorUrl": "https://www.suregrip.com/products/juice",
+  "productPrices": [
+    {
+      "suregrip": "33.95",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/juice"
+    }
+  ]
+}

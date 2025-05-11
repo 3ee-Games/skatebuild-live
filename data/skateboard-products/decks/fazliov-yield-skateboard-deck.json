@@ -1,0 +1,17 @@
+{
+  "productName": "Fazliov Yield Deck",
+  "productBrand": "The Heated Wheel",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400995/ldjsonbuild/jtzc6ssiln5cf5vrhozb.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/the-heated-wheel/fazliov-yield-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "64.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/the-heated-wheel/fazliov-yield-825-skateboard-deck"
+    }
+  ]
+}

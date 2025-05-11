@@ -1,0 +1,17 @@
+{
+  "productName": "DGK Glass Deck",
+  "productBrand": "DGK",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461420/zumiezbuild/ijy8jkgvc0gal819rcsh.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/dgk-glass-8-25-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "69.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/dgk-glass-8-25-skateboard-deck.html"
+    }
+  ]
+}

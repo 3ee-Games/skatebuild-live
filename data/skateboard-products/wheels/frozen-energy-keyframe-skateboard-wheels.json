@@ -1,0 +1,27 @@
+{
+  "productName": "Frozen Energy Keyframe Wheels",
+  "productBrand": "OJ",
+  "productType": "Park/Street Wheels",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746405897/ldjsonbuild/ml9ojccr6c01jy1hizux.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544888,
+  "productVendorUrl": "https://www.tactics.com/oj/frozen-energy-keyframe-skateboard-wheels/white-92a",
+  "productPrices": [
+    {
+      "tactics": "38.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/oj/frozen-energy-keyframe-skateboard-wheels/white-92a"
+    },
+    {
+      "zumiez": "39.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/oj-frozen-energy-keyframe-52mm-92a-black-skateboard-wheels.html"
+    },
+    {
+      "spot": "39.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/oj-3-frozen-energy-92a-wheels?variant=51210060366097"
+    }
+  ]
+}

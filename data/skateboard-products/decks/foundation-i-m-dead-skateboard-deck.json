@@ -1,0 +1,22 @@
+{
+  "productName": "Foundation Im Dead Deck",
+  "productBrand": "Foundation Skateboards",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461908/zumiezbuild/we8wjrm7xlwrszhmvgfq.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/foundation-im-dead-8-38-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "69.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/foundation-im-dead-8-38-skateboard-deck.html"
+    },
+    {
+      "tactics": "68.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/foundation/im-dead-838-skateboard-deck"
+    }
+  ]
+}

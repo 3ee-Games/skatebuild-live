@@ -1,0 +1,17 @@
+{
+  "productName": "Aidan Portrait Deck",
+  "productBrand": "Fucking Awesome",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398432/ldjsonbuild/obxau1ioaehtlgmpofs0.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/fucking-awesome/aidan-portrait-844-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "77.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/fucking-awesome/aidan-portrait-844-skateboard-deck"
+    }
+  ]
+}

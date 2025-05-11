@@ -1,0 +1,767 @@
+[
+  {
+    "slug": "doobie-wild-unknown-skateboard-deck",
+    "productName": "Doobie Wild Unknown Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746403042/ldjsonbuild/h49n7y1yqcyrfaie2egs.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "76.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/anti-hero/doobie-wild-unknown-875-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "doom-sayers-corpo-guy-deck",
+    "productName": "Doom Sayers Corpo Guy Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414814/ldjsonbuild/qawvxe3koqs5am1ritps.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "64.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/doom-sayers-corpo-guy-deck?variant=51283742687505"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "doom-sayers-eli-williams-snake-shake-deck",
+    "productName": "Doom Sayers Eli Williams Snake Shake 3D Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414804/ldjsonbuild/eep78fta2i6eaedenzxr.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "62.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/doom-sayers-eli-williams-snake-shake-3d-deck?variant=51283746652433"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "doom-sayers-never-bite-deck",
+    "productName": "Doom Sayers Never Bite Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414798/ldjsonbuild/hbe4rb9vztdasqfdofrs.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "64.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/doom-sayers-never-bite-deck?variant=51283748258065"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "doomsayers-devilman-skateboard-deck",
+    "productName": "Doomsayers Devilman Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461767/zumiezbuild/gi61ckysbobrjqjwnjvi.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "64.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/doomsayers-devilman-8-0-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "doomsayers-eli-skateboard-deck",
+    "productName": "Doomsayers Eli Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461272/zumiezbuild/nf8jqruv1kdshodfrkal.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "64.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/doomsayers-eli-8-5-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "doomsayers-never-rat-skateboard-deck",
+    "productName": "Doomsayers Never Rat Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461953/zumiezbuild/plfaxg2k78yfqojzekh9.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "64.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/doomsayers-never-rat-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "double-duty-cops-easy-rider-shape-skateboard-deck",
+    "productName": "Double Duty Cops Easy Rider Shape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397471/ldjsonbuild/vcwc82iijakwupljvfv7.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "74.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/real/double-duty-cops-825-easy-rider-shape-skateboard-deck"
+      },
+      {
+        "spot": "72.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/real-double-duty-cop-easy-rider-deck?variant=51484192735505"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "double-duty-security-true-fit-shape-skateboard-deck",
+    "productName": "Double Duty Security True Fit Shape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401729/ldjsonbuild/effsezv9ayrarqoksxc0.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "79.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/real/double-duty-security-85-true-fit-shape-skateboard-deck"
+      },
+      {
+        "spot": "72.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/real-double-duty-security-true-fit-deck?variant=51484196110609"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dressen-laugh-it-up-skateboard-deck",
+    "productName": "Dressen Laugh It Up Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402024/ldjsonbuild/toyjks2r70zhgwqiufn6.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "74.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/santa-cruz/dressen-laugh-it-up-925-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dressen-pup-ltd-reissue-skateboard-deck",
+    "productName": "Dressen Pup LTD Reissue Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402636/ldjsonbuild/capfhlhvhzjyqo80yyy3.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "82.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/santa-cruz/dressen-pup-95-ltd-reissue-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dressen-sumo-dog-skateboard-deck",
+    "productName": "Dressen Sumo Dog Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399979/ldjsonbuild/o6jlmutht1om8raoxaar.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "74.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/santa-cruz/dressen-sumo-dog-93-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "drifter-skateboard-deck",
+    "productName": "Drifter Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397627/ldjsonbuild/eqexlno8o5kicm6km7cj.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "58.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/fixer/drifter-95-skateboard-deck/blue"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dustin-henry-uncle-skateboard-deck",
+    "productName": "Dustin Henry Uncle Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400575/ldjsonbuild/geujjme3s59hjs473iqi.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "71.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/frog/dustin-henry-uncle-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dyson-sphere-skateboard-deck",
+    "productName": "Dyson Sphere Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398126/ldjsonbuild/hsglu3eyauem2dnftpxb.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/sci-fi-fantasy/dyson-sphere-80-skateboard-deck/pink"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "edglrd-aggro-dr1ft-decapitation-deck",
+    "productName": "Edglrd AGGRO DR1FT Decapitation Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415556/ldjsonbuild/o12legibpvsn8szdryel.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "85.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/edglrd-aggro-dr1ft-decapitation-deck?variant=50578747195665"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "edglrd-blue-agony-deck",
+    "productName": "Edglrd Blue Agony Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415547/ldjsonbuild/asbp4kg4rkmmbuttfhvb.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "85.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/edglrd-blue-agony-deck?variant=50578758140177"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "edglrd-green-money-deck",
+    "productName": "Edglrd Green Money Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415561/ldjsonbuild/deljm7dc2wgvs4wkqkqm.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "85.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/edglrd-green-money-deck?variant=50578723799313"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "edglrd-photopolymer-1nv45i0n-deck",
+    "productName": "Edglrd Photopolymer 1nv45i0n Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415552/ldjsonbuild/oqprsea98ewgxggnjgwm.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "450.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/edglrd-photopolymer-1nv45i0n-deck?variant=50578753224977"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "edwards-scissor-hands-skateboard-deck",
+    "productName": "Edwards Scissor Hands Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398031/ldjsonbuild/sfjfjoozwfm7it9qwpxx.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/zero/edwards-scissor-hands-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "edwards-stipo-skateboard-deck",
+    "productName": "Edwards Stipo Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397264/ldjsonbuild/x3gvdw9l8xeqdhr1t1to.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/zero/edwards-stipo-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "egg-eater-wheel-wells-skateboard-deck",
+    "productName": "Egg Eater Wheel Wells Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400245/ldjsonbuild/caunvccofoiflccqa3y3.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "82.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/heroin/egg-eater-975-wheel-wells-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "eggeling-artist-series-skateboard-deck",
+    "productName": "Eggeling Artist Series Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399413/ldjsonbuild/zxzx5kprdym4awh57vpr.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "74.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/hopps-skateboards/eggeling-artist-series-838-skateboard-deck/teal"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "eggeling-throwie-skateboard-deck",
+    "productName": "Eggeling Throwie Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746403217/ldjsonbuild/rm0edels9ixxt3phzjti.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "55.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/hopps-skateboards/eggeling-throwie-85-skateboard-deck/red"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "eggzilla-skateboard-deck",
+    "productName": "Eggzilla 3 Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395953/ldjsonbuild/ijd0u3zkzox159kcznrx.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "129.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/heroin/eggzilla-3-140-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "egypt-skateboard-deck",
+    "productName": "Egypt Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396923/ldjsonbuild/uq6ud8gr9zw7pwaaafda.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "75.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/carpet/egypt-825-skateboard-deck/black-green"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "elenex-cherry-rose-skateboard-deck",
+    "productName": "Elenex Cherry Rose Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461487/zumiezbuild/ttbjgr68cmdjzh3pyden.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "46.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/elenex-cherry-rose-8-0-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "elenex-mercy-rose-silver-foil-skateboard-deck",
+    "productName": "Elenex Mercy Rose Silver Foil Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461869/zumiezbuild/riogxidbfoiykmcpgs30.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "46.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/elenex-mercy-rose-silver-foil-8-5-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "elenex-momo-skateboard-deck",
+    "productName": "Elenex Momo Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461607/zumiezbuild/tfzv8jafup9bu0e4kcst.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "46.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/elenex-momo-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "elenex-passion-skateboard-deck",
+    "productName": "Elenex Passion 240 Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461871/zumiezbuild/ri3r9l15gxsbriwyjjkg.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "39.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/elenex-passion-240-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "elenex-x-t-eric-monroe-beyonce-skateboard-deck",
+    "productName": "Elenex x T. Eric Monroe Beyonce Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461777/zumiezbuild/mzattwschonxyrbbpccf.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "64.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/elenex-x-t-eric-monroe-beyonce-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "elijah-odom-flexerx-skateboard-deck",
+    "productName": "Elijah Odom Flexerx Deck",
+    "cloudinaryUrl": "",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "72.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/edglrd/elijah-odom-flexerx-838-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "ellington-breaking-and-entering-skateboard-deck",
+    "productName": "Ellington Breaking And Entering Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402792/ldjsonbuild/dcyo35m4xabblujip0fe.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "74.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/deathwish/ellington-breaking-and-entering-80-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "ellington-east-double-driller-skateboard-deck",
+    "productName": "Ellington East 76th Double Driller Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398367/ldjsonbuild/mjy4qoxsy6gkl1tngt9z.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "82.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/deathwish/ellington-east-76th-90-double-driller-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "ellington-the-twins-skateboard-deck",
+    "productName": "Ellington The Twins Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392397/ldjsonbuild/giizup5kjf8agd7wtdb8.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "84.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/deathwish/ellington-the-twins-975-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "embedded-skateboard-deck",
+    "productName": "Embedded Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402037/ldjsonbuild/rwfzyzkjtgt058nvf9do.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "71.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/gx1000/embedded-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "emile-laurent-turtle-town-skateboard-deck",
+    "productName": "Emile Laurent Turtle Town Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398780/ldjsonbuild/u7fq1ak8p4owdxo5vpvp.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "71.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/polar-skate-co/emile-laurent-turtle-town-825-skateboard-deck"
+      },
+      {
+        "spot": "73.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/polar-skateboards-emile-laurent-burnside-2084-deck?variant=50451848823057"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "eniz-fazliov-pierced-frog-skateboard-deck",
+    "productName": "Eniz Fazliov Pierced Frog Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398721/ldjsonbuild/ogvr8pfz8aobk1erfh1y.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "65.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/the-heated-wheel/eniz-fazliov-pierced-frog-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "eniz-fazliov-snake-charmer-skateboard-deck",
+    "productName": "Eniz Fazliov Snake Charmer Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402470/ldjsonbuild/kndy3nqshirva1haqkyl.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "59.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/the-heated-wheel/eniz-fazliov-snake-charmer-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "enjoi-whitey-panda-skateboard-deck",
+    "productName": "Enjoi Whitey Panda Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461513/zumiezbuild/b7qyg0rwj7qyjdtw4f0p.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "59.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/enjoi-whitey-panda-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "eric-koston-flexerx-skateboard-deck",
+    "productName": "Eric Koston Flexerx Deck",
+    "cloudinaryUrl": "",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "72.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/edglrd/eric-koston-flexerx-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "eternal-friends-skateboard-deck",
+    "productName": "Eternal Friends Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396929/ldjsonbuild/z6tdsnpt7mcva74o8n5y.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "74.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/evisen/eternal-friends-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "ethan-loy-blade-skateboard-deck",
+    "productName": "Ethan Loy Blade Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395330/ldjsonbuild/i1gkjvxglnv5yp1vcyqj.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "68.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/swim-skateboard-co/ethan-loy-blade-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "ethan-loy-mad-gasser-skateboard-deck",
+    "productName": "Ethan Loy Mad Gasser Deck",
+    "cloudinaryUrl": "",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/swim-skateboard-co/ethan-loy-mad-gasser-838-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "evan-skull-skateboard-deck",
+    "productName": "Evan Skull Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397610/ldjsonbuild/h2llxhvhgv3puqf0r9ig.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "54.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/umaverse/evan-skull-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "evi-logo-skateboard-deck",
+    "productName": "Evi-Logo Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399616/ldjsonbuild/tdvvlmbaoxdvkvm7erxs.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "74.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/evisen/evi-logo-838-skateboard-deck/magma"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "evil-twins-twin-tip-shape-skateboard-deck",
+    "productName": "Evil Twins Twin Tip Shape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401592/ldjsonbuild/a7tuq4eawmtgijcr0wg2.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "64.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/creature/evil-twins-84-twin-tip-shape-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "evisen-mitani-tiger-in-the-shining-skateboard-deck",
+    "productName": "Evisen Mitani Tiger In The Shining Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461324/zumiezbuild/oipv1bkeafhkugmlfejp.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "76.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/evisen-mitani-tiger-in-the-shining-8-38-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "executioner-slick-shield-skateboard-deck",
+    "productName": "Executioner Slick Shield Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399863/ldjsonbuild/yf2n1w5jvmnhov9ia0za.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "72.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/opera/executioner-8625-slick-shield-skateboard-deck/multi"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "eye-of-the-monarch-skateboard-deck",
+    "productName": "Eye Of The Monarch Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396024/ldjsonbuild/x63xegpthsi9f4dhymr9.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "68.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/lovesick/eye-of-the-monarch-825-skateboard-deck/teal"
+      }
+    ],
+    "productTags": []
+  }
+]

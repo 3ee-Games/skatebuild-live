@@ -1,0 +1,17 @@
+{
+  "productName": "Perfect Frog Deck",
+  "productBrand": "Frog",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402232/ldjsonbuild/dih51e1ctlhq79su8e8h.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/frog/perfect-frog-825-skateboard-deck/holo",
+  "productPrices": [
+    {
+      "tactics": "72.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/frog/perfect-frog-825-skateboard-deck/holo"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Jr. Pro Plate",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375539/ldjsonbuild/gkx74ta7ivgqq7xfl2e1.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569736,
+  "productVendorUrl": "https://www.suregrip.com/products/jr-pro-plate",
+  "productPrices": [
+    {
+      "suregrip": "79.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/jr-pro-plate"
+    }
+  ]
+}

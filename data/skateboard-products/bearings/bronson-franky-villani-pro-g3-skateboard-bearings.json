@@ -1,0 +1,27 @@
+{
+  "productName": "Bronson Franky Villani Pro G3 Bearings",
+  "productBrand": "Bronson Speed Co.",
+  "productType": "Skateboard Parts",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460535/zumiezbuild/mrylqfmsv6fwnonpxode.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544876,
+  "productVendorUrl": "/bronson-franky-villani-pro-g3-skateboard-bearings.html",
+  "productPrices": [
+    {
+      "zumiez": "29.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/bronson-franky-villani-pro-g3-skateboard-bearings.html"
+    },
+    {
+      "tactics": "28.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/bronson-speed-co-bearings/g3-skateboard-bearings/orange"
+    },
+    {
+      "spot": "33.95",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/bronson-speed-co-g3-bearings-69681?variant=48243770261777"
+    }
+  ]
+}

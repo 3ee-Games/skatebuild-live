@@ -1,0 +1,17 @@
+{
+  "productName": "Servold Cowboy Deck",
+  "productBrand": "Foundation",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398814/ldjsonbuild/g5j5j5istbodja0zonzb.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/foundation/servold-cowboy-838-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/foundation/servold-cowboy-838-skateboard-deck"
+    }
+  ]
+}

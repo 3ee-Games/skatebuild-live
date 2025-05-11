@@ -1,0 +1,17 @@
+{
+  "productName": "Nikolai Piombo Uplevel Deck",
+  "productBrand": "WKND",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400334/ldjsonbuild/hufzqt3dty01qpvjszm6.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/wknd-skateboards/nikolai-piombo-uplevel-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/wknd-skateboards/nikolai-piombo-uplevel-825-skateboard-deck"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "VNLA Classic Limited Edition",
+  "productBrand": "VNLA",
+  "productType": "vnla classic limited edition",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468151/ldjsonbuild/ubjqxc4wrtk9efoyhgfk.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569735,
+  "productVendorUrl": "https://medusaskates.com/vnla-classic-limited-edition/",
+  "productPrices": [
+    {
+      "medusaskates": "179.99",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/vnla-classic-limited-edition/"
+    }
+  ]
+}

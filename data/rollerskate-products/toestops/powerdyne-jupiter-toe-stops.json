@@ -1,0 +1,22 @@
+{
+  "productName": "PowerDyne Jupiter Toe Stops",
+  "productBrand": "Riedell",
+  "productType": "powerdyne jupiter toe stops",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468781/ldjsonbuild/b5jpqh3lxfur5mjb1mva.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569737,
+  "productVendorUrl": "https://medusaskates.com/powerdyne-jupiter-toe-stops/",
+  "productPrices": [
+    {
+      "medusaskates": "30",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/powerdyne-jupiter-toe-stops/"
+    },
+    {
+      "moxi": "30.0",
+      "url": "https://www.moxiskates.com",
+      "productVendorUrl": "https://www.moxiskates.com/collections/toe-stops/products/jupiter-toe-stops"
+    }
+  ]
+}

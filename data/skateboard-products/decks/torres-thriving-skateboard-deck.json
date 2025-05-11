@@ -1,0 +1,17 @@
+{
+  "productName": "Torres Thriving Deck",
+  "productBrand": "Meow",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/meow/torres-thriving-80-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "62.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/meow/torres-thriving-80-skateboard-deck"
+    }
+  ]
+}

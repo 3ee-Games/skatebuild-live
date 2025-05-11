@@ -1,0 +1,22 @@
+{
+  "productName": "Toy Machine Templeton Graffiti Deck",
+  "productBrand": "Toy Machine",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461038/zumiezbuild/qin12apxaafwc7zkczbj.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/toy-machine-templeton-graffiti-9-5-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "71.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/toy-machine-templeton-graffiti-9-5-skateboard-deck.html"
+    },
+    {
+      "tactics": "74.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/toy-machine/templeton-graffiti-95-skateboard-deck"
+    }
+  ]
+}

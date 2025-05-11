@@ -1,0 +1,22 @@
+{
+  "productName": "Santa Cruz Dressen Rose Dagger Deck",
+  "productBrand": "Santa Cruz Skate",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460831/zumiezbuild/m5oewv2q1qexvudq30ay.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/santa-cruz-8-7-dressen-rose-dagger-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "54.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/santa-cruz-8-7-dressen-rose-dagger-skateboard-deck.html"
+    },
+    {
+      "tactics": "66.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/santa-cruz/dressen-rose-dagger-87-skateboard-deck/white"
+    }
+  ]
+}

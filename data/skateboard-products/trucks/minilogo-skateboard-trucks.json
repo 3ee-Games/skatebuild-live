@@ -1,0 +1,17 @@
+{
+  "productName": "MiniLogo Trucks",
+  "productBrand": "Mini Logo",
+  "productType": "Trucks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393131/ldjsonbuild/kwdqwkvu2vb3hkpv0kvs.webp",
+  "imageWidth": 263,
+  "imageHeight": 144,
+  "updated": 1746544886,
+  "productVendorUrl": "https://www.tactics.com/mini-logo/minilogo-713-skateboard-trucks/raw",
+  "productPrices": [
+    {
+      "tactics": "32.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/mini-logo/minilogo-713-skateboard-trucks/raw"
+    }
+  ]
+}

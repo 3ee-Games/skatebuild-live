@@ -1,0 +1,22 @@
+{
+  "productName": "Slappy ST1 Curb Creeper Purple & Black Truck",
+  "productBrand": "Slappy Truck Co.",
+  "productType": "Trucks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462537/zumiezbuild/vpvnxu11oqwy0olhuhq6.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544886,
+  "productVendorUrl": "/slappy-st1-curb-creeper-8-5-purple-black-skateboard-truck.html",
+  "productPrices": [
+    {
+      "zumiez": "19.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/slappy-st1-curb-creeper-8-5-purple-black-skateboard-truck.html"
+    },
+    {
+      "spot": "33.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/slappy-trucks-st1-hollow-lights-gunmetal-truck?variant=50977452196113"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "productName": "Belle Deck",
+  "productBrand": "Krooked",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402920/ldjsonbuild/mjq5cutxbvagecqllmwl.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/krooked/belle-862-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "72.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/krooked/belle-862-skateboard-deck"
+    },
+    {
+      "spot": "70.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/krooked-belle-deck?variant=50574342586641"
+    }
+  ]
+}

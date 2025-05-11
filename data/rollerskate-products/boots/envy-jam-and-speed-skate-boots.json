@@ -1,0 +1,17 @@
+{
+  "productName": "Envy Jam and Speed Skate",
+  "productBrand": "Bont",
+  "productType": "huck wheels",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746365049/ldjsonbuild/obb3vwagu9wllhq5m6nm.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569735,
+  "productVendorUrl": "https://bont.com/collections/roller-speed-skates/products/envy-jam-and-speed-skate-boots",
+  "productPrices": [
+    {
+      "bont": "279.0",
+      "url": "https://bont.com",
+      "productVendorUrl": "https://bont.com/collections/roller-speed-skates/products/envy-jam-and-speed-skate-boots"
+    }
+  ]
+}

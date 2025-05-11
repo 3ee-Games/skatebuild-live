@@ -1,0 +1,17 @@
+{
+  "productName": "Knox Gordjust Deck",
+  "productBrand": "Krooked",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396515/ldjsonbuild/n03n9up2wwbluckrxxi4.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/krooked/knox-gordjust-85-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "83.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/krooked/knox-gordjust-85-skateboard-deck"
+    }
+  ]
+}

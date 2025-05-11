@@ -1,0 +1,17 @@
+{
+  "productName": "Zoom",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375204/ldjsonbuild/dfrw6rwgznc7ijhpmrem.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569739,
+  "productVendorUrl": "https://www.suregrip.com/products/zoom",
+  "productPrices": [
+    {
+      "suregrip": "45.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/zoom"
+    }
+  ]
+}

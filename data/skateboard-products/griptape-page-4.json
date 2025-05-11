@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "welcome-x-beetlejuice-lydia-grip-tape",
+    "productName": "Welcome x Beetlejuice Lydia Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462205/zumiezbuild/ipgg3ojimwadjknfwgxr.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "9.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/welcome-x-beetlejuice-lydia-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "welcome-x-beetlejuice-sandworm-grip-tape",
+    "productName": "Welcome x Beetlejuice Sandworm Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462229/zumiezbuild/wrfg0zfuif0ywy2vzxnu.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "9.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/welcome-x-beetlejuice-sandworm-grip-tape.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "xg-skateboard-grip-tape",
+    "productName": "XG Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392505/ldjsonbuild/clkvpmshpwdg33z57xow.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "7.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/pepper/xg-skateboard-grip-tape"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "zig-zag-graphic-skateboard-grip-tape",
+    "productName": "Zig Zag Graphic Grip Tape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392524/ldjsonbuild/o9eolywbktk3hpkgcgxj.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "14.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/hard-luck/zig-zag-graphic-skateboard-grip-tape"
+      }
+    ],
+    "productTags": []
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "productName": "Analyze 2 Deck",
+  "productBrand": "Tightbooth",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398137/ldjsonbuild/haloqzcdtaxe3kxu95n5.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/tightbooth/analyze-2-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "55.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/tightbooth/analyze-2-825-skateboard-deck"
+    }
+  ]
+}

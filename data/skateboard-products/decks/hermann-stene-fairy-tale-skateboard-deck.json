@@ -1,0 +1,22 @@
+{
+  "productName": "Hermann Stene Fairy Tale Deck",
+  "productBrand": "Real",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400268/ldjsonbuild/yd84nwq3wcjo9l9ug8dh.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/real/hermann-stene-fairy-tale-828-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "79.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/real/hermann-stene-fairy-tale-828-skateboard-deck"
+    },
+    {
+      "spot": "72.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/real-hermann-stene-fairy-tale-deck?variant=51392651854097"
+    }
+  ]
+}

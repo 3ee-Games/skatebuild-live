@@ -1,0 +1,22 @@
+{
+  "productName": "Quasi Rowe Point Break Deck",
+  "productBrand": "Quasi",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460912/zumiezbuild/khdmpf0mmtesi7cwm78e.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/quasi-rowe-point-break-8-5-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "71.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/quasi-rowe-point-break-8-5-skateboard-deck.html"
+    },
+    {
+      "tactics": "71.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/quasi-skateboards/rowe-point-break-85-skateboard-deck"
+    }
+  ]
+}

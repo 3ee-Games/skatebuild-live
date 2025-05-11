@@ -1,0 +1,27 @@
+{
+  "productName": "Sk8mafia Represent Rogers Deck",
+  "productBrand": "Sk8mafia",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461362/zumiezbuild/zzxfrsso1k8bolzmdsst.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/sk8mafia-represent-rogers-8-25-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "49.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/sk8mafia-represent-rogers-8-25-skateboard-deck.html"
+    },
+    {
+      "tactics": "44.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/sk8mafia/rogers-represent-825-skateboard-deck"
+    },
+    {
+      "spot": "70.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/sk8mafia-tj-rogers-represent-deck?variant=51124419723537"
+    }
+  ]
+}

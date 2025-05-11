@@ -1,0 +1,22 @@
+{
+  "productName": "Kevin Taylor Battle Mask Deck",
+  "productBrand": "Hopps",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396656/ldjsonbuild/k7uth8otzqo7lwxetkg6.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/hopps-skateboards/kevin-taylor-battle-mask-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "74.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/hopps-skateboards/kevin-taylor-battle-mask-825-skateboard-deck"
+    },
+    {
+      "spot": "75.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/hopps-kevin-taylor-battle-mask-deck?variant=50443349819665"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Yuto Dialed Deck",
+  "productBrand": "April",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/april/yuto-dialed-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/april/yuto-dialed-825-skateboard-deck"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "productName": "MyBonts Hybrid Fiberglass Roller Derby Skate",
+  "productBrand": "Bont",
+  "productType": "huck wheels",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746364423/ldjsonbuild/gh4kqmrfavopngotjeh3.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569735,
+  "productVendorUrl": "https://bont.com/collections/roller-derby-skates/products/mybonts-hybrid-fiberglass-roller-derby-skate-boots",
+  "productPrices": [
+    {
+      "bont": "439.0",
+      "url": "https://bont.com",
+      "productVendorUrl": "https://bont.com/collections/roller-derby-skates/products/mybonts-hybrid-fiberglass-roller-derby-skate-boots"
+    },
+    {
+      "derbywarehouse": "129.99",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Bont_Hybrid_Roller_Derby/descpage-QUADHB.html"
+    }
+  ]
+}

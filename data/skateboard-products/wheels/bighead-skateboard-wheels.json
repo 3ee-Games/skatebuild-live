@@ -1,0 +1,17 @@
+{
+  "productName": "Bighead Wheels",
+  "productBrand": "Spitfire",
+  "productType": "Park/Street Wheels",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746406413/ldjsonbuild/dxrxy9uhmiwfvyjgyeja.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544888,
+  "productVendorUrl": "https://www.tactics.com/spitfire/bighead-skateboard-wheels/white-cyan-blue-57-99d",
+  "productPrices": [
+    {
+      "tactics": "39.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/spitfire/bighead-skateboard-wheels/white-cyan-blue-57-99d"
+    }
+  ]
+}

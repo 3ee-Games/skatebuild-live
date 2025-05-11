@@ -1,0 +1,17 @@
+{
+  "productName": "Beres Old West Deck",
+  "productBrand": "Anti-Hero",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402102/ldjsonbuild/tsfn5nkpuldzrf5zv6xz.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/anti-hero/beres-old-west-84-skateboard-deck/natural",
+  "productPrices": [
+    {
+      "tactics": "83.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/anti-hero/beres-old-west-84-skateboard-deck/natural"
+    }
+  ]
+}

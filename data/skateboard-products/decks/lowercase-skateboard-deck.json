@@ -1,0 +1,17 @@
+{
+  "productName": "Lowercase Deck",
+  "productBrand": "Quasi",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401234/ldjsonbuild/svev6zbkuvesevoq3glv.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/quasi-skateboards/lowercase-80-skateboard-deck/red",
+  "productPrices": [
+    {
+      "tactics": "68.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/quasi-skateboards/lowercase-80-skateboard-deck/red"
+    }
+  ]
+}

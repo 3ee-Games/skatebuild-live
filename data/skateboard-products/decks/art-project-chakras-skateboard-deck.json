@@ -1,0 +1,17 @@
+{
+  "productName": "Art Project Chakras Deck",
+  "productBrand": "Art Project",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461906/zumiezbuild/jg7fz40o785jvjdcp2fh.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/art-project-chakras-9-1-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "64.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/art-project-chakras-9-1-skateboard-deck.html"
+    }
+  ]
+}

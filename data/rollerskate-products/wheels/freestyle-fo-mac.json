@@ -1,0 +1,17 @@
+{
+  "productName": "Freestyle / Fo-Mac",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375327/ldjsonbuild/lgkjq0h43r0tmthefhsc.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569739,
+  "productVendorUrl": "https://www.suregrip.com/products/freestyle",
+  "productPrices": [
+    {
+      "suregrip": "125.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/freestyle"
+    }
+  ]
+}

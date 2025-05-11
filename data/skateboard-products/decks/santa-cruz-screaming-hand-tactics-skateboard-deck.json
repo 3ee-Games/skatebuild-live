@@ -1,0 +1,22 @@
+{
+  "productName": "Santa Cruz Screaming Hand Tactics Deck",
+  "productBrand": "Tactics",
+  "productType": "Cruiser Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397030/ldjsonbuild/fpwgyeehmstqqkvngdwy.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/tactics/santa-cruz-screaming-hand-tactics-97-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/tactics/santa-cruz-screaming-hand-tactics-97-skateboard-deck"
+    },
+    {
+      "spot": "67.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-screaming-hand-black-deck?variant=51283765035281"
+    }
+  ]
+}

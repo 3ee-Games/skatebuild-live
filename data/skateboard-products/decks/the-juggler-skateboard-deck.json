@@ -1,0 +1,17 @@
+{
+  "productName": "The Juggler Deck",
+  "productBrand": "Tactics",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392274/ldjsonbuild/rnr1424vovehspeejklr.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/tactics/the-juggler-skateboard-deck/orange",
+  "productPrices": [
+    {
+      "tactics": "44.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/tactics/the-juggler-skateboard-deck/orange"
+    }
+  ]
+}

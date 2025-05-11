@@ -1,0 +1,17 @@
+{
+  "productName": "Walking Through The Field Deck",
+  "productBrand": "Tactics",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395407/ldjsonbuild/ikbsbk7xjz0a5jnkb4lp.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/tactics/walking-through-the-field-skateboard-deck/black",
+  "productPrices": [
+    {
+      "tactics": "44.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/tactics/walking-through-the-field-skateboard-deck/black"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Piscopo New Value Deck",
+  "productBrand": "Hockey",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398858/ldjsonbuild/rc6hvvdq0neixrutp0iv.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/hockey/piscopo-new-value-838-skateboard-deck/yellow",
+  "productPrices": [
+    {
+      "tactics": "76.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/hockey/piscopo-new-value-838-skateboard-deck/yellow"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Precision Bearings",
+  "productBrand": "Mini Logo",
+  "productType": "Bearings",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746391676/ldjsonbuild/isthuoitvzjemoadvtzt.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544876,
+  "productVendorUrl": "https://www.tactics.com/mini-logo/precision-skateboard-bearings/black",
+  "productPrices": [
+    {
+      "tactics": "9.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/mini-logo/precision-skateboard-bearings/black"
+    }
+  ]
+}

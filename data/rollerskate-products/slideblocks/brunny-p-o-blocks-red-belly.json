@@ -1,0 +1,22 @@
+{
+  "productName": "Brunny P.O. Blocks 3056 Red Belly",
+  "productBrand": "Brunny",
+  "productType": "",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746369735/metacrawler/bcxaffe6eqojtjwbn336.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569737,
+  "productVendorUrl": "https://www.derbywarehouse.com/Brunny_PO_Blocks_3056/descpage-BRUBLK.html",
+  "productPrices": [
+    {
+      "derbywarehouse": "99.00",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Brunny_PO_Blocks_3056/descpage-BRUBLK.html"
+    },
+    {
+      "medusaskates": "99",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/brunny-p-o-slide-blocks-3056-version-1-2/"
+    }
+  ]
+}

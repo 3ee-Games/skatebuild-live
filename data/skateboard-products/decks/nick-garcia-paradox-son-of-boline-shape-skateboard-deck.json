@@ -1,0 +1,22 @@
+{
+  "productName": "Nick Garcia Paradox Son Of Boline Shape Deck",
+  "productBrand": "Welcome",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402006/ldjsonbuild/vduh4umaazevtq7ijoem.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/welcome/nick-garcia-paradox-838-son-of-boline-shape-skateboard-deck/mint-glitter",
+  "productPrices": [
+    {
+      "tactics": "65.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/welcome/nick-garcia-paradox-838-son-of-boline-shape-skateboard-deck/mint-glitter"
+    },
+    {
+      "spot": "74.95",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/welcome-skateboards-nick-garcia-paradox-on-son-of-boline-deck?variant=50552978931985"
+    }
+  ]
+}

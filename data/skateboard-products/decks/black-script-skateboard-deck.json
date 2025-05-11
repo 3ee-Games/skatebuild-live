@@ -1,0 +1,17 @@
+{
+  "productName": "Black Script Deck",
+  "productBrand": "Blood Wizard",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398518/ldjsonbuild/itjl7yximfnhb0r1zlyc.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/blood-wizard/black-script-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "58.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/blood-wizard/black-script-825-skateboard-deck"
+    }
+  ]
+}

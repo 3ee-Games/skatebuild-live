@@ -1,0 +1,17 @@
+{
+  "productName": "Cruiser Longboard Wheels",
+  "productBrand": "Cloud Ride",
+  "productType": "Longboard Wheels",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393456/ldjsonbuild/w1aaljvvph6vwhf2ef2q.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544888,
+  "productVendorUrl": "https://www.tactics.com/cloud-ride/cruiser-longboard-wheels/black-marble-78a",
+  "productPrices": [
+    {
+      "tactics": "37.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/cloud-ride/cruiser-longboard-wheels/black-marble-78a"
+    }
+  ]
+}

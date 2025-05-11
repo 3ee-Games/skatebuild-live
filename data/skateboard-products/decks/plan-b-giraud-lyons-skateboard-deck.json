@@ -1,0 +1,17 @@
+{
+  "productName": "Plan B Giraud Lyons Deck",
+  "productBrand": "Plan B Skateboards",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461322/zumiezbuild/vf0ko1hmqr4iwikbvdzc.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/plan-b-giraud-lyons-8-5-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "64.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/plan-b-giraud-lyons-8-5-skateboard-deck.html"
+    }
+  ]
+}

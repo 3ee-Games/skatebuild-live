@@ -1,0 +1,777 @@
+[
+  {
+    "slug": "atm-rat-skateboard-deck",
+    "productName": "ATM Rat Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461613/zumiezbuild/qst3sup53wccr9ozyrpk.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "45.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/atm-rat-8-375-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "atm-spider-skateboard-deck",
+    "productName": "ATM Spider Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461857/zumiezbuild/vu4ifcjwehyxvunj4nit.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "45.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/atm-spider-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "axel-horror-show-skateboard-deck",
+    "productName": "Axel Horror Show Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400286/ldjsonbuild/nvmjmczp6nnmbhaqpx2o.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "72.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/toy-machine/axel-horror-show-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "axel-ladoucer-skateboard-deck",
+    "productName": "Axel Ladoucer Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401520/ldjsonbuild/oeo3bafv3uzrdh76jwjv.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/toy-machine/axel-ladoucer-813-skateboard-deck/pink"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "axel-toons-skateboard-deck",
+    "productName": "Axel Toons Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401912/ldjsonbuild/otpuk8mx17aj49dvibri.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/toy-machine/axel-toons-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baca-all-dawgs-go-to-heaven-skateboard-deck",
+    "productName": "Baca All Dawgs Go To Heaven Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399353/ldjsonbuild/zha9gjgh4zwmlwn9fnli.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "73.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/baker/baca-all-dawgs-go-to-heaven-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baca-brand-name-skateboard-deck",
+    "productName": "Baca Brand Name Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402043/ldjsonbuild/glyfpj1bfznmyyv1ggd4.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "73.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/baker/baca-brand-name-825-skateboard-deck/black-blue"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baca-tryptic-skateboard-deck",
+    "productName": "Baca Tryptic Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399955/ldjsonbuild/xucbs0wu6duvyo6ylk0j.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "74.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/baker/baca-tryptic-80-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baekkel-big-game-skateboard-deck",
+    "productName": "Baekkel Big Game Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400540/ldjsonbuild/utmrnyk8vctivj7lclz1.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "72.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/creature/baekkel-big-game-853-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baekkel-demon-skateboard-deck",
+    "productName": "Baekkel Demon Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392267/ldjsonbuild/wt2bycu9qlqg7wars9al.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "66.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/creature/baekkel-demon-86-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "bail-gun-gary-s-tall-boy-skateboard-deck",
+    "productName": "Bail Gun Garys Tall Boy Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398269/ldjsonbuild/vujknpgpyqxx7wb86f2o.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "82.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/heroin/bail-gun-garys-tall-boy-1025-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-andrew-reynolds-fish-sticks-deck",
+    "productName": "Baker Andrew Reynolds Fish Sticks Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414202/ldjsonbuild/lhoru8av9jwovjoqqx8h.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "78.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/baker-andrew-reynolds-fish-sticks-deck?variant=51491290415377"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-casper-brooker-ruins-deck",
+    "productName": "Baker Casper Brooker Ruins Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414169/ldjsonbuild/ez2hvj9nz8kq3skgcu1w.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "78.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/baker-casper-brooer-ruins-deck?variant=51491296248081"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-casper-but-like-more-skateboard-deck",
+    "productName": "Baker Casper But Like More Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461426/zumiezbuild/nsnzuhq8e3o6gguslqlx.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "78.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-but-like-more-8-5-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-casper-electric-skateboard-deck",
+    "productName": "Baker Casper Electric Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460835/zumiezbuild/q5fsdrgxo30pgmyvntbs.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "78.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-casper-electric-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-casper-hands-that-show-skateboard-deck",
+    "productName": "Baker Casper Hands That Show Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461140/zumiezbuild/uxunpkmuipxwcrpseyhn.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "51.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-casper-hands-that-show-8-0-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-casper-oil-slick-skateboard-deck",
+    "productName": "Baker Casper Oil Slick Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460623/zumiezbuild/zxqfx8fzqeuwgh9o8sao.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "78.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-casper-oil-slick-8-5-skateboard-deck.html"
+      },
+      {
+        "tactics": "73.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/baker/casper-oil-slick-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-casper-portraits-skateboard-deck",
+    "productName": "Baker Casper Portraits Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461814/zumiezbuild/rb5sozpilti6bs44e8u3.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "51.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-casper-portraits-8-0-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-elissa-steamer-rippin-ranman-deck",
+    "productName": "Baker Elissa Steamer Rippin Ranman Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414214/ldjsonbuild/irl3oz8nhg7rpjnnoc3z.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "78.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/baker-elissa-steamer-rippin-deck?variant=51491288645905"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-figgy-sundown-skateboard-deck",
+    "productName": "Baker Figgy Sundown Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460758/zumiezbuild/dwnp6w9jdinvrjmlkp5l.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "51.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-figgy-sundown-8-0-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-figgy-tryptic-skateboard-deck",
+    "productName": "Baker Figgy Tryptic Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461274/zumiezbuild/cketywgrutofqukibrnh.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "64.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-figgy-tryptic-8-125-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-hawk-overage-skateboard-deck",
+    "productName": "Baker Hawk Overage Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460653/zumiezbuild/jmkrlcolnaju4b9tyslc.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "64.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-hawk-overage-8-5-skateboard-deck.html"
+      },
+      {
+        "tactics": "74.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/baker/hawk-emergers-8125-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-hawk-wound-up-skateboard-deck",
+    "productName": "Baker Hawk Wound Up Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460703/zumiezbuild/xevacm8bongww8ppqdkr.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "64.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-hawk-wound-up-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-jacopo-carozzi-decapitation-skateboard-deck",
+    "productName": "Baker Jacopo Carozzi Decapitation Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461068/zumiezbuild/vdhtexsh2johscavoddg.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "64.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-jacopo-carozzi-decapitation-8-475-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-jacopo-carrozi-brand-name-foil-deck",
+    "productName": "Baker Jacopo Carrozi Brand Name Foil Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414163/ldjsonbuild/phprlca4jtfkex1xjw1g.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "78.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/baker-jacopo-carrozi-brand-name-foil-deck?variant=51491297755409"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-justin-figueroa-calamaties-deck",
+    "productName": "Baker Justin Figueroa Calamaties Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414197/ldjsonbuild/blzhapvivza6qbbnf8xv.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "78.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/baker-justin-figueroa-calamaties-deck?variant=51491291169041"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-long-cloudy-skateboard-deck",
+    "productName": "Baker Long Cloudy Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461732/zumiezbuild/ttbvl0h6cehjqxcavbdz.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "78.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-long-cloudy-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-orange-tree-skateboard-deck",
+    "productName": "Baker Orange Tree Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461422/zumiezbuild/z1xc9pecupaudv0tjftd.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "78.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-orange-tree-8-5-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-riley-brain-donor-skateboard-deck",
+    "productName": "Baker Riley Brain Donor Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460745/zumiezbuild/yh44e8vqqcljrrrr1ijz.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "78.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-riley-brain-donor-8-0-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-riley-hawk-brand-name-sherbert-deck",
+    "productName": "Baker Riley Hawk Brand Name Sherbert Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415124/ldjsonbuild/kz6ceghmgauoq9qrjni8.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "48.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/baker-riley-hawk-brand-name-sherbert-deck?variant=51077772804369"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-rowan-part-machine-skateboard-deck",
+    "productName": "Baker Rowan Part Machine Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460670/zumiezbuild/thklwt2igipipvvxhzy3.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "78.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-rowan-part-machine-8-5-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-rowan-year-storm-skateboard-deck",
+    "productName": "Baker Rowan 50 Year Storm Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460656/zumiezbuild/obbca7ktpfqsxdiqkqkw.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "78.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-rowan-50-year-storm-8-25-skateboard-deck.html"
+      },
+      {
+        "tactics": "73.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/baker/rowan-50-year-storm-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-rowan-zorilla-ball-corner-pocket-deck",
+    "productName": "Baker Rowan Zorilla 8 ball Corner Pocket Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414208/ldjsonbuild/wtnvsnanqd26mbzukpvd.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "78.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/baker-rowan-zorilla-8-ball-corner-pocket-deck?variant=51491288940817"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-t-funk-gravel-pit-slick-skateboard-deck",
+    "productName": "Baker T-Funk Gravel Pit Slick Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461356/zumiezbuild/l62m0wz5wskm7cyyyg9q.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "80.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-t-funk-gravel-pit-9-0-slick-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-t-funk-sundown-skateboard-deck",
+    "productName": "Baker T-Funk Sundown Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460837/zumiezbuild/mcepjc4qhdjxenrqn6wb.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "51.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/8-38-t-funk-sundown-baker.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-theo-emergers-skateboard-deck",
+    "productName": "Baker Theo Emergers Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461338/zumiezbuild/es3zadmv0z3sjm7qbg0u.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "78.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-theo-emergers-8-0-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-tristan-funkhouser-deck",
+    "productName": "Baker Tristan Funkhouser 456 Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414219/ldjsonbuild/l57afnomxt7tphuqfehs.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "78.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/baker-tristan-funkhouser-456-deck?variant=51491287138577"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-tyson-peterson-calamaties-deck",
+    "productName": "Baker Tyson Peterson Calamaties Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414185/ldjsonbuild/kr7jawk3euv6k4niicut.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "78.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/baker-tyson-peterson-calamaties-deck?variant=51491292905745"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-tyson-smiles-skateboard-deck",
+    "productName": "Baker Tyson Smiles Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460645/zumiezbuild/dgkrscddjv8o23cxj5a4.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "78.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-tyson-smiles-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-white-brand-logo-skateboard-deck",
+    "productName": "Baker White Brand Logo Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461428/zumiezbuild/u29xtlzjacnxh4wr69r6.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "78.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-white-brand-logo-8-5-skateboard-deck.html"
+      },
+      {
+        "tactics": "39.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/tactics/oval-logo-skateboard-deck/orange"
+      },
+      {
+        "spot": "72.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/april-skateboards-og-logo-photo-deck?variant=51397818941713"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-zach-allen-calamaties-deck",
+    "productName": "Baker Zach Allen Calamaties Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414191/ldjsonbuild/w0p15jcv9rmzivtm98vz.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "78.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/baker-zach-allen-calamaties-deck?variant=51491291398417"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "baker-zach-continuum-skateboard-deck",
+    "productName": "Baker Zach Continuum Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461064/zumiezbuild/ihcjhhjpuyow7lbwvqh0.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "64.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/baker-zach-continuum-8-38-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "bannerot-serif-skateboard-deck",
+    "productName": "Bannerot Serif Deck",
+    "cloudinaryUrl": "",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "58.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/girl/bannerot-serif-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "bannerot-strummer-girl-twin-tip-skateboard-deck",
+    "productName": "Bannerot Strummer Girl Twin Tip Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397591/ldjsonbuild/czun2bggan1ukxx8k3gv.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "58.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/girl/bannerot-strummer-girl-825-twin-tip-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "barletta-bunny-lamp-skateboard-deck",
+    "productName": "Barletta Bunny Lamp Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400399/ldjsonbuild/ctyfqioarj7fyhciov2z.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "64.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/barletta-bunny-lamp-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "barletta-tribal-skateboard-deck",
+    "productName": "Barletta Tribal Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400863/ldjsonbuild/bjkt9s1y4masvomtv8ri.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "68.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/barletta-tribal-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "barton-cut-it-out-skateboard-deck",
+    "productName": "Barton Cut It Out Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399727/ldjsonbuild/l50gdlggiziqfcqmqgpl.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "59.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/roger-skateboards/barton-cut-it-out-8375-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "barton-stacked-skateboard-deck",
+    "productName": "Barton Stacked Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402482/ldjsonbuild/f3qsiuauvqntw6g6z5hw.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "64.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/roger-skateboards/barton-stacked-8375-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "batman-batmonster-widow-shape-skateboard-deck",
+    "productName": "Batman Batmonster Widow Shape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402067/ldjsonbuild/blznv63x0qqhun9gljkz.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "71.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/welcome/batman-batmonster-100-widow-shape-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "batman-knockout-skateboard-deck",
+    "productName": "Batman Knockout Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398680/ldjsonbuild/aipkptuizaxhdd6wmoqj.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "68.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/welcome/batman-knockout-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "productName": "Welcome Sloth Grip Tape",
+  "productBrand": "Welcome Skateboards",
+  "productType": "Griptape",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462192/zumiezbuild/f2ixu5k7q7oucsddvkng.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544883,
+  "productVendorUrl": "/welcome-sloth-grip-tape.html",
+  "productPrices": [
+    {
+      "zumiez": "14.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/welcome-sloth-grip-tape.html"
+    }
+  ]
+}

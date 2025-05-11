@@ -1,0 +1,17 @@
+{
+  "productName": "Skate Risers",
+  "productBrand": "Modus",
+  "productType": "Risers",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392941/ldjsonbuild/aih5rm5krpj80zdvj8bl.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544885,
+  "productVendorUrl": "https://www.tactics.com/modus-bearings/skate-risers/white",
+  "productPrices": [
+    {
+      "tactics": "2.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/modus-bearings/skate-risers/white"
+    }
+  ]
+}

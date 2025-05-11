@@ -1,0 +1,22 @@
+{
+  "productName": "Chocolate Alvarez San Choco Deck",
+  "productBrand": "Chocolate Skateboards",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460908/zumiezbuild/dk3kj9udw0zbbnlqasg0.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/chocolate-alvarez-san-choco-8-0-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "64.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/chocolate-alvarez-san-choco-8-0-skateboard-deck.html"
+    },
+    {
+      "tactics": "58.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/chocolate/perez-san-choco-84-skateboard-deck"
+    }
+  ]
+}

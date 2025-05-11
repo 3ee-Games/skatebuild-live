@@ -1,0 +1,22 @@
+{
+  "productName": "Primitive Team Moto Deck",
+  "productBrand": "Primitive",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461632/zumiezbuild/gdzthsuv5i7kdcxmmnxw.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/primitive-team-moto-8-38-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "44.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/primitive-team-moto-8-38-skateboard-deck.html"
+    },
+    {
+      "spot": "70.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-team-moto-deck-97181?variant=50010990706961"
+    }
+  ]
+}

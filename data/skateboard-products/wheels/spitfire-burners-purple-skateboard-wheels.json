@@ -1,0 +1,22 @@
+{
+  "productName": "Spitfire Burners Purple 56mm 99a Wheels",
+  "productBrand": "Spitfire",
+  "productType": "Skateboard Parts",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462728/zumiezbuild/bcspsbmjvcklmbnez6be.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544888,
+  "productVendorUrl": "/spitfire-burners-purple-56mm-99a-skateboard-wheels.html",
+  "productPrices": [
+    {
+      "zumiez": "29.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/spitfire-burners-purple-56mm-99a-skateboard-wheels.html"
+    },
+    {
+      "spot": "30.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/spitfire-burner-99d-wheels?variant=50717556080913"
+    }
+  ]
+}

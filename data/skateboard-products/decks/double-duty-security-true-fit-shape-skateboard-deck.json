@@ -1,0 +1,22 @@
+{
+  "productName": "Double Duty Security True Fit Shape Deck",
+  "productBrand": "Real",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401729/ldjsonbuild/effsezv9ayrarqoksxc0.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/real/double-duty-security-85-true-fit-shape-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "79.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/real/double-duty-security-85-true-fit-shape-skateboard-deck"
+    },
+    {
+      "spot": "72.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/real-double-duty-security-true-fit-deck?variant=51484196110609"
+    }
+  ]
+}

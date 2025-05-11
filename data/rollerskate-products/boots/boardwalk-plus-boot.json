@@ -1,0 +1,17 @@
+{
+  "productName": "Boardwalk Plus",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746374913/ldjsonbuild/p6a1tvqsjrxm42sghwwo.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569735,
+  "productVendorUrl": "https://www.suregrip.com/products/boardwalk-plus-boot",
+  "productPrices": [
+    {
+      "suregrip": "159.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/boardwalk-plus-boot"
+    }
+  ]
+}

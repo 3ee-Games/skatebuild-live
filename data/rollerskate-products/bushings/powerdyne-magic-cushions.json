@@ -1,0 +1,17 @@
+{
+  "productName": "PowerDyne Magic Cushions",
+  "productBrand": "Riedell",
+  "productType": "cushions",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746230814/ldjsonbuild/wtsiwg0oduvjzg9ilift.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569736,
+  "productVendorUrl": "https://www.moxiskates.com/collections/cushions/products/powerdyne-magic-cushions-1",
+  "productPrices": [
+    {
+      "moxi": "20.0",
+      "url": "https://www.moxiskates.com",
+      "productVendorUrl": "https://www.moxiskates.com/collections/cushions/products/powerdyne-magic-cushions-1"
+    }
+  ]
+}

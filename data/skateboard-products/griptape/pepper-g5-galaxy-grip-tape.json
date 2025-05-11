@@ -1,0 +1,22 @@
+{
+  "productName": "Pepper G5 Galaxy Grip Tape",
+  "productBrand": "Pepper",
+  "productType": "Griptape",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462188/zumiezbuild/kbcszeenrdyaho9buwv6.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544883,
+  "productVendorUrl": "/pepper-g5-galaxy-grip-tape.html",
+  "productPrices": [
+    {
+      "zumiez": "7.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/pepper-g5-galaxy-grip-tape.html"
+    },
+    {
+      "spot": "8.95",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/pepper-g5-logo-griptape-93555?variant=48246826238225"
+    }
+  ]
+}

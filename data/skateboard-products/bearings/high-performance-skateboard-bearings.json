@@ -1,0 +1,17 @@
+{
+  "productName": "High Performance Bearings",
+  "productBrand": "Ace",
+  "productType": "Bearings",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746391742/ldjsonbuild/ea16ne4ghogcchsexrtv.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544876,
+  "productVendorUrl": "https://www.tactics.com/ace/high-performance-skateboard-bearings",
+  "productPrices": [
+    {
+      "tactics": "24.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/ace/high-performance-skateboard-bearings"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Frankie Decker Comic Book Deck",
+  "productBrand": "Frog",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402810/ldjsonbuild/icwwv6f1rjozmtvkp4ye.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/frog/frankie-decker-comic-book-85-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "71.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/frog/frankie-decker-comic-book-85-skateboard-deck"
+    }
+  ]
+}

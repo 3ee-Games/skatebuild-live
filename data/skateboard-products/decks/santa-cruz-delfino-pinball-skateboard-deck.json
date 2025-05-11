@@ -1,0 +1,22 @@
+{
+  "productName": "Santa Cruz Delfino Pinball Deck",
+  "productBrand": "Santa Cruz Skate",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460760/zumiezbuild/ma07tphb63mkch44sbv7.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/santa-cruz-delfino-pinball-9-1-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "68.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/santa-cruz-delfino-pinball-9-1-skateboard-deck.html"
+    },
+    {
+      "spot": "76.95",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-fabiana-delfino-pinball-shaped-deck?variant=51434076209425"
+    }
+  ]
+}

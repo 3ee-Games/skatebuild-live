@@ -1,0 +1,22 @@
+{
+  "productName": "Henry Mempool Deck",
+  "productBrand": "Quasi",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395313/ldjsonbuild/mbiwxyfm1vcnztvp4nxd.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/quasi-skateboards/henry-mempool-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/quasi-skateboards/henry-mempool-825-skateboard-deck"
+    },
+    {
+      "spot": "70.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/quasi-justin-henry-mempool-deck?variant=50418637209873"
+    }
+  ]
+}

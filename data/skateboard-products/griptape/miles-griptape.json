@@ -1,0 +1,17 @@
+{
+  "productName": "Miles Griptape",
+  "productBrand": "Miles",
+  "productType": "products",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416168/ldjsonbuild/vqg8gkzmkrenzcncypma.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544884,
+  "productVendorUrl": "https://skateparkoftampa.com/products/miles-griptape-87330?variant=48245949825297",
+  "productPrices": [
+    {
+      "spot": "10.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/miles-griptape-87330?variant=48245949825297"
+    }
+  ]
+}

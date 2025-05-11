@@ -1,0 +1,17 @@
+{
+  "productName": "Shredded Barcode Deck",
+  "productBrand": "Black Label",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401467/ldjsonbuild/decble3xxg3vmyxhvaie.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/black-label/shredded-barcode-825-skateboard-deck/green",
+  "productPrices": [
+    {
+      "tactics": "61.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/black-label/shredded-barcode-825-skateboard-deck/green"
+    }
+  ]
+}

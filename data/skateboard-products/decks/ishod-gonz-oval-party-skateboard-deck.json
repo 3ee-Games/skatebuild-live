@@ -1,0 +1,22 @@
+{
+  "productName": "Ishod Gonz Oval Party Deck",
+  "productBrand": "Real",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401663/ldjsonbuild/tzzatyujzootdgl5gqy6.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/real/ishod-gonz-oval-party-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "79.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/real/ishod-gonz-oval-party-825-skateboard-deck"
+    },
+    {
+      "spot": "72.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/real-ishod-wair-by-gonz-oval-party-deck?variant=51392655556881"
+    }
+  ]
+}

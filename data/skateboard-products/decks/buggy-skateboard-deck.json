@@ -1,0 +1,17 @@
+{
+  "productName": "Buggy Deck",
+  "productBrand": "The Heated Wheel",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746403340/ldjsonbuild/iawvi26cv71wfabxj8dr.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/the-heated-wheel/buggy-80-skateboard-deck/orange",
+  "productPrices": [
+    {
+      "tactics": "59.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/the-heated-wheel/buggy-80-skateboard-deck/orange"
+    }
+  ]
+}

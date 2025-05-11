@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "sure-grip-square-toe-stops-black-pair",
+    "productName": "Sure-Grip Square Toe Stops Black Pair",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746374050/metacrawler/dgrrk653vxh87ok44kaz.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "25.95",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip_Square/descpage-SGSQ.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "suregrip-bullseye-bolt-on-toe-stop-pair",
+    "productName": "SureGrip Bullseye Bolt-On Toe Stop Pair",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468757/ldjsonbuild/g1feqmaucpb56k0l48ky.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "9.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/bolt-on-toe-stop-pair/"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "web",
+    "productName": "Web",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375767/ldjsonbuild/jiz2eiu4k1l3uqjndntz.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "suregrip": "18.95",
+        "url": "https://www.suregrip.com",
+        "productVendorUrl": "https://www.suregrip.com/products/web"
+      }
+    ],
+    "productTags": []
+  }
+]

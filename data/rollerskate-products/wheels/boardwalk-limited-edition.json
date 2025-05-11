@@ -1,0 +1,17 @@
+{
+  "productName": "Boardwalk 65mm Limited Edition",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375256/ldjsonbuild/uj9ianl5noyfbbkvmogn.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569739,
+  "productVendorUrl": "https://www.suregrip.com/products/boardwalk-limited-edition",
+  "productPrices": [
+    {
+      "suregrip": "65.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/boardwalk-limited-edition"
+    }
+  ]
+}

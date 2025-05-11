@@ -1,0 +1,22 @@
+{
+  "productName": "Riedell 595",
+  "productBrand": "Riedell",
+  "productType": "",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370722/metacrawler/vgzodkhlz2jheekqni7z.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569735,
+  "productVendorUrl": "https://www.derbywarehouse.com/Riedell_595/descpage-595B.html",
+  "productPrices": [
+    {
+      "derbywarehouse": "349.00",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Riedell_595/descpage-595B.html"
+    },
+    {
+      "medusaskates": "349",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/riedell-265-boots/"
+    }
+  ]
+}

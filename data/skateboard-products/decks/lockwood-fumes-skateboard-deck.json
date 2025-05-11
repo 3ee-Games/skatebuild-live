@@ -1,0 +1,22 @@
+{
+  "productName": "Lockwood Fumes Deck",
+  "productBrand": "Creature",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396012/ldjsonbuild/qbtmgobahnm5b40yeaem.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/creature/lockwood-fumes-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "65.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/creature/lockwood-fumes-825-skateboard-deck"
+    },
+    {
+      "spot": "68.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-cody-lockwood-fumes-deck?variant=51438849982737"
+    }
+  ]
+}

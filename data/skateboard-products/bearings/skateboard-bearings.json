@@ -1,0 +1,17 @@
+{
+  "productName": "11:11 Bearings",
+  "productBrand": "Unheard",
+  "productType": "Bearings",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746391701/ldjsonbuild/awnrho0lygg1lo4j7p2j.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544876,
+  "productVendorUrl": "https://www.tactics.com/unheard/11-11-skateboard-bearings",
+  "productPrices": [
+    {
+      "tactics": "15.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/unheard/11-11-skateboard-bearings"
+    }
+  ]
+}

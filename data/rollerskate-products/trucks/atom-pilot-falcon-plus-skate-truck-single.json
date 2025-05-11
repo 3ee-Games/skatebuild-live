@@ -1,0 +1,17 @@
+{
+  "productName": "Atom Pilot Falcon Plus Skate Truck Single",
+  "productBrand": "",
+  "productType": "pilot plus skate truck",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468533/ldjsonbuild/uwsn5rs8xy8lkhdyfw3m.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569738,
+  "productVendorUrl": "https://medusaskates.com/pilot-plus-skate-truck/",
+  "productPrices": [
+    {
+      "medusaskates": "35",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/pilot-plus-skate-truck/"
+    }
+  ]
+}

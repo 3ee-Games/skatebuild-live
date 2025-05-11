@@ -1,0 +1,17 @@
+{
+  "productName": "Shaman",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375382/ldjsonbuild/zxvwsacoh2f4m3vc8rbp.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569739,
+  "productVendorUrl": "https://www.suregrip.com/products/shaman",
+  "productPrices": [
+    {
+      "suregrip": "149.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/shaman"
+    }
+  ]
+}

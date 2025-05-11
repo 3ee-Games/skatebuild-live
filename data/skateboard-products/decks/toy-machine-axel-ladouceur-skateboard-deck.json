@@ -1,0 +1,22 @@
+{
+  "productName": "Toy Machine Axel Ladouceur Deck",
+  "productBrand": "Toy Machine",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461120/zumiezbuild/zelscyjne1r79klxl6ax.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/toy-machine-axel-ladouceur-8-13-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "59.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/toy-machine-axel-ladouceur-8-13-skateboard-deck.html"
+    },
+    {
+      "spot": "68.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/toy-machine-jeremy-leabres-ladouceur-deck?variant=50578531221777"
+    }
+  ]
+}

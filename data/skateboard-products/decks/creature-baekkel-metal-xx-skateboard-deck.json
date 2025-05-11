@@ -1,0 +1,22 @@
+{
+  "productName": "Creature Baekkel Metal XX Deck",
+  "productBrand": "Creature",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460611/zumiezbuild/kfsm7akxoyy0l3cmcw9v.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/creature-baekkel-metal-xx-8-51-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "68.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/creature-baekkel-metal-xx-8-51-skateboard-deck.html"
+    },
+    {
+      "tactics": "66.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/creature/baekkel-metal-xx-851-skateboard-deck"
+    }
+  ]
+}

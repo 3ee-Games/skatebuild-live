@@ -1,0 +1,22 @@
+{
+  "productName": "Much Worse Deck",
+  "productBrand": "Hockey",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398529/ldjsonbuild/h12p4kdyzpv7woiwmsh6.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/hockey/much-worse-838-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "77.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/hockey/much-worse-838-skateboard-deck"
+    },
+    {
+      "spot": "78.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/hockey-much-worse-deck?variant=50796158583057"
+    }
+  ]
+}

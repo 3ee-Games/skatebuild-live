@@ -1,0 +1,17 @@
+{
+  "productName": "Welcome Lil Owl Deck",
+  "productBrand": "Welcome Skateboards",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461971/zumiezbuild/hsirxuhvut3cnrwo1vqv.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/welcome-lil-owl-8-25-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "49.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/welcome-lil-owl-8-25-skateboard-deck.html"
+    }
+  ]
+}

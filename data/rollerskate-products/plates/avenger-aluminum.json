@@ -1,0 +1,17 @@
+{
+  "productName": "Avenger Aluminum",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375579/ldjsonbuild/ops9ffhnui8fxgemzmth.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569736,
+  "productVendorUrl": "https://www.suregrip.com/products/avenger-aluminum",
+  "productPrices": [
+    {
+      "suregrip": "160.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/avenger-aluminum"
+    }
+  ]
+}

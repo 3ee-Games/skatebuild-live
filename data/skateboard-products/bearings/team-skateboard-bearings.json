@@ -1,0 +1,17 @@
+{
+  "productName": "Team Bearings",
+  "productBrand": "Nothing Special",
+  "productType": "Bearings",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746391719/ldjsonbuild/beoa9wdh3yryqg1iyyig.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544876,
+  "productVendorUrl": "https://www.tactics.com/nothing-special/team-skateboard-bearings/black",
+  "productPrices": [
+    {
+      "tactics": "24.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/nothing-special/team-skateboard-bearings/black"
+    }
+  ]
+}

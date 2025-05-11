@@ -1,0 +1,22 @@
+{
+  "productName": "Shane Grills Deck",
+  "productBrand": "April",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401056/ldjsonbuild/xl2bixknfojf04phehqh.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/april/shane-grills-8125-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "68.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/april/shane-grills-8125-skateboard-deck"
+    },
+    {
+      "spot": "72.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/april-skateboards-shane-oneill-leopard-deck?variant=51474244272401"
+    }
+  ]
+}

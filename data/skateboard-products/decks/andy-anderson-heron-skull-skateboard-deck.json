@@ -1,0 +1,22 @@
+{
+  "productName": "Andy Anderson Heron Skull Deck",
+  "productBrand": "Powell Peralta",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398966/ldjsonbuild/zhmusr4xyi1r9b98gmwe.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/powell-peralta/andy-anderson-heron-skull-913-skateboard-deck/gold-foil",
+  "productPrices": [
+    {
+      "tactics": "79.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/powell-peralta/andy-anderson-heron-skull-913-skateboard-deck/gold-foil"
+    },
+    {
+      "spot": "76.95",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/powell-peralta-andy-anderson-pro-heron-2-7-ply-maple-deck-94648?variant=48246936699153"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Egypt Deck",
+  "productBrand": "Carpet",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396923/ldjsonbuild/uq6ud8gr9zw7pwaaafda.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/carpet/egypt-825-skateboard-deck/black-green",
+  "productPrices": [
+    {
+      "tactics": "75.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/carpet/egypt-825-skateboard-deck/black-green"
+    }
+  ]
+}

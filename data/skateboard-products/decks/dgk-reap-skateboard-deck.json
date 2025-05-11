@@ -1,0 +1,17 @@
+{
+  "productName": "DGK Reap Deck",
+  "productBrand": "DGK",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461890/zumiezbuild/suqm2n7tvutx2ez4udko.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/dgk-reap-8-5-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "64.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/dgk-reap-8-5-skateboard-deck.html"
+    }
+  ]
+}

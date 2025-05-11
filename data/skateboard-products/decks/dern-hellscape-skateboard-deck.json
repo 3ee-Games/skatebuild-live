@@ -1,0 +1,17 @@
+{
+  "productName": "Dern Hellscape Deck",
+  "productBrand": "Heroin",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402886/ldjsonbuild/adenzdnoqyzx1omicn7s.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/heroin/dern-hellscape-90-skateboard-deck/holo",
+  "productPrices": [
+    {
+      "tactics": "76.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/heroin/dern-hellscape-90-skateboard-deck/holo"
+    }
+  ]
+}

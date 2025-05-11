@@ -1,0 +1,17 @@
+{
+  "productName": "Metal Gall Willard Deck",
+  "productBrand": "Metal Skateboards",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461146/zumiezbuild/b7tdj1uatlmeixzqbd0e.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/metal-gall-willard-8-5-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "49.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/metal-gall-willard-8-5-skateboard-deck.html"
+    }
+  ]
+}

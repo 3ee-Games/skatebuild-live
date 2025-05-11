@@ -1,0 +1,17 @@
+{
+  "productName": "Punchout Deck",
+  "productBrand": "Theories",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395324/ldjsonbuild/eclav3sjrl4rohjpyrzj.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/punchout-887-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "71.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/punchout-887-skateboard-deck"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Rabelo Buddies Deck",
+  "productBrand": "Flip",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397808/ldjsonbuild/quajemk96dknzafkxo6x.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/flip/rabelo-buddies-80-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "58.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/flip/rabelo-buddies-80-skateboard-deck"
+    }
+  ]
+}

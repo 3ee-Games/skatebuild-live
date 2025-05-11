@@ -1,0 +1,772 @@
+[
+  {
+    "slug": "ace-classic-army-green-skateboard-truck",
+    "productName": "Ace 44 Classic Army Green Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462545/zumiezbuild/ccnfmeqslvx4yxovf1jz.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "24.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/ace-44-classic-army-green-skateboard-truck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "ace-deedz-hollow-af1-black-skateboard-truck",
+    "productName": "Ace Deedz Hollow 55 AF1 Black Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462423/zumiezbuild/qyxvsusaepmdymzradtb.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "36.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/ace-deedz-hollow-55-af1-black-skateboard-truck.html"
+      },
+      {
+        "spot": "37.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/ace-trucks-spanky-limited-af1-hollowed-truck?variant=50191988097297"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "ace-trucks-ace-colored-truck",
+    "productName": "Ace Trucks Ace 33 Colored Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417326/ldjsonbuild/ft8x3algadfmcl46dylk.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "25.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/ace-trucks-ace-33-colored-truck-59811?variant=48243535118609"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "ace-trucks-brian-anderson-af1-limited-truck",
+    "productName": "Ace Trucks Brian Anderson AF1 Limited Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416720/ldjsonbuild/w08z3u4zdm9kkkar4lm4.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "28.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/ace-trucks-brian-anderson-af1-limited-truck-96616?variant=49244195651857"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "ace-trucks-deedz-limited-af1-hollow-truck",
+    "productName": "Ace Trucks Deedz Limited AF1 Hollow Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416725/ldjsonbuild/r7sheelt1cxl3najhg9m.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "28.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/ace-trucks-deedz-limited-af1-hollow-truck-96617?variant=50191155888401"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "af-low-hollow-kingpin-skateboard-trucks",
+    "productName": "AF-1 Low Hollow Kingpin Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393287/ldjsonbuild/hglsndvspm6yjvie6odm.webp",
+    "imageWidth": 263,
+    "imageHeight": 144,
+    "productPrices": [
+      {
+        "tactics": "66.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/ace/af-1-low-hollow-kingpin-skateboard-trucks/polished-silver-55"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "alloys-skateboard-trucks",
+    "productName": "Alloys Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393102/ldjsonbuild/aednl9awi9mjus2xmvud.webp",
+    "imageWidth": 263,
+    "imageHeight": 144,
+    "productPrices": [
+      {
+        "tactics": "28.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/tensor/alloys-skateboard-trucks/raw-425"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "bear-gen-red-longboard-truck",
+    "productName": "Bear Gen 6 180 Red Longboard Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462585/zumiezbuild/ulprtjzdti2kcwljnevm.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "24.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/bear-gen-6-180-red-longboard-truck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "brad-cromer-pro-edition-skateboard-trucks",
+    "productName": "Brad Cromer Pro Edition Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746405001/ldjsonbuild/duuww91eauro9jpy3xrb.webp",
+    "imageWidth": 263,
+    "imageHeight": 144,
+    "productPrices": [
+      {
+        "tactics": "49.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/thunder/brad-cromer-pro-edition-skateboard-trucks/behaviour-148"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "brian-anderson-af-ltd-skateboard-trucks",
+    "productName": "Brian Anderson AF-1 LTD Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393084/ldjsonbuild/tojjj7fxcbofhmk7mglt.webp",
+    "imageWidth": 263,
+    "imageHeight": 144,
+    "productPrices": [
+      {
+        "tactics": "68.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/ace/brian-anderson-af-1-ltd-skateboard-trucks/black-white-street-pirate-55"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "compound-reverse-matte-black-longboard-truck",
+    "productName": "Compound Reverse Matte Black Longboard Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462501/zumiezbuild/y12dgu8ki5ivgdgsanvd.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "21.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/compound-9-5-reverse-matte-black-longboard-truck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "compound-white-longboard-truck",
+    "productName": "Compound White Longboard Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462562/zumiezbuild/gty8xggmqhmmfykmlwyx.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "21.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/compound-9-5-white-longboard-truck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "curb-killer-st1-inverted-skateboard-trucks",
+    "productName": "Curb Killer ST1 Inverted Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393090/ldjsonbuild/ri5otji5zqm9ee0ncw1t.webp",
+    "imageWidth": 263,
+    "imageHeight": 144,
+    "productPrices": [
+      {
+        "tactics": "68.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/slappy/curb-killer-st1-inverted-skateboard-trucks/black-100"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dlk-k5-skateboard-trucks",
+    "productName": "DLK K5 Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393191/ldjsonbuild/yv7ujmt6izyjraemkya5.webp",
+    "imageWidth": 263,
+    "imageHeight": 144,
+    "productPrices": [
+      {
+        "tactics": "41.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/krux/dlk-k5-skateboard-trucks/silver-white-bushings-76"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "forged-titanium-stage-skateboard-trucks",
+    "productName": "Forged Titanium Stage 11 Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393196/ldjsonbuild/rdnv6eybzstr0db1w3ib.webp",
+    "imageWidth": 263,
+    "imageHeight": 144,
+    "productPrices": [
+      {
+        "tactics": "79.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/independent/forged-titanium-stage-11-skateboard-trucks/silver-129"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "foy-fauna-pro-edition-skateboard-trucks",
+    "productName": "Foy Fauna Pro Edition Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746404934/ldjsonbuild/szgif02dg3t5ipplpfce.webp",
+    "imageWidth": 263,
+    "imageHeight": 144,
+    "productPrices": [
+      {
+        "tactics": "54.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/thunder/foy-fauna-pro-edition-skateboard-trucks/polished-orange-149"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "gonz-pro-stage-skateboard-trucks",
+    "productName": "Gonz Pro Stage 4 Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746404923/ldjsonbuild/l5jeqds1bc2s6xetx2bn.webp",
+    "imageWidth": 263,
+    "imageHeight": 144,
+    "productPrices": [
+      {
+        "tactics": "59.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/independent/gonz-pro-stage-4-skateboard-trucks/flat-white-blue-151"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "hi-skateboard-trucks",
+    "productName": "00 Hi Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393184/ldjsonbuild/g2ozv6a2uohwss6v77ir.webp",
+    "imageWidth": 263,
+    "imageHeight": 144,
+    "productPrices": [
+      {
+        "tactics": "43.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/ace/00-hi-skateboard-trucks/polished-silver"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "hollow-polished-skateboard-trucks",
+    "productName": "Hollow Polished Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393119/ldjsonbuild/m3qnobwkoz94l9khg8oe.webp",
+    "imageWidth": 263,
+    "imageHeight": 144,
+    "productPrices": [
+      {
+        "tactics": "79.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/lurpiv/hollow-polished-skateboard-trucks/silver-140"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "independent-colbourn-skateboard-truck",
+    "productName": "Independent Colbourn 139mm Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462544/zumiezbuild/kkszre0v5it4sjvtbbk7.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "19.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/independent-colbourn-139mm-skateboard-truck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "independent-gonz-box-set",
+    "productName": "Independent Gonz 215 Box Set",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416608/ldjsonbuild/t51znyi4uyzqbl5v53bq.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "124.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/independent-gonz-215-box-set?variant=51144646787345"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "independent-hockey-x-independent-stage-croc-standard-truck",
+    "productName": "Independent Hockey x Independent Stage 11 Croc Standard Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416746/ldjsonbuild/utpk05huedo1xxvrtspb.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "25.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/independent-hockey-x-independent-stage-11-croc-standard-truck-96004?variant=49244137521425"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "independent-justin-henry-stage-skateboard-trucks",
+    "productName": "Independent 149 Justin Henry Stage 11 Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462512/zumiezbuild/gfpagbcbvp37pbahxtwa.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "29.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/independent-149-justin-henry-stage-11-skateboard-trucks.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "independent-mid-inverted-kingpin-trucks",
+    "productName": "Independent Mid Inverted Kingpin Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416970/ldjsonbuild/xbkntsqnh5wabh37wqkg.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "25.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/independent-mid-trucks-85770?variant=48245747843345"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "independent-smith-white-skateboard-trucks",
+    "productName": "Independent Smith 144 White Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462559/zumiezbuild/xhiatuzfevbhlj1hfyff.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "31.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/independent-smith-144-white-skateboard-trucks.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "independent-stage-bar-truck",
+    "productName": "Independent Stage 11 Bar Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416768/ldjsonbuild/yzkqcxfx1voug15dvbx9.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "27.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/independent-stage-11-bar-truck-95086?variant=48246987948305"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "independent-stage-pro-chris-colbourn-truck",
+    "productName": "Independent Stage 11 Pro Chris Colbourn Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416702/ldjsonbuild/lo6bqbbccit6hifeymli.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "31.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/independent-stage-11-pro-chris-colbourn-truck-96707?variant=49835678925073"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "independent-stage-pro-mark-gonzales-truck",
+    "productName": "Independent Stage 4 Pro Mark Gonzales Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416601/ldjsonbuild/rchhhanlngmibxofokpy.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "31.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/independent-stage-4-pro-mark-gonzales-truck?variant=51244730155281"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "independent-t-funk-stage-standard-truck",
+    "productName": "Independent T Funk Stage 11 Standard Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416762/ldjsonbuild/mba1ndr5h99lu1jar6p1.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "22.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/independent-t-funk-stage-11-standard-truck-95211?variant=48246997680401"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "independent-vertigo-span-stage-hollow-black-silver-skateboard-truck",
+    "productName": "Independent Vertigo Span 144 Stage 11 Hollow Black & Silver Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462450/zumiezbuild/giperchm09hk8epkbxhn.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "38.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/independent-vertigo-span-144-stage-11-hollow-black-and-silver-skateboard-truck.html"
+      },
+      {
+        "tactics": "51.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/independent/forged-hollow-stage-11-skateboard-trucks/silver-129"
+      },
+      {
+        "spot": "34.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/independent-stage-11-forged-hollow-voltage-span-trucks?variant=50609308008721"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "independent-x-hockey-silver-skateboard-truck",
+    "productName": "Independent x Hockey Silver 149 Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462437/zumiezbuild/foef1sz5t9eglgbvpbby.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "14.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/independent-x-hockey-silver-149-skateboard-truck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "koston-pro-v8-polished-skateboard-trucks",
+    "productName": "Koston Pro V8 Polished Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393155/ldjsonbuild/i90bfs20pgueqtotigzv.webp",
+    "imageWidth": 263,
+    "imageHeight": 144,
+    "productPrices": [
+      {
+        "tactics": "52.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/venture/koston-pro-v8-polished-skateboard-trucks/polished-52-hi"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "krux-david-loy-krome-standard-pro-truck",
+    "productName": "Krux David Loy Krome Standard Pro Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417116/ldjsonbuild/kwbncougd7afksbe6k5m.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "21.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/krux-david-loy-krome-standard-pro-truck-79712?variant=48244898857233"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "krux-downlow-forged-truck",
+    "productName": "Krux Downlow Forged Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417070/ldjsonbuild/f99jbm1wdxei2hyb6eee.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "24.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/krux-downlow-forged-truck-81610?variant=48245154939153"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "krux-galaxy-standard-truck",
+    "productName": "Krux Galaxy Standard Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416953/ldjsonbuild/uarpfrt606q17oj6u2mt.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "22.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/krux-galaxy-standard-truck-86418?variant=48245820883217"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "krux-grind-out-racism-dlk-truck",
+    "productName": "Krux Grind Out Racism DLK Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416900/ldjsonbuild/zvjoq418vhsy9kvious7.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "16.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/krux-grind-out-racism-dlk-truck-88902?variant=48246185492753"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "krux-hollow-dlk-standard-truck",
+    "productName": "Krux Hollow DLK Standard Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416995/ldjsonbuild/rw0hsipwcxjmuuttdry2.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "22.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/krux-hollow-dlk-standard-truck-84051?variant=48245502542097"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "krux-k5-bear-hunter-dlkamo-truck",
+    "productName": "Krux K5 Bear Hunter DLKamo Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462470/zumiezbuild/mitnq1pzavd6ocgmnji7.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "30.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/krux-k5-bear-hunter-8-25-dlkamo-truck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "krux-k5-dlk-polished-skateboard-truck",
+    "productName": "Krux K5 DLK Polished Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462401/zumiezbuild/r4swbttrjbiu9b087iqg.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "15.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/krux-k5-dlk-polished-8-0-skateboard-truck.html"
+      },
+      {
+        "spot": "17.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/krux-standard-skateboard-truck-77422?variant=48244596703505"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "krux-k5-nora-triangle-standard-truck",
+    "productName": "Krux K5 Nora Triangle Standard Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416911/ldjsonbuild/ufsyxbxou6scbcsrajcz.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "25.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/krux-k5-nora-triangle-standard-truck-88548?variant=48246135456017"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "krux-k5-nora-vasconcellos-by-alexis-standard-truck",
+    "productName": "Krux K5 Nora Vasconcellos By Alexis Standard Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416890/ldjsonbuild/qes0ihqao0bofavxjw8h.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "20.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/krux-k5-nora-vasconcellos-by-alexis-standard-truck-89637?variant=48246282092817"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "krux-k5-pro-nora-vasconcellos-dreams-dlk-standard-truck",
+    "productName": "Krux K5 Pro Nora Vasconcellos Dreams DLK Standard Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416877/ldjsonbuild/mf4pyftrxqzskoj3oqmd.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "18.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/krux-k5-pro-nora-vasconcellos-dreams-dlk-standard-truck-91884?variant=48246586802449"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "krux-k5-the-raver-pink-green-skateboard-truck",
+    "productName": "Krux K5 The Raver Pink & Green Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462519/zumiezbuild/xpkkfqogetzy9yjiotzl.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "26.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/krux-k5-the-raver-pink-and-green-8-0-skateboard-truck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "krux-k5-vip-red-velvet-dlk-truck",
+    "productName": "Krux K5 VIP Red Velvet DLK Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416752/ldjsonbuild/nkniwxmth1u2wnh2viwy.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "21.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/krux-k5-vip-red-velvet-dlk-truck-95874?variant=49244119171345"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "krux-kechaud-johnson-standard-trucks",
+    "productName": "Krux KeChaud Johnson Standard Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417035/ldjsonbuild/lx802ibby6pbisc1ikr0.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "26.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/krux-kechaud-johnson-standard-trucks-82608?variant=48245329559825"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "krux-krome-kelvin-hoefler-truck",
+    "productName": "Krux Krome Kelvin Hoefler Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417111/ldjsonbuild/yzlpxjh77nnrp1kktlrg.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "20.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/krux-krome-kelvin-hoefler-truck-79915?variant=48244930609425"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "krux-krome-kittys-standard-truck",
+    "productName": "Krux Krome Kittys Standard Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417065/ldjsonbuild/s7l282e3l1fjfhx6cwvj.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "26.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/krux-krome-kittys-standard-truck-81611?variant=48245155135761"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "krux-krome-matte-split-dlk-standard-truck",
+    "productName": "Krux Krome Matte Split DLK Standard Truck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417045/ldjsonbuild/tic1kfgrbwyrmuhnzedb.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "26.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/krux-krome-matte-split-dlk-standard-truck-82471?variant=48245318418705"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "krux-krome-nora-vasconcellos-trucks",
+    "productName": "Krux Krome Nora Vasconcellos Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417101/ldjsonbuild/hfggcilyv9d4pbrmzv6d.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "24.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/krux-krome-nora-vasconcellos-trucks-80002?variant=48244944601361"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "krux-krux-x-spongebob-bikini-bottom-trucks",
+    "productName": "Krux Krux X Spongebob Bikini Bottom Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417011/ldjsonbuild/eznr31j3ivphq6jzytji.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "22.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/krux-krux-x-spongebob-bikini-bottom-trucks-83479?variant=48245439463697"
+      }
+    ],
+    "productTags": []
+  }
+]

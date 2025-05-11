@@ -1,0 +1,17 @@
+{
+  "productName": "Murphy Milwaukees Finest Deck",
+  "productBrand": "StrangeLove",
+  "productType": "Cruiser Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395730/ldjsonbuild/j36er25min1h0niheagy.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/strangelove/murphy-milwaukees-finest-85-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/strangelove/murphy-milwaukees-finest-85-skateboard-deck"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "productName": "Powell Peralta Hawk Bones Brigade Series 16 Reissue Deck",
+  "productBrand": "Powell",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460895/zumiezbuild/ot5yu1bnlq5n1erjyhkr.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/powell-peralta-hawk-bones-brigade-series-16-reissue-10-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "129.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/powell-peralta-hawk-bones-brigade-series-16-reissue-10-skateboard-deck.html"
+    },
+    {
+      "spot": "129.95",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/powell-peralta-bones-brigade-mike-mcgill-series-16-deck?variant=51377346740497"
+    }
+  ]
+}

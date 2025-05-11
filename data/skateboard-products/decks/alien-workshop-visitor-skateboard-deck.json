@@ -1,0 +1,22 @@
+{
+  "productName": "Alien Workshop Visitor Deck",
+  "productBrand": "Alien Workshop",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461895/zumiezbuild/spgkk5lo3emdhas5qw7u.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/alien-workshop-visitor-8-25-skateboard-deck-1.html",
+  "productPrices": [
+    {
+      "zumiez": "65.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/alien-workshop-visitor-8-25-skateboard-deck-1.html"
+    },
+    {
+      "spot": "67.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/alien-workshop-visitor-deck?variant=51094903554321"
+    }
+  ]
+}

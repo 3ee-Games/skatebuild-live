@@ -1,0 +1,17 @@
+{
+  "productName": "Snyder",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375805/ldjsonbuild/wpyaoskwqe3e1r9ipfep.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569737,
+  "productVendorUrl": "https://www.suregrip.com/products/snyder",
+  "productPrices": [
+    {
+      "suregrip": "29.99",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/snyder"
+    }
+  ]
+}

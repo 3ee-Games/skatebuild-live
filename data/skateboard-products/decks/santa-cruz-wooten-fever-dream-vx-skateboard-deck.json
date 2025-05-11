@@ -1,0 +1,27 @@
+{
+  "productName": "Santa Cruz Wooten Fever Dream VX Deck",
+  "productBrand": "Santa Cruz Skate",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461247/zumiezbuild/pwjvm3y6czelqnekauie.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/santa-cruz-wooten-fever-dream-vx-8-5-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "94.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/santa-cruz-wooten-fever-dream-vx-8-5-skateboard-deck.html"
+    },
+    {
+      "tactics": "91.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/santa-cruz/wooten-crest-85-vx-skateboard-deck"
+    },
+    {
+      "spot": "93.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-jake-wooten-crest-vx-deck?variant=51438848704785"
+    }
+  ]
+}

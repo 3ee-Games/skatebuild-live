@@ -1,0 +1,17 @@
+{
+  "productName": "WORBLE Poppy Cat Deck",
+  "productBrand": "Worble",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461775/zumiezbuild/h7ur3rrdwdroj5szyspo.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/worble-poppy-cat-8-25-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "64.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/worble-poppy-cat-8-25-skateboard-deck.html"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Lunar Lux Deck",
+  "productBrand": "Habitat",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397389/ldjsonbuild/x0yf8myua7oo7gb1wil3.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/habitat/lunar-lux-85-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "62.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/habitat/lunar-lux-85-skateboard-deck"
+    }
+  ]
+}

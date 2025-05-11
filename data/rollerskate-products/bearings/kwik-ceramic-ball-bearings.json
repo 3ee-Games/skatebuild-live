@@ -1,0 +1,27 @@
+{
+  "productName": "Kwik Ceramic Ball Bearings",
+  "productBrand": "Riedell",
+  "productType": "bearings",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746230631/ldjsonbuild/kemkmucywnxnvi7lxfnw.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569734,
+  "productVendorUrl": "https://www.moxiskates.com/collections/bearings/products/kwik-brand-ceramic-ball-bearings",
+  "productPrices": [
+    {
+      "moxi": "149.0",
+      "url": "https://www.moxiskates.com",
+      "productVendorUrl": "https://www.moxiskates.com/collections/bearings/products/kwik-brand-ceramic-ball-bearings"
+    },
+    {
+      "derbywarehouse": "149.00",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/KwiK_Ceramic_Bearings/descpage-KWIKCER.html"
+    },
+    {
+      "medusaskates": "149",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/kwik-ceramic-bearings-8mm-16-pack/"
+    }
+  ]
+}

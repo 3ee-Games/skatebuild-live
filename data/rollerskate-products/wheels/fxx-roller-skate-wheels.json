@@ -1,0 +1,17 @@
+{
+  "productName": "FXX Roller Skate Wheels",
+  "productBrand": "Bont",
+  "productType": "roller skate wheels",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746365317/ldjsonbuild/ymvkl4xlacmwexwflra1.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569739,
+  "productVendorUrl": "https://bont.com/collections/roller-skate-wheels/products/fxx-roller-skate-wheels",
+  "productPrices": [
+    {
+      "bont": "210.0",
+      "url": "https://bont.com",
+      "productVendorUrl": "https://bont.com/collections/roller-skate-wheels/products/fxx-roller-skate-wheels"
+    }
+  ]
+}

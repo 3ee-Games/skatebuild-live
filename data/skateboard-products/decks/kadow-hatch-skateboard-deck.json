@@ -1,0 +1,17 @@
+{
+  "productName": "Kadow Hatch Deck",
+  "productBrand": "Hockey",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395373/ldjsonbuild/kosnmgxyebawlqq7cwki.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/hockey/kadow-hatch-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "76.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/hockey/kadow-hatch-825-skateboard-deck"
+    }
+  ]
+}

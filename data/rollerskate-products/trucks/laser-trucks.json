@@ -1,0 +1,17 @@
+{
+  "productName": "Laser Trucks",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746374998/ldjsonbuild/admsnrcca2ogvqiliffb.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569738,
+  "productVendorUrl": "https://www.suregrip.com/products/laser-truck",
+  "productPrices": [
+    {
+      "suregrip": "100.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/laser-truck"
+    }
+  ]
+}

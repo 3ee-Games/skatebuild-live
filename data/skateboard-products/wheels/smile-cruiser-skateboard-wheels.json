@@ -1,0 +1,17 @@
+{
+  "productName": "Smile Cruiser Wheels",
+  "productBrand": "Chocolate",
+  "productType": "Cruiser/Soft Wheels",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393532/ldjsonbuild/dvwo9lx3qafoy1xmfx6q.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544888,
+  "productVendorUrl": "https://www.tactics.com/chocolate/smile-cruiser-skateboard-wheels/white-85d",
+  "productPrices": [
+    {
+      "tactics": "31.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/chocolate/smile-cruiser-skateboard-wheels/white-85d"
+    }
+  ]
+}

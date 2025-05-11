@@ -1,0 +1,17 @@
+{
+  "productName": "Kimbel The Lore VX Deck",
+  "productBrand": "Creature",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400298/ldjsonbuild/j8stcwqpbaiglmtbydmv.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/creature/kimbel-the-lore-88-vx-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "90.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/creature/kimbel-the-lore-88-vx-skateboard-deck"
+    }
+  ]
+}

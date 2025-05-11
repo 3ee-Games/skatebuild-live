@@ -1,0 +1,17 @@
+{
+  "productName": "Louie Pro Bearings",
+  "productBrand": "SKF",
+  "productType": "Bearings",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746391834/ldjsonbuild/lknwrvv6hfbkvemjd6x4.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746544876,
+  "productVendorUrl": "https://www.tactics.com/skf/louie-pro-skateboard-bearings",
+  "productPrices": [
+    {
+      "tactics": "39.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/skf/louie-pro-skateboard-bearings"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "V-Lights Trucks",
+  "productBrand": "Venture",
+  "productType": "Trucks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393244/ldjsonbuild/wuxrozo9zilbdphfneye.webp",
+  "imageWidth": 263,
+  "imageHeight": 144,
+  "updated": 1746544886,
+  "productVendorUrl": "https://www.tactics.com/venture/v-lights-skateboard-trucks/all-polished-56-hi",
+  "productPrices": [
+    {
+      "tactics": "55.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/venture/v-lights-skateboard-trucks/all-polished-56-hi"
+    }
+  ]
+}

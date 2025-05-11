@@ -1,0 +1,17 @@
+{
+  "productName": "Center Of Existence Deck",
+  "productBrand": "Tactics",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395947/ldjsonbuild/xnvdo7dk9q3ec5oufpgq.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/tactics/center-of-existence-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "44.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/tactics/center-of-existence-skateboard-deck"
+    }
+  ]
+}

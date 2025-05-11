@@ -1,0 +1,17 @@
+{
+  "productName": "CIB Slide Blocks",
+  "productBrand": "CIB",
+  "productType": "medusaskates.com",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468670/ldjsonbuild/sq5xqleupalfb6p4ibpw.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569737,
+  "productVendorUrl": "https://medusaskates.com/cib-slide-blocks",
+  "productPrices": [
+    {
+      "medusaskates": "49.99",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/cib-slide-blocks"
+    }
+  ]
+}

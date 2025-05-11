@@ -1,0 +1,22 @@
+{
+  "productName": "Chocolate Alvarez JPs World Deck",
+  "productBrand": "Chocolate Skateboards",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460776/zumiezbuild/siannmq45c6gpixrp6y4.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/chocolate-alvarez-jps-world-8-25-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "64.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/chocolate-alvarez-jps-world-8-25-skateboard-deck.html"
+    },
+    {
+      "tactics": "58.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/chocolate/alvarez-jps-world-825-skateboard-deck"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Boards R Us Deck",
+  "productBrand": "Tactics",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395615/ldjsonbuild/zdxf9fho1s2xaxs5ufbz.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/tactics/boards-r-us-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "44.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/tactics/boards-r-us-skateboard-deck"
+    }
+  ]
+}

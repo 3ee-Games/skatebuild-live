@@ -1,0 +1,17 @@
+{
+  "productName": "Grey Cream",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375799/ldjsonbuild/cp98rq1xlkoa5qjlbueo.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569737,
+  "productVendorUrl": "https://www.suregrip.com/products/grey-cream",
+  "productPrices": [
+    {
+      "suregrip": "29.99",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/grey-cream"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Team Deck",
+  "productBrand": "Scram",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396684/ldjsonbuild/zwmblsu7jgsyj70t8jmi.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/scram/team-85-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "61.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/scram/team-85-skateboard-deck"
+    }
+  ]
+}

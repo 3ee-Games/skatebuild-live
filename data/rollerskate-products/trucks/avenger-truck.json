@@ -1,0 +1,17 @@
+{
+  "productName": "Avenger truck",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746374972/ldjsonbuild/j3mcoimbuvzxhemzjely.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569738,
+  "productVendorUrl": "https://www.suregrip.com/products/avenger-truck",
+  "productPrices": [
+    {
+      "suregrip": "64.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/avenger-truck"
+    }
+  ]
+}

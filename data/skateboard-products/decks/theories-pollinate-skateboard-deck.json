@@ -1,0 +1,22 @@
+{
+  "productName": "Theories Pollinate Deck",
+  "productBrand": "Theories",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461765/zumiezbuild/ioyv8qe2jwhi6e4vswak.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/theories-pollinate-8-25-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "73.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/theories-pollinate-8-25-skateboard-deck.html"
+    },
+    {
+      "tactics": "68.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/pollinate-825-skateboard-deck"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "productName": "Disorder Nyjah All Seeing Deck",
+  "productBrand": "Disorder Skateboards",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461342/zumiezbuild/vjwcxwl6twpcsjdtdzfm.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/disorder-nyjah-all-seeing-8-25-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "69.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/disorder-nyjah-all-seeing-8-25-skateboard-deck.html"
+    },
+    {
+      "spot": "70.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/disorder-skateboards-nyjah-huston-all-seeing-eye-deck-96764?variant=49835699077393"
+    }
+  ]
+}

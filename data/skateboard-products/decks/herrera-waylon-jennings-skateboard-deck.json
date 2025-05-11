@@ -1,0 +1,17 @@
+{
+  "productName": "Herrera Waylon Jennings Deck",
+  "productBrand": "Chocolate",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397049/ldjsonbuild/cqvldv5bujp6k5kgzlhd.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/chocolate/herrera-waylon-jennings-85-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "58.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/chocolate/herrera-waylon-jennings-85-skateboard-deck"
+    }
+  ]
+}

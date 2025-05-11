@@ -1,0 +1,17 @@
+{
+  "productName": "Tomorrows Teardrop Deck",
+  "productBrand": "Lovesick",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396498/ldjsonbuild/o0hncsgyum9uk3uwhwex.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/lovesick/tomorrows-teardrop-8375-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "68.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/lovesick/tomorrows-teardrop-8375-skateboard-deck"
+    }
+  ]
+}

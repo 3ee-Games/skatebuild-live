@@ -1,0 +1,802 @@
+[
+  {
+    "slug": "aaron-loreth-hail-fail-skateboard-deck",
+    "productName": "Aaron Loreth Hail Fail Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400368/ldjsonbuild/cy1zdpqo10glvstzvoek.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "76.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/limosine/aaron-loreth-hail-fail-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "ace-daytripper-skateboard-deck",
+    "productName": "Ace Daytripper Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397754/ldjsonbuild/r9ztagetui2dlrvroum5.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "58.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/arbor/ace-daytripper-8375-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "ace-order-and-chaos-wheels-wells-skateboard-deck",
+    "productName": "Ace Order And Chaos Wheels Wells Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395401/ldjsonbuild/vnuyrkjkbtue6uenroku.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "67.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/arbor/ace-order-and-chaos-100-wheels-wells-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "ace-rearview-wheel-wells-skateboard-deck",
+    "productName": "Ace Rearview Wheel Wells Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396830/ldjsonbuild/f6yfpfuh5agqbjxwgnmm.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "71.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/arbor/ace-rearview-100-wheel-wells-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "ace-underground-skateboard-deck",
+    "productName": "Ace Underground Deck",
+    "cloudinaryUrl": "",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "59.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/arbor/ace-underground-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "adam-mueller-pro-skateboard-deck",
+    "productName": "Adam Mueller Pro Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400138/ldjsonbuild/llhyuedvkvfz5quzbo2e.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "54.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/bacon/adam-mueller-pro-825-skateboard-deck/pink"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "adams-el-pollo-diablo-custom-egg-skateboard-deck",
+    "productName": "Adams El Pollo Diablo Custom Egg Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399018/ldjsonbuild/llvn3cf2csl9l1ac8ajy.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "68.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/black-label/adams-el-pollo-diablo-95-custom-egg-skateboard-deck/blue"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "adams-to-life-egg-skateboard-deck",
+    "productName": "Adams 50 To Life Egg Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401942/ldjsonbuild/lcgigqtgewhncfe4a3g0.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "61.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/black-label/adams-50-to-life-90-egg-skateboard-deck/black"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "adventure-time-x-welcome-jake-skateboard-deck",
+    "productName": "Adventure Time x Welcome Jake Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462136/zumiezbuild/j4dnlqngkxkptvdihzsk.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "89.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/welcome-x-adventure-time-jake-9-75-skateboard-deck.html"
+      },
+      {
+        "spot": "90.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/welcome-skateboards-adventure-time-ice-king-on-crossbone-shaped-deck?variant=51347839680785"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "aidan-no-world-order-skateboard-deck",
+    "productName": "Aidan No World Order Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400092/ldjsonbuild/x0mpbeiytf82r0hdt8hq.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "77.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/fucking-awesome/aidan-no-world-order-844-skateboard-deck/red"
+      },
+      {
+        "spot": "78.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/fucking-awesome-aidan-mackey-no-world-order-deck?variant=51071732351249"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "aidan-portrait-skateboard-deck",
+    "productName": "Aidan Portrait Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398432/ldjsonbuild/obxau1ioaehtlgmpofs0.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "77.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/fucking-awesome/aidan-portrait-844-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "air-nowhere-skateboard-deck",
+    "productName": "Air Nowhere Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396156/ldjsonbuild/binfy4axiootbupbuqfi.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "44.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/tactics/air-nowhere-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "akerley-firestarter-custom-egg-skateboard-deck",
+    "productName": "Akerley Firestarter Custom Egg Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401776/ldjsonbuild/uhlwseihij8nhrocwxor.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "61.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/black-label/akerley-firestarter-90-custom-egg-skateboard-deck"
+      },
+      {
+        "tactics": "61.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/black-label/akerley-firestarter-825-skateboard-deck"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "combine",
+        "value": "egg"
+      }
+    ]
+  },
+  {
+    "slug": "alba-mr-mon-kay-skateboard-deck",
+    "productName": "Alba Mr. Mon-Kay Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398391/ldjsonbuild/x5bitrbbjiri5s11xlo7.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "71.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/frog/alba-mr-mon-kay-838-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "alby-vessel-skateboard-deck",
+    "productName": "Alby Vessel Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395959/ldjsonbuild/k7zrxbqppdx8klcffam6.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "62.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/killing-floor-skateboards/alby-vessel-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "aleve-egg-shape-skateboard-deck",
+    "productName": "Aleve Egg Shape Deck",
+    "cloudinaryUrl": "",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/swim-skateboard-co/aleve-91-egg-shape-skateboard-deck/green"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "aleve-skateboard-deck",
+    "productName": "Aleve Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397938/ldjsonbuild/p2lcmyle4hhho8evqloe.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/swim-skateboard-co/aleve-825-skateboard-deck/green"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "alien-workshop-guevara-exp-series-twin-skateboard-deck",
+    "productName": "Alien Workshop Guevara EXP Series Twin Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461309/zumiezbuild/pqxqawak9s4l3abn7m0y.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "54.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/alien-workshop-guevara-exp-series-twin-8-375-skateboard-deck.html"
+      },
+      {
+        "spot": "70.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/alien-workshop-joey-guevara-exp-series-deck-97238?variant=50087710392593"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "alien-workshop-visitor-skateboard-deck",
+    "productName": "Alien Workshop Visitor Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461895/zumiezbuild/spgkk5lo3emdhas5qw7u.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "65.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/alien-workshop-visitor-8-25-skateboard-deck-1.html"
+      },
+      {
+        "spot": "67.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/alien-workshop-visitor-deck?variant=51094903554321"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "alien-workshop-x-thrasher-exalt-the-world-skateboard-deck",
+    "productName": "Alien Workshop x Thrasher Exalt The World Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462036/zumiezbuild/mnqkcghfb01vuyrihnfp.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "54.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/alien-workshop-x-thrasher-exalt-the-world-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "allen-pinto-skateboard-deck",
+    "productName": "Allen Pinto Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396905/ldjsonbuild/piyk7l3zduuzj61rkrx6.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "77.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/hockey/allen-pinto-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "allie-eyeball-skateboard-deck",
+    "productName": "Allie Eyeball Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402322/ldjsonbuild/udptfuipdwaojz7johuy.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/zero/allie-eyeball-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "alltimers-alexis-loves-harpie-skateboard-deck",
+    "productName": "Alltimers Alexis Loves Harpie Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461185/zumiezbuild/klkmqfh7zybhnpoaxbwt.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "39.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/alltimers-alexis-loves-harpie-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "alltimers-arcade-carpet-skateboard-deck",
+    "productName": "Alltimers Arcade Carpet Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461739/zumiezbuild/pluuavhexiga7cplmx2q.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "39.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/alltimers-arcade-carpet-8-0-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "alltimers-x-bronze-sophisticated-cruiser-skateboard-deck",
+    "productName": "Alltimers x Bronze Sophisticated Cruiser Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461893/zumiezbuild/jq8czvxmf6ivqfi3w3qx.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "39.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/alltimers-x-bronze-sophisticated-cruiser-8-5-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "alltimers-x-creative-growth-aurie-ramirez-skateboard-deck",
+    "productName": "Alltimers x Creative Growth Aurie Ramirez Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461973/zumiezbuild/psjxqoekgne5mczxstkh.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "49.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/alltimers-x-creative-growth-aurie-ramirez-8-3-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "alltimers-x-creative-growth-john-martin-skateboard-deck",
+    "productName": "Alltimers x Creative Growth John Martin Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461878/zumiezbuild/r16q6fkf4hwzrcqzmh5z.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "39.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/alltimers-x-creative-growth-john-martin-8-1-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "almquist-gym-n-tonic-skateboard-deck",
+    "productName": "Almquist Gym N Tonic Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402943/ldjsonbuild/g2kfi00frx5vspaeqvkp.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "64.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/wknd-skateboards/almquist-gym-n-tonic-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "almqvist-hello-march-skateboard-deck",
+    "productName": "Almqvist Hello March Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400063/ldjsonbuild/zjrvbvv88s5qfnztytyz.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/wknd-skateboards/almqvist-hello-march-8375-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "almqvist-rex-skateboard-deck",
+    "productName": "Almqvist Rex Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402701/ldjsonbuild/y1eustlhnztlh5lwjatj.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/wknd-skateboards/almqvist-rex-8375-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "alone-again-skateboard-deck",
+    "productName": "Alone Again Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397024/ldjsonbuild/kivm8r6xrmpu1rhkvxsd.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "68.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/lovesick/alone-again-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "alvarez-chocolate-kiss-skateboard-deck",
+    "productName": "Alvarez Chocolate Kiss Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399076/ldjsonbuild/c8hwhfxwrf8cvlv8zruj.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "58.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/chocolate/alvarez-chocolate-kiss-80-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "alvarez-western-skateboard-deck",
+    "productName": "Alvarez Western Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400310/ldjsonbuild/w2obbotfogjfmaewmqhq.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "57.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/chocolate/alvarez-western-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "always-run-skateboard-deck",
+    "productName": "5Boro Always Run Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461837/zumiezbuild/xasszni5hnt6oqcgrqvh.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "49.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/5boro-always-run-8-25-skateboard-deck.html"
+      },
+      {
+        "tactics": "59.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/5boro/always-run-825-skateboard-deck/blue"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "amelia-folklore-skateboard-deck",
+    "productName": "Amelia Folklore Deck",
+    "cloudinaryUrl": "",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "59.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/arbor/amelia-folklore-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "amelia-neuron-skateboard-deck",
+    "productName": "Amelia Neuron Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397303/ldjsonbuild/iy7y3aasvrfafpeconrp.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "63.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/arbor/amelia-neuron-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "amelia-underground-skateboard-deck",
+    "productName": "Amelia Underground Deck",
+    "cloudinaryUrl": "",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "59.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/arbor/amelia-underground-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "amelio-beckoner-skateboard-deck",
+    "productName": "Amelio Beckoner Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392443/ldjsonbuild/sjhh3jvoq1wiqxrxgwce.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "64.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/roger-skateboards/amelio-beckoner-825-skateboard-deck/brown"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "amelio-dancers-skateboard-deck",
+    "productName": "Amelio Dancers Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400304/ldjsonbuild/xweqyn7p965aa5oogklt.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "59.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/roger-skateboards/amelio-dancers-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "analyze-skateboard-deck",
+    "productName": "Analyze 2 Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398137/ldjsonbuild/haloqzcdtaxe3kxu95n5.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "55.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/tightbooth/analyze-2-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "anderson-biblical-technology-skateboard-deck",
+    "productName": "Anderson Biblical Technology Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392280/ldjsonbuild/xcio9b3fhoz0uo8iogdl.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "77.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/fucking-awesome/anderson-biblical-technology-838-skateboard-deck"
+      },
+      {
+        "spot": "78.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/fucking-awesome-jake-anderson-biblical-technology-deck?variant=51071789629713"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "anderson-chocolate-kiss-twin-tip-shape-skateboard-deck",
+    "productName": "Anderson Chocolate Kiss Twin Tip Shape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402582/ldjsonbuild/tiyukqe11i1ytwjseqzz.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "58.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/chocolate/anderson-chocolate-kiss-825-twin-tip-shape-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "anderson-jalopi-ba18-wheel-wells-shape-skateboard-deck",
+    "productName": "Anderson Jalopi BA18 Wheel Wells Shape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397054/ldjsonbuild/kv7gy13btoh4c6qfcdhg.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "79.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/anti-hero/anderson-jalopi-925-ba18-wheel-wells-shape-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "anderson-parts-skateboard-deck",
+    "productName": "Anderson Parts Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397871/ldjsonbuild/rnfgmgcc440f1xgsjd3b.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "62.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/killing-floor-skateboards/anderson-parts-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "anderson-western-skidul-shape-skateboard-deck",
+    "productName": "Anderson Western Skidul Shape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400018/ldjsonbuild/aexmjy8xe3mruwdiphzs.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "59.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/chocolate/anderson-western-85-skidul-shape-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "andrew-singh-mermaid-pro-series-deck",
+    "productName": "5boro Andrew Singh Mermaid Pro Series Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415847/ldjsonbuild/wkgmcalnmuqq5e6vubds.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "65.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/5boro-abdrew-singh-mermaid-pro-series-deck-97078?variant=50010978255121"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "andrew-wilson-wegg-skateboard-deck",
+    "productName": "Andrew Wilson Wegg Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746403228/ldjsonbuild/yscwxgfrbefzdsa4tl5o.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "76.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/krooked/andrew-wilson-wegg-91-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "andy-anderson-heron-skull-skateboard-deck",
+    "productName": "Andy Anderson Heron Skull Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398966/ldjsonbuild/zhmusr4xyi1r9b98gmwe.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "79.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/powell-peralta/andy-anderson-heron-skull-913-skateboard-deck/gold-foil"
+      },
+      {
+        "spot": "76.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/powell-peralta-andy-anderson-pro-heron-2-7-ply-maple-deck-94648?variant=48246936699153"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "anti-hero-anderson-jalopi-skateboard-deck",
+    "productName": "Anti-Hero Anderson Jalopi Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461349/zumiezbuild/edodbxtran3lrtq0y7pb.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "80.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/anti-hero-anderson-jalopi-9-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "anti-hero-anderson-some-legs-skateboard-deck",
+    "productName": "Anti-Hero Anderson Some Legs Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460841/zumiezbuild/xjhp4nediduginfqzp8p.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "78.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/anti-hero-anderson-some-legs-8-5-skateboard-deck.html"
+      },
+      {
+        "spot": "73.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/anti-hero-brian-anderson-some-legs-deck?variant=50965218427153"
+      }
+    ],
+    "productTags": []
+  }
+]

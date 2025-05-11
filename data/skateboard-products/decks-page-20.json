@@ -1,0 +1,777 @@
+[
+  {
+    "slug": "mason-script-colorblock-skateboard-deck",
+    "productName": "Mason Script Colorblock Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401472/ldjsonbuild/k7b86lemfp5nn7rxepnd.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "76.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/real/mason-script-colorblock-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mason-shakes-skateboard-deck",
+    "productName": "Mason Shakes Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399967/ldjsonbuild/nftuzutfsxj4zis2oapr.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "83.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/real/mason-shakes-838-skateboard-deck/blue"
+      },
+      {
+        "spot": "72.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/real-mason-silva-on-the-rocks-deck?variant=51207859667217"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "match-skateboard-deck",
+    "productName": "Match 2 Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399317/ldjsonbuild/wznnqnpzliqm2ckxnua6.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/evisen/match-2-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "matt-hensley-smoking-section-skateboard-deck",
+    "productName": "Matt Hensley Smoking Section Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401130/ldjsonbuild/uhdh5d8yrl2qkouiftpm.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "61.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/black-label/matt-hensley-smoking-section-85-skateboard-deck/brown"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "matt-reason-sub-zero-skateboard-deck",
+    "productName": "Matt Reason Sub Zero Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395941/ldjsonbuild/xnwh0gbsmbxvnaotocgo.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "71.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/heritage/matt-reason-sub-zero-85-skateboard-deck/white"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "max-palmer-temptress-skateboard-deck",
+    "productName": "Max Palmer Temptress Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398495/ldjsonbuild/aejjx7vdatzo82xdrafx.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "76.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/limosine/max-palmer-temptress-86-skateboard-deck"
+      },
+      {
+        "spot": "78.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/limosine-max-palmer-temptress-deck?variant=50996973076753"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mazzari-can-t-stop-skateboard-deck",
+    "productName": "Mazzari Cant Stop Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397218/ldjsonbuild/phyxgaxroxhvbhhvtwbh.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "64.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/dgk/mazzari-cant-stop-825-skateboard-deck"
+      },
+      {
+        "spot": "70.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/dgk-will-mazzari-cant-stop-deck?variant=51297470316817"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mazzari-sorcery-skateboard-deck",
+    "productName": "Mazzari Sorcery Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401032/ldjsonbuild/wtv1tok3fjhjul09qo5m.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/dgk/mazzari-sorcery-838-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mcbride-thrasher-cover-skateboard-deck",
+    "productName": "McBride Thrasher Cover Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398501/ldjsonbuild/e9o4wcdiczvdbnnj2ogp.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/dgk/mcbride-thrasher-cover-825-skateboard-deck/black"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mccoy-donuts-twin-shape-skateboard-deck",
+    "productName": "McCoy Donuts Twin Shape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400755/ldjsonbuild/kgykdvg9yuzpdr6f04hy.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "65.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/santa-cruz/mccoy-donuts-82-twin-shape-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mccoy-elite-eagle-skateboard-deck",
+    "productName": "McCoy Elite Eagle Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400521/ldjsonbuild/hiv31w3iw6ekzl07iha9.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "87.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/santa-cruz/mccoy-elite-eagle-80-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mccoy-space-chick-vx-skateboard-deck",
+    "productName": "McCoy Space Chick VX Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400256/ldjsonbuild/i233jmnez20v3701ains.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "88.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/santa-cruz/mccoy-space-chick-825-vx-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mccrank-dual-directional-twin-tip-shape-skateboard-deck",
+    "productName": "McCrank Dual Directional Twin Tip Shape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398403/ldjsonbuild/ugvkf6e3aqrkpztqenzs.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "58.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/girl/mccrank-dual-directional-80-twin-tip-shape-skateboard-deck/black-white"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mcdonald-skateboard-deck",
+    "productName": "Mcdonald 5Ball Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399547/ldjsonbuild/ttjuz5cg79tjr7s3vuq9.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "59.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/5boro/mcdonald-5ball-825-skateboard-deck/blue"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mcgill-skull-snake-flight-k21-shape-skateboard-deck",
+    "productName": "McGill Skull & Snake Flight K21 Shape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402677/ldjsonbuild/hylfrc0u8m76211kzzht.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "109.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/powell-peralta/mcgill-skull-snake-897-flight-k21-shape-skateboard-deck/green-white"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mcgill-skull-snake-mctwist-anniversary-skateboard-deck",
+    "productName": "McGill Skull & Snake McTwist 40th Anniversary Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395482/ldjsonbuild/onxrp8qog4okp7llrsn2.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "79.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/powell-peralta/mcgill-skull-snake-100-mctwist-40th-anniversary-skateboard-deck/gold-foil-red"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "meek-scratched-slasher-ply-birch-skateboard-deck",
+    "productName": "Meek Scratched Slasher 7 Ply Birch Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401747/ldjsonbuild/gmbws3ut4is0zrxnnkd2.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "54.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/santa-cruz/meek-scratched-slasher-80-7-ply-birch-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "meinholz-forward-movement-skateboard-deck",
+    "productName": "Meinholz Forward Movement Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746403463/ldjsonbuild/mnvmtzcfrclcvvxskqrw.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "55.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/hopps-skateboards/meinholz-forward-movement-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "memories1000-skateboard-deck",
+    "productName": "Memories1000 Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402852/ldjsonbuild/cikhdnpwtbg3juvhbokp.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "71.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/frog/memories1000-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "meow-big-cat-white-skateboard-deck",
+    "productName": "Meow Big Cat White Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462099/zumiezbuild/sdtpmpfqdiz96rey7tvq.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "49.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/meow-big-cat-white-8-0-skateboard-deck.html"
+      },
+      {
+        "tactics": "74.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/baker/theotis-big-cats-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "meow-teal-logo-skateboard-deck",
+    "productName": "Meow Teal Logo Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461700/zumiezbuild/rctbaijduslhrprxhgel.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "49.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/meow-teal-logo-8-0-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "metal-gall-willard-skateboard-deck",
+    "productName": "Metal Gall Willard Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461146/zumiezbuild/b7tdj1uatlmeixzqbd0e.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "49.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/metal-gall-willard-8-5-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "metal-medusa-proto-team-skateboard-deck",
+    "productName": "Metal Medusa Proto Team Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461927/zumiezbuild/ksjnksw9ajeodptiwg6o.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "49.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/metal-medusa-proto-team-8-5-skateboard-deck.html"
+      },
+      {
+        "spot": "70.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-medusa-proto-team-shaped-deck?variant=51085852246289"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "metal-skateboards-ben-raybourn-steer-shaped-deck",
+    "productName": "Metal Ben Raybourn Steer Shaped Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414495/ldjsonbuild/mssttxx8yr1pa6d7otml.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "70.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-ben-raybourn-steer-shaped-deck?variant=51397906235665"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "metal-skateboards-gorgo-team-deck",
+    "productName": "Metal Gorgo Team Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415079/ldjsonbuild/nlycotohpjg4wi72z452.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "70.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-gorgo-team-deck?variant=51085849723153"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "metal-skateboards-heaven-and-hell-deck",
+    "productName": "Metal Heaven And Hell Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415764/ldjsonbuild/owcjhhco0dkknvhclpki.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "71.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-heaven-and-hell-deck?variant=50297578979601"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "metal-skateboards-joel-meinholz-blackbeard-deck",
+    "productName": "Metal Joel Meinholz Blackbeard Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415925/ldjsonbuild/yolvx1sf2xtbq5d1xzg1.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "70.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-joel-meinholz-blackbeard-deck-95385?variant=48247015211281"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "meurle-simply-skateboard-deck",
+    "productName": "Meurle Simply Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392391/ldjsonbuild/qvv1dufqvcgtvsresxzh.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/wknd-skateboards/meurle-simply-8125-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "meurle-smirley-skateboard-deck",
+    "productName": "Meurle Smirley Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402430/ldjsonbuild/uzeghwgzsmuiklnh9v4a.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/wknd-skateboards/meurle-smirley-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mike-arnold-flexerx-skateboard-deck",
+    "productName": "Mike Arnold Flexerx Deck",
+    "cloudinaryUrl": "",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "72.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/edglrd/mike-arnold-flexerx-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mike-vallely-bug-reissue-skateboard-deck",
+    "productName": "Mike Vallely Bug Reissue Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402558/ldjsonbuild/nsr40uipduamtotlkmjd.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "79.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/powell-peralta/mike-vallely-bug-100-reissue-skateboard-deck/white"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mikey-pro-skateboard-deck",
+    "productName": "Mikey Pro Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395342/ldjsonbuild/fsnkntlgp19ezfiooegf.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "61.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/transportation-unit-skateboards/mikey-pro-825-skateboard-deck/pink"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "milic-tree-trunk-skateboard-deck",
+    "productName": "Milic Tree Trunk Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397183/ldjsonbuild/ehs7yrv6p4r9yn40saum.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "71.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/frog/milic-tree-trunk-838-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mini-logo-chevron-white-skateboard-deck",
+    "productName": "Mini Logo Chevron White Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461418/zumiezbuild/to38olfmwdxo9hc1tlt2.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "45.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/mini-logo-white-chevron-8-25-quot-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mini-skateboard-deck",
+    "productName": "Mini Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396354/ldjsonbuild/y3pqkjlpmonpi9s6w1qu.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "54.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/bacon/mini-73-skateboard-deck/blue"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mischief-skateboard-deck",
+    "productName": "Mischief Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397832/ldjsonbuild/e9xwyhndind6szhavcqp.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "58.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/space-program/mischief-825-skateboard-deck/blue"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "miskell-outer-realms-skateboard-deck",
+    "productName": "Miskell Outer Realms Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398926/ldjsonbuild/hbyitluvaxiim40iqznu.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "63.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/blood-wizard/miskell-outer-realms-838-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "missing-link-skateboard-deck",
+    "productName": "Missing Link Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396899/ldjsonbuild/ykbnwnxp9pawdmb9pzau.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "62.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/alien-workshop/missing-link-825-skateboard-deck/teal"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "monet-chrome-tulips-skateboard-deck",
+    "productName": "Monet Chrome Tulips Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461547/zumiezbuild/loqaz6bnuqn0etcpab3f.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "59.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/monet-chrome-tulips-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "monet-floral-stamps-skateboard-deck",
+    "productName": "Monet Floral Stamps Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461702/zumiezbuild/bu8g1jweqr8dnhzdxedk.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "59.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/monet-floral-stamps-8-0-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "monet-skateboards-graffiti-skateboard-deck",
+    "productName": "Monet Graffiti Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461788/zumiezbuild/aqbfbie7ovsf2aqdoqf7.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "59.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/monet-graffiti-8-0-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "monet-skateboards-skullew-skateboard-deck",
+    "productName": "Monet Skullew Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461452/zumiezbuild/qsvaqnq9jvzpmp1bnytc.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "49.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/monet-skateboards-skullew-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "monet-skateboards-throne-skateboard-deck",
+    "productName": "Monet Throne Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461589/zumiezbuild/kf3hsckn1fch6vvgfl6y.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "59.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "/monet-skateboards-throne-8-5-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "monster-face-skateboard-deck",
+    "productName": "Monster Face Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402564/ldjsonbuild/wedx0pngqrqyczmulkth.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "48.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/toy-machine/monster-face-80-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "monster-skateboard-deck",
+    "productName": "Monster Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401118/ldjsonbuild/x6jbqstt5tym5epoz0kv.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "68.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/toy-machine/monster-825-skateboard-deck/orange"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "montano-exp-skateboard-deck",
+    "productName": "Montano EXP Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397355/ldjsonbuild/u9ei3i8krc7g19fyyjz9.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "66.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/alien-workshop/montano-exp-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "motor-lobby-brandon-knowles-deck",
+    "productName": "Motor Lobby Brandon Knowles 911 Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414555/ldjsonbuild/ojesetkbuerkmj1ey7jc.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "70.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/motor-lobby-brandon-knowles-911-deck?variant=51389440164113"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "motor-lobby-dolly-herman-deck",
+    "productName": "Motor Lobby Dolly Herman Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414549/ldjsonbuild/hvg2ilbwwj8fyj2r3ego.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "70.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/motor-lobby-dolly-herman-deck?variant=51389440622865"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "motor-lobby-howdy-stranger-deck",
+    "productName": "Motor Lobby Howdy Stranger Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414545/ldjsonbuild/fppgncqfizcpqxrpuqkc.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "70.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/motor-lobby-howdy-stranger-deck?variant=51389441179921"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "motor-lobby-snaked-deck",
+    "productName": "Motor Lobby Snaked Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414538/ldjsonbuild/urvra0rotr4qtb8dg9my.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "70.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/motor-lobby-snaked-deck?variant=51389443834129"
+      }
+    ],
+    "productTags": []
+  }
+]

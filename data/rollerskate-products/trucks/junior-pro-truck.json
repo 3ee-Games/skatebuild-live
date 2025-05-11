@@ -1,0 +1,17 @@
+{
+  "productName": "Junior Pro Truck",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746374946/ldjsonbuild/qb4bluk7x7nmlj2hutx6.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569738,
+  "productVendorUrl": "https://www.suregrip.com/products/junior-pro-truck",
+  "productPrices": [
+    {
+      "suregrip": "25.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/junior-pro-truck"
+    }
+  ]
+}

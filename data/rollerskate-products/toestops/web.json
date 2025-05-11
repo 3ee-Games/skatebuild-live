@@ -1,0 +1,17 @@
+{
+  "productName": "Web",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375767/ldjsonbuild/jiz2eiu4k1l3uqjndntz.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569737,
+  "productVendorUrl": "https://www.suregrip.com/products/web",
+  "productPrices": [
+    {
+      "suregrip": "18.95",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/web"
+    }
+  ]
+}

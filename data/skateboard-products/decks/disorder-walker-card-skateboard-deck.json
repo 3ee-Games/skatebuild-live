@@ -1,0 +1,22 @@
+{
+  "productName": "Disorder Walker Card Deck",
+  "productBrand": "Disorder Skateboards",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461133/zumiezbuild/ygdxxjbhgnqjoe4q9pyi.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/disorder-walker-card-8-25-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "54.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/disorder-walker-card-8-25-skateboard-deck.html"
+    },
+    {
+      "spot": "70.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/disorder-skateboards-domo-walker-card-deck?variant=50739404013841"
+    }
+  ]
+}

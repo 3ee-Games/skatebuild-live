@@ -1,0 +1,22 @@
+{
+  "productName": "ParkStar Roller Skate",
+  "productBrand": "Bont",
+  "productType": "huck wheels",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746364286/ldjsonbuild/iphnbmhnikh5mnlro9si.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569735,
+  "productVendorUrl": "https://bont.com/collections/park-roller-skates/products/parkstar-roller-skate-boots-blue-suede",
+  "productPrices": [
+    {
+      "bont": "229.0",
+      "url": "https://bont.com",
+      "productVendorUrl": "https://bont.com/collections/park-roller-skates/products/parkstar-roller-skate-boots-blue-suede"
+    },
+    {
+      "medusaskates": "229",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/bont-parkstar-roller-skate-boots/"
+    }
+  ]
+}

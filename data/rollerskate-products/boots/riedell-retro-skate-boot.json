@@ -1,0 +1,17 @@
+{
+  "productName": "Riedell 220 Retro Skate",
+  "productBrand": "Riedell",
+  "productType": "riedell 220 retro skate boot",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468280/ldjsonbuild/yqmaqkijl1ldn7cim9hr.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569735,
+  "productVendorUrl": "https://medusaskates.com/riedell-220-retro-skate-boot/",
+  "productPrices": [
+    {
+      "medusaskates": "325",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/riedell-220-retro-skate-boot/"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Stamp Embossed Deck",
+  "productBrand": "Fucking Awesome",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397633/ldjsonbuild/akzrpvbonxfoqqnaxglh.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/fucking-awesome/stamp-embossed-85-skateboard-deck/pink",
+  "productPrices": [
+    {
+      "tactics": "77.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/fucking-awesome/stamp-embossed-85-skateboard-deck/pink"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Arrival Deck",
+  "productBrand": "Theories",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399829/ldjsonbuild/oigisvehxx1cmjrz6dln.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/arrival-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "68.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/arrival-825-skateboard-deck"
+    }
+  ]
+}

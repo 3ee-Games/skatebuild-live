@@ -1,0 +1,22 @@
+{
+  "productName": "Baker Rowan 50 Year Storm Deck",
+  "productBrand": "Baker Skateboards",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460656/zumiezbuild/obbca7ktpfqsxdiqkqkw.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/baker-rowan-50-year-storm-8-25-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "78.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/baker-rowan-50-year-storm-8-25-skateboard-deck.html"
+    },
+    {
+      "tactics": "73.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/baker/rowan-50-year-storm-825-skateboard-deck"
+    }
+  ]
+}

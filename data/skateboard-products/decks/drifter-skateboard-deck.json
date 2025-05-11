@@ -1,0 +1,17 @@
+{
+  "productName": "Drifter Deck",
+  "productBrand": "Fixer",
+  "productType": "Cruiser Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397627/ldjsonbuild/eqexlno8o5kicm6km7cj.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/fixer/drifter-95-skateboard-deck/blue",
+  "productPrices": [
+    {
+      "tactics": "58.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/fixer/drifter-95-skateboard-deck/blue"
+    }
+  ]
+}

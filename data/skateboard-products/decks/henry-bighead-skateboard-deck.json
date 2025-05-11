@@ -1,0 +1,17 @@
+{
+  "productName": "Henry Bighead Deck",
+  "productBrand": "Quasi",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400097/ldjsonbuild/adexigpkmxby6h5n6lzi.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/quasi-skateboards/henry-bighead-80-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "71.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/quasi-skateboards/henry-bighead-80-skateboard-deck"
+    }
+  ]
+}

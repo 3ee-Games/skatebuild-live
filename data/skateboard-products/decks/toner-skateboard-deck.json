@@ -1,0 +1,17 @@
+{
+  "productName": "Toner Deck",
+  "productBrand": "Umaverse",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397994/ldjsonbuild/rtzlnhdqb2qiv69gnmkh.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/umaverse/toner-838-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "51.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/umaverse/toner-838-skateboard-deck"
+    }
+  ]
+}

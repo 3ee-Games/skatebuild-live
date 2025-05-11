@@ -1,0 +1,22 @@
+{
+  "productName": "DGK Bandera Deck",
+  "productBrand": "DGK",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461561/zumiezbuild/t9kb7pfulh243jqmpozf.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/dgk-bandera-8-5-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "69.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/dgk-bandera-8-5-skateboard-deck.html"
+    },
+    {
+      "tactics": "68.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/dgk/bandera-85-skateboard-deck"
+    }
+  ]
+}

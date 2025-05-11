@@ -1,0 +1,17 @@
+{
+  "productName": "Rebel Black",
+  "productBrand": "Sure-Grip",
+  "productType": "Home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746374927/ldjsonbuild/f8wxldebroirc30o2hnw.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569735,
+  "productVendorUrl": "https://www.suregrip.com/products/rebel-boot",
+  "productPrices": [
+    {
+      "suregrip": "125.0",
+      "url": "https://www.suregrip.com",
+      "productVendorUrl": "https://www.suregrip.com/products/rebel-boot"
+    }
+  ]
+}

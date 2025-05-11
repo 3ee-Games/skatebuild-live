@@ -1,0 +1,27 @@
+{
+  "productName": "Independent GP-S Bearings",
+  "productBrand": "Independent",
+  "productType": "Skateboard Parts",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460518/zumiezbuild/wg89hjm816ctjviliywl.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544876,
+  "productVendorUrl": "/independent-gp-s-skateboard-bearings.html",
+  "productPrices": [
+    {
+      "zumiez": "10.00",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/independent-gp-s-skateboard-bearings.html"
+    },
+    {
+      "tactics": "18.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/independent/genuine-parts-gp-b-skateboard-bearings/black"
+    },
+    {
+      "spot": "13.95",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/independent-independent-gp-s-bearings-78227?variant=48244694122769"
+    }
+  ]
+}

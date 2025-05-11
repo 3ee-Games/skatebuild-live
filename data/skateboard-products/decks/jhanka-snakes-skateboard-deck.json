@@ -1,0 +1,22 @@
+{
+  "productName": "Jhanka Snakes Deck",
+  "productBrand": "Creature",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400957/ldjsonbuild/fbg7zjdqe3gzebinhgkm.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/creature/jhanka-snakes-8375-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "65.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/creature/jhanka-snakes-8375-skateboard-deck"
+    },
+    {
+      "spot": "67.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-jhanka-gonzalez-snakes-pro-deck?variant=51144664121617"
+    }
+  ]
+}

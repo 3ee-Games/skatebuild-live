@@ -1,0 +1,17 @@
+{
+  "productName": "Eggzilla 3 Deck",
+  "productBrand": "Heroin",
+  "productType": "Cruiser Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395953/ldjsonbuild/ijd0u3zkzox159kcznrx.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/heroin/eggzilla-3-140-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "129.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/heroin/eggzilla-3-140-skateboard-deck"
+    }
+  ]
+}

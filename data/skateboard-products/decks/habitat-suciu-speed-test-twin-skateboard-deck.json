@@ -1,0 +1,22 @@
+{
+  "productName": "Habitat Suciu Speed Test Twin Deck",
+  "productBrand": "Habitat Skateboards",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460971/zumiezbuild/t2qidk2k5g4uzsijiho7.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/habitat-suciu-speed-test-twin-8-375-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "54.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/habitat-suciu-speed-test-twin-8-375-skateboard-deck.html"
+    },
+    {
+      "tactics": "65.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/habitat/suciu-speed-test-8375-twin-tail-skateboard-deck"
+    }
+  ]
+}

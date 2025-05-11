@@ -1,0 +1,22 @@
+{
+  "productName": "Krooked Cromer Grocery Smile Deck",
+  "productBrand": "Krooked Skateboards",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460935/zumiezbuild/tyy9ggajesicxzw22jkn.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/krooked-cromer-grocery-smile-8-06-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "59.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/krooked-cromer-grocery-smile-8-06-skateboard-deck.html"
+    },
+    {
+      "tactics": "73.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/krooked/cromer-grocery-smile-806-skateboard-deck"
+    }
+  ]
+}

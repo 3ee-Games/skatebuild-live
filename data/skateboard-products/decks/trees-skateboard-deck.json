@@ -1,0 +1,17 @@
+{
+  "productName": "Trees Deck",
+  "productBrand": "Tactics",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395348/ldjsonbuild/ysjyfngdb669dz2bcnee.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/tactics/trees-skateboard-deck/mint",
+  "productPrices": [
+    {
+      "tactics": "44.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/tactics/trees-skateboard-deck/mint"
+    }
+  ]
+}

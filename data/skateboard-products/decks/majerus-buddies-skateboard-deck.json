@@ -1,0 +1,17 @@
+{
+  "productName": "Majerus Buddies Deck",
+  "productBrand": "Flip",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395899/ldjsonbuild/rnmglqrcwtkx1ih4750b.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/flip/majerus-buddies-84-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "44.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/flip/majerus-buddies-84-skateboard-deck"
+    }
+  ]
+}

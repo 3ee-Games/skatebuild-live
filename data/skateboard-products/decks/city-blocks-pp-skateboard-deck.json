@@ -1,0 +1,17 @@
+{
+  "productName": "City Blocks PP Deck",
+  "productBrand": "Real",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746403026/ldjsonbuild/t1gwpe77sqnjvuso2yti.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/real/city-blocks-85-pp-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "49.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/real/city-blocks-85-pp-skateboard-deck"
+    }
+  ]
+}

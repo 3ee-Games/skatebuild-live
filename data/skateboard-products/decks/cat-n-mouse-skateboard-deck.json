@@ -1,0 +1,17 @@
+{
+  "productName": "Cat N Mouse Deck",
+  "productBrand": "Tactics",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395794/ldjsonbuild/guuz50is1gsy8au3vdtf.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/tactics/cat-n-mouse-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "44.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/tactics/cat-n-mouse-skateboard-deck"
+    }
+  ]
+}

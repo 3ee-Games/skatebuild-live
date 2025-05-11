@@ -1,0 +1,17 @@
+{
+  "productName": "Louie Painting Deck",
+  "productBrand": "Fucking Awesome",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399142/ldjsonbuild/bqdmg4jcd6few7doq0mh.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/fucking-awesome/louie-painting-825-skateboard-deck/teal",
+  "productPrices": [
+    {
+      "tactics": "77.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/fucking-awesome/louie-painting-825-skateboard-deck/teal"
+    }
+  ]
+}

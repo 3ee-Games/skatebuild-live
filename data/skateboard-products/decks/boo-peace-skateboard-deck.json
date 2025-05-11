@@ -1,0 +1,17 @@
+{
+  "productName": "Boo Peace Deck",
+  "productBrand": "DGK",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397695/ldjsonbuild/ragw9xnj60qo1clfhlsf.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/dgk/boo-peace-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "64.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/dgk/boo-peace-825-skateboard-deck"
+    }
+  ]
+}

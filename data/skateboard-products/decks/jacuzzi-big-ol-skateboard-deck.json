@@ -1,0 +1,17 @@
+{
+  "productName": "Jacuzzi Big Ol Deck",
+  "productBrand": "Jacuzzi",
+  "productType": "Team Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462074/zumiezbuild/c1o1pqvshuuq0g3uzgfo.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/jacuzzi-big-ol-8-5-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "74.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/jacuzzi-big-ol-8-5-skateboard-deck.html"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productName": "Gonzalez Creatures Deck",
+  "productBrand": "Flip",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399293/ldjsonbuild/tkgeufccg6bcm1cknu0i.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/flip/gonzalez-creatures-80-skateboard-deck/multi",
+  "productPrices": [
+    {
+      "tactics": "44.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/flip/gonzalez-creatures-80-skateboard-deck/multi"
+    }
+  ]
+}

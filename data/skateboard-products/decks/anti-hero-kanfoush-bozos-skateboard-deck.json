@@ -1,0 +1,22 @@
+{
+  "productName": "Anti-Hero Kanfoush Bozos Deck",
+  "productBrand": "Anti-Hero Skateboards",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460750/zumiezbuild/lnjo8wt9gagfziyqfd3u.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/anti-hero-kanfoush-bozos-8-5-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "78.95",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/anti-hero-kanfoush-bozos-8-5-skateboard-deck.html"
+    },
+    {
+      "tactics": "72.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/anti-hero/kanfoush-anti-intelligence-84-skateboard-deck"
+    }
+  ]
+}

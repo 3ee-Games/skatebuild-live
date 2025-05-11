@@ -1,0 +1,22 @@
+{
+  "productName": "Krull Embers Deck",
+  "productBrand": "GX1000",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399995/ldjsonbuild/sc0ff1vo5tmli4a6pkg9.webp",
+  "imageWidth": 78,
+  "imageHeight": 291,
+  "updated": 1746544882,
+  "productVendorUrl": "https://www.tactics.com/gx1000/krull-embers-825-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "69.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/gx1000/krull-embers-825-skateboard-deck"
+    },
+    {
+      "spot": "70.0",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/gx1000-zack-krull-embers-deck?variant=50583672979729"
+    }
+  ]
+}

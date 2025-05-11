@@ -1,0 +1,22 @@
+{
+  "productName": "Deathwish Kirby Passing Through Deck",
+  "productBrand": "Deathwish",
+  "productType": "Pro Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461066/zumiezbuild/se7netisd5fv9eloohxb.webp",
+  "imageWidth": 325,
+  "imageHeight": 385,
+  "updated": 1746544882,
+  "productVendorUrl": "/deathwish-kirby-passing-through-8-25-skateboard-deck.html",
+  "productPrices": [
+    {
+      "zumiez": "64.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "/deathwish-kirby-passing-through-8-25-skateboard-deck.html"
+    },
+    {
+      "tactics": "71.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/deathwish/kirby-passing-through-8125-skateboard-deck"
+    }
+  ]
+}

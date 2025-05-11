@@ -1,0 +1,27 @@
+{
+  "productName": "Moxi Jack 1",
+  "productBrand": "Moxi",
+  "productType": "",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370619/metacrawler/cz321eixcqb28n6c8qxc.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1746569735,
+  "productVendorUrl": "https://www.derbywarehouse.com/Moxi_Jack_1/descpage-JACK.html",
+  "productPrices": [
+    {
+      "derbywarehouse": "359.00",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Moxi_Jack_1/descpage-JACK.html"
+    },
+    {
+      "moxi": "349.0",
+      "url": "https://www.moxiskates.com",
+      "productVendorUrl": "https://www.moxiskates.com/collections/jack-1-boot-only/products/customize-a-jack-green-apple"
+    },
+    {
+      "medusaskates": "359",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/moxi-jack-1-roller-skate-boot/"
+    }
+  ]
+}
