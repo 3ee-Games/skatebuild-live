@@ -25,7 +25,7 @@ function gatherBuilds(root) {
   return builds;
 }
 
-const buildsRoot = path.resolve('static/data/builds');
+const buildsRoot = path.resolve('data/builds');
 const allBuilds = gatherBuilds(buildsRoot);
 const outPath = path.join(buildsRoot, 'all-builds.json');
 writeFileSync(outPath, JSON.stringify(allBuilds, null, 2));
