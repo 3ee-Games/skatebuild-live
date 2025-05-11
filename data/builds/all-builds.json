@@ -70,5 +70,13 @@
     "owner_username": "skateguilt456",
     "slug": "builder-test",
     "created": "2025-05-11T20:23:57.960725+00:00"
+  },
+  {
+    "name": "Test another",
+    "build_type": "skateboard",
+    "skating_type": "park",
+    "owner_username": "skateguilt456",
+    "slug": "test-another",
+    "created": "2025-05-11T23:19:48.428573+00:00"
   }
 ]
