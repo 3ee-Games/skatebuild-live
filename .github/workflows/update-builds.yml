@@ -11,7 +11,6 @@ jobs:
     concurrency:
       group: 'builds-manifest-update'
       cancel-in-progress: true
-
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -23,9 +22,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '18'
-
-      - name: Install dependencies
-        run: npm ci
 
       - name: Generate all-builds.json
         run: node scripts/generate-all-builds.js
