@@ -1,0 +1,38 @@
+name: Generate & Commit Builds Manifest
+
+on:
+  push:
+    paths:
+      - 'data/builds/**/*.json'
+      - 'scripts/generate-all-builds.js'
+
+jobs:
+  generate-manifest:
+    concurrency:
+      group: 'builds-manifest-update'
+      cancel-in-progress: true
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate all-builds.json
+        run: node scripts/generate-all-builds.js
+
+      - name: Commit & push updated manifest
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: update builds manifest
+          file_pattern: data/builds/all-builds.json
+          branch: main
