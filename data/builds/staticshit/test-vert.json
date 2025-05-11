@@ -1,0 +1,16 @@
+{
+  "name": "test vert",
+  "build_type": "skateboard",
+  "skating_type": "vert",
+  "deck_slug": "air-nowhere-skateboard-deck",
+  "griptape_slug": "art-project-heart-of-forest-grip-tape",
+  "risers_slug": "",
+  "trucks_slug": "compound-reverse-matte-black-longboard-truck",
+  "bearings_slug": "abec-skateboard-bearings",
+  "wheels_slug": "bighead-skateboard-wheels",
+  "bushings_slug": "genuine-parts-original-cushions-skateboard-bushings",
+  "slug": "test-vert",
+  "owner_username": "staticshit",
+  "created": "2025-05-11T18:45:53.429320+00:00",
+  "updated": "2025-05-11T18:45:53.429320+00:00"
+}
