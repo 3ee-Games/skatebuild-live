@@ -2,7 +2,7 @@
   "name": "Test another",
   "build_type": "skateboard",
   "skating_type": "park",
-  "deck_slug": "adam-mueller-pro-skateboard-deck",
+  "deck_slug": "air-nowhere-skateboard-deck",
   "griptape_slug": "andy-anderson-theory-map-graphic-skateboard-grip-tape",
   "risers_slug": "oj-cubes-riser-pads",
   "trucks_slug": "ace-trucks-deedz-limited-af1-hollow-truck",
@@ -11,6 +11,6 @@
   "bushings_slug": "genuine-parts-original-cushions-skateboard-bushings",
   "slug": "test-another",
   "owner_username": "skateguilt456",
-  "created": "2025-05-12T01:05:52.694880+00:00",
-  "updated": "2025-05-12T01:05:52.694880+00:00"
+  "created": "2025-05-12T01:12:12.045500+00:00",
+  "updated": "2025-05-12T01:12:12.045500+00:00"
 }
