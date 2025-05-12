@@ -1,5 +1,13 @@
 [
   {
+    "name": "Cake walker",
+    "build_type": "skateboard",
+    "skating_type": "street",
+    "owner_username": "Pentest",
+    "slug": "cake-walker",
+    "created": "2025-05-12T06:01:17.500729+00:00"
+  },
+  {
     "name": "Ooktoe",
     "build_type": "skateboard",
     "skating_type": "park",
