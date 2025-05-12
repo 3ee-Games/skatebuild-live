@@ -6,11 +6,22 @@
   ],
   "stance": "regular",
   "status": "amateur",
-  "sponsors": [],
-  "contest_results": [],
-  "image": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250511/IMG_2723_mzhvyf",
-  "imageSmall": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250511/1efd7253b70a4f2b8f73616ec7661ae0_njmruu",
+  "sponsors": [
+    "nike",
+    "rebox"
+  ],
+  "contest_results": [
+    {
+      "name": "test",
+      "division": "rot1",
+      "date": "2023-05-09",
+      "placement": 2
+    }
+  ],
+  "image": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250511/1eye_qdymtr",
+  "imageSmall": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250511/8bd9b8aaa24e4fe6ba281f7388ca92b0_fub18c",
   "social_urls": [
-    "https://x.com/ryan_ootie"
+    "https://x.com/ryan_ootie",
+    "https://www.instagram.com/ryan.on.quads/"
   ]
 }
