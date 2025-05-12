@@ -26,10 +26,10 @@
   {
     "name": "localb",
     "build_type": "skateboard",
-    "skating_type": "cruisin",
+    "skating_type": "downhill",
     "owner_username": "catra",
     "slug": "localb",
-    "created": "2025-05-12T04:13:23.046977+00:00"
+    "created": "2025-05-12T04:16:19.754011+00:00"
   },
   {
     "name": "localbuild",
