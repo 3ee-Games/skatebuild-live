@@ -1,0 +1,16 @@
+{
+  "name": "makelocal",
+  "build_type": "skateboard",
+  "skating_type": "cruisin",
+  "deck_slug": "water-balloon-skateboard-deck",
+  "griptape_slug": "primitive-new-rose-black-grip-tape",
+  "risers_slug": "",
+  "trucks_slug": "independent-justin-henry-stage-skateboard-trucks",
+  "bearings_slug": "rollerbones-pack-bearings",
+  "wheels_slug": "lab-rat-skateboard-wheels",
+  "bushings_slug": "loose-trucks-conversion-kit",
+  "slug": "makelocal",
+  "owner_username": "catra",
+  "created": "2025-05-12T04:11:46.359666+00:00",
+  "updated": "2025-05-12T04:11:46.359666+00:00"
+}
