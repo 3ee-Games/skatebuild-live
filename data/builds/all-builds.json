@@ -72,6 +72,14 @@
     "created": "2025-05-11T20:23:57.960725+00:00"
   },
   {
+    "name": "More goodies",
+    "build_type": "skateboard",
+    "skating_type": "park",
+    "owner_username": "skateguilt456",
+    "slug": "more-goodies",
+    "created": "2025-05-12T01:13:34.717648+00:00"
+  },
+  {
     "name": "Roller goodies",
     "build_type": "rollerskate",
     "skating_type": "park skating",
