@@ -1,12 +1,14 @@
 {
-  "name": "jimmy7",
-  "hometown": "",
-  "skater_type": [],
-  "stance": "",
+  "name": "Jimmy Z",
+  "hometown": "Tampa",
+  "skater_type": [
+    "skateboarder"
+  ],
+  "stance": "regular",
   "status": "amateur",
   "sponsors": [],
   "contest_results": [],
-  "image": "",
-  "imageSmall": "",
+  "image": "https://res.cloudinary.com/default_cloud_name/image/upload/v1/img/profile-image-default-2.png",
+  "imageSmall": "https://res.cloudinary.com/default_cloud_name/image/upload/v1/img/profile-image-default.png",
   "social_urls": []
 }
