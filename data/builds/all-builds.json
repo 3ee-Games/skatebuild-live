@@ -112,6 +112,14 @@
     "created": "2025-05-12T04:19:14.965518+00:00"
   },
   {
+    "name": "test8",
+    "build_type": "skateboard",
+    "skating_type": "park",
+    "owner_username": "catra",
+    "slug": "test8",
+    "created": "2025-05-12T04:35:47.525450+00:00"
+  },
+  {
     "name": "builder test",
     "build_type": "skateboard",
     "skating_type": "cruisin",
