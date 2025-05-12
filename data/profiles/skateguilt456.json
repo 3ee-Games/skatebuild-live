@@ -1,9 +1,8 @@
 {
   "name": "oootie",
-  "hometown": "tampa",
+  "hometown": "tampa2",
   "skater_type": [
-    "skateboarder",
-    "roller skater"
+    "skateboarder"
   ],
   "stance": "regular",
   "status": "amateur",
