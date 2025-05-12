@@ -120,6 +120,14 @@
     "created": "2025-05-12T04:35:47.525450+00:00"
   },
   {
+    "name": "dickie",
+    "build_type": "skateboard",
+    "skating_type": "vert",
+    "owner_username": "shera",
+    "slug": "dickie",
+    "created": "2025-05-12T04:58:56.802767+00:00"
+  },
+  {
     "name": "builder test",
     "build_type": "skateboard",
     "skating_type": "cruisin",
