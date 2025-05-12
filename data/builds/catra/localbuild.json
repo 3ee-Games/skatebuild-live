@@ -1,0 +1,16 @@
+{
+  "name": "localbuild",
+  "build_type": "skateboard",
+  "skating_type": "cruisin",
+  "deck_slug": "we-appreciate-skateboard-deck",
+  "griptape_slug": "primitive-new-rose-black-grip-tape",
+  "risers_slug": "",
+  "trucks_slug": "independent-hockey-x-independent-stage-croc-standard-truck",
+  "bearings_slug": "rollerbones-pack-bearings",
+  "wheels_slug": "pig-head-conical-swirl-skateboard-wheels",
+  "bushings_slug": "genuine-parts-original-cushions-skateboard-bushings",
+  "slug": "localbuild",
+  "owner_username": "catra",
+  "created": "2025-05-12T04:02:35.951189+00:00",
+  "updated": "2025-05-12T04:02:35.951189+00:00"
+}
