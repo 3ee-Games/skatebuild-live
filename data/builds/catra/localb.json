@@ -1,16 +1,16 @@
 {
   "name": "localb",
   "build_type": "skateboard",
-  "skating_type": "cruisin",
-  "deck_slug": "alltimers-x-creative-growth-aurie-ramirez-skateboard-deck",
+  "skating_type": "downhill",
+  "deck_slug": "aaron-loreth-hail-fail-skateboard-deck",
   "griptape_slug": "pvblic-domain-st-jerome-grip-tape",
   "risers_slug": "",
-  "trucks_slug": "dlk-k5-skateboard-trucks",
-  "bearings_slug": "sausage-steel-ballz-skateboard-bearings",
-  "wheels_slug": "bero-bomber-cruiser-skateboard-wheels",
+  "trucks_slug": "hollow-polished-skateboard-trucks",
+  "bearings_slug": "skateboard-bearings",
+  "wheels_slug": "art-project-gator-art-white-skateboard-wheels",
   "bushings_slug": "genuine-conical-cushions-skateboard-bushings-truck-set",
   "slug": "localb",
   "owner_username": "catra",
-  "created": "2025-05-12T04:13:23.046977+00:00",
-  "updated": "2025-05-12T04:13:23.046977+00:00"
+  "created": "2025-05-12T04:16:19.754011+00:00",
+  "updated": "2025-05-12T04:16:19.754011+00:00"
 }
