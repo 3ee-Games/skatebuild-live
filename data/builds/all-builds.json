@@ -24,6 +24,14 @@
     "created": "2025-05-09T05:04:31.600715+00:00"
   },
   {
+    "name": "localb",
+    "build_type": "skateboard",
+    "skating_type": "cruisin",
+    "owner_username": "catra",
+    "slug": "localb",
+    "created": "2025-05-12T04:13:23.046977+00:00"
+  },
+  {
     "name": "localbuild",
     "build_type": "skateboard",
     "skating_type": "cruisin",
