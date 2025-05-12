@@ -62,29 +62,5 @@
     "owner_username": "catra",
     "slug": "test2",
     "created": "2025-05-09T05:02:06.300799+00:00"
-  },
-  {
-    "name": "builder test",
-    "build_type": "skateboard",
-    "skating_type": "cruisin",
-    "owner_username": "skateguilt456",
-    "slug": "builder-test",
-    "created": "2025-05-11T20:23:57.960725+00:00"
-  },
-  {
-    "name": "Roller goodies",
-    "build_type": "rollerskate",
-    "skating_type": "park skating",
-    "owner_username": "skateguilt456",
-    "slug": "roller-goodies",
-    "created": "2025-05-11T23:23:34.896556+00:00"
-  },
-  {
-    "name": "Test another",
-    "build_type": "skateboard",
-    "skating_type": "park",
-    "owner_username": "skateguilt456",
-    "slug": "test-another",
-    "created": "2025-05-11T23:19:48.428573+00:00"
   }
 ]
