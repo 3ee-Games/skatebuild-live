@@ -1,12 +1,16 @@
 {
-  "name": "Test4321",
-  "hometown": "",
-  "skater_type": [],
-  "stance": "",
+  "name": "Moooapi",
+  "hometown": "Collasua",
+  "skater_type": [
+    "skateboarder"
+  ],
+  "stance": "regular",
   "status": "amateur",
-  "sponsors": [],
+  "sponsors": [
+    "Teeelo"
+  ],
   "contest_results": [],
-  "image": "",
-  "imageSmall": "",
+  "image": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250513/IMG_5899_rvnr13",
+  "imageSmall": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250513/7b645ca0c3a4484f8b0ffad66a1e67bc_xmomfx",
   "social_urls": []
 }
