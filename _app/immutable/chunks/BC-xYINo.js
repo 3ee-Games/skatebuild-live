@@ -1,1 +1,0 @@
-import{w as n}from"./B1UeAdBZ.js";const{subscribe:o,set:l}=n(null);let e=null;const s={subscribe:o,send:(t,i=3e3)=>{l(t),e&&clearTimeout(e),e=setTimeout(()=>l(null),i)},clear:()=>{e&&clearTimeout(e),l(null)}};export{s as n};
