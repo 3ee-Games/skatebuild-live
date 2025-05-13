@@ -1,0 +1,21 @@
+{
+  "name": "111werwer22222333",
+  "hometown": "werwer",
+  "skater_type": [
+    "skateboarder"
+  ],
+  "stance": "regular",
+  "status": "amateur",
+  "sponsors": [],
+  "contest_results": [
+    {
+      "name": "asdf",
+      "division": "asdf",
+      "date": "2025-05-13",
+      "placement": 1
+    }
+  ],
+  "image": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250513/Screenshot_2025-04-28_at_5.09.26PM_t70kri",
+  "imageSmall": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250513/bc1eaaf3ad7c4bfd89f2eccf2002db1c_gziqzl",
+  "social_urls": []
+}
