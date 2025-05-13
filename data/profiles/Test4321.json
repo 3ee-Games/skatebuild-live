@@ -1,5 +1,5 @@
 {
-  "name": "Moooapi",
+  "name": "Moooapi Raiser",
   "hometown": "Collasua",
   "skater_type": [
     "skateboarder"
@@ -7,7 +7,8 @@
   "stance": "regular",
   "status": "amateur",
   "sponsors": [
-    "Teeelo"
+    "Teeelo",
+    "Mamatedt"
   ],
   "contest_results": [],
   "image": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250513/IMG_5899_rvnr13",
