@@ -1,0 +1,17 @@
+{
+  "productName": "Ragnaroll Wheels",
+  "productBrand": "Chaya",
+  "productType": "wheels",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747410306/ldjsonbuild/whdgcx8ljfu2f37wipwn.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1747412338,
+  "productVendorUrl": "https://powerslide.com/products/ragnaroll-pro-wheel",
+  "productPrices": [
+    {
+      "chaya": "34.99 ",
+      "url": "https://powerslide.com",
+      "productVendorUrl": "https://powerslide.com/products/ragnaroll-pro-wheel"
+    }
+  ]
+}

@@ -1,5 +1,20 @@
 [
   {
+    "slug": "st1-hollow-skateboard-trucks",
+    "productName": "ST1 Hollow Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393232/ldjsonbuild/mlilllal87svuakvn2pa.webp",
+    "imageWidth": 263,
+    "imageHeight": 144,
+    "productPrices": [
+      {
+        "tactics": "55.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/slappy/st1-hollow-skateboard-trucks/polished-85"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "st1-inverted-hollow-lights-skateboard-trucks",
     "productName": "ST1 Inverted Hollow Lights Trucks",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393161/ldjsonbuild/eqi69axa7rhjtoh4bbrl.webp",
@@ -39,7 +54,7 @@
       {
         "zumiez": "14.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/tensor-mag-light-5-0-white-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/tensor-mag-light-5-0-white-skateboard-truck.html"
       }
     ],
     "productTags": []
@@ -84,7 +99,7 @@
       {
         "zumiez": "29.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/thunder-anderson-airstrike-white-147-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/thunder-anderson-airstrike-white-147-skateboard-truck.html"
       }
     ],
     "productTags": []
@@ -129,7 +144,7 @@
       {
         "zumiez": "36.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/thunder-grenade-hollow-lights-grey-147-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/thunder-grenade-hollow-lights-grey-147-skateboard-truck.html"
       },
       {
         "spot": "22.0",
@@ -164,7 +179,7 @@
       {
         "zumiez": "29.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/thunder-inverted-editions-polished-silver-149-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/thunder-inverted-editions-polished-silver-149-skateboard-truck.html"
       }
     ],
     "productTags": []
@@ -209,7 +224,7 @@
       {
         "zumiez": "36.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/thunder-mariano-customs-team-148-hollow-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/thunder-mariano-customs-team-148-hollow-skateboard-truck.html"
       }
     ],
     "productTags": []
@@ -224,7 +239,7 @@
       {
         "zumiez": "28.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/thunder-medieval-team-edition-148-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/thunder-medieval-team-edition-148-skateboard-truck.html"
       }
     ],
     "productTags": []
@@ -254,7 +269,7 @@
       {
         "zumiez": "28.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/thunder-nora-campus-pro-purple-and-silver-147-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/thunder-nora-campus-pro-purple-and-silver-147-skateboard-truck.html"
       },
       {
         "spot": "28.0",
@@ -274,7 +289,7 @@
       {
         "zumiez": "36.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/thunder-silvas-masked-hollow-black-148-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/thunder-silvas-masked-hollow-black-148-skateboard-truck.html"
       }
     ],
     "productTags": []
@@ -319,7 +334,7 @@
       {
         "zumiez": "28.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/thunder-villani-to-pieces-black-147-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/thunder-villani-to-pieces-black-147-skateboard-truck.html"
       }
     ],
     "productTags": []
@@ -379,7 +394,7 @@
       {
         "zumiez": "27.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/venture-koston-v8-silver-5-6-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/venture-koston-v8-silver-5-6-skateboard-truck.html"
       },
       {
         "spot": "28.0",
@@ -399,7 +414,7 @@
       {
         "zumiez": "26.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/venture-og-v-loose-team-edition-5-8-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/venture-og-v-loose-team-edition-5-8-skateboard-truck.html"
       },
       {
         "spot": "24.95",
@@ -419,7 +434,7 @@
       {
         "zumiez": "14.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/venture-salt-pepper-ii-5-6-skateboard-trucks.html"
+        "productVendorUrl": "https://www.zumiez.com/venture-salt-pepper-ii-5-6-skateboard-trucks.html"
       }
     ],
     "productTags": []
@@ -494,7 +509,7 @@
       {
         "zumiez": "19.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/venture-vue-5-2-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/venture-vue-5-2-skateboard-truck.html"
       }
     ],
     "productTags": []
@@ -509,7 +524,7 @@
       {
         "zumiez": "26.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/venture-x-bronze-56k-team-edition-silver-and-bronze-5-8-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/venture-x-bronze-56k-team-edition-silver-and-bronze-5-8-skateboard-truck.html"
       }
     ],
     "productTags": []
@@ -524,7 +539,7 @@
       {
         "zumiez": "19.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/venture-yuto-pro-edition-liquid-chrome-5-6-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/venture-yuto-pro-edition-liquid-chrome-5-6-skateboard-truck.html"
       }
     ],
     "productTags": []
@@ -539,7 +554,7 @@
       {
         "zumiez": "36.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/venture-yuto-v-hollows-great-wave-silver-blue-5-6-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/venture-yuto-v-hollows-great-wave-silver-blue-5-6-skateboard-truck.html"
       }
     ],
     "productTags": []

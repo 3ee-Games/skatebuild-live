@@ -39,7 +39,7 @@
       {
         "zumiez": "28.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/krux-mush-love-8-25-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/krux-mush-love-8-25-skateboard-truck.html"
       }
     ],
     "productTags": []
@@ -69,7 +69,7 @@
       {
         "zumiez": "19.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/krux-nora-k5-lori-d-8-25-skateboard-trucks.html"
+        "productVendorUrl": "https://www.zumiez.com/krux-nora-k5-lori-d-8-25-skateboard-trucks.html"
       }
     ],
     "productTags": []
@@ -99,7 +99,7 @@
       {
         "zumiez": "24.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/krux-rainbow-kitties-8-0-krome-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/krux-rainbow-kitties-8-0-krome-skateboard-truck.html"
       }
     ],
     "productTags": []
@@ -159,7 +159,7 @@
       {
         "zumiez": "14.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/krux-x-skate-like-a-girl-polished-dlk-8-0-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/krux-x-skate-like-a-girl-polished-dlk-8-0-skateboard-truck.html"
       }
     ],
     "productTags": []
@@ -189,7 +189,7 @@
       {
         "zumiez": "34.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/lurpiv-160mm-hollow-silver-polished-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/lurpiv-160mm-hollow-silver-polished-skateboard-truck.html"
       }
     ],
     "productTags": []
@@ -205,6 +205,21 @@
         "tactics": "48.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/independent/mid-inverted-kingpin-skateboard-trucks/polished-129"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mini-logo-trucks-8-0",
+    "productName": "Mini logo Trucks 8.0",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747414659/metacrawler/ini7czffkytkpt6fqqvz.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "minilogo": "42.95",
+        "url": "https://minilogoskateboards.com",
+        "productVendorUrl": "https://minilogoskateboards.com/mini-logo-trucks-8-0-raw-set-of-2"
       }
     ],
     "productTags": []
@@ -579,7 +594,7 @@
       {
         "zumiez": "14.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/silver-m-class-silver-blue-polished-8-25-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/silver-m-class-silver-blue-polished-8-25-skateboard-truck.html"
       }
     ],
     "productTags": []
@@ -639,7 +654,7 @@
       {
         "zumiez": "33.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/slappy-curb-killer-inverted-8-5-matte-black-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/slappy-curb-killer-inverted-8-5-matte-black-skateboard-truck.html"
       },
       {
         "spot": "34.0",
@@ -659,7 +674,7 @@
       {
         "zumiez": "32.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/slappy-hollow-9-0-polished-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/slappy-hollow-9-0-polished-truck.html"
       }
     ],
     "productTags": []
@@ -674,7 +689,7 @@
       {
         "zumiez": "19.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/slappy-st1-curb-creeper-8-5-purple-black-skateboard-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/slappy-st1-curb-creeper-8-5-purple-black-skateboard-truck.html"
       },
       {
         "spot": "33.0",
@@ -694,7 +709,7 @@
       {
         "zumiez": "27.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/slappy-st1-dagger-8-0-silver-and-mauve-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/slappy-st1-dagger-8-0-silver-and-mauve-truck.html"
       }
     ],
     "productTags": []
@@ -709,7 +724,7 @@
       {
         "zumiez": "33.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/slappy-x-heroin-st1-wide-boys-hollow-11-0-silver-and-black-truck.html"
+        "productVendorUrl": "https://www.zumiez.com/slappy-x-heroin-st1-wide-boys-hollow-11-0-silver-and-black-truck.html"
       }
     ],
     "productTags": []
@@ -740,21 +755,6 @@
         "tactics": "57.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/slappy/st1-hollow-lights-skateboard-trucks/polished-gun-metal-825"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "st1-hollow-skateboard-trucks",
-    "productName": "ST1 Hollow Trucks",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393232/ldjsonbuild/mlilllal87svuakvn2pa.webp",
-    "imageWidth": 263,
-    "imageHeight": 144,
-    "productPrices": [
-      {
-        "tactics": "55.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/slappy/st1-hollow-skateboard-trucks/polished-85"
       }
     ],
     "productTags": []

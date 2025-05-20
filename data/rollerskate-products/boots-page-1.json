@@ -12,9 +12,14 @@
         "productVendorUrl": "https://www.derbywarehouse.com/Antik_AR2/descpage-AR218.html"
       },
       {
-        "medusaskates": "429",
+        "medusaskates": "429.00",
         "url": "https://medusaskates.com",
         "productVendorUrl": "https://medusaskates.com/antik-ar2-skate-boots/"
+      },
+      {
+        "riedell": "429.00",
+        "url": "https://roller.riedellskates.com",
+        "productVendorUrl": "https://roller.riedellskates.com/Product/boot-antik-ar2"
       }
     ],
     "productTags": [
@@ -60,6 +65,11 @@
         "derbywarehouse": "149.00",
         "url": "https://www.derbywarehouse.com",
         "productVendorUrl": "https://www.derbywarehouse.com/Antik_Skyhawk/descpage-ASH23.html"
+      },
+      {
+        "riedell": "149.00",
+        "url": "https://roller.riedellskates.com",
+        "productVendorUrl": "https://roller.riedellskates.com/Product/boot-antik-skyhawk"
       }
     ],
     "productTags": []
@@ -90,36 +100,6 @@
         "suregrip": "159.0",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/boardwalk-plus-boot"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "bont-jet-boots-size-black",
-    "productName": "Bont Jet 2pt 195 Black",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370364/metacrawler/hzbysrq1bexvw4sndeuo.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "derbywarehouse": "269.00",
-        "url": "https://www.derbywarehouse.com",
-        "productVendorUrl": "https://www.derbywarehouse.com/Bont_Jet/descpage-BJBB.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "bont-luna-boots-blue-size",
-    "productName": "Bont Luna Blue 2pt 195mm",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370377/metacrawler/pv9spvjy9aetzbn1dv73.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "derbywarehouse": "225.00",
-        "url": "https://www.derbywarehouse.com",
-        "productVendorUrl": "https://www.derbywarehouse.com/Bont_Luna/descpage-BLNA.html"
       }
     ],
     "productTags": []
@@ -170,21 +150,6 @@
     "productTags": []
   },
   {
-    "slug": "bont-semi-race-iii-boots-black",
-    "productName": "Bont Semi Race III Black",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370852/metacrawler/faqcibxaxbnp8mhtznl5.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "derbywarehouse": "329.00",
-        "url": "https://www.derbywarehouse.com",
-        "productVendorUrl": "https://www.derbywarehouse.com/Bont_Semi_Race_III_Boots/descpage-BSR3B.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "chaya-onyx-boots-eu37",
     "productName": "Chaya Onyx",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370399/metacrawler/baetvsd3qgiwyw2fpjwu.webp",
@@ -215,6 +180,36 @@
     "productTags": []
   },
   {
+    "slug": "classica",
+    "productName": "CLASSICA",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747448729/skatebuild/dav02rnppmhadohdc0go.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "skatesus": "475.00",
+        "url": "https://skatesus.com",
+        "productVendorUrl": "https://skatesus.com/product/edea-classica-roller-skating-boot/"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "eclipse",
+    "productName": "Eclipse",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747409512/ldjsonbuild/vhglhycl5lizzal5rrwo.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "219.99",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/eclipse-boot"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "envy-jam-and-speed-skate-boots",
     "productName": "Envy Jam and Speed Skate",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746365049/ldjsonbuild/obb3vwagu9wllhq5m6nm.webp",
@@ -230,21 +225,6 @@
     "productTags": []
   },
   {
-    "slug": "faction-plastiks-v1-boots-black-sand",
-    "productName": "Faction Plastiks V1 Black Sand",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370301/metacrawler/b1qd8f526wfki6p4mzgs.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "derbywarehouse": "249.95",
-        "url": "https://www.derbywarehouse.com",
-        "productVendorUrl": "https://www.derbywarehouse.com/Faction_Plastiks_V1_Aggressive/descpage-PKBS.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "fame-boot",
     "productName": "Fame",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746374920/ldjsonbuild/a5tmkkgmuzjxliuhphy4.webp",
@@ -255,6 +235,36 @@
         "suregrip": "99.0",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/fame-boot"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "flamenco",
+    "productName": "FLAMENCO",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747448727/skatebuild/yzeoxdmz2bfx2nlislxh.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "skatesus": "665.00",
+        "url": "https://skatesus.com",
+        "productVendorUrl": "https://skatesus.com/product/edea-flamenco-roller-skating-boot/"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "fly",
+    "productName": "FLY",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747448726/skatebuild/jricwtmxawevfkkfxedx.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "skatesus": "750.00",
+        "url": "https://skatesus.com",
+        "productVendorUrl": "https://skatesus.com/product/edea-fly-roller-skating-boot/"
       }
     ],
     "productTags": []
@@ -300,6 +310,46 @@
         "derbywarehouse": "89.97",
         "url": "https://www.derbywarehouse.com",
         "productVendorUrl": "https://www.derbywarehouse.com/Jackson_Vibe_Boots/descpage-JR750.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "motivo",
+    "productName": "MOTIVO",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747448733/skatebuild/y0t0ch8svvqgzrwgqg2k.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "skatesus": "250.00",
+        "url": "https://skatesus.com",
+        "productVendorUrl": "https://skatesus.com/product/edea-motivo-figure-roller-skate-boot/"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "moxi-jack-2-boot",
+    "productName": "Moxi Jack 2",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747433730/ldjsonbuild/moxi-jack2-boot.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "moxi": "369.00",
+        "url": "https://www.moxiskates.com",
+        "productVendorUrl": "https://www.moxiskates.com/products/jack2-boot-trueblue"
+      },
+      {
+        "medusaskates": "379.00",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/moxi-jack-2-roller-skate-boot/"
+      },
+      {
+        "derbywarehouse": "379.00",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Moxi_Jack_2_Boots/descpage-JACK2.html"
       }
     ],
     "productTags": []
@@ -405,6 +455,51 @@
     "productTags": []
   },
   {
+    "slug": "nomade",
+    "productName": "Nomade",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747409318/ldjsonbuild/mdggzvgfapa6hyvjteco.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "199.99 ",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/nomade-boot"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "onyx-custom",
+    "productName": "Onyx Custom",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747409475/ldjsonbuild/gvfccgezmacwdjrah1sx.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "399.99 ",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/onyx-custom-boot"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "onyx",
+    "productName": "Onyx",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747409556/ldjsonbuild/w616ycto0r0okynoubne.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "209.99 ",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/onyx-boot"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "oxford-boot",
     "productName": "Oxford",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746374906/ldjsonbuild/cazc9hjoyechpjhhsopt.webp",
@@ -435,51 +530,6 @@
         "medusaskates": "229",
         "url": "https://medusaskates.com",
         "productVendorUrl": "https://medusaskates.com/bont-parkstar-roller-skate-boots/"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "powerslide-accel-boots-black",
-    "productName": "Powerslide Accel 195 Black",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370792/metacrawler/kgkujbqkp489y4qjtpm9.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "derbywarehouse": "449.95",
-        "url": "https://www.derbywarehouse.com",
-        "productVendorUrl": "https://www.derbywarehouse.com/Powerslide_Accel_195/descpage-904626.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "powerslide-falcon-boots-black",
-    "productName": "Powerslide Falcon Black",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370877/metacrawler/qdlr86vraadmbwkw0uly.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "derbywarehouse": "249.97",
-        "url": "https://www.derbywarehouse.com",
-        "productVendorUrl": "https://www.derbywarehouse.com/Powerslide_Falcon/descpage-904651.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "ps-icon-wind-lite-boots-m-w10",
-    "productName": "PS Icon Wind Lite 195 M / W10.0",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370899/metacrawler/rwdlg9knugyqthi5royv.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "derbywarehouse": "379.97",
-        "url": "https://www.derbywarehouse.com",
-        "productVendorUrl": "https://www.derbywarehouse.com/Powerslide_Icon_Wind_Lite/descpage-904531.html"
       }
     ],
     "productTags": []
@@ -545,6 +595,21 @@
         "bont": "199.0",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-speed-skates/products/racer-speed-skate-boot"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "ragnaroll-pro",
+    "productName": "Ragnaroll Pro",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747409440/ldjsonbuild/sciu5nbyosrdielthgqd.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "169.99 ",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/ragnaroll-boot"
       }
     ],
     "productTags": []
@@ -752,69 +817,29 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "medusaskates": "575",
+        "medusaskates": "575.00",
         "url": "https://medusaskates.com",
         "productVendorUrl": "https://medusaskates.com/riedell-336-tribute-skate-boot/"
+      },
+      {
+        "riedell": "575.00",
+        "url": "https://roller.riedellskates.com",
+        "productVendorUrl": "https://roller.riedellskates.com/Catalog/roller-skate-boots/high-top-skate-boots"
       }
     ],
     "productTags": []
   },
   {
-    "slug": "sure-grip-boardwalk-plus-boot-only",
-    "productName": "Sure-Grip Boardwalk Plus Only",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468210/ldjsonbuild/jvdkdznyokpexuxeztsl.webp",
+    "slug": "ritmo",
+    "productName": "RITMO",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747448730/skatebuild/yhiq4xzkcoslzt3lukrd.webp",
     "imageWidth": 200,
     "imageHeight": 200,
     "productPrices": [
       {
-        "medusaskates": "159",
-        "url": "https://medusaskates.com",
-        "productVendorUrl": "https://medusaskates.com/sure-grip-boardwalk-plus-boot-only/"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "sure-grip-oxford-tipton-limited-edition-roller-skate-boot",
-    "productName": "Sure-Grip Oxford Tipton Limited Edition Roller Skate",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468180/ldjsonbuild/qi5m0dcdwzecnityabhu.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "medusaskates": "169",
-        "url": "https://medusaskates.com",
-        "productVendorUrl": "https://medusaskates.com/sure-grip-oxford-tipton-limited-edition-roller-skate-boot/"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "sure-grip-phoenix-boots",
-    "productName": "Sure-Grip Phoenix",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370761/metacrawler/ylfrplukrca0mvfjcc7c.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "derbywarehouse": "129.97",
-        "url": "https://www.derbywarehouse.com",
-        "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip_Phoenix_Boots/descpage-PHXBOOT.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "sure-grip-rebel-boots-black",
-    "productName": "Sure-Grip Rebel Black",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370774/metacrawler/njb7qaqzrvx9bkj4igyi.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "derbywarehouse": "125.00",
-        "url": "https://www.derbywarehouse.com",
-        "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip_Rebel_Boots/descpage-SGREBEL.html"
+        "skatesus": "450.00",
+        "url": "https://skatesus.com",
+        "productVendorUrl": "https://skatesus.com/product/edea-ritmo-roller-skating-boot/"
       }
     ],
     "productTags": []

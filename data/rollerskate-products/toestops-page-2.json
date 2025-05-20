@@ -1,5 +1,35 @@
 [
   {
+    "slug": "sure-grip-carrera-toe-stop",
+    "productName": "Sure Grip Carrera Toe-Stop",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468724/ldjsonbuild/m9ionjanvoubcxjyhkpm.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "9.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/sure-grip-carrera-toe-stop/"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "sure-grip-fomac-dance-jam-plug",
+    "productName": "Sure-Grip FoMac Dance/Jam Plug 5/",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468719/ldjsonbuild/wri4ecm7szekysxnz0xd.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "7.99",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/sure-grip-fomac-dance-jam-plug-5-8/"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "sure-grip-square-toe-stops-black-pair",
     "productName": "Sure-Grip Square Toe Stops Black Pair",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746374050/metacrawler/dgrrk653vxh87ok44kaz.webp",

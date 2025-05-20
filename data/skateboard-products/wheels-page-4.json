@@ -1,5 +1,25 @@
 [
   {
+    "slug": "pig-romero-speedo-skateboard-wheels",
+    "productName": "Pig Romero Speedo 52mm 99a Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462938/zumiezbuild/fjiltw78lj5bufbfkcgp.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "34.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/pig-romero-speedo-52mm-99a-skateboard-wheels.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99a"
+      }
+    ]
+  },
+  {
     "slug": "pig-rover-cruiser-wheels",
     "productName": "Pig Rover 60mm Cruiser Wheels",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462813/zumiezbuild/aw0jlfmtdsgk003ktnfm.webp",
@@ -9,7 +29,7 @@
       {
         "zumiez": "39.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/pig-rover-60mm-cruiser-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/pig-rover-60mm-cruiser-wheels.html"
       }
     ],
     "productTags": [
@@ -49,7 +69,7 @@
       {
         "zumiez": "34.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/powell-peralta-dragons-93a-56mm-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/powell-peralta-dragons-93a-56mm-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -109,7 +129,7 @@
       {
         "zumiez": "24.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/quasi-protothane-conical-53mm-83b-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/quasi-protothane-conical-53mm-83b-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -129,7 +149,7 @@
       {
         "zumiez": "39.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/quasi-stoner-conical-56mm-87a-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/quasi-stoner-conical-56mm-87a-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -149,7 +169,7 @@
       {
         "zumiez": "29.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/rayne-envy-70mm-77a-teal-cruiser-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/rayne-envy-70mm-77a-teal-cruiser-wheels.html"
       }
     ],
     "productTags": [
@@ -169,7 +189,7 @@
       {
         "zumiez": "37.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/ricta-clouds-glow-in-the-dark-54mm-78a-clear-crusier-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/ricta-clouds-glow-in-the-dark-54mm-78a-clear-crusier-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -189,7 +209,7 @@
       {
         "zumiez": "47.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/ricta-clouds-57mm-78a-iridescent-blue-crusier-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/ricta-clouds-57mm-78a-iridescent-blue-crusier-skateboard-wheels.html"
       },
       {
         "spot": "41.0",
@@ -214,7 +234,7 @@
       {
         "zumiez": "19.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/ricta-sparx-framework-52mm-99a-white-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/ricta-sparx-framework-52mm-99a-white-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -234,7 +254,7 @@
       {
         "zumiez": "24.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/ricta-sparx-wireframe-54mm-99a-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/ricta-sparx-wireframe-54mm-99a-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -254,7 +274,7 @@
       {
         "zumiez": "24.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/ripndip-flower-child-50mm-white-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/ripndip-flower-child-50mm-white-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -274,7 +294,7 @@
       {
         "zumiez": "24.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/ripndip-friends-forever-52mm-black-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/ripndip-friends-forever-52mm-black-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -294,7 +314,7 @@
       {
         "zumiez": "24.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/ripndip-nermboutins-50mm-white-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/ripndip-nermboutins-50mm-white-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -614,7 +634,7 @@
       {
         "zumiez": "54.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/sector-nine-butterballs-65mm-80a-white-cruiser-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/sector-nine-butterballs-65mm-80a-white-cruiser-wheels.html"
       }
     ],
     "productTags": [
@@ -634,7 +654,7 @@
       {
         "zumiez": "49.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/shark-wheel-california-roll-60mm-78a-emerald-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/shark-wheel-california-roll-60mm-78a-emerald-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -654,7 +674,7 @@
       {
         "zumiez": "59.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/shark-wheel-california-roll-72mm-78a-sapphire-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/shark-wheel-california-roll-72mm-78a-sapphire-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -694,7 +714,7 @@
       {
         "zumiez": "44.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/slime-balls-alien-mini-og-54-5mm-78a-black-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/slime-balls-alien-mini-og-54-5mm-78a-black-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -714,7 +734,7 @@
       {
         "zumiez": "36.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/slime-balls-big-balls-reissue-65mm-97a-red-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/slime-balls-big-balls-reissue-65mm-97a-red-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -734,7 +754,7 @@
       {
         "zumiez": "29.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/slime-balls-face-melter-trip-balls-56mm-99a-green-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/slime-balls-face-melter-trip-balls-56mm-99a-green-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -754,7 +774,7 @@
       {
         "zumiez": "47.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/slime-balls-ink-balls-vomit-mini-54mm-99a-neon-pink-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/slime-balls-ink-balls-vomit-mini-54mm-99a-neon-pink-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -774,7 +794,7 @@
       {
         "zumiez": "58.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/slime-balls-light-ups-led-chrome-surfer-og-66mm-78a-clear-blue-cruiser-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/slime-balls-light-ups-led-chrome-surfer-og-66mm-78a-clear-blue-cruiser-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -794,7 +814,7 @@
       {
         "zumiez": "49.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/slime-balls-light-ups-led-gator-swamp-spew-66mm-78a-pink-cruiser-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/slime-balls-light-ups-led-gator-swamp-spew-66mm-78a-pink-cruiser-skateboard-wheels.html"
       },
       {
         "spot": "49.0",
@@ -819,7 +839,7 @@
       {
         "zumiez": "47.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/slime-balls-natas-panther-vomits-60mm-95a-pink-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/slime-balls-natas-panther-vomits-60mm-95a-pink-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -839,7 +859,7 @@
       {
         "zumiez": "31.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/slime-balls-og-slime-66mm-78a-pink-blue-longboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/slime-balls-og-slime-66mm-78a-pink-blue-longboard-wheels.html"
       }
     ],
     "productTags": [
@@ -859,7 +879,7 @@
       {
         "zumiez": "44.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/slime-balls-rowley-vomit-mini-56mm-95a-white-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/slime-balls-rowley-vomit-mini-56mm-95a-white-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -879,7 +899,7 @@
       {
         "zumiez": "37.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/slime-balls-screw-balls-56mm-99a-blue-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/slime-balls-screw-balls-56mm-99a-blue-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -899,7 +919,7 @@
       {
         "zumiez": "39.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/slime-balls-snake-vomits-60mm-97a-white-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/slime-balls-snake-vomits-60mm-97a-white-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -979,33 +999,13 @@
       {
         "zumiez": "24.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/sml-lucidity-series-gillette-53mm-99a-v-cut-white-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/sml-lucidity-series-gillette-53mm-99a-v-cut-white-skateboard-wheels.html"
       }
     ],
     "productTags": [
       {
         "field": "durometer",
         "value": "99a"
-      }
-    ]
-  },
-  {
-    "slug": "snakes-cruiser-skateboard-wheels",
-    "productName": "Snakes Cruiser Wheels",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746405719/ldjsonbuild/ajice7c5yc5ntbejdcp2.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "tactics": "64.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/powell-peralta/snakes-cruiser-skateboard-wheels/green-v2-69-75a"
-      }
-    ],
-    "productTags": [
-      {
-        "field": "durometer",
-        "value": "75a"
       }
     ]
   }

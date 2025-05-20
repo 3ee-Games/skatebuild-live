@@ -1,5 +1,140 @@
 [
   {
+    "slug": "dgk-boo-johnson-breezy-boo-deck",
+    "productName": "DGK Boo Johnson Breezy Boo Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414760/ldjsonbuild/as9ilpukgsou8pwpiutx.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "70.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/dgk-boo-johnson-breezy-boo-deck?variant=51297429258513"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dgk-boo-krazy-skateboard-deck",
+    "productName": "DGK Boo Krazy Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460599/zumiezbuild/busnxwmgfe9hgi7vqaoj.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "64.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/dgk-boo-krazy-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dgk-brian-reid-tone-deck",
+    "productName": "DGK Brian Reid Tone Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414770/ldjsonbuild/otzt1tx2fo5wahncvoks.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "75.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/dgk-brian-reid-tone-deck?variant=51297392754961"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dgk-ceremony-skateboard-deck",
+    "productName": "DGK Ceremony Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461400/zumiezbuild/lrxmn5sya8bbvcl7lnaq.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "64.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/dgk-ceremony-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dgk-chaz-ortiz-avenue-deck",
+    "productName": "DGK Chaz Ortiz Avenue Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414765/ldjsonbuild/wyj4j3qssp7lpsjvlylm.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "75.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/dgk-chaz-ortiz-avenue-deck?variant=51297417068817"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dgk-coupe-skateboard-deck",
+    "productName": "DGK Coupe Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461648/zumiezbuild/euwwaz3gvehs1aoflppz.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "59.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/dgk-coupe-8-0-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dgk-dane-vaughn-gris-gris-deck",
+    "productName": "DGK Dane Vaughn Gris Gris Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415320/ldjsonbuild/bjn3ga0han1vivbusic8.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "70.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/dgk-dane-vaughn-gris-gris-deck?variant=50910671438097"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dgk-glass-skateboard-deck",
+    "productName": "DGK Glass Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461420/zumiezbuild/ijy8jkgvc0gal819rcsh.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "69.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/dgk-glass-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dgk-guadalupe-uv-skateboard-deck",
+    "productName": "DGK Guadalupe UV Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461417/zumiezbuild/smlgchp0vo8nbxqfpmnp.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "64.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/dgk-guadalupe-uv-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "dgk-hardtop-skateboard-deck",
     "productName": "DGK Hardtop Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461656/zumiezbuild/wqdgbmir9qbzsbsgpykm.webp",
@@ -9,7 +144,7 @@
       {
         "zumiez": "59.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-hardtop-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-hardtop-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -24,7 +159,7 @@
       {
         "zumiez": "49.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-henry-ghetto-gt-8-06-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-henry-ghetto-gt-8-06-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -39,7 +174,7 @@
       {
         "zumiez": "54.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-hyna-8-38-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-hyna-8-38-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -69,7 +204,7 @@
       {
         "zumiez": "59.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-koi-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-koi-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -84,7 +219,7 @@
       {
         "zumiez": "64.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-mazzari-only-option-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-mazzari-only-option-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -99,7 +234,7 @@
       {
         "zumiez": "69.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-ortiz-lo-side-8-5-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-ortiz-lo-side-8-5-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -114,7 +249,7 @@
       {
         "zumiez": "49.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-ortiz-santa-del-barrio-8-1-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-ortiz-santa-del-barrio-8-1-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -129,7 +264,7 @@
       {
         "zumiez": "64.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-quise-midnight-club-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-quise-midnight-club-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -144,7 +279,7 @@
       {
         "zumiez": "64.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-reap-8-5-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-reap-8-5-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -159,7 +294,7 @@
       {
         "zumiez": "64.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-reid-treasures-8-06-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-reid-treasures-8-06-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -174,7 +309,7 @@
       {
         "zumiez": "64.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-rollin-lo-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-rollin-lo-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -189,7 +324,7 @@
       {
         "zumiez": "84.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-save-us-lenticular-8-0-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-save-us-lenticular-8-0-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -204,7 +339,7 @@
       {
         "zumiez": "59.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-scrapbook-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-scrapbook-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -219,7 +354,7 @@
       {
         "zumiez": "64.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-serenity-8-1-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-serenity-8-1-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -234,7 +369,7 @@
       {
         "zumiez": "64.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-shanahan-tuner-8-06-skateboard-deck-354868.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-shanahan-tuner-8-06-skateboard-deck-354868.html"
       }
     ],
     "productTags": []
@@ -249,7 +384,7 @@
       {
         "zumiez": "64.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-syndicate-8-38-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-syndicate-8-38-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -264,7 +399,7 @@
       {
         "zumiez": "64.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-t-top-8-38-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-t-top-8-38-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -279,7 +414,7 @@
       {
         "zumiez": "39.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-the-harpers-street-soldier-8-0-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-the-harpers-street-soldier-8-0-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -294,7 +429,7 @@
       {
         "zumiez": "84.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-trippin-8-25-lenticular-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-trippin-8-25-lenticular-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -309,7 +444,7 @@
       {
         "zumiez": "39.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-vaughn-ghetto-gt-8-06-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-vaughn-ghetto-gt-8-06-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -339,7 +474,7 @@
       {
         "zumiez": "59.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-wolf-blossom-crew-8-1-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-wolf-blossom-crew-8-1-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -354,7 +489,7 @@
       {
         "zumiez": "79.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/dgk-x-kaido-house-roulette-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/dgk-x-kaido-house-roulette-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -509,7 +644,7 @@
       {
         "zumiez": "69.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/disorder-clive-underworld-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/disorder-clive-underworld-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -524,7 +659,7 @@
       {
         "zumiez": "69.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/disorder-dixon-masterpiece-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/disorder-dixon-masterpiece-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -539,7 +674,7 @@
       {
         "zumiez": "69.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/disorder-dixon-six-feet-8-5-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/disorder-dixon-six-feet-8-5-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -554,7 +689,7 @@
       {
         "zumiez": "69.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/disorder-huston-garden-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/disorder-huston-garden-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -569,7 +704,7 @@
       {
         "zumiez": "69.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/disorder-huston-we-want-you-8-125-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/disorder-huston-we-want-you-8-125-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -584,7 +719,7 @@
       {
         "zumiez": "69.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/disorder-motorhead-8-5-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/disorder-motorhead-8-5-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -599,7 +734,7 @@
       {
         "zumiez": "69.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/disorder-my-dawg-8-0-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/disorder-my-dawg-8-0-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -614,152 +749,12 @@
       {
         "zumiez": "69.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/disorder-nyjah-all-seeing-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/disorder-nyjah-all-seeing-8-25-skateboard-deck.html"
       },
       {
         "spot": "70.0",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/disorder-skateboards-nyjah-huston-all-seeing-eye-deck-96764?variant=49835699077393"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "disorder-patc-skateboard-deck",
-    "productName": "Disorder PATC Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462086/zumiezbuild/qk2fxflqvvblsltlbxnd.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "54.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/disorder-patc-8-0-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "disorder-smooth-criminal-skateboard-deck",
-    "productName": "Disorder Smooth Criminal Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461716/zumiezbuild/lrnw39fyljbyxgfsyi0h.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "44.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/disorder-smooth-criminal-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "disorder-tv-party-skateboard-deck",
-    "productName": "Disorder TV Party Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461676/zumiezbuild/sa1qv7qmyqcepoi4o2yy.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "54.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/disorder-tv-party-8-25-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "disorder-walker-braided-skateboard-deck",
-    "productName": "Disorder Walker Braided Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461048/zumiezbuild/hdrty9qvnzlhtqzaeyxy.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "69.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/disorder-walker-braided-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "disorder-walker-card-skateboard-deck",
-    "productName": "Disorder Walker Card Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461133/zumiezbuild/ygdxxjbhgnqjoe4q9pyi.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "54.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/disorder-walker-card-8-25-skateboard-deck.html"
-      },
-      {
-        "spot": "70.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/disorder-skateboards-domo-walker-card-deck?variant=50739404013841"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "dmn-skateboard-deck",
-    "productName": "DMN Deck",
-    "cloudinaryUrl": "",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "tactics": "68.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/edglrd/dmn-825-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "don-luong-egg-shape-skateboard-deck",
-    "productName": "Don Luong Egg Shape Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399903/ldjsonbuild/cpxj33mqpr4eftotufsw.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "72.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/foundation/don-luong-888-egg-shape-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "doobie-absentes-skateboard-deck",
-    "productName": "Doobie Absentes Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401918/ldjsonbuild/cevd1ciiad2qsgoucdzk.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "83.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/anti-hero/doobie-absentes-875-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "doobie-anti-intelligence-skateboard-deck",
-    "productName": "Doobie Anti-Intelligence Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401350/ldjsonbuild/u5rpuzdq8p2ofjbmjivd.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "76.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/anti-hero/doobie-anti-intelligence-875-skateboard-deck"
       }
     ],
     "productTags": []

@@ -6,12 +6,17 @@
   "imageWidth": 325,
   "imageHeight": 385,
   "updated": 1746544876,
-  "productVendorUrl": "/hard-bushings-bones.html",
+  "productVendorUrl": "https://www.zumiez.com/hard-bushings-bones.html",
   "productPrices": [
     {
       "zumiez": "11.95",
       "url": "https://www.zumiez.com",
-      "productVendorUrl": "/hard-bushings-bones.html"
+      "productVendorUrl": "https://www.zumiez.com/hard-bushings-bones.html"
+    },
+    {
+      "bones": "10.00",
+      "url": "https://bones.com",
+      "productVendorUrl": "https://bones.com/bones-wheels-bushing-hard-pack"
     }
   ]
 }

@@ -14,9 +14,14 @@
       "productVendorUrl": "https://www.tactics.com/powell-peralta/nano-cubic-dragon-formula-skateboard-wheels/off-white-52-93a"
     },
     {
-      "spot": "44.0",
+      "spot": "44.00",
       "url": "https://skateparkoftampa.com",
       "productVendorUrl": "https://skateparkoftampa.com/products/powell-peralta-nano-cubic-dragon-formula-93a-wheels?variant=50986490036497"
+    },
+    {
+      "powell": "47.95",
+      "url": "https://powell-peralta.com",
+      "productVendorUrl": "https://powell-peralta.com/powell-peralta-andy-anderson-nano-cubic-dragon-formula-skateboard-wheels-52mm-x-36mm-97a-4pk"
     }
   ]
 }

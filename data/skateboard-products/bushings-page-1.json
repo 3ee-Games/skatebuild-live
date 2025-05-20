@@ -24,7 +24,12 @@
       {
         "zumiez": "11.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/hard-bushings-bones.html"
+        "productVendorUrl": "https://www.zumiez.com/hard-bushings-bones.html"
+      },
+      {
+        "bones": "10.00",
+        "url": "https://bones.com",
+        "productVendorUrl": "https://bones.com/bones-wheels-bushing-hard-pack"
       }
     ],
     "productTags": []
@@ -39,7 +44,7 @@
       {
         "zumiez": "11.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/soft-bushings-bones.html"
+        "productVendorUrl": "https://www.zumiez.com/soft-bushings-bones.html"
       },
       {
         "spot": "9.0",
@@ -59,7 +64,7 @@
       {
         "zumiez": "11.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/medium-bushings-bones.html"
+        "productVendorUrl": "https://www.zumiez.com/medium-bushings-bones.html"
       }
     ],
     "productTags": []
@@ -80,26 +85,6 @@
     "productTags": []
   },
   {
-    "slug": "classic-pivot-cups",
-    "productName": "Classic Pivot Cups",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392065/ldjsonbuild/la6cnndhffeubvp0ympy.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "tactics": "5.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/ace/classic-pivot-cups/black"
-      }
-    ],
-    "productTags": [
-      {
-        "field": "delete",
-        "value": "true"
-      }
-    ]
-  },
-  {
     "slug": "deluxe-tack-supply-supercush-medium-bushings",
     "productName": "Deluxe Tack & Supply Supercush Medium Bushings",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746413926/ldjsonbuild/hwowxqjhnyk4h9kd4o9z.webp",
@@ -113,26 +98,6 @@
       }
     ],
     "productTags": []
-  },
-  {
-    "slug": "dlk-k5-kingpin",
-    "productName": "DLK K5 Kingpin",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746391968/ldjsonbuild/rhdjzsompc9n354mwxin.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "tactics": "9.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/krux/dlk-k5-kingpin"
-      }
-    ],
-    "productTags": [
-      {
-        "field": "delete",
-        "value": "true"
-      }
-    ]
   },
   {
     "slug": "doh-doh-s-quad-pack-cones-skate-bushings-truck-set",
@@ -249,30 +214,10 @@
       {
         "zumiez": "8.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/independent-soft-cylinder-cushion-bushings.html"
+        "productVendorUrl": "https://www.zumiez.com/independent-soft-cylinder-cushion-bushings.html"
       }
     ],
     "productTags": []
-  },
-  {
-    "slug": "loose-trucks-conversion-kit",
-    "productName": "Loose Trucks Conversion Kit",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746391981/ldjsonbuild/xkfeyesswxxt6ze9zlyi.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "tactics": "8.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/venture/loose-trucks-conversion-kit/clear-green-soft"
-      }
-    ],
-    "productTags": [
-      {
-        "field": "delete",
-        "value": "true"
-      }
-    ]
   },
   {
     "slug": "low-hard-bushings",

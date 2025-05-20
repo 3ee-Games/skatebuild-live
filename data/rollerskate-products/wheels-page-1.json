@@ -305,6 +305,26 @@
     ]
   },
   {
+    "slug": "big-softie-s-clear-purple",
+    "productName": "Big Softie`s Clear Purple",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747410663/ldjsonbuild/efztoundskyi8ajdz2ob.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "32.99 ",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/big-softie-s-clear-purple"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "78a"
+      }
+    ]
+  },
+  {
     "slug": "black-girls-skate-x-last-supper-holythane-classics",
     "productName": "Black Girls Skate X Last Supper Holythane Classics 53mm/101a",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746230120/ldjsonbuild/rmkm9sd9jeyzaczzffkh.webp",
@@ -321,6 +341,26 @@
       {
         "field": "durometer",
         "value": "101a"
+      }
+    ]
+  },
+  {
+    "slug": "blossom",
+    "productName": "Blossom",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747410359/ldjsonbuild/a93jmposlyg9ycxmnkys.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "32.99 ",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/blossom"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "78a"
       }
     ]
   },
@@ -605,6 +645,26 @@
     ]
   },
   {
+    "slug": "boxer-roller-wheels",
+    "productName": "BOXER ROLLER WHEELS",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747488047/skatebuild/bkgluiqu1zqxwcrf4c3j.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "skatesus": "35.00",
+        "url": "https://skatesus.com",
+        "productVendorUrl": "https://skatesus.com/product/roll-line-boxer-55mm-57d-freestyle-roller-skate-wheels/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "61d",
+        "value": ""
+      }
+    ]
+  },
+  {
     "slug": "bpm-roller-skate-outdoor-wheels",
     "productName": "BPM 78A Roller Skate Outdoor Wheels",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746365358/ldjsonbuild/tvwqz3orz7xzmjzlsdig.webp",
@@ -665,6 +725,26 @@
     ]
   },
   {
+    "slug": "centurion-slim-derby-wheels-special-order-only",
+    "productName": "CENTURION SLIM DERBY WHEELS",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747488169/skatebuild/rwnbarkn7ovbs0nqmtlr.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "skatesus": "90.00",
+        "url": "https://skatesus.com",
+        "productVendorUrl": "https://skatesus.com/product/centurion-slim-roller-skating-wheels/"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "95a"
+      }
+    ]
+  },
+  {
     "slug": "chaya-big-softies-wheels-clear-red",
     "productName": "Chaya Big Softies Wheels Clear Red 4pk",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746372937/metacrawler/u4xaqbxgwx25edspjeub.webp",
@@ -681,26 +761,6 @@
       {
         "field": "durometer",
         "value": "78a"
-      }
-    ]
-  },
-  {
-    "slug": "chaya-drama-mama-pro-wheels-58x32mm",
-    "productName": "Chaya Drama Mama Pro Wheels 58x32mm 100A 4pk",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746371024/metacrawler/tx2oqdmmc1chnjplqdam.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "derbywarehouse": "39.95",
-        "url": "https://www.derbywarehouse.com",
-        "productVendorUrl": "https://www.derbywarehouse.com/Chaya_Drama_Mama_Pro/descpage-810751.html"
-      }
-    ],
-    "productTags": [
-      {
-        "field": "durometer",
-        "value": "100a"
       }
     ]
   },
@@ -865,6 +925,26 @@
     ]
   },
   {
+    "slug": "cloud-9-s",
+    "productName": "Cloud 9`s",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747410774/ldjsonbuild/rcvmiimfu4jqdf7cocqn.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "29.99 ",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/cloud-9-s"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "78a"
+      }
+    ]
+  },
+  {
     "slug": "crazy-illumin8-led-wheels-white-62x36mm",
     "productName": "Crazy Illumin8 LED Wheels 85A White 62x36mm 2pk",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746372943/metacrawler/z59k1kw5cogmnfkhdbfn.webp",
@@ -885,146 +965,51 @@
     ]
   },
   {
-    "slug": "estro-jen-bowl-bombers-rollerbones-skatepark-wheels-pack",
-    "productName": "Estro Jen Bowl Bombers Rollerbones Skatepark Wheels 101A, 57mm & 62mm, 4-Pack",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746469126/ldjsonbuild/wjy1fkxshqywap5u1nlc.webp",
+    "slug": "devil",
+    "productName": "DEVIL",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747488039/skatebuild/zrkwmve8z9fqvzewggrq.webp",
     "imageWidth": 200,
     "imageHeight": 200,
     "productPrices": [
       {
-        "medusaskates": "49.99",
-        "url": "https://medusaskates.com",
-        "productVendorUrl": "https://medusaskates.com/estro-jen-bowl-bombers-rollerbones-skatepark-wheels-101a-57mm-62mm-4-pack/"
-      },
-      {
-        "moxi": "49.95",
-        "url": "https://www.moxiskates.com",
-        "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/estro-jen-bowl-bombers"
-      },
-      {
-        "derbywarehouse": "49.95",
-        "url": "https://www.derbywarehouse.com",
-        "productVendorUrl": "https://www.derbywarehouse.com/RollerBones_Estro_Jen_Bowl_Bombers/descpage-RMMSBB.html"
+        "skatesus": "70.00",
+        "url": "https://skatesus.com",
+        "productVendorUrl": "https://skatesus.com/product/roll-line-devil-professional-injection-freestyle-roller-wheels/"
       }
     ],
     "productTags": [
       {
         "field": "durometer",
-        "value": "101a"
+        "value": "42d"
+      }
+    ]
+  },
+  {
+    "slug": "drama-mama-pro",
+    "productName": "Drama Mama Pro",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747410330/ldjsonbuild/w8rdxm9m2boijhjsfpkp.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "34.99 ",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/drama-mama-pro"
+      },
+      {
+        "derbywarehouse": "39.95",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Chaya_Drama_Mama_Pro/descpage-810751.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "100a"
       },
       {
         "field": "combine",
-        "value": "bomber"
-      }
-    ]
-  },
-  {
-    "slug": "evolve-roller-skate-wheels",
-    "productName": "Evolve 63mm Roller Skate Wheels",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746365345/ldjsonbuild/adqfv11swhnjqcovl7ok.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "bont": "98.0",
-        "url": "https://bont.com",
-        "productVendorUrl": "https://bont.com/collections/roller-skate-wheels/products/evolve-63mm-roller-skate-wheels"
-      }
-    ],
-    "productTags": [
-      {
-        "field": "durometer",
-        "value": "88a"
-      }
-    ]
-  },
-  {
-    "slug": "fame-artistic-clear-limited-edition",
-    "productName": "Fame Artistic Clear Limited Edition",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375262/ldjsonbuild/kzlrfgpmwdphqlljgfgs.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "suregrip": "65.0",
-        "url": "https://www.suregrip.com",
-        "productVendorUrl": "https://www.suregrip.com/products/fame-clear-limited-edition"
-      }
-    ],
-    "productTags": [
-      {
-        "field": "durometer",
-        "value": "95a"
-      }
-    ]
-  },
-  {
-    "slug": "fame-artistic-wheels-clear-teal",
-    "productName": "Fame Artistic Wheels Clear Teal 57mm 95A 8pk",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746372820/metacrawler/vtkcya1jycflpleoklgy.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "derbywarehouse": "65.00",
-        "url": "https://www.derbywarehouse.com",
-        "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip_Fame_Artistic_Wheels/descpage-SGFRT.html"
-      }
-    ],
-    "productTags": [
-      {
-        "field": "durometer",
-        "value": "95a"
-      }
-    ]
-  },
-  {
-    "slug": "fame",
-    "productName": "FAME",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375224/ldjsonbuild/vymwv5hwhghumqwjfhpg.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "suregrip": "49.0",
-        "url": "https://www.suregrip.com",
-        "productVendorUrl": "https://www.suregrip.com/products/fame"
-      }
-    ],
-    "productTags": [
-      {
-        "field": "durometer",
-        "value": "95a"
-      }
-    ]
-  },
-  {
-    "slug": "flow-roller-skate-park-wheels",
-    "productName": "Flow Roller Skate Park Wheels",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746365364/ldjsonbuild/f7ppvwzbwn0us0t53dod.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "bont": "69.9",
-        "url": "https://bont.com",
-        "productVendorUrl": "https://bont.com/collections/roller-skate-wheels/products/flow-roller-skate-wheels"
-      },
-      {
-        "derbywarehouse": "33.20",
-        "url": "https://www.derbywarehouse.com",
-        "productVendorUrl": "https://www.derbywarehouse.com/Bont_Flow/descpage-BDFLW.html"
-      },
-      {
-        "medusaskates": "34.99",
-        "url": "https://medusaskates.com",
-        "productVendorUrl": "https://medusaskates.com/bont-skate-park-wheels/"
-      }
-    ],
-    "productTags": [
-      {
-        "field": "durometer",
-        "value": "89a"
+        "value": "momma"
       }
     ]
   }

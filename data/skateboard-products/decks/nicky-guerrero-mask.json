@@ -1,0 +1,27 @@
+{
+  "productName": "Nicky Guerrero Mask",
+  "productBrand": "Powell Peralta",
+  "productType": "",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747428903/ldjsonbuild/nikki_deck.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1747429254,
+  "productVendorUrl": "https://thuroshop.com/products/powell-peralta-nicky-guerrero-mask-skateboard-deck-purple-10-x-31-75",
+  "productPrices": [
+    {
+      "thuroshop": "79.99",
+      "url": "https://thuroshop.com",
+      "productVendorUrl": "https://thuroshop.com/products/powell-peralta-nicky-guerrero-mask-skateboard-deck-purple-10-x-31-75"
+    },
+    {
+      "soulperformance": "82.00",
+      "url": "https://soulperformance.com",
+      "productVendorUrl": "https://soulperformance.com/products/powell-peralta-nicky-guerrero-mask-skateboard-deck-blue-10-x-31-75?variant=42951983726771"
+    },
+    {
+      "stokedrideshop": "89.95",
+      "url": "https://stokedrideshop.com",
+      "productVendorUrl": "https://stokedrideshop.com/products/powell-peralta-nicky-guerrero-mask-skateboard-deck-purple-shape-279-10-0"
+    }
+  ]
+}

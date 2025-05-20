@@ -1,5 +1,125 @@
 [
   {
+    "slug": "wcd-jason-suttels-688",
+    "productName": "WCD Jason Suttels 688",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747411250/ldjsonbuild/mjvuaxn7yjm4gyysmlvv.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "119.99",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/wcd-jason-suttels-688-16"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "wicked-bart-swings-ceramic-bearings",
+    "productName": "Wicked Bart Swings Ceramic Bearings 608 16pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746373485/metacrawler/e7nmxhrdj96gyyvxooug.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "119.95",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Wicked_Bart_Swings/descpage-310095.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "wicked-carbon-pro-bearings-abec-big-pack",
+    "productName": "Wicked Carbon Pro Bearings ABEC 7 Big Pack 50pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746373433/metacrawler/xc7qfadtjqg8wxlc0arz.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "35.99",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Wicked_ABEC7_Carbon_Pro/descpage-WCP16.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "wicked-extreme-pro-bearings",
+    "productName": "Wicked Extreme Pro Bearings 16pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746373453/metacrawler/tip9adogmvt5edldqpqs.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "49.95",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Wicked_Extreme_Pro/descpage-310110.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "wicked-extreme-pro",
+    "productName": "Wicked Extreme Pro",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747411254/ldjsonbuild/tqiuwxy77abwjnoklge5.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "49.99",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/wcd-extreme-pro-16"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "wicked-felix-rijhnen-ii-16-pack",
+    "productName": "Wicked Felix Rijhnen II , 16-pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747411243/ldjsonbuild/drlbbvg16k7ckqbhsjs1.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "79.99",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/wicked-felix-rijhnen-2"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "wicked-fr-ceramic-bearings",
+    "productName": "Wicked FR Ceramic Bearings 16pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746373459/metacrawler/w6txpqxddlimt9iecrqj.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "119.95",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Wicked_FR_Ceramic/descpage-310108.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "wicked-fs-abec-bearings",
+    "productName": "Wicked FS ABEC 9 Bearings 16pk",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746373443/metacrawler/da8vhjfwq2oos5fq2qut.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "32.99",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Wicked_FS_ABEC_9/descpage-310061.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "wicked-twincam-ilq7-bearings",
     "productName": "Wicked Twincam ILQ7 Bearings 16pk",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746373469/metacrawler/oot0psqynisdgytkjgo7.webp",

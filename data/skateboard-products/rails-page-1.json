@@ -185,21 +185,6 @@
     "productTags": []
   },
   {
-    "slug": "powell-peralta-rib-bones-rails",
-    "productName": "Powell Peralta Rib Bones Rails",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416461/ldjsonbuild/hl47efiggxvvi5ojwd1w.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "14.95",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/powell-peralta-rib-bones-rails-55018?variant=48243472728337"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "rail-devils",
     "productName": "Rail Devils",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392781/ldjsonbuild/ulayoorx30wyz3ibgdph.webp",
@@ -225,9 +210,24 @@
         "tactics": "12.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/powell-peralta/rib-bones-deck-rails/red"
+      },
+      {
+        "spot": "14.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/powell-peralta-rib-bones-rails-55018?variant=48243472728337"
+      },
+      {
+        "powell": "14.95",
+        "url": "https://powell-peralta.com",
+        "productVendorUrl": "https://powell-peralta.com/powell-peralta-14-5-rib-bones-white"
       }
     ],
-    "productTags": []
+    "productTags": [
+      {
+        "field": "combine",
+        "value": "ribbie"
+      }
+    ]
   },
   {
     "slug": "santa-cruz-slimline-rails",

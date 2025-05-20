@@ -9,9 +9,14 @@
   "productVendorUrl": "https://medusaskates.com/riedell-336-tribute-skate-boot/",
   "productPrices": [
     {
-      "medusaskates": "575",
+      "medusaskates": "575.00",
       "url": "https://medusaskates.com",
       "productVendorUrl": "https://medusaskates.com/riedell-336-tribute-skate-boot/"
+    },
+    {
+      "riedell": "575.00",
+      "url": "https://roller.riedellskates.com",
+      "productVendorUrl": "https://roller.riedellskates.com/Catalog/roller-skate-boots/high-top-skate-boots"
     }
   ]
 }

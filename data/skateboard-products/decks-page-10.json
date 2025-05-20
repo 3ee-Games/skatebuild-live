@@ -1,5 +1,175 @@
 [
   {
+    "slug": "disorder-patc-skateboard-deck",
+    "productName": "Disorder PATC Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462086/zumiezbuild/qk2fxflqvvblsltlbxnd.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "54.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/disorder-patc-8-0-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "disorder-smooth-criminal-skateboard-deck",
+    "productName": "Disorder Smooth Criminal Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461716/zumiezbuild/lrnw39fyljbyxgfsyi0h.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "44.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/disorder-smooth-criminal-8-5-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "disorder-tv-party-skateboard-deck",
+    "productName": "Disorder TV Party Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461676/zumiezbuild/sa1qv7qmyqcepoi4o2yy.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "54.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/disorder-tv-party-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "disorder-walker-braided-skateboard-deck",
+    "productName": "Disorder Walker Braided Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461048/zumiezbuild/hdrty9qvnzlhtqzaeyxy.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "69.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/disorder-walker-braided-8-5-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "disorder-walker-card-skateboard-deck",
+    "productName": "Disorder Walker Card Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461133/zumiezbuild/ygdxxjbhgnqjoe4q9pyi.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "54.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/disorder-walker-card-8-25-skateboard-deck.html"
+      },
+      {
+        "spot": "70.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/disorder-skateboards-domo-walker-card-deck?variant=50739404013841"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dmn-skateboard-deck",
+    "productName": "DMN Deck",
+    "cloudinaryUrl": "",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "68.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/edglrd/dmn-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dogtown-jesse-martinez-guadalupe-1987-deck-10-x-30-25",
+    "productName": "Dogtown Jesse Martinez Guadalupe 1987 Deck 10 x 30.25",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747431007/metacrawler/vnd37z8kp0jguqhekyeh.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "79.99",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Dogtown_Jesse_Martinez_Guadalupe_1987_Deck/descpage-DTJMG10DK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "dogtown-rat-ring-yellow-cruiser-deck-7-75-x-30-25",
+    "productName": "Dogtown Rat Ring Yellow Cruiser Deck 7.75 x 30.25",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747431013/metacrawler/m8egpzgmwvkknpvxunhe.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "64.99",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Dogtown_Rat_Ring_Yellow_Cruiser_Deck/descpage-DTRRCY77DK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "don-luong-egg-shape-skateboard-deck",
+    "productName": "Don Luong Egg Shape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399903/ldjsonbuild/cpxj33mqpr4eftotufsw.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "72.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/foundation/don-luong-888-egg-shape-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "doobie-absentes-skateboard-deck",
+    "productName": "Doobie Absentes Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401918/ldjsonbuild/cevd1ciiad2qsgoucdzk.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "83.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/anti-hero/doobie-absentes-875-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "doobie-anti-intelligence-skateboard-deck",
+    "productName": "Doobie Anti-Intelligence Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401350/ldjsonbuild/u5rpuzdq8p2ofjbmjivd.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "76.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/anti-hero/doobie-anti-intelligence-875-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "doobie-wild-unknown-skateboard-deck",
     "productName": "Doobie Wild Unknown Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746403042/ldjsonbuild/h49n7y1yqcyrfaie2egs.webp",
@@ -69,7 +239,7 @@
       {
         "zumiez": "64.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/doomsayers-devilman-8-0-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/doomsayers-devilman-8-0-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -84,7 +254,7 @@
       {
         "zumiez": "64.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/doomsayers-eli-8-5-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/doomsayers-eli-8-5-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -99,7 +269,7 @@
       {
         "zumiez": "64.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/doomsayers-never-rat-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/doomsayers-never-rat-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -409,7 +579,7 @@
       {
         "zumiez": "46.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/elenex-cherry-rose-8-0-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/elenex-cherry-rose-8-0-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -424,7 +594,7 @@
       {
         "zumiez": "46.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/elenex-mercy-rose-silver-foil-8-5-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/elenex-mercy-rose-silver-foil-8-5-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -439,7 +609,7 @@
       {
         "zumiez": "46.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/elenex-momo-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/elenex-momo-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -454,7 +624,7 @@
       {
         "zumiez": "39.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/elenex-passion-240-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/elenex-passion-240-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -469,7 +639,7 @@
       {
         "zumiez": "64.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/elenex-x-t-eric-monroe-beyonce-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/elenex-x-t-eric-monroe-beyonce-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -595,171 +765,6 @@
         "tactics": "59.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/the-heated-wheel/eniz-fazliov-snake-charmer-825-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "enjoi-whitey-panda-skateboard-deck",
-    "productName": "Enjoi Whitey Panda Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461513/zumiezbuild/b7qyg0rwj7qyjdtw4f0p.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/enjoi-whitey-panda-8-25-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "eric-koston-flexerx-skateboard-deck",
-    "productName": "Eric Koston Flexerx Deck",
-    "cloudinaryUrl": "",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "tactics": "72.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/edglrd/eric-koston-flexerx-825-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "eternal-friends-skateboard-deck",
-    "productName": "Eternal Friends Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396929/ldjsonbuild/z6tdsnpt7mcva74o8n5y.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "74.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/evisen/eternal-friends-825-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "ethan-loy-blade-skateboard-deck",
-    "productName": "Ethan Loy Blade Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395330/ldjsonbuild/i1gkjvxglnv5yp1vcyqj.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "68.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/swim-skateboard-co/ethan-loy-blade-85-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "ethan-loy-mad-gasser-skateboard-deck",
-    "productName": "Ethan Loy Mad Gasser Deck",
-    "cloudinaryUrl": "",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "tactics": "69.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/swim-skateboard-co/ethan-loy-mad-gasser-838-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "evan-skull-skateboard-deck",
-    "productName": "Evan Skull Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397610/ldjsonbuild/h2llxhvhgv3puqf0r9ig.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "54.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/umaverse/evan-skull-85-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "evi-logo-skateboard-deck",
-    "productName": "Evi-Logo Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399616/ldjsonbuild/tdvvlmbaoxdvkvm7erxs.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "74.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/evisen/evi-logo-838-skateboard-deck/magma"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "evil-twins-twin-tip-shape-skateboard-deck",
-    "productName": "Evil Twins Twin Tip Shape Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401592/ldjsonbuild/a7tuq4eawmtgijcr0wg2.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "64.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/creature/evil-twins-84-twin-tip-shape-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "evisen-mitani-tiger-in-the-shining-skateboard-deck",
-    "productName": "Evisen Mitani Tiger In The Shining Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461324/zumiezbuild/oipv1bkeafhkugmlfejp.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "76.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/evisen-mitani-tiger-in-the-shining-8-38-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "executioner-slick-shield-skateboard-deck",
-    "productName": "Executioner Slick Shield Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399863/ldjsonbuild/yf2n1w5jvmnhov9ia0za.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "72.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/opera/executioner-8625-slick-shield-skateboard-deck/multi"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "eye-of-the-monarch-skateboard-deck",
-    "productName": "Eye Of The Monarch Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396024/ldjsonbuild/x63xegpthsi9f4dhymr9.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "68.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/lovesick/eye-of-the-monarch-825-skateboard-deck/teal"
       }
     ],
     "productTags": []

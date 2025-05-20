@@ -1,0 +1,22 @@
+{
+  "productName": "Drama Mama Pro",
+  "productBrand": "Chaya",
+  "productType": "Translation missing: en.general.breadcrumb.home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747410330/ldjsonbuild/w8rdxm9m2boijhjsfpkp.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1747412338,
+  "productVendorUrl": "https://powerslide.com/products/drama-mama-pro",
+  "productPrices": [
+    {
+      "chaya": "34.99 ",
+      "url": "https://powerslide.com",
+      "productVendorUrl": "https://powerslide.com/products/drama-mama-pro"
+    },
+    {
+      "derbywarehouse": "39.95",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Chaya_Drama_Mama_Pro/descpage-810751.html"
+    }
+  ]
+}

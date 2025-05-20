@@ -1,5 +1,185 @@
 [
   {
+    "slug": "foundation-lindloff-more-stuff-skateboard-deck",
+    "productName": "Foundation Lindloff More Stuff Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460801/zumiezbuild/vn7arwuvfi0ygtnaifvf.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "59.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/foundation-lindloff-more-stuff-8-38-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "foundation-mosquito-skateboard-deck",
+    "productName": "Foundation Mosquito Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462032/zumiezbuild/rc4g4en58edkpi1vc0wk.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "69.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/foundation-mosquito-8-5-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "foundation-star-and-moon-skateboard-deck",
+    "productName": "Foundation Star And Moon Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461790/zumiezbuild/rsushsygvmmpiimpvma1.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "59.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/foundation-star-and-moon-8-0-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "foundation-witkin-cult-skateboard-deck",
+    "productName": "Foundation Witkin Cult Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461334/zumiezbuild/lq4uc1y74crdaexrshoh.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "54.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/foundation-witkin-cult-8-5-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "foundation-witkin-portal-skateboard-deck",
+    "productName": "Foundation Witkin Portal Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460967/zumiezbuild/fvkeqtmsnn8rb9noaydd.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "49.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/foundation-witkin-portal-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "foundation-worm-skateboard-deck",
+    "productName": "Foundation Worm Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462085/zumiezbuild/ezrwz6bpr3oytscwef1z.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "54.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/foundation-worm-8-75-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "fox-dojo-skateboard-deck",
+    "productName": "Fox Dojo Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397189/ldjsonbuild/e7srejfessj5fpjzuhz3.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "77.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/magenta/fox-dojo-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "foy-ammonia-skateboard-deck",
+    "productName": "Foy Ammonia Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397561/ldjsonbuild/xq0vz01bcm2wbvfdckin.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "78.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/deathwish/foy-ammonia-838-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "foy-checkered-skateboard-deck",
+    "productName": "Foy Checkered Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396588/ldjsonbuild/i1rhofyslxauyvnxsbpr.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "73.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/deathwish/foy-checkered-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "foy-commemorative-hammer-skateboard-deck",
+    "productName": "Foy Commemorative Hammer Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402665/ldjsonbuild/fm16a2nprhez6vfiscdv.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "73.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/deathwish/foy-commemorative-hammer-85-skateboard-deck/yellow"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "foy-degrees-skateboard-deck",
+    "productName": "Foy 33 Degrees Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400797/ldjsonbuild/dofwglpwhmzec3pd4vmy.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "73.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/deathwish/foy-33-degrees-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "frankie-decker-cat-daddy-skateboard-deck",
+    "productName": "Frankie Decker Cat Daddy Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398012/ldjsonbuild/hoolfykvhgs8cyieuoas.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "71.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/frog/frankie-decker-cat-daddy-818-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "frankie-decker-comic-book-skateboard-deck",
     "productName": "Frankie Decker Comic Book Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402810/ldjsonbuild/icwwv6f1rjozmtvkp4ye.webp",
@@ -84,7 +264,7 @@
       {
         "zumiez": "75.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/frog-alba-mr-mon-kay-8-5-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/frog-alba-mr-mon-kay-8-5-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -99,7 +279,7 @@
       {
         "zumiez": "75.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/frog-alba-shark-8-38-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/frog-alba-shark-8-38-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -114,7 +294,7 @@
       {
         "zumiez": "59.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/frog-alba-tech-deck-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/frog-alba-tech-deck-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -129,7 +309,7 @@
       {
         "zumiez": "49.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/frog-caterpillar-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/frog-caterpillar-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -144,7 +324,7 @@
       {
         "zumiez": "75.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/frog-dear-george-2-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/frog-dear-george-2-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -159,7 +339,7 @@
       {
         "zumiez": "75.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/frog-decker-cat-daddy-8-18-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/frog-decker-cat-daddy-8-18-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -174,7 +354,7 @@
       {
         "zumiez": "59.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/frog-decker-comic-book-8-5-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/frog-decker-comic-book-8-5-skateboard-deck.html"
       },
       {
         "spot": "76.0",
@@ -194,7 +374,7 @@
       {
         "zumiez": "59.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/frog-decker-no-frog-zone-8-5-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/frog-decker-no-frog-zone-8-5-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -209,7 +389,7 @@
       {
         "zumiez": "39.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/frog-gallaher-red-cat-8-18-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/frog-gallaher-red-cat-8-18-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -224,7 +404,7 @@
       {
         "zumiez": "59.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/frog-henry-mosaic-8-5-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/frog-henry-mosaic-8-5-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -239,7 +419,7 @@
       {
         "zumiez": "49.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/frog-memories-1000-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/frog-memories-1000-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -254,7 +434,7 @@
       {
         "zumiez": "75.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/frog-michel-claw-machine-8-5-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/frog-michel-claw-machine-8-5-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -269,7 +449,7 @@
       {
         "zumiez": "59.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/frog-michel-kitchen-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/frog-michel-kitchen-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -290,6 +470,21 @@
     "productTags": []
   },
   {
+    "slug": "frog-pat-g-bird-girl-deck-9-8-x-32-125",
+    "productName": "Frog Pat G Bird Girl Deck 9.8 x 32.125",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747430904/metacrawler/tv8pmvflhnfol3r4d5lc.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "76.00",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Frog_Pat_G_Bird_Girl_Deck/descpage-FGBG82DK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "frog-pat-g-technique-skateboard-deck",
     "productName": "Frog Pat G Technique Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461736/zumiezbuild/qlcndiqtkvwmciu340dc.webp",
@@ -299,7 +494,7 @@
       {
         "zumiez": "75.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/frog-pat-g-technique-8-18-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/frog-pat-g-technique-8-18-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -560,211 +755,6 @@
         "tactics": "68.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/get-off-the-internet-80-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "ghost-ride-skateboard-deck",
-    "productName": "Ghost Ride Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395517/ldjsonbuild/vztuv0yntbini6qlqgn6.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "59.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/doom-sayers-club/ghost-ride-86-skateboard-deck"
-      },
-      {
-        "spot": "64.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/doom-sayers-ghost-ride-deck?variant=51283744686353"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "gimme-skelter-skateboard-deck",
-    "productName": "Gimme Skelter Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396952/ldjsonbuild/wbqcdjb9fusxcuge5xst.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "51.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/halloween-stickers-skateboards/gimme-skelter-838-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "gino-statue-skateboard-deck",
-    "productName": "Gino Statue Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400597/ldjsonbuild/istcbmm4fk7gchkrrp7w.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "77.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/fucking-awesome/gino-statue-80-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "girl-bannerot-gridbox-loveseat-skateboard-deck",
-    "productName": "Girl Bannerot Gridbox Loveseat Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461160/zumiezbuild/zxkqtmso9lszcfogxqcb.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "64.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/girl-bannerot-gridbox-loveseat-9-0-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "girl-bannerot-til-palette-skateboard-deck",
-    "productName": "Girl Bannerot 93 Til Palette Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460687/zumiezbuild/hamuxl0eixuq8wmv3moo.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "39.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/girl-bannerot-93-til-palette-9-25-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "girl-cory-kennedy-naturals-deck",
-    "productName": "Girl Cory Kennedy 93 Naturals Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415377/ldjsonbuild/dpzyypcliasuycb7pyct.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "74.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/girl-cory-kennedy-93-naturals-deck?variant=50838154445073"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "girl-davis-giant-metal-og-skateboard-deck",
-    "productName": "Girl Davis Giant Metal OG Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460843/zumiezbuild/hwzkuka1hdr5fs9jc4bb.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "49.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/girl-davis-giant-metal-og-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "girl-davis-hand-shakers-skateboard-deck",
-    "productName": "Girl Davis Hand Shakers Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460956/zumiezbuild/ajd0swsfdbvdxkbhtfzd.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "49.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/girl-davis-hand-shakers-8-25-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "girl-davis-modernica-skateboard-deck",
-    "productName": "Girl Davis Modernica Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460790/zumiezbuild/kovgmnjuyfbq6oexvxli.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "64.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/girl-davis-modernica-8-25-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "girl-davis-the-suzuki-method-skateboard-deck",
-    "productName": "Girl Davis The Suzuki Method Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460898/zumiezbuild/d7u1n7plsbnld41qayge.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "64.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/girl-davis-the-suzuki-method-8-125-skateboard-deck.html"
-      },
-      {
-        "tactics": "58.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/girl/geering-suzuki-method-85-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "girl-davis-til-palette-skateboard-deck",
-    "productName": "Girl Davis 93 Til Palette Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460629/zumiezbuild/kyd0xqlijackwuukhkhj.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "49.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/girl-davis-93-til-palette-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "girl-gass-gridbox-skateboard-deck",
-    "productName": "Girl Gass Gridbox Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460778/zumiezbuild/uyrdft3arztiris0fz1w.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "64.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/girl-gass-gridbox-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "girl-gass-man-s-ruin-skateboard-deck",
-    "productName": "Girl Gass Mans Ruin Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461152/zumiezbuild/vuf6lu4rflmurnu8fhz4.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "49.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/girl-mans-ruin-gass-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []

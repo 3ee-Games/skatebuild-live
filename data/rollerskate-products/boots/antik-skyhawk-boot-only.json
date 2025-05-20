@@ -17,6 +17,11 @@
       "derbywarehouse": "149.00",
       "url": "https://www.derbywarehouse.com",
       "productVendorUrl": "https://www.derbywarehouse.com/Antik_Skyhawk/descpage-ASH23.html"
+    },
+    {
+      "riedell": "149.00",
+      "url": "https://roller.riedellskates.com",
+      "productVendorUrl": "https://roller.riedellskates.com/Product/boot-antik-skyhawk"
     }
   ]
 }
