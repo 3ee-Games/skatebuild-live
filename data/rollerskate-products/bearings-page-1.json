@@ -1,5 +1,35 @@
 [
   {
+    "slug": "abec-7-carbon-pro-big-pack",
+    "productName": "ABEC 7 Carbon Pro, Big Pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747411260/ldjsonbuild/c2e5fktkbvzhytmm9kmm.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "32.99",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/abec-7-carbon-pro-xxl-pack"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "abec-9-fs-16-pack",
+    "productName": "ABEC 9 FS, 16-pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747411271/ldjsonbuild/bswkzz0wcbqx0itu6wsz.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "29.99",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/abec-9-fs-16"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "ball",
     "productName": "8-Ball",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375501/ldjsonbuild/cczxleideytxupyahuy4.webp",
@@ -320,6 +350,21 @@
         "derbywarehouse": "145.00",
         "url": "https://www.derbywarehouse.com",
         "productVendorUrl": "https://www.derbywarehouse.com/Cheezeballs_Swiss_Ceramic/descpage-SWISSC.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "fr-ceramic",
+    "productName": "FR Ceramic",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747411246/ldjsonbuild/lir7kscyoh1zsyuxyprp.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "119.99",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/wicked-fr-ceramic-16"
       }
     ],
     "productTags": []
@@ -765,76 +810,31 @@
     "productTags": []
   },
   {
-    "slug": "wicked-bart-swings-ceramic-bearings",
-    "productName": "Wicked Bart Swings Ceramic Bearings 608 16pk",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746373485/metacrawler/e7nmxhrdj96gyyvxooug.webp",
+    "slug": "sus-rustproof-4-pack",
+    "productName": "SUS Rustproof, 4-pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747411257/ldjsonbuild/bstreibayhejag6ieewq.webp",
     "imageWidth": 200,
     "imageHeight": 200,
     "productPrices": [
       {
-        "derbywarehouse": "119.95",
-        "url": "https://www.derbywarehouse.com",
-        "productVendorUrl": "https://www.derbywarehouse.com/Wicked_Bart_Swings/descpage-310095.html"
+        "chaya": "16.99",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/sus-rustproof-4"
       }
     ],
     "productTags": []
   },
   {
-    "slug": "wicked-carbon-pro-bearings-abec-big-pack",
-    "productName": "Wicked Carbon Pro Bearings ABEC 7 Big Pack 50pk",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746373433/metacrawler/xc7qfadtjqg8wxlc0arz.webp",
+    "slug": "swiss-by-jesa-16-pack",
+    "productName": "SWISS by Jesa,16-pack",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747411264/ldjsonbuild/d1sjhrlm7ur2njoayyt5.webp",
     "imageWidth": 200,
     "imageHeight": 200,
     "productPrices": [
       {
-        "derbywarehouse": "35.99",
-        "url": "https://www.derbywarehouse.com",
-        "productVendorUrl": "https://www.derbywarehouse.com/Wicked_ABEC7_Carbon_Pro/descpage-WCP16.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "wicked-extreme-pro-bearings",
-    "productName": "Wicked Extreme Pro Bearings 16pk",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746373453/metacrawler/tip9adogmvt5edldqpqs.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "derbywarehouse": "49.95",
-        "url": "https://www.derbywarehouse.com",
-        "productVendorUrl": "https://www.derbywarehouse.com/Wicked_Extreme_Pro/descpage-310110.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "wicked-fr-ceramic-bearings",
-    "productName": "Wicked FR Ceramic Bearings 16pk",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746373459/metacrawler/w6txpqxddlimt9iecrqj.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "derbywarehouse": "119.95",
-        "url": "https://www.derbywarehouse.com",
-        "productVendorUrl": "https://www.derbywarehouse.com/Wicked_FR_Ceramic/descpage-310108.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "wicked-fs-abec-bearings",
-    "productName": "Wicked FS ABEC 9 Bearings 16pk",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746373443/metacrawler/da8vhjfwq2oos5fq2qut.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "derbywarehouse": "32.99",
-        "url": "https://www.derbywarehouse.com",
-        "productVendorUrl": "https://www.derbywarehouse.com/Wicked_FS_ABEC_9/descpage-310061.html"
+        "chaya": "79.99",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/swiss-by-jesa-16"
       }
     ],
     "productTags": []

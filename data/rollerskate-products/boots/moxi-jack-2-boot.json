@@ -1,0 +1,27 @@
+{
+  "productName": "Moxi Jack 2",
+  "productBrand": "Moxi",
+  "productType": "skate park",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747433730/ldjsonbuild/moxi-jack2-boot.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1747433857,
+  "productVendorUrl": "https://www.moxiskates.com/products/jack2-boot-trueblue",
+  "productPrices": [
+    {
+      "moxi": "369.00",
+      "url": "https://www.moxiskates.com",
+      "productVendorUrl": "https://www.moxiskates.com/products/jack2-boot-trueblue"
+    },
+    {
+      "medusaskates": "379.00",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/moxi-jack-2-roller-skate-boot/"
+    },
+    {
+      "derbywarehouse": "379.00",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Moxi_Jack_2_Boots/descpage-JACK2.html"
+    }
+  ]
+}

@@ -14,9 +14,14 @@
       "productVendorUrl": "https://www.derbywarehouse.com/Antik_AR2/descpage-AR218.html"
     },
     {
-      "medusaskates": "429",
+      "medusaskates": "429.00",
       "url": "https://medusaskates.com",
       "productVendorUrl": "https://medusaskates.com/antik-ar2-skate-boots/"
+    },
+    {
+      "riedell": "429.00",
+      "url": "https://roller.riedellskates.com",
+      "productVendorUrl": "https://roller.riedellskates.com/Product/boot-antik-ar2"
     }
   ]
 }

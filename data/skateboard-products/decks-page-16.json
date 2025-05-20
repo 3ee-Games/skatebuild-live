@@ -1,5 +1,265 @@
 [
   {
+    "slug": "hockey-rodrigues-keep-sake-skateboard-deck",
+    "productName": "Hockey Rodrigues Keep Sake Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460684/zumiezbuild/t2d4gnofrrq3igqtpgdj.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "77.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/hockey-rodrigues-keep-sake-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "hockey-stain-off-anxiety-skateboard-deck",
+    "productName": "Hockey Stain 50% Off Anxiety Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461543/zumiezbuild/p9cm5ngk2hch13xb6jm9.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "81.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/hockey-stain-50-off-anxiety-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "hockey-stain-side-one-skateboard-deck",
+    "productName": "Hockey Stain Side One Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461005/zumiezbuild/fv7rymiqqswbgknxeant.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "77.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/hockey-stain-side-one-8-5-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "hockey-war-on-ice-skateboard-deck",
+    "productName": "Hockey War On Ice Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461443/zumiezbuild/owyezmwhsev3v8nobhg7.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "77.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/hockey-war-on-ice-8-25-skateboard-deck.html"
+      },
+      {
+        "tactics": "77.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/hockey/war-all-over-875-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "hoddle-luxton-realist-skateboard-deck",
+    "productName": "Hoddle Luxton Realist Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461385/zumiezbuild/rlfsudi7x42pvh1b2slj.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "54.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/hoddle-luxton-realist-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "hoddle-paul-bell-skateboard-deck",
+    "productName": "Hoddle Paul Bell Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461135/zumiezbuild/jtv38szhospswfdf5egu.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "54.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/hoddle-paul-bell-8-38-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "hoddle-thunderdome-skateboard-deck",
+    "productName": "Hoddle Thunderdome Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461810/zumiezbuild/yb62vmnailxarq79f37c.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "54.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/hoddle-thunderdome-8-0-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "hoddle-zuzic-fracture-skateboard-deck",
+    "productName": "Hoddle Zuzic Fracture Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460873/zumiezbuild/a6cymnflibneftujq79f.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "69.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/hoddle-zuzic-fracture-8-5-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "hola-lou-coyote-skateboard-deck",
+    "productName": "Hola Lou Coyote Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396865/ldjsonbuild/jbg5zq8rridrvm8pyrax.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "96.00",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/loaded/hola-lou-coyote-3075-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "hopkins-ramblin-and-scramblin-skateboard-deck",
+    "productName": "Hopkins Ramblin And Scramblin Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398071/ldjsonbuild/j15vxbbhrkgprqi6iltc.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "59.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/bacon/hopkins-ramblin-and-scramblin-85-skateboard-deck/brown"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "hopps-bighopps-roses-skateboard-deck",
+    "productName": "Hopps Bighopps Roses Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462125/zumiezbuild/knjoks94egnrog3slek9.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "74.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/hopps-bighopps-roses-8-5-skateboard-deck.html"
+      },
+      {
+        "tactics": "73.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/hopps-skateboards/big-hopps-roses-8125-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "hopps-denley-jennifer-traub-artist-series-skateboard-deck",
+    "productName": "Hopps Denley Jennifer Traub Artist Series Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461217/zumiezbuild/zvvgce1aymrcbr1uu9vj.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "74.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/hopps-denley-jennifer-traub-artist-series-8-25-skateboard-deck.html"
+      },
+      {
+        "tactics": "74.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/hopps-skateboards/denley-artist-series-8125-skateboard-deck/orange"
+      },
+      {
+        "spot": "75.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/hopps-keith-denley-jen-traub-artist-deck?variant=51389359653137"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "hopps-dustin-eggeling-jen-traub-artist-deck",
+    "productName": "Hopps Dustin Eggeling Jen Traub Artist Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414578/ldjsonbuild/oqiba5vhztgmwuzhuo0n.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "75.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/hopps-dustin-eggeling-jen-traub-artist-deck?variant=51389360865553"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "hopps-keep-it-moving-checkered-fade-deck",
+    "productName": "Hopps Keep It Moving Checkered Fade Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414567/ldjsonbuild/kt4acqkptdngopcslsql.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "75.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/hopps-keep-it-moving-checkered-fade-deck?variant=51389380722961"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "hopps-keith-denley-throwie-deck",
+    "productName": "Hopps Keith Denley Throwie Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415724/ldjsonbuild/nanfb4kxrfhxjkapuk8b.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "75.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/hopps-keith-denley-throwie-deck?variant=50443375149329"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "hopps-mark-del-negro-jen-traub-artist-deck",
+    "productName": "Hopps Mark Del Negro Jen Traub Artist Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414589/ldjsonbuild/vpv4bthjnwzkyjrfyqiw.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "75.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/hopps-mark-del-negro-jen-traub-artist-deck?variant=51389359423761"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "hopps-pops-deck",
     "productName": "Hopps Pops Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414332/ldjsonbuild/ygfq24n2ioofspppg35b.webp",
@@ -114,7 +374,7 @@
       {
         "zumiez": "64.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/huf-x-kodak-filmer-board-9-8-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/huf-x-kodak-filmer-board-9-8-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -434,7 +694,7 @@
       {
         "zumiez": "74.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/jacuzzi-big-ol-8-5-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/jacuzzi-big-ol-8-5-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -449,7 +709,7 @@
       {
         "zumiez": "44.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/jacuzzi-dilo-gator-bait-8-0-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/jacuzzi-dilo-gator-bait-8-0-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -464,7 +724,7 @@
       {
         "zumiez": "74.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/jacuzzi-dilo-no-fear-8-5-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/jacuzzi-dilo-no-fear-8-5-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -479,7 +739,7 @@
       {
         "zumiez": "49.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/jacuzzi-flipper-dilo-8-5-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/jacuzzi-flipper-dilo-8-5-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -494,7 +754,7 @@
       {
         "zumiez": "59.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/jacuzzi-lawn-fire-pilz-9-125-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/jacuzzi-lawn-fire-pilz-9-125-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -509,252 +769,7 @@
       {
         "zumiez": "74.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/jacuzzi-pilz-toadadelic-9-125-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "jacuzzi-pulizzi-know-when-to-hold-skateboard-deck",
-    "productName": "Jacuzzi Pulizzi Know When To Hold Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461128/zumiezbuild/s0ssvm26dosneyvymjri.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "54.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/jacuzzi-pulizzi-know-when-to-hold-8-375-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "jacuzzi-tea-pot-skateboard-deck",
-    "productName": "Jacuzzi Tea Pot Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461940/zumiezbuild/vspmwsveweetlsrwogft.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/jacuzzi-tea-pot-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "jacuzzi-the-musical-skateboard-deck",
-    "productName": "Jacuzzi The Musical Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461951/zumiezbuild/kkbiwzffq811l7pic6gy.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "69.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/jacuzzi-the-musical-8-37-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "jacuzzi-unlimited-caswell-berry-dominance-ex7-deck",
-    "productName": "Jacuzzi Unlimited Caswell Berry Dominance EX7 Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415248/ldjsonbuild/uyyefcmsyk7mtj7apzau.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "70.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/jacuzzi-unlimited-caswell-berry-dominance-ex7-deck?variant=50977502888209"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "jacuzzi-unlimited-jackson-pilz-patrons-shaped-ex7-deck",
-    "productName": "Jacuzzi Unlimited Jackson Pilz Patrons Shaped EX7 Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415242/ldjsonbuild/sgsjpeubmbesxicje1zh.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "75.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/jacuzzi-unlimited-jackson-pilz-patrons-shaped-ex7-deck?variant=50977510359313"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "jacuzzi-unlimited-louie-barletta-toy-ex7-deck",
-    "productName": "Jacuzzi Unlimited Louie Barletta Toy EX7 Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415253/ldjsonbuild/amps1xad5n7we0ifmqsj.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "70.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/jacuzzi-unlimited-louie-barletta-toy-ex7-deck?variant=50977501020433"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "jacuzzi-years-skateboard-deck",
-    "productName": "Jacuzzi 500 Years Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461430/zumiezbuild/or8ejiyqquril3qzwkix.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "69.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/jacuzzi-500-years-8-25-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "jake-braun-pro-skateboard-deck",
-    "productName": "Jake Braun Pro Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398554/ldjsonbuild/qgcco8rr6hfg3oraanbc.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "69.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/strangelove/jake-braun-pro-825-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "jake-the-first-church-skateboard-deck",
-    "productName": "Jake The First Church Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396674/ldjsonbuild/up41ff4rjv0xpe3prhca.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "77.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/fucking-awesome/jake-the-first-church-825-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "jart-involution-skateboard-deck",
-    "productName": "Jart Involution Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461965/zumiezbuild/hjkayfe5xws2lh9x5nuh.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/jart-involution-8-25-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "jart-love-at-first-sight-skateboard-deck",
-    "productName": "Jart Love At First Sight Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461523/zumiezbuild/xhwlq5tfbdvdspzuppwb.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/jart-love-at-first-sight-8-25-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "jart-smoke-skateboard-deck",
-    "productName": "Jart Smoke Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462110/zumiezbuild/r232zd7wqxpforiyfqzv.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "47.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/jart-smoke-8-0-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "jart-stay-high-skateboard-deck",
-    "productName": "Jart Stay High Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461503/zumiezbuild/ol0dlogdiqebjgx9hrpi.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/jart-stay-high-8-25-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "jason-adams-smoking-section-custom-egg-shape-skateboard-deck",
-    "productName": "Jason Adams Smoking Section Custom Egg Shape Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398304/ldjsonbuild/p6zgqigbcuesxnqzepn4.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "68.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/black-label/jason-adams-smoking-section-95-custom-egg-shape-skateboard-deck/green"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "jaws-second-life-skateboard-deck",
-    "productName": "Jaws Second Life Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398455/ldjsonbuild/aioiddl7k77nhjlqop3h.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "74.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/birdhouse/jaws-second-life-8475-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "jersey-devil-skateboard-deck",
-    "productName": "Jersey Devil Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395836/ldjsonbuild/bqft37hyn0kzett0tmlc.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "67.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/metal-skateboards/jersey-devil-86-skateboard-deck"
-      },
-      {
-        "spot": "70.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-jersey-devil-deck?variant=51397908398353"
+        "productVendorUrl": "https://www.zumiez.com/jacuzzi-pilz-toadadelic-9-125-skateboard-deck.html"
       }
     ],
     "productTags": []

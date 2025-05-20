@@ -99,7 +99,7 @@
       {
         "zumiez": "99.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/bones-red-ceramics-bearings.html"
+        "productVendorUrl": "https://www.zumiez.com/bones-red-ceramics-bearings.html"
       },
       {
         "tactics": "89.95",
@@ -110,6 +110,11 @@
         "spot": "95.95",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/bones-ceramic-reds-bearings-25110?variant=48243424919825"
+      },
+      {
+        "bones": "99.95",
+        "url": "https://bonesbearings.com",
+        "productVendorUrl": "https://bonesbearings.com/bones-reg-ceramic-reds-reg-skateboard-bearings-8-pack"
       }
     ],
     "productTags": []
@@ -124,7 +129,7 @@
       {
         "zumiez": "18.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/bones-reds-skateboard-bearings.html"
+        "productVendorUrl": "https://www.zumiez.com/bones-reds-skateboard-bearings.html"
       },
       {
         "tactics": "17.95",
@@ -154,7 +159,7 @@
       {
         "zumiez": "49.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/bones-black-swiss-skateboard-bearings.html"
+        "productVendorUrl": "https://www.zumiez.com/bones-black-swiss-skateboard-bearings.html"
       },
       {
         "tactics": "52.95",
@@ -174,7 +179,7 @@
       {
         "zumiez": "29.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/bronson-franky-villani-pro-g3-skateboard-bearings.html"
+        "productVendorUrl": "https://www.zumiez.com/bronson-franky-villani-pro-g3-skateboard-bearings.html"
       },
       {
         "tactics": "28.95",
@@ -199,7 +204,7 @@
       {
         "zumiez": "50.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/bronson-raw-skateboard-bearings.html"
+        "productVendorUrl": "https://www.zumiez.com/bronson-raw-skateboard-bearings.html"
       },
       {
         "tactics": "39.95",
@@ -234,7 +239,7 @@
       {
         "zumiez": "29.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/bronson-x-santa-cruz-g3-bearings.html"
+        "productVendorUrl": "https://www.zumiez.com/bronson-x-santa-cruz-g3-bearings.html"
       }
     ],
     "productTags": []
@@ -249,7 +254,7 @@
       {
         "zumiez": "41.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/bronson-x-toy-machine-g3-bearings.html"
+        "productVendorUrl": "https://www.zumiez.com/bronson-x-toy-machine-g3-bearings.html"
       }
     ],
     "productTags": []
@@ -459,30 +464,10 @@
       {
         "zumiez": "9.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/enjoi-abec-7-teenish-bearings.html"
+        "productVendorUrl": "https://www.zumiez.com/enjoi-abec-7-teenish-bearings.html"
       }
     ],
     "productTags": []
-  },
-  {
-    "slug": "fkd-abec-single-steel-bearing",
-    "productName": "FKD Abec 7 Single Steel Bearing",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746413811/ldjsonbuild/sjkaicjagwjllrf23hv6.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "1.5",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/fkd-abec-7-single-steel-bearing-77063?variant=48244548108561"
-      }
-    ],
-    "productTags": [
-      {
-        "field": "delete",
-        "value": "true"
-      }
-    ]
   },
   {
     "slug": "gold-wheels-gold-bricks-bearings",
@@ -539,7 +524,7 @@
       {
         "zumiez": "39.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/independent-genuine-spare-parts-skateboard-kit.html"
+        "productVendorUrl": "https://www.zumiez.com/independent-genuine-spare-parts-skateboard-kit.html"
       }
     ],
     "productTags": []
@@ -569,7 +554,7 @@
       {
         "zumiez": "10.00",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/independent-gp-s-skateboard-bearings.html"
+        "productVendorUrl": "https://www.zumiez.com/independent-gp-s-skateboard-bearings.html"
       },
       {
         "tactics": "18.95",
@@ -625,6 +610,21 @@
         "tactics": "39.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/skf/louie-pro-skateboard-bearings"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mini-logo-skateboard-bearings-series-3-8mm-single-8pk",
+    "productName": "Mini Logo Skateboard Bearings Series 3",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747417345/metacrawler/p4r77lpbtcqgdewhrsfc.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "minilogo": "17.95",
+        "url": "https://minilogoskateboards.com",
+        "productVendorUrl": "https://minilogoskateboards.com/mini-logo-skateboard-bearings-series-3-8mm-single-8pk"
       }
     ],
     "productTags": []
@@ -774,7 +774,7 @@
       {
         "zumiez": "19.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-crystal-ball-skateboard-bearings.html"
+        "productVendorUrl": "https://www.zumiez.com/primitive-crystal-ball-skateboard-bearings.html"
       }
     ],
     "productTags": []
@@ -789,7 +789,7 @@
       {
         "zumiez": "59.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/quantum-atoms-series-ceramic-skateboard-bearings.html"
+        "productVendorUrl": "https://www.zumiez.com/quantum-atoms-series-ceramic-skateboard-bearings.html"
       }
     ],
     "productTags": []
@@ -804,7 +804,7 @@
       {
         "zumiez": "119.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/quantum-diamond-series-skateboard-bearings.html"
+        "productVendorUrl": "https://www.zumiez.com/quantum-diamond-series-skateboard-bearings.html"
       }
     ],
     "productTags": []

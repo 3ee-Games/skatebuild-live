@@ -320,6 +320,36 @@
     "productTags": []
   },
   {
+    "slug": "birdhouse-hawk-full-skull-deck-9-75-x-32",
+    "productName": "Birdhouse Hawk Full Skull Deck 9.75 x 32",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747430881/metacrawler/zcjosijeuadaiy9r8gqp.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "82.99",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Birdhouse_Hawk_Full_Skull_Deck/descpage-BHFSDK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "birdhouse-hawk-gargoyle-deck-9-75-x-32",
+    "productName": "Birdhouse Hawk Gargoyle Deck 9.75 x 32",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747430967/metacrawler/eosvqpjcppsxiczo865d.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "60.00",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Birdhouse_Hawk_Gargoyle_Deck/descpage-BHGDK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "birdhouse-lizzie-armanto-chain-deck",
     "productName": "Birdhouse Lizzie Armanto Chain Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414037/ldjsonbuild/gshvfgo6w3izzlkbbs4k.webp",
@@ -380,6 +410,36 @@
     "productTags": []
   },
   {
+    "slug": "black-label-shredded-barcode-deck-10-x-32-875",
+    "productName": "Black Label Shredded Barcode Deck 10 x 32.875",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747430888/metacrawler/dluicy7sawpqzgweuyrz.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "69.99",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Black_Label_Shredded_Barcode_Deck/descpage-BLSHBC10DK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "black-label-vulture-curb-club-deck-9-5-x-32-125",
+    "productName": "Black Label Vulture Curb Club Deck 9.5 x 32.125",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747430979/metacrawler/hnikiil4mfmuhbozkhuy.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "69.99",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Black_Label_Vulture_Curb_Club_Deck/descpage-BLVCC95DK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "black-script-skateboard-deck",
     "productName": "Black Script Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398518/ldjsonbuild/itjl7yximfnhb0r1zlyc.webp",
@@ -404,7 +464,7 @@
       {
         "zumiez": "34.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/blackout-alien-8-0-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/blackout-alien-8-0-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -419,7 +479,7 @@
       {
         "zumiez": "49.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/blackout-doberman-8-5-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/blackout-doberman-8-5-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -434,7 +494,7 @@
       {
         "zumiez": "49.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/blackout-glowpool-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/blackout-glowpool-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -449,7 +509,7 @@
       {
         "zumiez": "49.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/blackout-neon-dragon-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/blackout-neon-dragon-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -464,7 +524,7 @@
       {
         "zumiez": "49.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/blackout-2000-8-0-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/blackout-2000-8-0-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -494,7 +554,7 @@
       {
         "zumiez": "49.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/blind-lil-reaper-desert-8-0-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/blind-lil-reaper-desert-8-0-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -509,7 +569,7 @@
       {
         "zumiez": "49.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/blind-og-wallpaper-8-0-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/blind-og-wallpaper-8-0-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -540,21 +600,6 @@
         "tactics": "44.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/tactics/boards-r-us-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "bolts-flip-deck-of-cards",
-    "productName": "Bolts Flip Deck of Cards",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415944/ldjsonbuild/m7wripx7cpmi6zc5pobv.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "29.95",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/bolts-flip-deck-of-cards-94859?variant=48246963831057"
       }
     ],
     "productTags": []
@@ -705,56 +750,6 @@
         "tactics": "74.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/polar-skate-co/brady-worker-8625-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "brat-skateboard-deck",
-    "productName": "BRAT Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397421/ldjsonbuild/cg2xvmnfkvrho85h1miq.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "69.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/carpet/brat-81-skateboard-deck/red"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "braun-icarus-skateboard-deck",
-    "productName": "Braun Icarus Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397427/ldjsonbuild/czthikh4rxneeo1y7tpy.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "69.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/strangelove/braun-icarus-825-skateboard-deck"
-      },
-      {
-        "spot": "70.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/strangelove-jake-braun-icarus-deck?variant=50522930512145"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "brayan-coria-copilot-skateboard-deck",
-    "productName": "Brayan Coria Copilot Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398006/ldjsonbuild/zq4sf7ydjz8ufmbpqvrj.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "65.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/the-heated-wheel/brayan-coria-copilot-838-skateboard-deck"
       }
     ],
     "productTags": []

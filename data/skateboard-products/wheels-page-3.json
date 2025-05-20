@@ -1,5 +1,25 @@
 [
   {
+    "slug": "nomads-skateboard-wheels",
+    "productName": "Nomads Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746405909/ldjsonbuild/ksxahcfbvhqmytdljcsq.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "32.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/speedlab/nomads-skateboard-wheels/natural-green-swirl-97a"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "97a"
+      }
+    ]
+  },
+  {
     "slug": "og-s-skateboard-wheels",
     "productName": "OG 63s Wheels",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746405665/ldjsonbuild/f1htwfzypob2uvfzbjdz.webp",
@@ -29,7 +49,7 @@
       {
         "zumiez": "41.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/oj-coffin-bloodsuckers-54mm-97a-black-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/oj-coffin-bloodsuckers-54mm-97a-black-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -89,7 +109,7 @@
       {
         "zumiez": "39.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/oj-dressen-koi-56mm-101a-white-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/oj-dressen-koi-56mm-101a-white-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -149,7 +169,7 @@
       {
         "zumiez": "39.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/oj-elite-nomads-53mm-95a-white-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/oj-elite-nomads-53mm-95a-white-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -189,7 +209,7 @@
       {
         "zumiez": "24.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/oj-from-concentrate-54mm-101a-white-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/oj-from-concentrate-54mm-101a-white-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -209,7 +229,7 @@
       {
         "zumiez": "47.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/oj-green-worms-super-juice-60mm-78a-clear-blue-cruiser-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/oj-green-worms-super-juice-60mm-78a-clear-blue-cruiser-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -269,7 +289,7 @@
       {
         "zumiez": "47.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/oj-howell-og-slime-swirl-60mm-78a-pink-and-green-cruiser-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/oj-howell-og-slime-swirl-60mm-78a-pink-and-green-cruiser-skateboard-wheels.html"
       },
       {
         "tactics": "38.95",
@@ -334,7 +354,7 @@
       {
         "zumiez": "47.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/oj-lil-doodies-58mm-99a-orange-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/oj-lil-doodies-58mm-99a-orange-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -374,7 +394,7 @@
       {
         "zumiez": "47.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/oj-martinez-guero-chubbies-54mm-99a-white-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/oj-martinez-guero-chubbies-54mm-99a-white-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -394,7 +414,7 @@
       {
         "zumiez": "57.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/oj-martinez-hear-no-evil-double-duros-56mm-101a-white-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/oj-martinez-hear-no-evil-double-duros-56mm-101a-white-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -474,7 +494,7 @@
       {
         "zumiez": "29.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/oj-pace-elite-mini-combos-54mm-99a-black-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/oj-pace-elite-mini-combos-54mm-99a-black-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -494,7 +514,7 @@
       {
         "zumiez": "44.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/oj-pastel-double-duros-53mm-101a-orange-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/oj-pastel-double-duros-53mm-101a-orange-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -514,7 +534,7 @@
       {
         "zumiez": "37.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/oj-plain-jane-jungle-keyframe-54mm-92a-white-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/oj-plain-jane-jungle-keyframe-54mm-92a-white-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -554,7 +574,7 @@
       {
         "zumiez": "29.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/oj-team-elite-throw-ups-chubbies-54mm-101a-black-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/oj-team-elite-throw-ups-chubbies-54mm-101a-black-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -634,7 +654,7 @@
       {
         "zumiez": "41.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/oj-winkowski-behind-8-ball-54mm-95a-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/oj-winkowski-behind-8-ball-54mm-95a-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -654,7 +674,7 @@
       {
         "zumiez": "24.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/oj-winkowski-mushroom-swirl-53mm-101a-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/oj-winkowski-mushroom-swirl-53mm-101a-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -674,7 +694,7 @@
       {
         "zumiez": "47.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/oj-x-strangelove-braun-wolf-elite-hardline-56mm-99a-white-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/oj-x-strangelove-braun-wolf-elite-hardline-56mm-99a-white-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -694,7 +714,7 @@
       {
         "zumiez": "59.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/orangatang-kegel-orange-80mm-80a-longboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/orangatang-kegel-orange-80mm-80a-longboard-wheels.html"
       }
     ],
     "productTags": [
@@ -714,7 +734,7 @@
       {
         "zumiez": "54.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/orangatang-stimulus-70mm-77a-blue-longboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/orangatang-stimulus-70mm-77a-blue-longboard-wheels.html"
       }
     ],
     "productTags": [
@@ -734,7 +754,7 @@
       {
         "zumiez": "19.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/orbs-miller-specters-58mm-99a-green-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/orbs-miller-specters-58mm-99a-green-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -754,7 +774,7 @@
       {
         "zumiez": "32.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/orbs-pugs-54mm-85a-black-white-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/orbs-pugs-54mm-85a-black-white-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -774,7 +794,7 @@
       {
         "zumiez": "19.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/orbs-wheels-apparitions-ghost-56mm-99a-black-blue-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/orbs-wheels-apparitions-ghost-56mm-99a-black-blue-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -794,7 +814,7 @@
       {
         "zumiez": "29.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/orbs-wheels-specters-swirls-reaper-54mm-99a-purple-white-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/orbs-wheels-specters-swirls-reaper-54mm-99a-purple-white-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -854,7 +874,7 @@
       {
         "zumiez": "39.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/pig-classic-53mm-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/pig-classic-53mm-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -874,7 +894,7 @@
       {
         "zumiez": "29.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/pig-combo-54mm-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/pig-combo-54mm-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -894,7 +914,7 @@
       {
         "zumiez": "39.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/pig-conical-54mm-95a-black-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/pig-conical-54mm-95a-black-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -914,7 +934,7 @@
       {
         "zumiez": "34.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/pig-glick-apocalypses-cube-55mm-97a-red-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/pig-glick-apocalypses-cube-55mm-97a-red-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -934,7 +954,7 @@
       {
         "zumiez": "39.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/pig-head-conical-swirl-53mm-99a-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/pig-head-conical-swirl-53mm-99a-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -954,7 +974,7 @@
       {
         "zumiez": "42.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/pig-lewis-denim-55mm-97a-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/pig-lewis-denim-55mm-97a-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -974,33 +994,13 @@
       {
         "zumiez": "35.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/pig-prime-52mm-103a-white-skateboard-wheels.html"
+        "productVendorUrl": "https://www.zumiez.com/pig-prime-52mm-103a-white-skateboard-wheels.html"
       }
     ],
     "productTags": [
       {
         "field": "durometer",
         "value": "103a"
-      }
-    ]
-  },
-  {
-    "slug": "pig-romero-speedo-skateboard-wheels",
-    "productName": "Pig Romero Speedo 52mm 99a Wheels",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462938/zumiezbuild/fjiltw78lj5bufbfkcgp.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "34.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/pig-romero-speedo-52mm-99a-skateboard-wheels.html"
-      }
-    ],
-    "productTags": [
-      {
-        "field": "durometer",
-        "value": "99a"
       }
     ]
   }

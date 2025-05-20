@@ -225,6 +225,36 @@
     "productTags": []
   },
   {
+    "slug": "cherry-bomb-toe-stop-lavender",
+    "productName": "Cherry Bomb Toe Stop Lavender",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747411224/ldjsonbuild/ph9rop4uttdp93cdpspr.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "27.99 ",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/cherry-bomb-lavender-short"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "controller-toe-stop-short",
+    "productName": "Controller Toe Stop Short",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747411206/ldjsonbuild/e67jfum8muamomn5etud.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "16.99 ",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/controller-stopper-short"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "crazy-bounce-toe-stops-pair",
     "productName": "Crazy Bounce Toe Stops Pair",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746373983/metacrawler/ux9ixhe0vpxekawg9gky.webp",
@@ -730,36 +760,6 @@
         "derbywarehouse": "5.00",
         "url": "https://www.derbywarehouse.com",
         "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip_Bullseye_Bolt-On_Toe_Stops/descpage-SGBBO.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "sure-grip-carrera-toe-stop",
-    "productName": "Sure Grip Carrera Toe-Stop",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468724/ldjsonbuild/m9ionjanvoubcxjyhkpm.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "medusaskates": "9.99",
-        "url": "https://medusaskates.com",
-        "productVendorUrl": "https://medusaskates.com/sure-grip-carrera-toe-stop/"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "sure-grip-fomac-dance-jam-plug",
-    "productName": "Sure-Grip FoMac Dance/Jam Plug 5/",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468719/ldjsonbuild/wri4ecm7szekysxnz0xd.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "medusaskates": "7.99",
-        "url": "https://medusaskates.com",
-        "productVendorUrl": "https://medusaskates.com/sure-grip-fomac-dance-jam-plug-5-8/"
       }
     ],
     "productTags": []

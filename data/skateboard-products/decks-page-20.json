@@ -1,5 +1,265 @@
 [
   {
+    "slug": "magenta-leo-valls-relic-series-deck",
+    "productName": "Magenta Leo Valls Relic Series Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414840/ldjsonbuild/xmx1ofbrarnpazygaijd.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "80.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/magenta-leo-valls-relic-series-deck?variant=51244695191825"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "magnetic-skateboard-deck",
+    "productName": "Magnetic Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396072/ldjsonbuild/twjl8uunvxls8sb40hei.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "71.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/gx1000/magnetic-875-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "majerus-buddies-skateboard-deck",
+    "productName": "Majerus Buddies Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395899/ldjsonbuild/rnmglqrcwtkx1ih4750b.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "44.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/flip/majerus-buddies-84-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "majerus-optical-skateboard-deck",
+    "productName": "Majerus Optical Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399897/ldjsonbuild/rqt1gjmuabwfcjmga24f.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "58.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/flip/majerus-optical-84-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "malaney-mount-katahdin-skateboard-deck",
+    "productName": "Malaney Mount Katahdin Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398821/ldjsonbuild/jwjy6gbsuhebaywvib6c.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/malaney-mount-katahdin-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mall-grab-rainbow-logo-skateboard-deck",
+    "productName": "Mall Grab Rainbow Logo Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462077/zumiezbuild/faqmpk9cbxwwksrcfhda.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "39.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/mall-grab-rainbow-logo-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "malto-til-skateboard-deck",
+    "productName": "Malto 93 Til Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399777/ldjsonbuild/yowuhykqehmjuw1my2pz.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "58.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/girl/malto-93-til-85-skateboard-deck/lovers"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "manderson-just-caus-skateboard-deck",
+    "productName": "Manderson Just Caus Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400292/ldjsonbuild/lrp5lj1nemahzo4tawng.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "76.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/krooked/manderson-just-caus-838-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "marbie-angel-easy-rider-skateboard-deck",
+    "productName": "Marbie Angel Easy Rider Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396570/ldjsonbuild/s0nocw08trfwynavrvs2.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "76.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/there/marbie-angel-85-easy-rider-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "marbie-goopy-skateboard-deck",
+    "productName": "Marbie Goopy Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397110/ldjsonbuild/jwtjammgweprmioiovsr.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "76.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/there/marbie-goopy-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mariano-cheetah-skateboard-deck",
+    "productName": "Mariano Cheetah Deck",
+    "cloudinaryUrl": "",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/april/mariano-cheetah-80-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mariano-skateboard-deck",
+    "productName": "Mariano 1990 Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400666/ldjsonbuild/n7tighyzfro1idyc8arh.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "67.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/april/mariano-1990-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mariano-the-dogs-skateboard-deck",
+    "productName": "MAriano The Dogs Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396395/ldjsonbuild/rfzouevvngolindkab7l.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/april/mariano-the-dogs-80-skateboard-deck"
+      },
+      {
+        "spot": "72.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/april-skateboards-guy-mariano-the-dogs-deck?variant=50557089218833"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "marshall-friends-skateboard-deck",
+    "productName": "Marshall Friends Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746403032/ldjsonbuild/qaavit4metm1yhrsphw8.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "58.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/roger-skateboards/marshall-friends-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "martinez-guero-skateboard-deck",
+    "productName": "Martinez Guero Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395570/ldjsonbuild/da5h5wxoxy8kifroqne7.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "66.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/creature/martinez-guero-86-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mason-by-marbie-skateboard-deck",
+    "productName": "Mason By Marbie Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400928/ldjsonbuild/q30oixulp1ul1jwey7ag.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "76.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/real/mason-by-marbie-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mason-gonz-art-redux-skateboard-deck",
+    "productName": "Mason Gonz Art Redux Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401994/ldjsonbuild/i0zxpr4kpaqhmgfv4pav.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "76.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/real/mason-gonz-art-redux-85-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "mason-script-colorblock-skateboard-deck",
     "productName": "Mason Script Colorblock Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401472/ldjsonbuild/k7b86lemfp5nn7rxepnd.webp",
@@ -309,7 +569,7 @@
       {
         "zumiez": "49.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/meow-big-cat-white-8-0-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/meow-big-cat-white-8-0-skateboard-deck.html"
       },
       {
         "tactics": "74.95",
@@ -329,7 +589,7 @@
       {
         "zumiez": "49.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/meow-teal-logo-8-0-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/meow-teal-logo-8-0-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -344,7 +604,7 @@
       {
         "zumiez": "49.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/metal-gall-willard-8-5-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/metal-gall-willard-8-5-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -359,7 +619,7 @@
       {
         "zumiez": "49.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/metal-medusa-proto-team-8-5-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/metal-medusa-proto-team-8-5-skateboard-deck.html"
       },
       {
         "spot": "70.0",
@@ -515,261 +775,6 @@
         "tactics": "71.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/frog/milic-tree-trunk-838-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "mini-logo-chevron-white-skateboard-deck",
-    "productName": "Mini Logo Chevron White Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461418/zumiezbuild/to38olfmwdxo9hc1tlt2.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "45.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/mini-logo-white-chevron-8-25-quot-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "mini-skateboard-deck",
-    "productName": "Mini Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396354/ldjsonbuild/y3pqkjlpmonpi9s6w1qu.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "54.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/bacon/mini-73-skateboard-deck/blue"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "mischief-skateboard-deck",
-    "productName": "Mischief Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397832/ldjsonbuild/e9xwyhndind6szhavcqp.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "58.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/space-program/mischief-825-skateboard-deck/blue"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "miskell-outer-realms-skateboard-deck",
-    "productName": "Miskell Outer Realms Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398926/ldjsonbuild/hbyitluvaxiim40iqznu.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "63.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/blood-wizard/miskell-outer-realms-838-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "missing-link-skateboard-deck",
-    "productName": "Missing Link Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396899/ldjsonbuild/ykbnwnxp9pawdmb9pzau.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "62.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/alien-workshop/missing-link-825-skateboard-deck/teal"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "monet-chrome-tulips-skateboard-deck",
-    "productName": "Monet Chrome Tulips Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461547/zumiezbuild/loqaz6bnuqn0etcpab3f.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/monet-chrome-tulips-8-25-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "monet-floral-stamps-skateboard-deck",
-    "productName": "Monet Floral Stamps Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461702/zumiezbuild/bu8g1jweqr8dnhzdxedk.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/monet-floral-stamps-8-0-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "monet-skateboards-graffiti-skateboard-deck",
-    "productName": "Monet Graffiti Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461788/zumiezbuild/aqbfbie7ovsf2aqdoqf7.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/monet-graffiti-8-0-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "monet-skateboards-skullew-skateboard-deck",
-    "productName": "Monet Skullew Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461452/zumiezbuild/qsvaqnq9jvzpmp1bnytc.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "49.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/monet-skateboards-skullew-8-25-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "monet-skateboards-throne-skateboard-deck",
-    "productName": "Monet Throne Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461589/zumiezbuild/kf3hsckn1fch6vvgfl6y.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/monet-skateboards-throne-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "monster-face-skateboard-deck",
-    "productName": "Monster Face Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402564/ldjsonbuild/wedx0pngqrqyczmulkth.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "48.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/toy-machine/monster-face-80-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "monster-skateboard-deck",
-    "productName": "Monster Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401118/ldjsonbuild/x6jbqstt5tym5epoz0kv.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "68.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/toy-machine/monster-825-skateboard-deck/orange"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "montano-exp-skateboard-deck",
-    "productName": "Montano EXP Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397355/ldjsonbuild/u9ei3i8krc7g19fyyjz9.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "66.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/alien-workshop/montano-exp-825-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "motor-lobby-brandon-knowles-deck",
-    "productName": "Motor Lobby Brandon Knowles 911 Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414555/ldjsonbuild/ojesetkbuerkmj1ey7jc.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "70.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/motor-lobby-brandon-knowles-911-deck?variant=51389440164113"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "motor-lobby-dolly-herman-deck",
-    "productName": "Motor Lobby Dolly Herman Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414549/ldjsonbuild/hvg2ilbwwj8fyj2r3ego.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "70.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/motor-lobby-dolly-herman-deck?variant=51389440622865"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "motor-lobby-howdy-stranger-deck",
-    "productName": "Motor Lobby Howdy Stranger Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414545/ldjsonbuild/fppgncqfizcpqxrpuqkc.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "70.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/motor-lobby-howdy-stranger-deck?variant=51389441179921"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "motor-lobby-snaked-deck",
-    "productName": "Motor Lobby Snaked Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414538/ldjsonbuild/urvra0rotr4qtb8dg9my.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "70.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/motor-lobby-snaked-deck?variant=51389443834129"
       }
     ],
     "productTags": []

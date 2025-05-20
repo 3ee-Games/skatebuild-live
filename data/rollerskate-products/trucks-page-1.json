@@ -420,6 +420,36 @@
     "productTags": []
   },
   {
+    "slug": "pro-park-truck-forged",
+    "productName": "Pro Park Truck Forged",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747411184/ldjsonbuild/bdxh9zqury9jynhrxk86.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "89.99 ",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/pro-park-truck-forged"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "pro-truck-forged",
+    "productName": "Pro Truck Forged",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747411191/ldjsonbuild/zfaaxweh5uqxibmyplvr.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "49.99 ",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/pro-truck-forged"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "riedell-powerdyne-revenge-or-rival-truck-single",
     "productName": "Riedell PowerDyne Revenge or Rival Truck Single",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468606/ldjsonbuild/jydtkvctkm8nahiknlur.webp",
@@ -460,6 +490,21 @@
         "suregrip": "180.0",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/snyder-truck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "standard-truck-cast",
+    "productName": "Standard Truck Cast",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747411187/ldjsonbuild/joni28tbktncuaztokw4.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "32.99 ",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/standard-truck-casted"
       }
     ],
     "productTags": []
@@ -700,51 +745,6 @@
         "medusaskates": "",
         "url": "https://medusaskates.com",
         "productVendorUrl": "https://medusaskates.com/sure-grip-single-action-truck-for-cyclone-or-magnum-plates/"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "sure-grip-single-action-truck-for-invader-plates-loose-ball-axles-set-of",
-    "productName": "Sure Grip Single Action Truck for Invader Plates 7mm Loose Ball Axles, Set of 4",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468560/ldjsonbuild/gkbch6svduspluwnn1un.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "medusaskates": "25",
-        "url": "https://medusaskates.com",
-        "productVendorUrl": "https://medusaskates.com/sure-grip-single-action-truck-for-invader-plates/"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "sure-grip-super-x-century-rock-avanti-aluminum-truck-single",
-    "productName": "Sure-Grip Super X, Century, Rock, Avanti Aluminum Truck Single",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468616/ldjsonbuild/oq2owx3owjwcztmjm2na.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "medusaskates": "6.99",
-        "url": "https://medusaskates.com",
-        "productVendorUrl": "https://medusaskates.com/sure-grip-super-x-truck/"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "sure-grip-super-x-roller-skate-plate",
-    "productName": "Sure-Grip Super X Roller Skate Plate",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468492/ldjsonbuild/t09ka2lep94mat5vqzw2.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "medusaskates": "99",
-        "url": "https://medusaskates.com",
-        "productVendorUrl": "https://medusaskates.com/sure-grip-super-x-roller-skate-plate/"
       }
     ],
     "productTags": []

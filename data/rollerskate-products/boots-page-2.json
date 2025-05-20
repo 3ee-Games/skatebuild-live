@@ -1,5 +1,80 @@
 [
   {
+    "slug": "rondo",
+    "productName": "RONDO",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747448734/skatebuild/rkn6dfuaivdecks1vjeh.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "skatesus": "225.00",
+        "url": "https://skatesus.com",
+        "productVendorUrl": "https://skatesus.com/product/edea-rondo-roller-skate-boot/"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "sure-grip-boardwalk-plus-boot-only",
+    "productName": "Sure-Grip Boardwalk Plus Only",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468210/ldjsonbuild/jvdkdznyokpexuxeztsl.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "159",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/sure-grip-boardwalk-plus-boot-only/"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "sure-grip-oxford-tipton-limited-edition-roller-skate-boot",
+    "productName": "Sure-Grip Oxford Tipton Limited Edition Roller Skate",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468180/ldjsonbuild/qi5m0dcdwzecnityabhu.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "medusaskates": "169",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/sure-grip-oxford-tipton-limited-edition-roller-skate-boot/"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "sure-grip-phoenix-boots",
+    "productName": "Sure-Grip Phoenix",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370761/metacrawler/ylfrplukrca0mvfjcc7c.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "129.97",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip_Phoenix_Boots/descpage-PHXBOOT.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "sure-grip-rebel-boots-black",
+    "productName": "Sure-Grip Rebel Black",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370774/metacrawler/njb7qaqzrvx9bkj4igyi.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "derbywarehouse": "125.00",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip_Rebel_Boots/descpage-SGREBEL.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "vnla-a-la-mode-boots-only",
     "productName": "VNLA A La Mode Only",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468135/ldjsonbuild/vpewkcrhqnomflfsmuaf.webp",
@@ -85,6 +160,21 @@
         "medusaskates": "149.99",
         "url": "https://medusaskates.com",
         "productVendorUrl": "https://medusaskates.com/vnla-luna-boots-only/"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "wave",
+    "productName": "WAVE",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747448731/skatebuild/zumwpmcwznbsvt8f3sh7.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "skatesus": "250.00",
+        "url": "https://skatesus.com",
+        "productVendorUrl": "https://skatesus.com/product/edea-wave-figure-roller-skate-boot/"
       }
     ],
     "productTags": []

@@ -1,5 +1,480 @@
 [
   {
+    "slug": "plan-b-trevor-mcclung-supercharged-deck",
+    "productName": "Plan B Trevor McClung Supercharged Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415483/ldjsonbuild/pk58iutekk9trjm1ndia.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "69.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-trevor-mcclung-supercharged-deck?variant=50634438050065"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "plan-b-way-x-mckay-supercharged-deck",
+    "productName": "Plan B Way x McKay Supercharged Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415479/ldjsonbuild/adgqxbe8kh8tsehsssv8.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "69.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-way-x-mckay-supercharged-deck?variant=50634439164177"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "platt-caged-jr-shape-skateboard-deck",
+    "productName": "Platt Caged 1991 Jr. Shape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400340/ldjsonbuild/anvw28qpbj4jd0rynuzl.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "72.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/polar-skate-co/platt-caged-875-1991-jr-shape-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "platt-skeleton-kid-skateboard-deck",
+    "productName": "Platt Skeleton Kid Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402659/ldjsonbuild/dppwtyv6hluki6zr38na.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "74.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/polar-skate-co/platt-skeleton-kid-90-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "plunket-x-ray-skateboard-deck",
+    "productName": "Plunket X-Ray Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397532/ldjsonbuild/xaupv0hgttvli5qzk6vp.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/swim-skateboard-co/plunket-x-ray-82-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "plunkett-mountain-view-skateboard-deck",
+    "productName": "Plunkett Mountain View Deck",
+    "cloudinaryUrl": "",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/swim-skateboard-co/plunkett-mountain-view-85-skateboard-deck/blue"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "ply-logo-skateboard-deck",
+    "productName": "Ply Logo Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400868/ldjsonbuild/l55lv4ezfxysdzzyvs1d.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "67.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/quasi-skateboards/ply-logo-80-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "poeticcollective-formula-one-scan-skateboard-deck",
+    "productName": "POETICCOLLECTIVE Formula One Scan Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461754/zumiezbuild/h31jsbseoq2kvyfshdax.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "72.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/poeticcollective-formula-one-scan-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "poeticcollective-frame-skateboard-deck",
+    "productName": "POETICCOLLECTIVE 80s Frame Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461609/zumiezbuild/bujr0wqdyjyrp9ynj0df.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "72.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/poeticcollective-80s-frame-8-0-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "poeticcollective-silver-skateboard-deck",
+    "productName": "POETICCOLLECTIVE Silver Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462034/zumiezbuild/dem8mjn7zse72suobjk1.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "72.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/poeticcollective-silver-8-5-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "polar-skateboards-dane-brady-fish-bowl-wheel-wells-shaped-deck",
+    "productName": "Polar Dane Brady Fish Bowl Wheel Wells Shaped Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415389/ldjsonbuild/tx0nart0pvagmsez4cdn.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "73.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/polar-skateboards-dane-brady-fish-bowl-wheel-wells-shaped-deck?variant=50827170971921"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "polar-skateboards-david-stenstrom-panther-and-tape-deck",
+    "productName": "Polar David Stenstrom Panther and Tape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415710/ldjsonbuild/b1edvq8giwciwbdyqkvo.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "76.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/polar-skateboards-david-stenstrom-panther-and-tape-deck?variant=50451880411409"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "polar-skateboards-oskar-rozenberg-trust-deck",
+    "productName": "Polar Oskar Rozenberg Trust Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415810/ldjsonbuild/nbl7nmyv4p9df4mtnee9.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "75.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/polar-skateboards-oskar-rozenberg-trust-deck-97193?variant=50087705477393"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "poler-x-yew-slappy-hour-skateboard-deck",
+    "productName": "Poler x Yew Slappy Hour Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462076/zumiezbuild/phdsc9dhs71ivgkblhw1.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "39.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/poler-x-yew-slappy-hour-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "police-checkup-skateboard-deck",
+    "productName": "Police Checkup Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397098/ldjsonbuild/utjc0i9nv8vzvodbvbej.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "74.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/tightbooth/police-checkup-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "post-skateboard-deck",
+    "productName": "Post Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397235/ldjsonbuild/mzphwce2tyvxsgptem5t.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "41.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/pizzaskateboards/post-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "powell-anderson-heron-s-egg-flight-deck-8-7-x-32-3",
+    "productName": "Powell Anderson Heron's Egg Flight Deck 8.7 x 32.3",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747430861/metacrawler/a4lzvwq5t1h7ym3cfun2.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "109.95",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Powell_Anderson_Herons_Egg_Flight_Deck/descpage-PLAHEFDK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "powell-andy-anderson-flight-289-deck-8-45-x-31-80",
+    "productName": "Powell Andy Anderson Flight 289 Deck 8.45 x 31.80",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747430866/metacrawler/wklqcmftvwvbbingujyd.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "109.95",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Powell_Andy_Anderson_Flight_289_Deck/descpage-PLAAFDK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "powell-andy-anderson-flight",
+    "productName": "Powell Andy Anderson Flight",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747429618/ldjsonbuild/anderson.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "skatewarehouse": "109.95",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Powell_Andy_Anderson_Flight_290_Deck/descpage-PLAA290DK.html"
+      },
+      {
+        "powell": "119.95",
+        "url": "https://powell-peralta.com",
+        "productVendorUrl": "https://powell-peralta.com/powell-peralta-pro-andy-anderson-heron-flightr-skateboard-deck-shape-289-8-45-x-31-8"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "powell-andy-anderson-heron-silver-foil-deck-8-45-x-31-8",
+    "productName": "Powell Andy Anderson Heron Silver Foil Deck 8.45 x 31.8",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747430856/metacrawler/nj61wttaxgg75p7xcegl.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "84.95",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Powell_Andy_Anderson_Heron_Silver_Foil_Deck/descpage-PLAASFDK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "powell-bones-brigade-mullen-16-black-deck",
+    "productName": "Powell Bones Brigade Mullen 16 Black Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747430914/metacrawler/fdufwoz7s8at5zwk2lsr.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "129.95",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Powell_Bones_Brigade_Mullen_16_Black_Deck/descpage-PLRM16DK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "powell-caballero-blacklight-mask-deck-9-75x31-12",
+    "productName": "Powell Caballero Blacklight Mask Deck 9.75x31.12",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747431048/metacrawler/apes3y8kcxmprqgp9mn5.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "74.98",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Powell_Caballero_Blacklight_Mask_Deck/descpage-PLSCBMDK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "powell-mcgill-skull-snake-mctwist-red-gold-deck-10",
+    "productName": "Powell McGill Skull & Snake McTwist Red/Gold Deck 10",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747430920/metacrawler/hkfo41umdv2jdol10rcw.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "84.95",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Powell_McGill_Skull__Snake_McTwist_Red_Gold_Deck/descpage-PLMSRDK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "powell-peralta-cab-chinese-dragon-gold-foil-deck-10x30",
+    "productName": "Powell Peralta Cab Chinese Dragon Gold Foil Deck 10x30",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747430925/metacrawler/kmifepi5ko7hy2fcc0vb.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "84.95",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Powell_Peralta_Cab_Chinese_Dragon_Gold_Foil_Deck/descpage-PLCGFDK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "powell-peralta-chris-hiett-skull-flight-deck-9-5x31-13",
+    "productName": "Powell Peralta Chris Hiett Skull Flight Deck 9.5x31.13",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747430931/metacrawler/gw2pezifxoqxbu5plmkv.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "109.95",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Powell_Peralta_Chris_Hiett_Skull_Flight_Deck/descpage-PLCH95DK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "powell-peralta-geegah-ripper-silver-red-foil-deck-9-75",
+    "productName": "Powell Peralta Geegah Ripper Silver/Red Foil Deck 9.75",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747430936/metacrawler/jubjort09bamhluc1mgd.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "84.95",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Powell_Peralta_Geegah_Ripper_Silver_Red_Foil_Deck/descpage-PLGGSRDK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "powell-peralta-hawk-bones-brigade-series-reissue-skateboard-deck",
+    "productName": "Powell Peralta Hawk Bones Brigade Series 16 Reissue Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460895/zumiezbuild/ot5yu1bnlq5n1erjyhkr.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "129.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/powell-peralta-hawk-bones-brigade-series-16-reissue-10-skateboard-deck.html"
+      },
+      {
+        "spot": "129.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/powell-peralta-bones-brigade-mike-mcgill-series-16-deck?variant=51377346740497"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "powell-peralta-hill-bulldog-12-blacklight-deck-10-x-31",
+    "productName": "Powell Peralta Hill Bulldog 12 Blacklight Deck 10 x 31",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747431060/metacrawler/ujs7gyb1gmyalmp8afz7.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "79.95",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Powell_Peralta_Hill_Bulldog_12_Blacklight_Deck/descpage-PLHBBLDK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "powell-peralta-kelvin-hoefler-flight-bones-deck",
+    "productName": "Powell Peralta Kelvin Hoefler Flight Bones Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414405/ldjsonbuild/asb8o9xyt5dqgspgjt90.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "100.0",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/powell-peralta-kelvin-hoefler-flight-bones-deck?variant=51441398513937"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "powell-peralta-mike-vallely-elephant-11-deck-10x30-25",
+    "productName": "Powell Peralta Mike Vallely Elephant '11' Deck 10x30.25",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747430942/metacrawler/v1liqaoys9kzodvh7qfx.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "84.95",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Powell_Peralta_Mike_Vallely_Elephant_11_Deck/descpage-PLV11DK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "powell-peralta-og-welinder-pink-foil-deck-9-715x29-625",
+    "productName": "Powell Peralta OG Welinder Pink Foil Deck 9.715x29.625",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747430955/metacrawler/ztmciycia2jvlbeprvan.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "84.95",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Powell_Peralta_OG_Welinder_Pink_Foil_Deck/descpage-PLPWPDK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "powell-peralta-sakura-yosozumi-tiger-ply-deck",
     "productName": "Powell Peralta Sakura Yosozumi Tiger 7-Ply Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414327/ldjsonbuild/ee6eokbmecy1i9peb6pw.webp",
@@ -30,6 +505,51 @@
     "productTags": []
   },
   {
+    "slug": "powell-peralta-steve-saiz-totem-05-deck-10x30-81",
+    "productName": "Powell Peralta Steve Saiz Totem 05 Deck 10x30.81",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747431066/metacrawler/nqn3vsf2e1rbycdfnyss.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "79.98",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Powell_Peralta_Steve_Saiz_Totem_05_Deck/descpage-PLBS05DK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "powell-peralta-welinder-nordic-skull-navy-deck-7-25x27",
+    "productName": "Powell Peralta Welinder Nordic Skull Navy Deck 7.25x27",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747431071/metacrawler/pdosyszdvmckpyvpw7yr.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "72.98",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Powell_Peralta_Welinder_Nordic_Skull_Navy_Deck/descpage-PLPWNSDK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "powell-vallely-lightning-bolt-flight-deck-8-75-x-32-33",
+    "productName": "Powell Vallely Lightning Bolt Flight Deck 8.75 x 32.33",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747430962/metacrawler/pp01ahz1zaa3p1j9d5yi.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "109.95",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Powell_Vallely_Lightning_Bolt_Flight_Deck/descpage-PLMVFDK.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "praman-muay-thai-skateboard-deck",
     "productName": "Praman Muay Thai Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398236/ldjsonbuild/xe63wlvu9umpf9ts26lt.webp",
@@ -54,7 +574,7 @@
       {
         "zumiez": "59.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-dirty-p-core-black-8-5-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/primitive-dirty-p-core-black-8-5-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -69,7 +589,7 @@
       {
         "zumiez": "69.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-hamilton-dream-nicely-8-38-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/primitive-hamilton-dream-nicely-8-38-skateboard-deck.html"
       },
       {
         "spot": "70.0",
@@ -89,7 +609,7 @@
       {
         "zumiez": "54.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-jungle-egg-8-75-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/primitive-jungle-egg-8-75-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -104,7 +624,7 @@
       {
         "zumiez": "69.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-mcclung-tuner-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/primitive-mcclung-tuner-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -119,7 +639,7 @@
       {
         "zumiez": "54.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-neal-indy-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/primitive-neal-indy-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -134,7 +654,7 @@
       {
         "zumiez": "69.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-rodriguez-honor-8-25-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/primitive-rodriguez-honor-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -149,7 +669,7 @@
       {
         "zumiez": "44.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-silvas-soty-8-5-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/primitive-silvas-soty-8-5-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -194,7 +714,7 @@
       {
         "zumiez": "44.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-team-moto-8-38-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/primitive-team-moto-8-38-skateboard-deck.html"
       },
       {
         "spot": "70.0",
@@ -214,7 +734,7 @@
       {
         "zumiez": "44.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-williams-podium-8-38-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/primitive-williams-podium-8-38-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -229,7 +749,7 @@
       {
         "zumiez": "59.99",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-x-dodge-powered-8-125-skateboard-deck.html"
+        "productVendorUrl": "https://www.zumiez.com/primitive-x-dodge-powered-8-125-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -244,562 +764,7 @@
       {
         "zumiez": "74.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-x-dragon-ball-z-timeline-8-125-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "primitive-x-sublime-dirty-p-sun-skateboard-deck",
-    "productName": "Primitive x Sublime Dirty P Sun Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461402/zumiezbuild/eesby0rbcatfzducpdbw.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "74.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-x-sublime-dirty-p-sun-8-0-skateboard-deck.html"
-      },
-      {
-        "spot": "75.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-sublime-dirty-p-sunrise-team-shaped-deck?variant=51441672356113"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "primitive-x-sublime-hello-skateboard-deck",
-    "productName": "Primitive x Sublime Hello Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461757/zumiezbuild/h8lknwei7webouspqadm.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "74.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-x-sublime-hello-8-25-skateboard-deck.html"
-      },
-      {
-        "spot": "75.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-sublime-hello-team-deck?variant=51441671045393"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "primitive-x-sublime-neal-neighbors-skateboard-deck",
-    "productName": "Primitive x Sublime Neal Neighbors Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461555/zumiezbuild/a5zqtwufmifnyln6q3co.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "74.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-x-sublime-neal-neighbors-8-5-skateboard-deck.html"
-      },
-      {
-        "spot": "75.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-sublime-robert-neal-neighbors-deck?variant=51441669439761"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "primitive-x-sublime-rodriguez-badfish-skateboard-deck",
-    "productName": "Primitive x Sublime Rodriguez Badfish Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461325/zumiezbuild/zuary11jc41ymakzmphp.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "74.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-x-sublime-rodriguez-badfish-8-125-skateboard-deck.html"
-      },
-      {
-        "spot": "75.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-sublime-paul-rodriguez-bad-fish-deck?variant=51441667997969"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "primitive-x-tupac-truth-skateboard-deck",
-    "productName": "Primitive x Tupac Truth Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461553/zumiezbuild/vk7oxlo7gloqzoklcnbb.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "74.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-x-tupac-truth-8-0-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "primitive-x-wwe-hamilton-hitman-skateboard-deck",
-    "productName": "Primitive x WWE Hamilton Hitman Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460809/zumiezbuild/dbz5wzibdyegzbelov8e.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-x-wwe-hamilton-hitman-8-125-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "primitive-x-wwe-rodriguez-kane-skateboard-deck",
-    "productName": "Primitive x WWE Rodriguez Kane Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461194/zumiezbuild/ez6yw4jhmbursbysswky.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "49.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-x-wwe-rodriguez-kane-8-25-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "primitive-x-wwe-villani-mysterio-skateboard-deck",
-    "productName": "Primitive x WWE Villani Mysterio Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460925/zumiezbuild/wadhcmqzvb7uualewrbw.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-x-wwe-villani-mysterio-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "primitive-yamashita-rising-dirty-p-skateboard-deck",
-    "productName": "Primitive Yamashita Rising Dirty P Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461280/zumiezbuild/tpji1lp2gydv7rf49hq5.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "69.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/primitive-yamashita-rising-dirty-p-8-5-skateboard-deck-1.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "pro-clone-skateboard-deck",
-    "productName": "Pro Clone Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399263/ldjsonbuild/m3ssif6cygtzvxshcw1n.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "63.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/alien-workshop/pro-clone-80-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "provost-reaper-skateboard-deck",
-    "productName": "Provost Reaper Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402734/ldjsonbuild/hjrrdxfouwgdkd7jpx6b.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "72.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/creature/provost-reaper-88-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "pudwill-fair-time-skateboard-deck",
-    "productName": "Pudwill Fair Time Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397438/ldjsonbuild/mzkjnihexy1lipixr6vv.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "69.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/thank-you/pudwill-fair-time-825-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "pudwill-hungry-bear-skateboard-deck",
-    "productName": "Pudwill Hungry Bear Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396018/ldjsonbuild/elyzok6ihv6o6vu178ie.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "69.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/thank-you/pudwill-hungry-bear-838-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "pulizzi-fire-in-the-hole-skateboard-deck",
-    "productName": "Pulizzi Fire In The Hole Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395354/ldjsonbuild/olkto5yi6qlbmwhncn3l.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "68.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/pulizzi-fire-in-the-hole-8375-skateboard-deck"
-      },
-      {
-        "spot": "75.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/jacuzzi-unlimited-michael-pulizzi-fire-in-the-hole-ex7-deck?variant=50977521795345"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "pulizzi-piggy-skateboard-deck",
-    "productName": "Pulizzi Piggy Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396385/ldjsonbuild/sfjfgztfdkol4y7nc9t6.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "64.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/pulizzi-piggy-825-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "pulizzi-sad-eyes-skateboard-deck",
-    "productName": "Pulizzi Sad Eyes Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397310/ldjsonbuild/novscycc2eh55xukc2ng.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "68.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/pulizzi-sad-eyes-8375-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "punchout-skateboard-deck",
-    "productName": "Punchout Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395324/ldjsonbuild/eclav3sjrl4rohjpyrzj.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "71.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/punchout-887-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "pylon-bricks-skateboard-deck",
-    "productName": "Pylon Bricks Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461872/zumiezbuild/pcsi5n2rvtfb8gzzrqu3.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "39.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/pylon-bricks-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "pylon-fist-skateboard-deck",
-    "productName": "Pylon Fist Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462092/zumiezbuild/ghhpkluiwblfmtuh0ek9.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "39.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/pylon-fist-8-25-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "pylon-wavy-navy-skateboard-deck",
-    "productName": "Pylon Wavy Navy Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461602/zumiezbuild/jxf88zrz0npcmmd3earr.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "29.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/pylon-wavy-navy-8-625-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "quasi-barker-things-skateboard-deck",
-    "productName": "Quasi Barker Things Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461302/zumiezbuild/cafqtfnexnww2omirzoy.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/quasi-barker-things-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "quasi-bobby-dekeyzer-distance-deck",
-    "productName": "Quasi Bobby Dekeyzer Distance Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415744/ldjsonbuild/w1dlnrgngftbejyoqrpf.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "70.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/quasi-bobby-dekeyzer-distance-deck?variant=50418607751441"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "quasi-butterfly-deck",
-    "productName": "Quasi Butterfly Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415444/ldjsonbuild/wky1kxqydehrarmr9pgi.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "70.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/quasi-butterfly-deck?variant=50683794424081"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "quasi-crockett-mr-postman-skateboard-deck",
-    "productName": "Quasi Crockett Mr. Postman Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461016/zumiezbuild/lcfxgtdonkugcfsde4jr.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "74.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/quasi-crockett-mr-postman-8-25-skateboard-deck.html"
-      },
-      {
-        "tactics": "76.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/quasi-skateboards/crockett-mr-postman-825-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "quasi-de-keyzer-mental-skateboard-deck",
-    "productName": "Quasi De Keyzer Mental Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461165/zumiezbuild/yvop8smlcnd4sdaz4tmd.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/quasi-de-keyzer-mental-8-375-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "quasi-josh-wilson-pro-gnome-deck",
-    "productName": "Quasi Josh Wilson Pro Gnome Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414652/ldjsonbuild/dogecdav3to0qc9yx8v8.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "70.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/quasi-josh-wilson-pro-gnome-deck?variant=51369671721233"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "quasi-lowercase-skateboard-deck",
-    "productName": "Quasi Lowercase Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461801/zumiezbuild/wgs1txdmy20ikl0wf8hi.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "54.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/quasi-lowercase-8-0-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "quasi-rizzo-tearz-skateboard-deck",
-    "productName": "Quasi Rizzo Tearz Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461026/zumiezbuild/qexucbbckorhvrstopk7.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "74.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/quasi-rizzo-tearz-8-375-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "quasi-rowe-plushie-skateboard-deck",
-    "productName": "Quasi Rowe Plushie Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461018/zumiezbuild/uxh49wzpjjddwh87sorc.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "74.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/quasi-rowe-plushie-8-375-skateboard-deck.html"
-      },
-      {
-        "tactics": "76.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/quasi-skateboards/rowe-plushie-8375-skateboard-deck"
-      },
-      {
-        "spot": "75.0",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/quasi-jon-rowe-plushie-deck?variant=51369659629841"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "quasi-rowe-point-break-skateboard-deck",
-    "productName": "Quasi Rowe Point Break Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460912/zumiezbuild/khdmpf0mmtesi7cwm78e.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "71.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "/quasi-rowe-point-break-8-5-skateboard-deck.html"
-      },
-      {
-        "tactics": "71.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/quasi-skateboards/rowe-point-break-85-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "questions-allegory-of-fear-skateboard-deck",
-    "productName": "Questions Allegory Of Fear Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402173/ldjsonbuild/nimc1hg10qfbpbfht3lq.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "82.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/heroin/questions-allegory-of-fear-100-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "questions-hellscape-skateboard-deck",
-    "productName": "Questions Hellscape Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402423/ldjsonbuild/lhhhzvdmp0s1a02hshxl.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "82.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/heroin/questions-hellscape-100-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "rabelo-buddies-skateboard-deck",
-    "productName": "Rabelo Buddies Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397808/ldjsonbuild/quajemk96dknzafkxo6x.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "58.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/flip/rabelo-buddies-80-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "rabelo-optical-skateboard-deck",
-    "productName": "Rabelo Optical Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396429/ldjsonbuild/y7jytacgrx7czvz5dn2o.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "58.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/flip/rabelo-optical-813-skateboard-deck"
+        "productVendorUrl": "https://www.zumiez.com/primitive-x-dragon-ball-z-timeline-8-125-skateboard-deck.html"
       }
     ],
     "productTags": []

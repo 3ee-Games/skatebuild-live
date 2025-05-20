@@ -1,0 +1,17 @@
+{
+  "productName": "Onyx Custom",
+  "productBrand": "MyPowerslide",
+  "productType": "Translation missing: en.general.breadcrumb.home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747409475/ldjsonbuild/gvfccgezmacwdjrah1sx.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1747412338,
+  "productVendorUrl": "https://powerslide.com/products/onyx-custom-boot",
+  "productPrices": [
+    {
+      "chaya": "399.99 ",
+      "url": "https://powerslide.com",
+      "productVendorUrl": "https://powerslide.com/products/onyx-custom-boot"
+    }
+  ]
+}

@@ -6,12 +6,12 @@
   "imageWidth": 325,
   "imageHeight": 385,
   "updated": 1746544876,
-  "productVendorUrl": "/bones-red-ceramics-bearings.html",
+  "productVendorUrl": "https://www.zumiez.com/bones-red-ceramics-bearings.html",
   "productPrices": [
     {
       "zumiez": "99.95",
       "url": "https://www.zumiez.com",
-      "productVendorUrl": "/bones-red-ceramics-bearings.html"
+      "productVendorUrl": "https://www.zumiez.com/bones-red-ceramics-bearings.html"
     },
     {
       "tactics": "89.95",
@@ -22,6 +22,11 @@
       "spot": "95.95",
       "url": "https://skateparkoftampa.com",
       "productVendorUrl": "https://skateparkoftampa.com/products/bones-ceramic-reds-bearings-25110?variant=48243424919825"
+    },
+    {
+      "bones": "99.95",
+      "url": "https://bonesbearings.com",
+      "productVendorUrl": "https://bonesbearings.com/bones-reg-ceramic-reds-reg-skateboard-bearings-8-pack"
     }
   ]
 }

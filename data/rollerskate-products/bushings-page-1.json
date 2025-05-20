@@ -60,24 +60,79 @@
     "productTags": []
   },
   {
-    "slug": "imported-skate-magic-cushion-replacement-kit",
-    "productName": "Imported Skate - Magic Cushion Replacement Kit",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746230807/ldjsonbuild/vvr7nqd2kg0qd6z6kbga.webp",
+    "slug": "cushions-90-15mm-15mm",
+    "productName": "Cushions 90 - 15mm / 15mm",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747411202/ldjsonbuild/excrhbly23aol8q2fqfd.webp",
     "imageWidth": 200,
     "imageHeight": 200,
     "productPrices": [
       {
-        "moxi": "18.0",
-        "url": "https://www.moxiskates.com",
-        "productVendorUrl": "https://www.moxiskates.com/collections/cushions/products/imported-skate-cushion-replacement-kit"
+        "chaya": "4.99 ",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/cushions-90a-15mm-15mm-orange"
       }
     ],
-    "productTags": [
+    "productTags": []
+  },
+  {
+    "slug": "cushions-95-15mm-15mm",
+    "productName": "Cushions 95 - 15mm / 15mm",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747411198/ldjsonbuild/vyxisw610vk1sgbpx50w.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
       {
-        "field": "delete",
-        "value": "true"
+        "chaya": "10.99 ",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/cushions-95a-15mm-15mm-yellow"
       }
-    ]
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "galaxy-evo-cushions-80-19mm-bar-10mm-con",
+    "productName": "Galaxy Evo Cushions 80, 19mm bar/10mm con",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747411209/ldjsonbuild/kxpxmipy2ojjezn7zkqo.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "10.99 ",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/galaxy-evo-cushions-80"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "galaxy-evo-cushions-92",
+    "productName": "Galaxy Evo Cushions 92",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747411213/ldjsonbuild/e0zkvfzsjygj5dfleki0.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "10.99 ",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/galaxy-evo-cushions-92"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "interlock-cushions-85-15mm-12mm",
+    "productName": "Interlock Cushions 85 - 15mm/12mm",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747411220/ldjsonbuild/v6zd9qchbpkkqu9wp8wa.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "chaya": "16.99 ",
+        "url": "https://powerslide.com",
+        "productVendorUrl": "https://powerslide.com/products/interlock-cushions-96"
+      }
+    ],
+    "productTags": []
   },
   {
     "slug": "powerdyne-arius-plate-butterfly-cushions-full-set",

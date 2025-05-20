@@ -24,7 +24,7 @@
       {
         "zumiez": "3.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/bones-125-riser-pads.html"
+        "productVendorUrl": "https://www.zumiez.com/bones-125-riser-pads.html"
       }
     ],
     "productTags": []
@@ -39,7 +39,7 @@
       {
         "zumiez": "3.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/diamond-supply-co-skateboard-risers.html"
+        "productVendorUrl": "https://www.zumiez.com/diamond-supply-co-skateboard-risers.html"
       }
     ],
     "productTags": []
@@ -129,7 +129,7 @@
       {
         "zumiez": "4.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/independent-25-riser-pads.html"
+        "productVendorUrl": "https://www.zumiez.com/independent-25-riser-pads.html"
       }
     ],
     "productTags": []
@@ -150,6 +150,21 @@
     "productTags": []
   },
   {
+    "slug": "mini-logo-10-rubber-riser-2-pack",
+    "productName": "Mini Logo Rubber Riser",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747417271/metacrawler/hzyy5yj6oor04cv8jatz.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "minilogo": "4.50",
+        "url": "https://minilogoskateboards.com",
+        "productVendorUrl": "https://minilogoskateboards.com/mini-logo-10-rubber-riser-2-pack"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "oj-cubes-riser-pads",
     "productName": "OJ Cubes . Riser Pads",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462370/zumiezbuild/krhkztmi68jvfijzzyu0.webp",
@@ -159,7 +174,7 @@
       {
         "zumiez": "8.95",
         "url": "https://www.zumiez.com",
-        "productVendorUrl": "/oj-cubes-375-riser-pads.html"
+        "productVendorUrl": "https://www.zumiez.com/oj-cubes-375-riser-pads.html"
       }
     ],
     "productTags": []

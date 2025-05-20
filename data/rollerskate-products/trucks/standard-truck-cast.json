@@ -1,0 +1,17 @@
+{
+  "productName": "Standard Truck Cast",
+  "productBrand": "Chaya",
+  "productType": "Translation missing: en.general.breadcrumb.home",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747411187/ldjsonbuild/joni28tbktncuaztokw4.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1747412338,
+  "productVendorUrl": "https://powerslide.com/products/standard-truck-casted",
+  "productPrices": [
+    {
+      "chaya": "32.99 ",
+      "url": "https://powerslide.com",
+      "productVendorUrl": "https://powerslide.com/products/standard-truck-casted"
+    }
+  ]
+}
