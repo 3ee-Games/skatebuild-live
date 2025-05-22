@@ -1,7 +1,10 @@
 {
   "name": "Another",
   "hometown": "Tamoa",
-  "skater_type": [],
+  "skater_type": [
+    "skateboarder",
+    "roller skater"
+  ],
   "stance": "goofy",
   "status": "amateur",
   "sponsors": [
