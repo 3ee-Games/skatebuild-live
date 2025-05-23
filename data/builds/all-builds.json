@@ -32,6 +32,14 @@
     "created": "2025-05-13T07:09:46.925197+00:00"
   },
   {
+    "name": "Testsetup",
+    "build_type": "skateboard",
+    "skating_type": "park",
+    "owner_username": "Test43215",
+    "slug": "testsetup",
+    "created": "2025-05-23T05:10:18.203894+00:00"
+  },
+  {
     "name": "Yet",
     "build_type": "skateboard",
     "skating_type": "park",
