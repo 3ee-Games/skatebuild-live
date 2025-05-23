@@ -1,0 +1,17 @@
+{
+  "name": "Testsetup monte",
+  "build_type": "skateboard",
+  "skating_type": "park",
+  "deck_slug": "powell-andy-anderson-flight",
+  "griptape_slug": "andy-anderson-theory-map-graphic-skateboard-grip-tape",
+  "risers_slug": "",
+  "rails_slug": "doom-sayers-slider-rails",
+  "trucks_slug": "independent-mid-inverted-kingpin-trucks",
+  "bearings_slug": "bones-reds-skateboard-bearings",
+  "wheels_slug": "dragon-formula-rat-bones-ii-skateboard-wheels",
+  "bushings_slug": "bones-hard-white-black-bushings",
+  "slug": "testsetup-monte",
+  "owner_username": "Test43215",
+  "created": "2025-05-23T06:06:19.895556+00:00",
+  "updated": "2025-05-23T06:06:19.895556+00:00"
+}
