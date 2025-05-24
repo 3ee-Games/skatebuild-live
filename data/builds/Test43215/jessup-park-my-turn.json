@@ -1,0 +1,17 @@
+{
+  "name": "jessup park my turn",
+  "build_type": "skateboard",
+  "skating_type": "park",
+  "deck_slug": "weismantel-swifty-skateboard-deck",
+  "griptape_slug": "pvblic-domain-st-jerome-grip-tape",
+  "risers_slug": "independent-riser-pads",
+  "rails_slug": "girl-og-rails",
+  "trucks_slug": "independent-smith-white-skateboard-trucks",
+  "bearings_slug": "skf-ishod-wair-pro-bearings",
+  "wheels_slug": "pig-rover-cruiser-wheels",
+  "bushings_slug": "hpf-standard-bushings",
+  "slug": "jessup-park-my-turn",
+  "owner_username": "Test43215",
+  "created": "2025-05-24T17:56:00.244430+00:00",
+  "updated": "2025-05-24T17:56:00.244430+00:00"
+}
