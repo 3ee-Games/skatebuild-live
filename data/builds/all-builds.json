@@ -192,6 +192,14 @@
     "created": "2025-05-13T00:12:38.947768+00:00"
   },
   {
+    "name": "test7 my build",
+    "build_type": "skateboard",
+    "skating_type": "park",
+    "owner_username": "plow",
+    "slug": "test7-my-build",
+    "created": "2025-05-24T17:52:55.168726+00:00"
+  },
+  {
     "name": "tester",
     "build_type": "rollerskate",
     "skating_type": "roller dance",
