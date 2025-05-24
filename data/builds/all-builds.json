@@ -192,6 +192,14 @@
     "created": "2025-05-13T00:12:38.947768+00:00"
   },
   {
+    "name": "tester",
+    "build_type": "rollerskate",
+    "skating_type": "roller dance",
+    "owner_username": "plow",
+    "slug": "tester",
+    "created": "2025-05-24T17:41:28.447134+00:00"
+  },
+  {
     "name": "Test 123",
     "build_type": "skateboard",
     "skating_type": "vert",
