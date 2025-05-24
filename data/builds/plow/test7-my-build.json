@@ -1,0 +1,17 @@
+{
+  "name": "test7 my build",
+  "build_type": "skateboard",
+  "skating_type": "park",
+  "deck_slug": "air-nowhere-skateboard-deck",
+  "griptape_slug": "pvblic-domain-looking-glass-grip-tape",
+  "risers_slug": "oj-cubes-riser-pads",
+  "rails_slug": "glow-stick-rails",
+  "trucks_slug": "hollow-polished-skateboard-trucks",
+  "bearings_slug": "rush-ball-skateboard-bearings",
+  "wheels_slug": "big-boys-conical-skateboard-wheels",
+  "bushings_slug": "hardcore-medium-skate-bushings-truck-set",
+  "slug": "test7-my-build",
+  "owner_username": "plow",
+  "created": "2025-05-24T17:52:55.168726+00:00",
+  "updated": "2025-05-24T17:52:55.168726+00:00"
+}
