@@ -1,12 +1,14 @@
 {
-  "name": "riptide420",
-  "hometown": "",
-  "skater_type": [],
-  "stance": "",
+  "name": "Riptide",
+  "hometown": "Florida",
+  "skater_type": [
+    "skateboarder"
+  ],
+  "stance": "regular",
   "status": "amateur",
   "sponsors": [],
   "contest_results": [],
-  "image": "",
-  "imageSmall": "",
+  "image": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/profile-image-default-2.png",
+  "imageSmall": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/profile-image-default.png",
   "social_urls": []
 }
