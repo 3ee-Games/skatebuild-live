@@ -87,7 +87,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "76.0",
+        "spot": "76.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-eric-dressen-sumo-dog-shaped-deck?variant=50617023955217"
       }
@@ -132,7 +132,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-jereme-knibbs-cryptic-deck?variant=50616957370641"
       }
@@ -177,7 +177,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "91.0",
+        "spot": "91.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-maurio-mccoy-aviator-vx-deck?variant=50616999018769"
       }
@@ -332,7 +332,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/santa-cruz-screaming-hand-tactics-97-skateboard-deck"
       },
       {
-        "spot": "67.0",
+        "spot": "67.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-screaming-hand-black-deck?variant=51283765035281"
       }
@@ -382,7 +382,7 @@
         "productVendorUrl": "https://www.zumiez.com/santa-cruz-street-creep-reissue-10-0-skateboard-deck.html"
       },
       {
-        "spot": "90.0",
+        "spot": "90.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-street-creep-reissue-purple-deck?variant=50974080368913"
       }
@@ -507,7 +507,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/wooten-crest-85-vx-skateboard-deck"
       },
       {
-        "spot": "93.0",
+        "spot": "93.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-jake-wooten-crest-vx-deck?variant=51438848704785"
       }

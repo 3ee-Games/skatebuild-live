@@ -44,7 +44,7 @@
     "productName": "Andale ABEC 7 Bearings",
     "productPrices": [
       {
-        "spot": "15.0",
+        "spot": "15.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/andale-abec-7-2-0-bearings-85005?variant=48245633122577"
       }
@@ -276,7 +276,7 @@
     "productName": "Cortina Elijah Berle Signature Bearings",
     "productPrices": [
       {
-        "spot": "26.0",
+        "spot": "26.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/cortina-elijah-berle-signature-bearings-80288?variant=48244975567121"
       }
@@ -289,7 +289,7 @@
     "productName": "Cortina Kevin Bradley Signature Bearings",
     "productPrices": [
       {
-        "spot": "26.0",
+        "spot": "26.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/cortina-kevin-bradley-signature-bearings-82958?variant=48245370257681"
       }
@@ -302,7 +302,7 @@
     "productName": "Cortina Lil Dre Signature Bearings",
     "productPrices": [
       {
-        "spot": "26.0",
+        "spot": "26.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/cortina-lil-dre-signature-bearings-90577?variant=48246396944657"
       }
@@ -315,7 +315,7 @@
     "productName": "Cortina Nakel Smith Signature Bearings",
     "productPrices": [
       {
-        "spot": "26.0",
+        "spot": "26.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/cortina-nakel-smith-signature-bearings-80287?variant=48244975534353"
       }
@@ -328,7 +328,7 @@
     "productName": "Cortina Playboy x Cortina Kyle Walker Bearings",
     "productPrices": [
       {
-        "spot": "26.0",
+        "spot": "26.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/cortina-playboy-x-cortina-kyle-walker-bearings-86685?variant=48245860204817"
       }
@@ -341,7 +341,7 @@
     "productName": "Cortina Playboy x Cortina Na-Kel Smith Bearings",
     "productPrices": [
       {
-        "spot": "26.0",
+        "spot": "26.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/cortina-playboy-x-cortina-na-kel-smith-bearings-86684?variant=48245860237585"
       }
@@ -354,7 +354,7 @@
     "productName": "Cortina Playboy x Cortina T-Funk Bearings",
     "productPrices": [
       {
-        "spot": "26.0",
+        "spot": "26.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/cortina-playboy-x-cortina-t-funk-bearings-86682?variant=48245859844369"
       }
@@ -367,7 +367,7 @@
     "productName": "Cortina T-Funk Signature Bearings",
     "productPrices": [
       {
-        "spot": "26.0",
+        "spot": "26.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/cortina-t-funk-signature-bearings-82959?variant=48245370585361"
       }
@@ -380,7 +380,7 @@
     "productName": "Diamond Hella Fast Titanium Bearings",
     "productPrices": [
       {
-        "spot": "26.0",
+        "spot": "26.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/diamond-hella-fast-titanium-bearings-94286?variant=48246897279249"
       }
@@ -393,7 +393,7 @@
     "productName": "Diamond Smoke Rings Bearings",
     "productPrices": [
       {
-        "spot": "42.0",
+        "spot": "42.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/diamond-smoke-rings-bearings-94284?variant=48246897213713"
       }
@@ -419,7 +419,7 @@
     "productName": "Gold Wheels Gold Bricks Bearings",
     "productPrices": [
       {
-        "spot": "16.0",
+        "spot": "16.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/gold-wheels-gold-bricks-bearings-26737?variant=48243433013521"
       }
@@ -432,7 +432,7 @@
     "productName": "Hard Luck Hard Times Bearings",
     "productPrices": [
       {
-        "spot": "16.0",
+        "spot": "16.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/hard-luck-hard-times-bearings-72683?variant=48244012810513"
       }
@@ -585,7 +585,7 @@
     "productName": "Olympia Bronze Grade Bearings",
     "productPrices": [
       {
-        "spot": "20.0",
+        "spot": "20.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/olympia-bronze-grade-bearings?variant=51289543049489"
       }
@@ -598,7 +598,7 @@
     "productName": "Olympia Gold Grade Ceramic Bearings",
     "productPrices": [
       {
-        "spot": "50.0",
+        "spot": "50.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/olympia-gold-grade-ceramic-bearings?variant=51289521750289"
       }
@@ -611,7 +611,7 @@
     "productName": "Olympia Silver Grade Bearing Box Set",
     "productPrices": [
       {
-        "spot": "26.0",
+        "spot": "26.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/olympia-silver-grade-bearing-box-set-71556?variant=48243902677265"
       }
@@ -624,7 +624,7 @@
     "productName": "Olympia Silver Grade Six-Ball Bearings",
     "productPrices": [
       {
-        "spot": "30.0",
+        "spot": "30.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/olympia-silver-grade-six-ball-bearings?variant=51289547014417"
       }
@@ -850,7 +850,7 @@
     "productName": "SkF Alexis Sablone Pro Bearings",
     "productPrices": [
       {
-        "spot": "46.0",
+        "spot": "46.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/skf-alexis-sablone-pro-bearings-93450?variant=48246812737809"
       }
@@ -863,7 +863,7 @@
     "productName": "SkF Ishod Wair Pro Bearings",
     "productPrices": [
       {
-        "spot": "46.0",
+        "spot": "46.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/skf-ishod-wair-pro-bearings-92116?variant=48246616817937"
       }
@@ -1065,7 +1065,7 @@
         "productVendorUrl": "https://www.zumiez.com/soft-bushings-bones.html"
       },
       {
-        "spot": "9.0",
+        "spot": "9.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/bones-wheels-hardcore-medium-bushings-19492?variant=48243393495313"
       }
@@ -1286,7 +1286,7 @@
     "productName": "Thunder Premium Bushings",
     "productPrices": [
       {
-        "spot": "6.0",
+        "spot": "6.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-premium-bushings-90951?variant=48246468837649"
       }
@@ -1421,7 +1421,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-x-adventure-time-jake-9-75-skateboard-deck.html"
       },
       {
-        "spot": "90.0",
+        "spot": "90.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/welcome-skateboards-adventure-time-ice-king-on-crossbone-shaped-deck?variant=51347839680785"
       }
@@ -1439,7 +1439,7 @@
         "productVendorUrl": "https://www.tactics.com/fucking-awesome/aidan-no-world-order-844-skateboard-deck/red"
       },
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/fucking-awesome-aidan-mackey-no-world-order-deck?variant=51071732351249"
       }
@@ -1553,7 +1553,7 @@
         "productVendorUrl": "https://www.zumiez.com/alien-workshop-guevara-exp-series-twin-8-375-skateboard-deck.html"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/alien-workshop-joey-guevara-exp-series-deck-97238?variant=50087710392593"
       }
@@ -1571,7 +1571,7 @@
         "productVendorUrl": "https://www.zumiez.com/alien-workshop-visitor-8-25-skateboard-deck-1.html"
       },
       {
-        "spot": "67.0",
+        "spot": "67.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/alien-workshop-visitor-deck?variant=51094903554321"
       }
@@ -1867,7 +1867,7 @@
         "productVendorUrl": "https://www.tactics.com/fucking-awesome/anderson-biblical-technology-838-skateboard-deck"
       },
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/fucking-awesome-jake-anderson-biblical-technology-deck?variant=51071789629713"
       }
@@ -1999,7 +1999,7 @@
         "productVendorUrl": "https://www.zumiez.com/anti-hero-anderson-some-legs-8-5-skateboard-deck.html"
       },
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/anti-hero-brian-anderson-some-legs-deck?variant=50965218427153"
       }
@@ -2012,7 +2012,7 @@
     "productName": "Anti-Hero Austin Kanfoush Some Legs Deck",
     "productPrices": [
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/anti-hero-austin-kanfoush-some-legs-deck?variant=50965216231697"
       }
@@ -2035,7 +2035,7 @@
         "productVendorUrl": "https://www.tactics.com/anti-hero/classic-eagle-875-skateboard-deck/white"
       },
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/anti-hero-easy-rider-classic-eagle-deck?variant=51457137148177"
       }
@@ -2123,7 +2123,7 @@
         "productVendorUrl": "https://www.zumiez.com/anti-hero-grimple-stix-fine-art-8-5-skateboard-deck.html"
       },
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/anti-hero-grimple-stix-beach-bum-shaped-deck?variant=51484183691537"
       }
@@ -2136,7 +2136,7 @@
     "productName": "Anti-Hero John Cardiel Pigeon Mountain Deck",
     "productPrices": [
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/anti-hero-john-cardiel-pigeon-mountain-deck?variant=51207816839441"
       }
@@ -2193,7 +2193,7 @@
     "productName": "Anti-Hero Raney Beres Pigeon Mountain Deck",
     "productPrices": [
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/anti-hero-raney-beres-pigeon-mountain-deck?variant=51207823196433"
       }
@@ -2216,7 +2216,7 @@
         "productVendorUrl": "https://www.tactics.com/anti-hero/taylor-repossessed-85-skateboard-deck"
       },
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/anti-hero-grant-taylor-reposessed-deck?variant=51392646676753"
       }
@@ -2338,7 +2338,7 @@
         "productVendorUrl": "https://www.tactics.com/metal-skateboards/apnj-825-skateboard-deck"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-apnj-deck?variant=51397908234513"
       }
@@ -2403,7 +2403,7 @@
     "productName": "April AP Halftone Blue Yellow Deck",
     "productPrices": [
       {
-        "spot": "71.0",
+        "spot": "71.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/april-skateboards-ap-halftone-blue-yellow-deck?variant=51474275270929"
       }
@@ -2416,7 +2416,7 @@
     "productName": "April Dashawn Jordan Character Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/april-skateboards-dashawn-jordan-character-deck?variant=51152592339217"
       }
@@ -2429,7 +2429,7 @@
     "productName": "April Guy Mariano Twin Cheetah Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/april-skateboards-guy-mariano-twin-cheetah-deck?variant=51474266620177"
       }
@@ -2442,7 +2442,7 @@
     "productName": "April Rayssa Leal Heart Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/april-skateboards-rayssa-leal-heart-deck?variant=51474249646353"
       }
@@ -2478,7 +2478,7 @@
         "productVendorUrl": "https://www.tactics.com/april/yuto-fade-80-skateboard-deck"
       },
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/april-skateboards-yuto-horigome-fade-deck?variant=50655552700689"
       }
@@ -2860,7 +2860,7 @@
     "productName": "Baker Andrew Reynolds Fish Sticks Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/baker-andrew-reynolds-fish-sticks-deck?variant=51491290415377"
       }
@@ -2873,7 +2873,7 @@
     "productName": "Baker Casper Brooker Ruins Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/baker-casper-brooer-ruins-deck?variant=51491296248081"
       }
@@ -2956,7 +2956,7 @@
     "productName": "Baker Elissa Steamer Rippin Ranman Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/baker-elissa-steamer-rippin-deck?variant=51491288645905"
       }
@@ -3039,7 +3039,7 @@
     "productName": "Baker Jacopo Carrozi Brand Name Foil Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/baker-jacopo-carrozi-brand-name-foil-deck?variant=51491297755409"
       }
@@ -3052,7 +3052,7 @@
     "productName": "Baker Justin Figueroa Calamaties Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/baker-justin-figueroa-calamaties-deck?variant=51491291169041"
       }
@@ -3104,7 +3104,7 @@
     "productName": "Baker Riley Hawk Brand Name Sherbert Deck",
     "productPrices": [
       {
-        "spot": "48.0",
+        "spot": "48.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/baker-riley-hawk-brand-name-sherbert-deck?variant=51077772804369"
       }
@@ -3148,7 +3148,7 @@
     "productName": "Baker Rowan Zorilla 8 ball Corner Pocket Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/baker-rowan-zorilla-8-ball-corner-pocket-deck?variant=51491288940817"
       }
@@ -3200,7 +3200,7 @@
     "productName": "Baker Tristan Funkhouser 456 Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/baker-tristan-funkhouser-456-deck?variant=51491287138577"
       }
@@ -3213,7 +3213,7 @@
     "productName": "Baker Tyson Peterson Calamaties Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/baker-tyson-peterson-calamaties-deck?variant=51491292905745"
       }
@@ -3249,7 +3249,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/oval-logo-skateboard-deck/orange"
       },
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/april-skateboards-og-logo-photo-deck?variant=51397818941713"
       }
@@ -3262,7 +3262,7 @@
     "productName": "Baker Zach Allen Calamaties Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/baker-zach-allen-calamaties-deck?variant=51491291398417"
       }
@@ -3475,7 +3475,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/belle-862-skateboard-deck"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-belle-deck?variant=50574342586641"
       }
@@ -3605,7 +3605,7 @@
     "productName": "Birdhouse Aaron Jaw Homoki Red Shift Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/birdhouse-aaron-jaw-homoki-red-shift-deck?variant=51491563503889"
       }
@@ -3618,7 +3618,7 @@
     "productName": "Birdhouse David Loy Divine Aura Deck",
     "productPrices": [
       {
-        "spot": "55.0",
+        "spot": "55.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/birdhouse-david-loy-divine-aura-deck?variant=51078546030865"
       }
@@ -3631,7 +3631,7 @@
     "productName": "Birdhouse Elliot Sloan Provan Deck",
     "productPrices": [
       {
-        "spot": "55.0",
+        "spot": "55.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/birdhouse-elliot-sloan-provan-deck?variant=51078561890577"
       }
@@ -3644,7 +3644,7 @@
     "productName": "Birdhouse Felipe Nunes Red Shift Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/birdhouse-felipe-nunes-red-shift-deck?variant=51491567075601"
       }
@@ -3657,7 +3657,7 @@
     "productName": "Birdhouse Greyson Fletcher Squared Deck",
     "productPrices": [
       {
-        "spot": "55.0",
+        "spot": "55.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/birdhouse-greyson-fletcher-squared-deck?variant=51244643614993"
       }
@@ -3696,7 +3696,7 @@
     "productName": "Birdhouse Lizzie Armanto Chain Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/birdhouse-lizzie-armanto-chain-deck?variant=51491557310737"
       }
@@ -3709,7 +3709,7 @@
     "productName": "Birdhouse Tom Schaar Red Shift Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/birdhouse-tom-schaar-red-shift-deck?variant=51491566518545"
       }
@@ -3722,7 +3722,7 @@
     "productName": "Birdhouse Tony Hawk Falcon 1 Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/birdhouse-tony-hawk-falcon-1-deck?variant=51491555574033"
       }
@@ -3735,7 +3735,7 @@
     "productName": "Birdhouse Tony Hawk McSqueeb Shaped Deck",
     "productPrices": [
       {
-        "spot": "55.0",
+        "spot": "55.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/birdhouse-tony-hawk-mcaqueeb-shaped-deck?variant=51078540689681"
       }
@@ -4065,7 +4065,7 @@
         "productVendorUrl": "https://www.tactics.com/strangelove/braun-icarus-825-skateboard-deck"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/strangelove-jake-braun-icarus-deck?variant=50522930512145"
       }
@@ -4546,7 +4546,7 @@
     "productName": "Carpet Company Bacteria Deck",
     "productPrices": [
       {
-        "spot": "98.0",
+        "spot": "98.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/carpet-company-bacteria-deck?variant=50298448150801"
       }
@@ -4559,7 +4559,7 @@
     "productName": "Carpet Company Tourist Deck",
     "productPrices": [
       {
-        "spot": "98.0",
+        "spot": "98.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/carpet-company-tourist-deck?variant=50510691467537"
       }
@@ -4790,7 +4790,7 @@
         "productVendorUrl": "https://www.tactics.com/chocolate/chico-brenes-nicaraguan-sunrise-975-skateboard-deck/yellow"
       },
       {
-        "spot": "74.0",
+        "spot": "74.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/chocolate-chico-brenes-nicaraguan-sunrise-deck?variant=51104751157521"
       }
@@ -4945,7 +4945,7 @@
         "productVendorUrl": "https://www.tactics.com/chocolate/capps-waylon-jennings-80-skateboard-deck"
       },
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/chocolate-stevie-perez-loteria-deck?variant=50460975595793"
       }
@@ -4971,7 +4971,7 @@
     "productName": "Chocolate Jordan Trahan Mcfetridge Drips Deck",
     "productPrices": [
       {
-        "spot": "74.0",
+        "spot": "74.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/chocolate-jordan-trahan-mcfetridge-drips-deck?variant=51104754041105"
       }
@@ -4984,7 +4984,7 @@
     "productName": "Chocolate Kenny Anderson Hecox Still Deck",
     "productPrices": [
       {
-        "spot": "74.0",
+        "spot": "74.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/chocolate-kenny-anderson-hecox-still-deck?variant=51104845922577"
       }
@@ -4997,7 +4997,7 @@
     "productName": "Chocolate Kenny Anderson Loteria Shaped Deck",
     "productPrices": [
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/chocolate-kenny-anderson-loteria-shaped-deck?variant=50460981985553"
       }
@@ -5049,7 +5049,7 @@
     "productName": "Chocolate Tampa Flip The Script Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/chocolate-tampa-flip-the-script-deck?variant=50684467511569"
       }
@@ -5791,7 +5791,7 @@
     "productName": "Creature Cody Lockwood Memento VX Everslick Deck",
     "productPrices": [
       {
-        "spot": "99.0",
+        "spot": "99.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-cody-lockwood-memento-vx-everslick-deck?variant=50590123360529"
       }
@@ -5804,7 +5804,7 @@
     "productName": "Creature Forever Undead Deck",
     "productPrices": [
       {
-        "spot": "55.0",
+        "spot": "55.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-forever-undead-deck?variant=50577805967633"
       }
@@ -5817,7 +5817,7 @@
     "productName": "Creature Kevin Baekkel Demon Pro Deck",
     "productPrices": [
       {
-        "spot": "68.0",
+        "spot": "68.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-kevin-baekkel-demon-pro-deck?variant=51434089251089"
       }
@@ -5991,7 +5991,7 @@
         "productVendorUrl": "https://www.tactics.com/limosine/cyrus-bennett-morph-825-skateboard-deck"
       },
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/limosine-cyrus-bennett-morph-deck?variant=50996808352017"
       }
@@ -6199,7 +6199,7 @@
     "productName": "Deathwish Brian Odwyer All Seeing Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-brian-odwyer-all-seeing-deck?variant=51491358605585"
       }
@@ -6225,7 +6225,7 @@
     "productName": "Deathwish El Dorado Spray Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-el-dorado-spray-deck?variant=51491371221265"
       }
@@ -6238,7 +6238,7 @@
     "productName": "Deathwish Erik Ellington East Meets West Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-erik-ellington-twins-deck?variant=51491365716241"
       }
@@ -6251,7 +6251,7 @@
     "productName": "Deathwish Erik Ellington Twins Shaped Deck",
     "productPrices": [
       {
-        "spot": "80.0",
+        "spot": "80.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-erik-ellington-twins-shaped-deck?variant=51491369320721"
       }
@@ -6295,7 +6295,7 @@
         "productVendorUrl": "https://www.zumiez.com/deathwish-foy-soty-2024-8-5-skateboard-deck.html"
       },
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-jamie-foy-mash-the-throttle-deck?variant=51491329605905"
       }
@@ -6321,7 +6321,7 @@
     "productName": "Deathwish Jade Gator Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-jade-gator-deck?variant=51491374170385"
       }
@@ -6334,7 +6334,7 @@
     "productName": "Deathwish Jake Hayes Never Breathe Again Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-jake-hayes-never-breathe-again-deck?variant=51491341992209"
       }
@@ -6347,7 +6347,7 @@
     "productName": "Deathwish Jamie Foy Ammonia Burn Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-jamie-foy-ammonia-burn-deck?variant=51491329507601"
       }
@@ -6360,7 +6360,7 @@
     "productName": "Deathwish Jamie Foy Deerfield Beach Champ Deck",
     "productPrices": [
       {
-        "spot": "60.0",
+        "spot": "60.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-jamie-foy-deerfield-beach-champ-deck?variant=51078306988305"
       }
@@ -6373,7 +6373,7 @@
     "productName": "Deathwish Jamie Foy Highway Man Twin Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-jamie-foy-highway-man-deck?variant=51491335143697"
       }
@@ -6443,7 +6443,7 @@
     "productName": "Deathwish Neen Williams We Fell Into It Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-neen-williams-we-fell-into-it-deck?variant=51491341304081"
       }
@@ -6500,7 +6500,7 @@
     "productName": "Deathwish Taylor Kirby Cathouse Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-taylor-kirby-cathouse-deck?variant=51491363062033"
       }
@@ -6609,7 +6609,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/delfino-whiplash-85-skateboard-deck"
       },
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-pedro-delfino-whiplash-deck?variant=51491359686929"
       }
@@ -6622,7 +6622,7 @@
     "productName": "Deluxe SSD 2025 Shop Keeper Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/deluxe-ssd-2025-shop-keeper-deck?variant=51105966850321"
       }
@@ -6757,7 +6757,7 @@
     "productName": "DGK Boo Johnson Breezy Boo Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/dgk-boo-johnson-breezy-boo-deck?variant=51297429258513"
       }
@@ -6783,7 +6783,7 @@
     "productName": "DGK Brian Reid Tone Deck",
     "productPrices": [
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/dgk-brian-reid-tone-deck?variant=51297392754961"
       }
@@ -6809,7 +6809,7 @@
     "productName": "DGK Chaz Ortiz Avenue Deck",
     "productPrices": [
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/dgk-chaz-ortiz-avenue-deck?variant=51297417068817"
       }
@@ -6835,7 +6835,7 @@
     "productName": "DGK Dane Vaughn Gris Gris Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/dgk-dane-vaughn-gris-gris-deck?variant=50910671438097"
       }
@@ -6913,7 +6913,7 @@
     "productName": "DGK Jack Curtin Thizz Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/dgk-jack-curtin-thizz-deck?variant=51297453670673"
       }
@@ -7147,7 +7147,7 @@
     "productName": "DGK Will Mazzari Hood Tours Twin Tail Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/dgk-will-mazzari-hood-tours-twin-tail-deck?variant=50910668849425"
       }
@@ -7256,7 +7256,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/dickson-red-dawn-825-skateboard-deck"
       },
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-jon-dickson-engine-deck?variant=51491354902801"
       }
@@ -7295,7 +7295,7 @@
     "productName": "Disorder Alex Midler Girl And Chain Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/disorder-alex-midler-girl-and-chain-deck?variant=50215261634833"
       }
@@ -7404,7 +7404,7 @@
         "productVendorUrl": "https://www.zumiez.com/disorder-nyjah-all-seeing-8-25-skateboard-deck.html"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/disorder-skateboards-nyjah-huston-all-seeing-eye-deck-96764?variant=49835699077393"
       }
@@ -7474,7 +7474,7 @@
         "productVendorUrl": "https://www.zumiez.com/disorder-walker-card-8-25-skateboard-deck.html"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/disorder-skateboards-domo-walker-card-deck?variant=50739404013841"
       }
@@ -7578,7 +7578,7 @@
     "productName": "Doom Sayers Corpo Guy Deck",
     "productPrices": [
       {
-        "spot": "64.0",
+        "spot": "64.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/doom-sayers-corpo-guy-deck?variant=51283742687505"
       }
@@ -7591,7 +7591,7 @@
     "productName": "Doom Sayers Eli Williams Snake Shake 3D Deck",
     "productPrices": [
       {
-        "spot": "62.0",
+        "spot": "62.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/doom-sayers-eli-williams-snake-shake-3d-deck?variant=51283746652433"
       }
@@ -7604,7 +7604,7 @@
     "productName": "Doom Sayers Never Bite Deck",
     "productPrices": [
       {
-        "spot": "64.0",
+        "spot": "64.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/doom-sayers-never-bite-deck?variant=51283748258065"
       }
@@ -7661,7 +7661,7 @@
         "productVendorUrl": "https://www.tactics.com/real/double-duty-cops-825-easy-rider-shape-skateboard-deck"
       },
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/real-double-duty-cop-easy-rider-deck?variant=51484192735505"
       }
@@ -7679,7 +7679,7 @@
         "productVendorUrl": "https://www.tactics.com/real/double-duty-security-85-true-fit-shape-skateboard-deck"
       },
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/real-double-duty-security-true-fit-deck?variant=51484196110609"
       }
@@ -7770,7 +7770,7 @@
     "productName": "Edglrd AGGRO DR1FT Decapitation Deck",
     "productPrices": [
       {
-        "spot": "85.0",
+        "spot": "85.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/edglrd-aggro-dr1ft-decapitation-deck?variant=50578747195665"
       }
@@ -7783,7 +7783,7 @@
     "productName": "Edglrd Blue Agony Deck",
     "productPrices": [
       {
-        "spot": "85.0",
+        "spot": "85.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/edglrd-blue-agony-deck?variant=50578758140177"
       }
@@ -7796,7 +7796,7 @@
     "productName": "Edglrd Green Money Deck",
     "productPrices": [
       {
-        "spot": "85.0",
+        "spot": "85.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/edglrd-green-money-deck?variant=50578723799313"
       }
@@ -7809,7 +7809,7 @@
     "productName": "Edglrd Photopolymer 1nv45i0n Deck",
     "productPrices": [
       {
-        "spot": "450.0",
+        "spot": "450.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/edglrd-photopolymer-1nv45i0n-deck?variant=50578753224977"
       }
@@ -8048,7 +8048,7 @@
         "productVendorUrl": "https://www.tactics.com/polar-skate-co/emile-laurent-turtle-town-825-skateboard-deck"
       },
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/polar-skateboards-emile-laurent-burnside-2084-deck?variant=50451848823057"
       }
@@ -8451,7 +8451,7 @@
     "productName": "Flip Denny Pham Matchbox Deck",
     "productPrices": [
       {
-        "spot": "64.0",
+        "spot": "64.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/flip-denny-pham-matchbox-deck?variant=51124447478033"
       }
@@ -8477,7 +8477,7 @@
     "productName": "Flip Luan Oliveira I Love Iapi Deck",
     "productPrices": [
       {
-        "spot": "64.0",
+        "spot": "64.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/flip-luan-oliveira-i-love-iapi-deck?variant=51124437713169"
       }
@@ -8490,7 +8490,7 @@
     "productName": "Flip Lucas Rabelo Creatures Deck",
     "productPrices": [
       {
-        "spot": "64.0",
+        "spot": "64.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/flip-lucas-rabelo-creatures-deck?variant=51124440367377"
       }
@@ -8581,7 +8581,7 @@
     "productName": "Flip Really Sorry Scribble Logo Deck",
     "productPrices": [
       {
-        "spot": "64.0",
+        "spot": "64.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/flip-really-sorry-scrobble-logo-deck?variant=51124449280273"
       }
@@ -9046,7 +9046,7 @@
         "productVendorUrl": "https://www.zumiez.com/frog-decker-comic-book-8-5-skateboard-deck.html"
       },
       {
-        "spot": "76.0",
+        "spot": "76.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/frog-skateboards-frankie-decker-comic-book-deck?variant=51244612714769"
       }
@@ -9176,7 +9176,7 @@
     "productName": "Frog Chris Milic Vector World Deck",
     "productPrices": [
       {
-        "spot": "76.0",
+        "spot": "76.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/frog-skateboards-chris-milic-vector-world-deck?variant=51244624183569"
       }
@@ -9189,7 +9189,7 @@
     "productName": "Frog Dustin Henry Auntie Deck",
     "productPrices": [
       {
-        "spot": "76.0",
+        "spot": "76.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/frog-skateboards-dustin-henry-auntie-deck?variant=51244603834641"
       }
@@ -9202,7 +9202,7 @@
     "productName": "Frog Nick Michel Bug Finder Deck",
     "productPrices": [
       {
-        "spot": "76.0",
+        "spot": "76.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/frog-skateboards-nick-michel-bug-finder-deck?variant=51244610421009"
       }
@@ -9228,7 +9228,7 @@
     "productName": "Fucking Awesome Elijah Berle Kick in The Face Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/fucking-awesome-elijah-berle-kick-in-the-face-deck?variant=51071756108049"
       }
@@ -9241,7 +9241,7 @@
     "productName": "Fucking Awesome Gonz Class Photo Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/fucking-awesome-gonz-class-photo-deck?variant=51453308141841"
       }
@@ -9285,7 +9285,7 @@
         "productVendorUrl": "https://www.tactics.com/metal-skateboards/gall-odin-825-skateboard-deck"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-fred-gall-odin-deck?variant=51397906727185"
       }
@@ -9407,7 +9407,7 @@
         "productVendorUrl": "https://www.tactics.com/doom-sayers-club/ghost-ride-86-skateboard-deck"
       },
       {
-        "spot": "64.0",
+        "spot": "64.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/doom-sayers-ghost-ride-deck?variant=51283744686353"
       }
@@ -9472,7 +9472,7 @@
     "productName": "Girl Cory Kennedy 93 Naturals Deck",
     "productPrices": [
       {
-        "spot": "74.0",
+        "spot": "74.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/girl-cory-kennedy-93-naturals-deck?variant=50838154445073"
       }
@@ -9620,7 +9620,7 @@
     "productName": "Girl Griffin Gass Hello Kitty 50 Deck",
     "productPrices": [
       {
-        "spot": "79.0",
+        "spot": "79.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/girl-griffin-gass-hello-kitty-50-deck?variant=51452972695825"
       }
@@ -9659,7 +9659,7 @@
     "productName": "Girl Mike Carroll Hello Kitty 50 Deck",
     "productPrices": [
       {
-        "spot": "79.0",
+        "spot": "79.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/girl-mike-carroll-hello-kitty-50-deck?variant=51452960506129"
       }
@@ -9716,7 +9716,7 @@
     "productName": "Girl Rick Howard Best of Both Worlds Deck",
     "productPrices": [
       {
-        "spot": "74.0",
+        "spot": "74.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/girl-rick-howard-best-of-both-worlds-deck?variant=50838122791185"
       }
@@ -9729,7 +9729,7 @@
     "productName": "Girl Sean Malto 93 Til Lovers Deck",
     "productPrices": [
       {
-        "spot": "74.0",
+        "spot": "74.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/girl-sean-malto-93-til-lovers-deck?variant=51452988358929"
       }
@@ -9742,7 +9742,7 @@
     "productName": "Girl Simon Bannerot Serif Deck",
     "productPrices": [
       {
-        "spot": "74.0",
+        "spot": "74.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/girl-simon-bannerot-serif-deck?variant=51453010837777"
       }
@@ -9755,7 +9755,7 @@
     "productName": "Girl Tyler Pacheco 93 Naturals Deck",
     "productPrices": [
       {
-        "spot": "74.0",
+        "spot": "74.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/girl-tyler-pacheco-93-naturals-deck?variant=50838155919633"
       }
@@ -9934,7 +9934,7 @@
         "productVendorUrl": "https://www.tactics.com/polar-skate-co/gonzalez-dinghies-8125-skateboard-deck"
       },
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/polar-skateboards-roman-gonzalez-dinghies-deck-97191?variant=50087705379089"
       }
@@ -10121,7 +10121,7 @@
         "productVendorUrl": "https://www.tactics.com/creature/gravette-big-game-83-skateboard-deck"
       },
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-david-gravette-big-game-pro-deck?variant=51438845034769"
       }
@@ -10316,7 +10316,7 @@
     "productName": "GX1000 Bloody Gold Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/gx1000-bloody-gold-deck?variant=50583648862481"
       }
@@ -10329,7 +10329,7 @@
     "productName": "GX1000 Candy Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/gx1000-candy-deck?variant=50144843727121"
       }
@@ -10342,7 +10342,7 @@
     "productName": "GX1000 Clandestine Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/gx1000-clandestine-deck?variant=50583652073745"
       }
@@ -10355,7 +10355,7 @@
     "productName": "GX1000 Embedded Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/gx1000-embedded-deck?variant=51259250901265"
       }
@@ -10386,7 +10386,7 @@
     "productName": "GX1000 Jeff Carlyle Path Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/gx1000-jeff-carlyle-path-deck?variant=50144834158865"
       }
@@ -10438,7 +10438,7 @@
     "productName": "Habitat Brian Delatorre Portraits From The Edge Deck",
     "productPrices": [
       {
-        "spot": "67.0",
+        "spot": "67.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/habitat-brian-delatorre-portraits-from-the-edge-deck?variant=51094963978513"
       }
@@ -10464,7 +10464,7 @@
     "productName": "Habitat Mark Suciu Anima Mundi Glow Deck",
     "productPrices": [
       {
-        "spot": "67.0",
+        "spot": "67.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/habitat-mark-suciu-anima-mundi-glow-deck?variant=51094956933393"
       }
@@ -10547,7 +10547,7 @@
     "productName": "Hardbody Hjalte Halberg Pro Wheel Wells Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/hardbody-hjalte-halberg-pro-wheel-wells-deck?variant=51369823306001"
       }
@@ -10560,7 +10560,7 @@
     "productName": "Hardbody Puerto Rico Flag Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/hardbody-puerto-rico-flag-deck?variant=51369831465233"
       }
@@ -10643,7 +10643,7 @@
         "productVendorUrl": "https://www.tactics.com/real/hause-queen-of-hearts-825-twin-nose-shape-skateboard-deck"
       },
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/real-nicole-hause-queen-of-hearts-twin-nose-black-deck?variant=51457051918609"
       }
@@ -10856,7 +10856,7 @@
         "productVendorUrl": "https://www.tactics.com/quasi-skateboards/henry-mempool-825-skateboard-deck"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/quasi-justin-henry-mempool-deck?variant=50418637209873"
       }
@@ -10887,7 +10887,7 @@
         "productVendorUrl": "https://www.tactics.com/real/hermann-stene-fairy-tale-828-skateboard-deck"
       },
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/real-hermann-stene-fairy-tale-deck?variant=51392651854097"
       }
@@ -10970,7 +10970,7 @@
     "productName": "Heroin Dalton Dern Hurricane Deck",
     "productPrices": [
       {
-        "spot": "81.0",
+        "spot": "81.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/heroin-skateboards-dalton-dern-hurricane-deck?variant=51491532898577"
       }
@@ -10983,7 +10983,7 @@
     "productName": "Heroin Fried Boy Egg Shaped Deck",
     "productPrices": [
       {
-        "spot": "85.0",
+        "spot": "85.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/heroin-skateboards-fried-boy-egg-shaped-deck?variant=51491524215057"
       }
@@ -10996,7 +10996,7 @@
     "productName": "Heroin Holographic Eyes Symmetrical Blue Deck",
     "productPrices": [
       {
-        "spot": "79.0",
+        "spot": "79.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/heroin-skateboards-holographic-eyes-symmetrical-blue-deck?variant=51491536830737"
       }
@@ -11009,7 +11009,7 @@
     "productName": "Heroin Killing Yolk Symmetrical Egg Deck",
     "productPrices": [
       {
-        "spot": "83.0",
+        "spot": "83.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/heroin-skateboards-killing-yolk-symmetrical-egg-deck?variant=51491521036561"
       }
@@ -11157,7 +11157,7 @@
         "productVendorUrl": "https://www.tactics.com/polar-skate-co/herrington-cowboy-cop-975-dane-1-shape-skateboard-deck"
       },
       {
-        "spot": "76.0",
+        "spot": "76.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/polar-skateboards-aaron-herrington-cowboy-cop-deck?variant=50451916488977"
       }
@@ -11253,7 +11253,7 @@
         "productVendorUrl": "https://www.zumiez.com/hockey-allen-support-8-1-skateboard-deck.html"
       },
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/hockey-andrew-allen-support-deck?variant=51410457526545"
       }
@@ -11266,7 +11266,7 @@
     "productName": "Hockey Ben Kadow Inorganic Chaos Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/hockey-ben-kadow-inorganic-chaos-deck?variant=51410456248593"
       }
@@ -11279,7 +11279,7 @@
     "productName": "Hockey Cry Later Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/hockey-cry-later-deck?variant=51410465063185"
       }
@@ -11357,7 +11357,7 @@
     "productName": "Hockey Kevin Rodrigues Keepsake Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/hockey-kevin-rodrigues-keepsake-deck?variant=51410470011153"
       }
@@ -11383,7 +11383,7 @@
     "productName": "Hockey Panic to Peace Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/hockey-panic-to-peace-deck?variant=51410459754769"
       }
@@ -11585,7 +11585,7 @@
         "productVendorUrl": "https://www.tactics.com/hopps-skateboards/denley-artist-series-8125-skateboard-deck/orange"
       },
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/hopps-keith-denley-jen-traub-artist-deck?variant=51389359653137"
       }
@@ -11598,7 +11598,7 @@
     "productName": "Hopps Dustin Eggeling Jen Traub Artist Deck",
     "productPrices": [
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/hopps-dustin-eggeling-jen-traub-artist-deck?variant=51389360865553"
       }
@@ -11611,7 +11611,7 @@
     "productName": "Hopps Keep It Moving Checkered Fade Deck",
     "productPrices": [
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/hopps-keep-it-moving-checkered-fade-deck?variant=51389380722961"
       }
@@ -11637,7 +11637,7 @@
     "productName": "Hopps Mark Del Negro Jen Traub Artist Deck",
     "productPrices": [
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/hopps-mark-del-negro-jen-traub-artist-deck?variant=51389359423761"
       }
@@ -11650,7 +11650,7 @@
     "productName": "Hopps Pops Deck",
     "productPrices": [
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/hopps-pops-deck?variant=51453403005201"
       }
@@ -11663,7 +11663,7 @@
     "productName": "Hopps Sun Logo Checkered Fade Deck",
     "productPrices": [
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/hopps-sun-logo-checkered-fade-deck?variant=51389385048337"
       }
@@ -11928,7 +11928,7 @@
         "productVendorUrl": "https://www.tactics.com/real/ishod-gonz-oval-party-825-skateboard-deck"
       },
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/real-ishod-wair-by-gonz-oval-party-deck?variant=51392655556881"
       }
@@ -12136,7 +12136,7 @@
     "productName": "Jacuzzi Unlimited Caswell Berry Dominance EX7 Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/jacuzzi-unlimited-caswell-berry-dominance-ex7-deck?variant=50977502888209"
       }
@@ -12149,7 +12149,7 @@
     "productName": "Jacuzzi Unlimited Jackson Pilz Patrons Shaped EX7 Deck",
     "productPrices": [
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/jacuzzi-unlimited-jackson-pilz-patrons-shaped-ex7-deck?variant=50977510359313"
       }
@@ -12162,7 +12162,7 @@
     "productName": "Jacuzzi Unlimited Louie Barletta Toy EX7 Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/jacuzzi-unlimited-louie-barletta-toy-ex7-deck?variant=50977501020433"
       }
@@ -12310,7 +12310,7 @@
         "productVendorUrl": "https://www.tactics.com/metal-skateboards/jersey-devil-86-skateboard-deck"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-jersey-devil-deck?variant=51397908398353"
       }
@@ -12341,7 +12341,7 @@
         "productVendorUrl": "https://www.tactics.com/creature/jhanka-snakes-8375-skateboard-deck"
       },
       {
-        "spot": "67.0",
+        "spot": "67.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-jhanka-gonzalez-snakes-pro-deck?variant=51144664121617"
       }
@@ -12468,7 +12468,7 @@
         "productVendorUrl": "https://www.tactics.com/april/kai-kishi-figures-825-skateboard-deck"
       },
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/april-skateboards-kai-kishi-figures-deck?variant=51474250105105"
       }
@@ -12616,7 +12616,7 @@
         "productVendorUrl": "https://www.tactics.com/hopps-skateboards/kevin-taylor-battle-mask-825-skateboard-deck"
       },
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/hopps-kevin-taylor-battle-mask-deck?variant=50443349819665"
       }
@@ -12634,7 +12634,7 @@
         "productVendorUrl": "https://www.tactics.com/opera/kieran-woolley-caged-85-skateboard-deck"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/opera-kieran-woolley-upward-ex7-deck?variant=50977564066065"
       }
@@ -12738,7 +12738,7 @@
     "productName": "King Caleb Barnett Cherub Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/king-skateboards-caleb-barnett-cherub-deck?variant=51362170568977"
       }
@@ -12751,7 +12751,7 @@
     "productName": "King Nakel Smith Star Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/king-skateboards-nakel-smith-star-deck?variant=51362152677649"
       }
@@ -12764,7 +12764,7 @@
     "productName": "King Tyshawn Liberty Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/king-skateboards-tyshawn-liberty-deck?variant=51362136129809"
       }
@@ -12777,7 +12777,7 @@
     "productName": "King Zach Saraceno Mirage Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/king-skateboards-zach-saraceno-mirage-deck?variant=51362165489937"
       }
@@ -12847,7 +12847,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/knox-toms-brain-85-skateboard-deck"
       },
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-tom-knox-toms-brain-deck?variant=51207877755153"
       }
@@ -12938,7 +12938,7 @@
     "productName": "Krooked Brad Cromer Cute Cat Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-brad-cromer-cute-cat-deck?variant=51372483674385"
       }
@@ -13026,7 +13026,7 @@
     "productName": "Krooked Eddie Cernicky Tall Snake True Fit Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-eddie-cernicky-tall-snake-true-fit-deck?variant=50574352351505"
       }
@@ -13062,7 +13062,7 @@
         "productVendorUrl": "https://www.zumiez.com/krooked-eyes-white-8-06-skateboard-deck.html"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-dipped-white-team-eyes-deck?variant=51372468961553"
       }
@@ -13114,7 +13114,7 @@
     "productName": "Krooked Gonz Out My Ears Deck",
     "productPrices": [
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-gonz-out-my-ears-deck?variant=51207872282897"
       }
@@ -13163,7 +13163,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/kader-guest-85-skateboard-deck"
       },
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-kader-guest-deck?variant=50965268300049"
       }
@@ -13215,7 +13215,7 @@
     "productName": "Krooked Mark Gonzales Mermaid Shaped Deck",
     "productPrices": [
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-mark-gonzales-mermaid-shaped-deck?variant=51484190998801"
       }
@@ -13228,7 +13228,7 @@
     "productName": "Krooked Mike Anderson Just Cause Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-mike-anderson-just-cause-deck?variant=50574346486033"
       }
@@ -13290,7 +13290,7 @@
         "productVendorUrl": "https://www.zumiez.com/krooked-una-teeth-8-28-skateboard-deck.html"
       },
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-una-farrar-teeth-deck?variant=50717531373841"
       }
@@ -13360,7 +13360,7 @@
         "productVendorUrl": "https://www.tactics.com/gx1000/krull-embers-825-skateboard-deck"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/gx1000-zack-krull-embers-deck?variant=50583672979729"
       }
@@ -13607,7 +13607,7 @@
     "productName": "Limosine Aaron Loreth Hail Flail Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/limosine-aaron-loreth-hail-flail-deck?variant=50996951417105"
       }
@@ -13677,7 +13677,7 @@
         "productVendorUrl": "https://www.tactics.com/creature/lockwood-fumes-825-skateboard-deck"
       },
       {
-        "spot": "68.0",
+        "spot": "68.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-cody-lockwood-fumes-deck?variant=51438849982737"
       }
@@ -13708,7 +13708,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/lopez-metal-health-85-skateboard-deck"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/zero-adrian-lopez-metal-health-deck?variant=50853304271121"
       }
@@ -14111,7 +14111,7 @@
     "productName": "Magenta Ben Gore Relic Series Deck",
     "productPrices": [
       {
-        "spot": "80.0",
+        "spot": "80.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/magenta-ben-gore-relic-series-deck?variant=51244702597393"
       }
@@ -14124,7 +14124,7 @@
     "productName": "Magenta Jameel Douglas Relic Series Deck",
     "productPrices": [
       {
-        "spot": "80.0",
+        "spot": "80.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/magenta-jameel-douglas-relic-series-deck?variant=51244705677585"
       }
@@ -14137,7 +14137,7 @@
     "productName": "Magenta Leo Valls Relic Series Deck",
     "productPrices": [
       {
-        "spot": "80.0",
+        "spot": "80.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/magenta-leo-valls-relic-series-deck?variant=51244695191825"
       }
@@ -14298,7 +14298,7 @@
         "productVendorUrl": "https://www.tactics.com/april/mariano-the-dogs-80-skateboard-deck"
       },
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/april-skateboards-guy-mariano-the-dogs-deck?variant=50557089218833"
       }
@@ -14381,7 +14381,7 @@
         "productVendorUrl": "https://www.tactics.com/real/mason-shakes-838-skateboard-deck/blue"
       },
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/real-mason-silva-on-the-rocks-deck?variant=51207859667217"
       }
@@ -14438,7 +14438,7 @@
         "productVendorUrl": "https://www.tactics.com/limosine/max-palmer-temptress-86-skateboard-deck"
       },
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/limosine-max-palmer-temptress-deck?variant=50996973076753"
       }
@@ -14456,7 +14456,7 @@
         "productVendorUrl": "https://www.tactics.com/dgk/mazzari-cant-stop-825-skateboard-deck"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/dgk-will-mazzari-cant-stop-deck?variant=51297470316817"
       }
@@ -14674,7 +14674,7 @@
         "productVendorUrl": "https://www.zumiez.com/metal-medusa-proto-team-8-5-skateboard-deck.html"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-medusa-proto-team-shaped-deck?variant=51085852246289"
       }
@@ -14687,7 +14687,7 @@
     "productName": "Metal Ben Raybourn Steer Shaped Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-ben-raybourn-steer-shaped-deck?variant=51397906235665"
       }
@@ -14700,7 +14700,7 @@
     "productName": "Metal Gorgo Team Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-gorgo-team-deck?variant=51085849723153"
       }
@@ -14713,7 +14713,7 @@
     "productName": "Metal Heaven And Hell Deck",
     "productPrices": [
       {
-        "spot": "71.0",
+        "spot": "71.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-heaven-and-hell-deck?variant=50297578979601"
       }
@@ -14726,7 +14726,7 @@
     "productName": "Metal Joel Meinholz Blackbeard Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-joel-meinholz-blackbeard-deck-95385?variant=48247015211281"
       }
@@ -14986,7 +14986,7 @@
     "productName": "Motor Lobby Brandon Knowles 911 Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/motor-lobby-brandon-knowles-911-deck?variant=51389440164113"
       }
@@ -14999,7 +14999,7 @@
     "productName": "Motor Lobby Dolly Herman Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/motor-lobby-dolly-herman-deck?variant=51389440622865"
       }
@@ -15012,7 +15012,7 @@
     "productName": "Motor Lobby Howdy Stranger Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/motor-lobby-howdy-stranger-deck?variant=51389441179921"
       }
@@ -15025,7 +15025,7 @@
     "productName": "Motor Lobby Snaked Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/motor-lobby-snaked-deck?variant=51389443834129"
       }
@@ -15069,7 +15069,7 @@
         "productVendorUrl": "https://www.tactics.com/hockey/much-worse-838-skateboard-deck"
       },
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/hockey-much-worse-deck?variant=50796158583057"
       }
@@ -15178,7 +15178,7 @@
         "productVendorUrl": "https://www.tactics.com/creature/navarrette-angel-of-death-90-xl-shape-skateboard-deck"
       },
       {
-        "spot": "76.0",
+        "spot": "76.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-darren-navarrette-ange-of-death-xl-deck?variant=51144676540689"
       }
@@ -15609,7 +15609,7 @@
     "productName": "Opera Clay Kriener Agony EX7 Deck",
     "productPrices": [
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/opera-clay-kriener-agony-ex7-deck?variant=50977555120401"
       }
@@ -15726,7 +15726,7 @@
     "productName": "Opera Nassim Lachhab Serpent EX7 Deck",
     "productPrices": [
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/opera-nassim-lachhab-serpent-ex7-deck?variant=50977549582609"
       }
@@ -15765,7 +15765,7 @@
     "productName": "Opera Trey Wood Unmasked EX7 Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/opera-trey-wood-unmasked-ex7-deck?variant=50977566163217"
       }
@@ -15960,7 +15960,7 @@
     "productName": "Palace Charlie Birch Pro S38 Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/palace-danny-charlie-birch-s38-deck?variant=51071181422865"
       }
@@ -15973,7 +15973,7 @@
     "productName": "Palace Danny Brady Pro S38 Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/palace-danny-brady-pro-s38-deck?variant=51071173132561"
       }
@@ -15986,7 +15986,7 @@
     "productName": "Palace Kyle Wilson Pro S38 Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/palace-kyle-wilson-s38-deck?variant=51071198855441"
       }
@@ -15999,7 +15999,7 @@
     "productName": "Palace Lucas Puig Pro S38 Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/palace-lucas-puig-pro-s38-deck?variant=51071211864337"
       }
@@ -16012,7 +16012,7 @@
     "productName": "Palace Tri-Bal Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/palace-tri-bal-deck?variant=51158062727441"
       }
@@ -16025,7 +16025,7 @@
     "productName": "Palace Ville Wester Pro S38 Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/palace-ville-wester-pro-s38-deck?variant=51071232639249"
       }
@@ -16636,7 +16636,7 @@
     "productName": "Plan B Aurelien Giraud Supercharged Deck",
     "productPrices": [
       {
-        "spot": "69.0",
+        "spot": "69.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-aurelien-giraud-supercharged-deck?variant=50634440507665"
       }
@@ -16649,7 +16649,7 @@
     "productName": "Plan B Danny Way Hannibal Deck",
     "productPrices": [
       {
-        "spot": "64.0",
+        "spot": "64.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-danny-way-hannibal-deck?variant=51124432699665"
       }
@@ -16662,7 +16662,7 @@
     "productName": "Plan B Felipe Gustavo Supercharged Deck",
     "productPrices": [
       {
-        "spot": "69.0",
+        "spot": "69.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-felipe-gustavo-supercharged-deck?variant=50634436313361"
       }
@@ -16753,7 +16753,7 @@
     "productName": "Plan B Pat Duffy Bug Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-pat-duffy-bug-deck-96350?variant=51362885665041"
       }
@@ -16771,7 +16771,7 @@
         "productVendorUrl": "https://www.zumiez.com/plan-b-the-joslin-show-8-25-skateboard-deck.html"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-chris-joslin-show-deck?variant=51362940518673"
       }
@@ -16784,7 +16784,7 @@
     "productName": "Plan B Tommy Fynn Supercharged Deck",
     "productPrices": [
       {
-        "spot": "69.0",
+        "spot": "69.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-tommy-fynn-supercharged-deck?variant=50634516201745"
       }
@@ -16797,7 +16797,7 @@
     "productName": "Plan B Trevor McClung Supercharged Deck",
     "productPrices": [
       {
-        "spot": "69.0",
+        "spot": "69.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-trevor-mcclung-supercharged-deck?variant=50634438050065"
       }
@@ -16810,7 +16810,7 @@
     "productName": "Plan B Way x McKay Supercharged Deck",
     "productPrices": [
       {
-        "spot": "69.0",
+        "spot": "69.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-way-x-mckay-supercharged-deck?variant=50634439164177"
       }
@@ -16927,7 +16927,7 @@
     "productName": "Polar Dane Brady Fish Bowl Wheel Wells Shaped Deck",
     "productPrices": [
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/polar-skateboards-dane-brady-fish-bowl-wheel-wells-shaped-deck?variant=50827170971921"
       }
@@ -16940,7 +16940,7 @@
     "productName": "Polar David Stenstrom Panther and Tape Deck",
     "productPrices": [
       {
-        "spot": "76.0",
+        "spot": "76.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/polar-skateboards-david-stenstrom-panther-and-tape-deck?variant=50451880411409"
       }
@@ -16953,7 +16953,7 @@
     "productName": "Polar Oskar Rozenberg Trust Deck",
     "productPrices": [
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/polar-skateboards-oskar-rozenberg-trust-deck-97193?variant=50087705477393"
       }
@@ -17171,7 +17171,7 @@
     "productName": "Powell Peralta Kelvin Hoefler Flight Bones Deck",
     "productPrices": [
       {
-        "spot": "100.0",
+        "spot": "100.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/powell-peralta-kelvin-hoefler-flight-bones-deck?variant=51441398513937"
       }
@@ -17306,7 +17306,7 @@
         "productVendorUrl": "https://www.zumiez.com/primitive-hamilton-dream-nicely-8-38-skateboard-deck.html"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-spencer-hamilton-dream-nicely-deck-97179?variant=50010988675345"
       }
@@ -17384,7 +17384,7 @@
     "productName": "Primitive Skateboarding Miles SIlvas Redemption Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-miles-silvas-redemption-deck?variant=50280423588113"
       }
@@ -17397,7 +17397,7 @@
     "productName": "Primitive Skateboarding Tiago Lemos Silks Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-tiago-lemos-silks-deck-97180?variant=50010990346513"
       }
@@ -17415,7 +17415,7 @@
         "productVendorUrl": "https://www.zumiez.com/primitive-team-moto-8-38-skateboard-deck.html"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-team-moto-deck-97181?variant=50010990706961"
       }
@@ -17472,7 +17472,7 @@
         "productVendorUrl": "https://www.zumiez.com/primitive-x-sublime-dirty-p-sun-8-0-skateboard-deck.html"
       },
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-sublime-dirty-p-sunrise-team-shaped-deck?variant=51441672356113"
       }
@@ -17490,7 +17490,7 @@
         "productVendorUrl": "https://www.zumiez.com/primitive-x-sublime-hello-8-25-skateboard-deck.html"
       },
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-sublime-hello-team-deck?variant=51441671045393"
       }
@@ -17508,7 +17508,7 @@
         "productVendorUrl": "https://www.zumiez.com/primitive-x-sublime-neal-neighbors-8-5-skateboard-deck.html"
       },
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-sublime-robert-neal-neighbors-deck?variant=51441669439761"
       }
@@ -17526,7 +17526,7 @@
         "productVendorUrl": "https://www.zumiez.com/primitive-x-sublime-rodriguez-badfish-8-125-skateboard-deck.html"
       },
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-sublime-paul-rodriguez-bad-fish-deck?variant=51441667997969"
       }
@@ -17661,7 +17661,7 @@
         "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/pulizzi-fire-in-the-hole-8375-skateboard-deck"
       },
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/jacuzzi-unlimited-michael-pulizzi-fire-in-the-hole-ex7-deck?variant=50977521795345"
       }
@@ -17765,7 +17765,7 @@
     "productName": "Quasi Bobby Dekeyzer Distance Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/quasi-bobby-dekeyzer-distance-deck?variant=50418607751441"
       }
@@ -17778,7 +17778,7 @@
     "productName": "Quasi Butterfly Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/quasi-butterfly-deck?variant=50683794424081"
       }
@@ -17822,7 +17822,7 @@
     "productName": "Quasi Josh Wilson Pro Gnome Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/quasi-josh-wilson-pro-gnome-deck?variant=51369671721233"
       }
@@ -17871,7 +17871,7 @@
         "productVendorUrl": "https://www.tactics.com/quasi-skateboards/rowe-plushie-8375-skateboard-deck"
       },
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/quasi-jon-rowe-plushie-deck?variant=51369659629841"
       }
@@ -18107,7 +18107,7 @@
         "productVendorUrl": "https://www.tactics.com/real/team-classic-oval-85-skateboard-deck"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/real-classic-oval-deck-86673?variant=48245858730257"
       }
@@ -18120,7 +18120,7 @@
     "productName": "Real DBX Blue Foil Oval Deck",
     "productPrices": [
       {
-        "spot": "120.0",
+        "spot": "120.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/real-dbx-blue-foil-oval-deck?variant=51484199551249"
       }
@@ -18143,7 +18143,7 @@
         "productVendorUrl": "https://www.tactics.com/real/hayley-wilson-clean-cut-838-skateboard-deck"
       },
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/real-hayley-wilson-clean-cut-deck?variant=51207851933969"
       }
@@ -18244,7 +18244,7 @@
     "productName": "Real Ishod Wair Peace Tie Dye Full SE Deck",
     "productPrices": [
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/real-ishod-wair-peace-tie-dye-full-se-deck?variant=51207863238929"
       }
@@ -18270,7 +18270,7 @@
     "productName": "Real Kyle Walker Cherub EZ Rider Deck",
     "productPrices": [
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/real-kyle-walker-cherub-ez-rider-deck?variant=51207860453649"
       }
@@ -18675,7 +18675,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/reynolds-thrasher-cover-825-skateboard-deck"
       },
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/baker-andrew-reynolds-thrasher-cover-deck?variant=51491594797329"
       }
@@ -19480,7 +19480,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/asta-cosmic-cat-80-skateboard-deck"
       },
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-tom-asta-cosmic-cat-deck?variant=50616944230673"
       }
@@ -19493,7 +19493,7 @@
     "productName": "Santa Cruz Classic Dot Deck",
     "productPrices": [
       {
-        "spot": "67.0",
+        "spot": "67.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-classic-dot-deck-72776?variant=48244018315537"
       }
@@ -19607,7 +19607,7 @@
     "productName": "Santa Cruz Eric Dressen Sumo Dog Shaped Deck",
     "productPrices": [
       {
-        "spot": "76.0",
+        "spot": "76.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-eric-dressen-sumo-dog-shaped-deck?variant=50617023955217"
       }
@@ -19646,7 +19646,7 @@
     "productName": "Santa Cruz Jereme Knibbs Cryptic Deck",
     "productPrices": [
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-jereme-knibbs-cryptic-deck?variant=50616957370641"
       }
@@ -19685,7 +19685,7 @@
     "productName": "Santa Cruz Maurio McCoy Aviator VX Deck",
     "productPrices": [
       {
-        "spot": "91.0",
+        "spot": "91.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-maurio-mccoy-aviator-vx-deck?variant=50616999018769"
       }
@@ -19820,7 +19820,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/santa-cruz-screaming-hand-tactics-97-skateboard-deck"
       },
       {
-        "spot": "67.0",
+        "spot": "67.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-screaming-hand-black-deck?variant=51283765035281"
       }
@@ -19864,7 +19864,7 @@
         "productVendorUrl": "https://www.zumiez.com/santa-cruz-street-creep-reissue-10-0-skateboard-deck.html"
       },
       {
-        "spot": "90.0",
+        "spot": "90.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-street-creep-reissue-purple-deck?variant=50974080368913"
       }
@@ -19975,7 +19975,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/wooten-crest-85-vx-skateboard-deck"
       },
       {
-        "spot": "93.0",
+        "spot": "93.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-jake-wooten-crest-vx-deck?variant=51438848704785"
       }
@@ -20292,7 +20292,7 @@
         "productVendorUrl": "https://www.tactics.com/dgk/shanahan-files-838-skateboard-deck"
       },
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/dgk-john-shanahan-thrift-deck?variant=51297382727953"
       }
@@ -20323,7 +20323,7 @@
         "productVendorUrl": "https://www.tactics.com/april/shane-grills-8125-skateboard-deck"
       },
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/april-skateboards-shane-oneill-leopard-deck?variant=51474244272401"
       }
@@ -20518,7 +20518,7 @@
     "productName": "Sk8Mafia Alexis Ramirez Paisley Foil Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/sk8mafia-alexis-ramirez-paisley-foil-deck?variant=51362836873489"
       }
@@ -20619,7 +20619,7 @@
         "productVendorUrl": "https://www.tactics.com/sk8mafia/rogers-represent-825-skateboard-deck"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/sk8mafia-tj-rogers-represent-deck?variant=51124419723537"
       }
@@ -20632,7 +20632,7 @@
     "productName": "Sk8Mafia Strick9 Willms Deck",
     "productPrices": [
       {
-        "spot": "69.0",
+        "spot": "69.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/sk8mafia-strick9-willms-deck?variant=50634455777553"
       }
@@ -20697,7 +20697,7 @@
     "productName": "Sk8Mafia Tyler Surrey Paisley Foil Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/sk8mafia-tyler-surrey-paisley-foil-deck?variant=51362826322193"
       }
@@ -20710,7 +20710,7 @@
     "productName": "Sk8Mafia Wes Kremer Stay Connected Deck",
     "productPrices": [
       {
-        "spot": "64.0",
+        "spot": "64.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/sk8mafia-wes-kremer-stay-connected-deck?variant=51124425228561"
       }
@@ -20749,7 +20749,7 @@
     "productName": "2Cents Ryan Decenzo Opacity Carbon Fiber Deck",
     "productPrices": [
       {
-        "spot": "90.0",
+        "spot": "90.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/2cents-skateboards-ryan-decenzo-monkey-business-carbon-fiber-signed-deck-copy?variant=50924906512657"
       }
@@ -20762,7 +20762,7 @@
     "productName": "2Cents Tyson Bowerbank Obverse Deck",
     "productPrices": [
       {
-        "spot": "80.0",
+        "spot": "80.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/2cents-skateboards-tyson-bowerbank-obverse-deck?variant=50924911395089"
       }
@@ -20775,7 +20775,7 @@
     "productName": "Skatepark of Tampa Oversized Circle City Deck",
     "productPrices": [
       {
-        "spot": "50.0",
+        "spot": "50.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/skatepark-of-tampa-oversized-circle-city-deck-96018?variant=49244138733841"
       }
@@ -20788,7 +20788,7 @@
     "productName": "Skatepark of Tampa Rally Car Deck",
     "productPrices": [
       {
-        "spot": "50.0",
+        "spot": "50.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/skatepark-of-tampa-rally-car-deck-94858?variant=48246964093201"
       }
@@ -20801,7 +20801,7 @@
     "productName": "Skatepark of Tampa Rope Logo Screen Printed Deck",
     "productPrices": [
       {
-        "spot": "45.0",
+        "spot": "45.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/skatepark-of-tampa-rope-logo-screen-printed-deck-86420?variant=48245821276433"
       }
@@ -20949,7 +20949,7 @@
         "productVendorUrl": "https://www.tactics.com/limosine/snake-pit-x-825-skateboard-deck"
       },
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/limosine-snake-pit-x-deck?variant=50996902265105"
       }
@@ -21001,7 +21001,7 @@
     "productName": "Sour Solution Square Sopranos Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/sour-solution-square-sopranos-deck?variant=51491578249489"
       }
@@ -21053,7 +21053,7 @@
     "productName": "Space Pupil OG Bauhaus Deck",
     "productPrices": [
       {
-        "spot": "69.0",
+        "spot": "69.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/space-pupil-og-bauhaus-deck-96826?variant=49835702878481"
       }
@@ -21274,7 +21274,7 @@
     "productName": "Strangelove Black Velvet Heart Skull Shaped Deck",
     "productPrices": [
       {
-        "spot": "100.0",
+        "spot": "100.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/strangelove-black-velvet-heart-skull-shaped-deck?variant=50953794355473"
       }
@@ -21287,7 +21287,7 @@
     "productName": "Strangelove Grassbopper Deck",
     "productPrices": [
       {
-        "spot": "79.0",
+        "spot": "79.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/strangelove-grassbopper-deck?variant=51420931096849"
       }
@@ -21300,7 +21300,7 @@
     "productName": "Strangelove Iris Shaped Deck",
     "productPrices": [
       {
-        "spot": "90.0",
+        "spot": "90.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/strangelove-iris-deck?variant=50953782526225"
       }
@@ -21313,7 +21313,7 @@
     "productName": "Strangelove Paul Zitzer Germ Screened Deck",
     "productPrices": [
       {
-        "spot": "65.0",
+        "spot": "65.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/strangelove-paul-zitzer-germ-screened-deck?variant=50702183006481"
       }
@@ -21326,7 +21326,7 @@
     "productName": "Strangelove Serial Party II Glow In The Dark Deck",
     "productPrices": [
       {
-        "spot": "90.0",
+        "spot": "90.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/strangelove-serial-party-ii-glow-in-the-dark-deck?variant=50702684389649"
       }
@@ -21339,7 +21339,7 @@
     "productName": "Strangelove Tarot Card Shaped Deck",
     "productPrices": [
       {
-        "spot": "79.0",
+        "spot": "79.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/strangelove-tarot-card-shaped-deck?variant=51296297222417"
       }
@@ -21352,7 +21352,7 @@
     "productName": "Strangelove Travis Deck",
     "productPrices": [
       {
-        "spot": "90.0",
+        "spot": "90.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/strangelove-travis-deck?variant=50953782067473"
       }
@@ -22064,7 +22064,7 @@
         "productVendorUrl": "https://www.zumiez.com/the-heated-wheel-position-open-9-0-skateboard-deck.html"
       },
       {
-        "spot": "62.0",
+        "spot": "62.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/the-heated-wheel-freeriders-deck?variant=50381138755857"
       }
@@ -22155,7 +22155,7 @@
     "productName": "Theories Nyle Lovett Broadcast Deck",
     "productPrices": [
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/theories-nyle-lovett-broadcast-deck?variant=50593913667857"
       }
@@ -22264,7 +22264,7 @@
     "productName": "There Kien Caples Blake Armstrong Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/there-kien-caples-blake-armstrong-deck?variant=51372526207249"
       }
@@ -22617,7 +22617,7 @@
         "productVendorUrl": "https://www.zumiez.com/toy-machine-axel-ladouceur-8-13-skateboard-deck.html"
       },
       {
-        "spot": "68.0",
+        "spot": "68.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/toy-machine-jeremy-leabres-ladouceur-deck?variant=50578531221777"
       }
@@ -22648,7 +22648,7 @@
         "productVendorUrl": "https://www.zumiez.com/toy-machine-rowley-fist-8-5-skateboard-deck.html"
       },
       {
-        "spot": "67.0",
+        "spot": "67.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/toy-machine-fists-deck?variant=50578472075537"
       }
@@ -22661,7 +22661,7 @@
     "productName": "Toy Machine Sect Eye Deck",
     "productPrices": [
       {
-        "spot": "53.0",
+        "spot": "53.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/toy-machine-sect-eye-deck?variant=50578481119505"
       }
@@ -22749,7 +22749,7 @@
     "productName": "Traffic Cover The Earth Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/traffic-skateboards-cover-the-earth-deck?variant=50974153670929"
       }
@@ -23126,7 +23126,7 @@
     "productName": "Vinyl Blake Carpenter Seraphim Deck",
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/vinyl-blake-carpenter-seraphim-deck?variant=50987279974673"
       }
@@ -23139,7 +23139,7 @@
     "productName": "Vinyl Robot Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/vinyl-robot-deck?variant=50987313594641"
       }
@@ -23165,7 +23165,7 @@
     "productName": "Vinyl Volt Splat Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/vinyl-volt-splat-deck?variant=51282529485073"
       }
@@ -23178,7 +23178,7 @@
     "productName": "Violet Studded Banana Bear Deck",
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/violet-studded-banana-bear-deck?variant=50658409546001"
       }
@@ -23427,7 +23427,7 @@
         "productVendorUrl": "https://www.tactics.com/metal-skateboards/welcome-home-875-skateboard-deck"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-welcome-home-deck?variant=51397910364433"
       }
@@ -23950,7 +23950,7 @@
         "productVendorUrl": "https://www.tactics.com/real/wilkins-key-of-life-85-skateboard-deck"
       },
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/real-jimmy-wilkins-key-of-life-deck?variant=51392658080017"
       }
@@ -24007,7 +24007,7 @@
         "productVendorUrl": "https://www.tactics.com/hopps-skateboards/williams-day-dreamer-825-skateboard-deck"
       },
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/hopps-jahmal-williams-day-dreamer-deck?variant=51453373415697"
       }
@@ -24051,7 +24051,7 @@
         "productVendorUrl": "https://www.tactics.com/heroin/wilson-hellscape-85-skateboard-deck"
       },
       {
-        "spot": "79.0",
+        "spot": "79.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/heroin-skateboards-aaron-wilson-hellscape-deck?variant=50718141841681"
       }
@@ -24095,7 +24095,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/wilson-turn-out-838-skateboard-deck/teal"
       },
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-andrew-wilson-turn-out-deck?variant=51207880081681"
       }
@@ -24178,7 +24178,7 @@
         "productVendorUrl": "https://www.zumiez.com/wknd-considine-third-eye-8-125-skateboard-deck.html"
       },
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/wknd-skateboards-andrew-considine-third-eye-deck?variant=51347648741649"
       }
@@ -24334,7 +24334,7 @@
     "productName": "WKND Alex Schmidt Croc o Clock Deck",
     "productPrices": [
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/wknd-skateboards-alex-schmidt-croc-o-clock-deck?variant=51347672432913"
       }
@@ -24347,7 +24347,7 @@
     "productName": "WKND Filip Almqvist Jesus Freak Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/wknd-skateboards-filip-almqvist-jesus-freak-deck?variant=51347681149201"
       }
@@ -24360,7 +24360,7 @@
     "productName": "WKND Nikolai Piombo XPT Deck",
     "productPrices": [
       {
-        "spot": "73.0",
+        "spot": "73.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/wknd-skateboards-nikolai-piombo-xpt-deck?variant=51347667976465"
       }
@@ -24685,7 +24685,7 @@
     "productName": "Zero Adam Arunski Wedge People Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/zero-adam-arunski-wedge-people-deck?variant=50853283725585"
       }
@@ -24716,7 +24716,7 @@
         "productVendorUrl": "https://www.zumiez.com/zero-blood-skull-8-0-skateboard-deck.html"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/zero-og-blood-skull-deck?variant=50853309710609"
       }
@@ -24729,7 +24729,7 @@
     "productName": "Zero Bold Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/zero-bold-deck?variant=50853308203281"
       }
@@ -24742,7 +24742,7 @@
     "productName": "Zero Brandon Burleigh Urban Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/zero-brandon-burleigh-urban-deck?variant=51144221524241"
       }
@@ -24786,7 +24786,7 @@
     "productName": "Zero Jamie Thomas Angel of Peace Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/zero-jamie-thomas-angel-of-peace-deck?variant=51144268251409"
       }
@@ -24825,7 +24825,7 @@
     "productName": "Zero Real Tree Single Skull Deck",
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/zero-real-tree-single-skull-deck?variant=50853297357073"
       }
@@ -24882,7 +24882,7 @@
     "productName": "Zero Zero x Misfits Collage Deck",
     "productPrices": [
       {
-        "spot": "75.0",
+        "spot": "75.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/zero-zero-x-misfits-collage-deck?variant=51267777200401"
       }
@@ -25082,7 +25082,7 @@
     "productName": "Classic Griptape Classic Die-Cut Griptape",
     "productPrices": [
       {
-        "spot": "10.0",
+        "spot": "10.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/classic-griptape-classic-die-cut-griptape-95564?variant=49244082831633"
       }
@@ -25420,7 +25420,7 @@
     "productName": "Grizzly Burn Out Stamp Red Griptape",
     "productPrices": [
       {
-        "spot": "14.0",
+        "spot": "14.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/grizzly-burn-out-stamp-red-griptape?variant=50954064789777"
       }
@@ -25472,7 +25472,7 @@
     "productName": "Grizzly Grizzly x SPoT City Star Bear Griptape",
     "productPrices": [
       {
-        "spot": "13.0",
+        "spot": "13.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/grizzly-grizzly-x-spot-city-star-bear-griptape-95353?variant=48247011279121"
       }
@@ -25485,7 +25485,7 @@
     "productName": "Grizzly Grizzly x SPoT Tampa Stamp Griptape",
     "productPrices": [
       {
-        "spot": "13.0",
+        "spot": "13.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/grizzly-grizzly-x-spot-tampa-stamp-griptape-95352?variant=48247012098321"
       }
@@ -25498,7 +25498,7 @@
     "productName": "Grizzly In My Feelings Griptape",
     "productPrices": [
       {
-        "spot": "10.0",
+        "spot": "10.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/grizzly-in-my-feelings-griptape-96135?variant=49244151021841"
       }
@@ -25511,7 +25511,7 @@
     "productName": "Grizzly Leticia Bufoni Camo Griptape",
     "productPrices": [
       {
-        "spot": "14.0",
+        "spot": "14.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/grizzly-leticia-bufoni-camo-griptape-90934?variant=48246463627537"
       }
@@ -25529,7 +25529,7 @@
         "productVendorUrl": "https://www.zumiez.com/grizzly-og-bear-cut-out-grip-tape.html"
       },
       {
-        "spot": "8.0",
+        "spot": "8.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/grizzly-bear-cut-out-griptape-53697?variant=48243461128465"
       }
@@ -25594,7 +25594,7 @@
     "productName": "Jessup Sheet Griptape",
     "productPrices": [
       {
-        "spot": "7.0",
+        "spot": "7.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/jessup-jessup-sheet-griptape-2056?variant=48243327959313"
       }
@@ -25607,7 +25607,7 @@
     "productName": "Jessup 1 Square Foot of Griptape",
     "productPrices": [
       {
-        "spot": "3.0",
+        "spot": "3.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/jessup-1-square-foot-of-griptape-68946?variant=48243744702737"
       }
@@ -25724,7 +25724,7 @@
     "productName": "Miles Griptape",
     "productPrices": [
       {
-        "spot": "10.0",
+        "spot": "10.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/miles-griptape-87330?variant=48245949825297"
       }
@@ -25763,7 +25763,7 @@
     "productName": "Mob Grip Framed Clear Graphic Griptape",
     "productPrices": [
       {
-        "spot": "14.0",
+        "spot": "14.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/mob-grip-framed-clear-graphic-griptape?variant=50722565194001"
       }
@@ -25789,7 +25789,7 @@
     "productName": "Mob Grip Perforated Sheet Griptape",
     "productPrices": [
       {
-        "spot": "7.0",
+        "spot": "7.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/mob-grip-perforated-sheet-griptape-12567?variant=48243371180305"
       }
@@ -25815,7 +25815,7 @@
     "productName": "Mob Grip Slime Balls Jay Howell Graphic Griptape",
     "productPrices": [
       {
-        "spot": "12.0",
+        "spot": "12.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/mob-grip-slime-balls-jay-howell-graphic-griptape-95974?variant=49244133654801"
       }
@@ -25828,7 +25828,7 @@
     "productName": "Mob Grip SPoT x Mob City Star Die-Cut Griptape",
     "productPrices": [
       {
-        "spot": "9.0",
+        "spot": "9.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/mob-grip-spot-x-mob-city-star-die-cut-griptape-24038?variant=48243419447569"
       }
@@ -25854,7 +25854,7 @@
     "productName": "Mob Grip Thrasher Large Skulls Graphic Griptape",
     "productPrices": [
       {
-        "spot": "14.0",
+        "spot": "14.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/mob-grip-thrasher-large-skulls-graphic-griptape?variant=50722562867473"
       }
@@ -25867,7 +25867,7 @@
     "productName": "Mob Grip x Square of MOB Griptape",
     "productPrices": [
       {
-        "spot": "3.0",
+        "spot": "3.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/mob-grip-11-x-12-square-of-mob-griptape-96822?variant=49835702386961"
       }
@@ -25950,7 +25950,7 @@
         "productVendorUrl": "https://www.zumiez.com/mob-x-matt-crabe-reapers-grip-tape.html"
       },
       {
-        "spot": "14.0",
+        "spot": "14.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/mob-grip-matt-crabe-reaper-graphic-griptape?variant=50722558968081"
       }
@@ -26080,7 +26080,7 @@
     "productName": "Pepper Brian Delatorre Signature Griptape",
     "productPrices": [
       {
-        "spot": "12.0",
+        "spot": "12.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/pepper-brian-delatorre-signature-griptape?variant=51190008906001"
       }
@@ -26150,7 +26150,7 @@
     "productName": "Powell Mini Logo 1 Square Foot of Griptape",
     "productPrices": [
       {
-        "spot": "3.0",
+        "spot": "3.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/powell-mini-logo-1-square-foot-of-griptape-69241?variant=48243756531985"
       }
@@ -26176,7 +26176,7 @@
     "productName": "Primitive Skateboarding Sublime Arise Graphic Griptape",
     "productPrices": [
       {
-        "spot": "16.0",
+        "spot": "16.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-sublime-arise-graphic-griptape?variant=51441666621713"
       }
@@ -26501,7 +26501,7 @@
     "productName": "Shake Junt Andrew Reynolds Griptape",
     "productPrices": [
       {
-        "spot": "14.0",
+        "spot": "14.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/shake-junt-andrew-reynolds-griptape?variant=50853417025809"
       }
@@ -26514,7 +26514,7 @@
     "productName": "Shake Junt Black Onyx Griptape",
     "productPrices": [
       {
-        "spot": "10.0",
+        "spot": "10.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/shake-junt-black-onyx-griptape?variant=50853395988753"
       }
@@ -26527,7 +26527,7 @@
     "productName": "Shake Junt Die-Cut Logo Griptape",
     "productPrices": [
       {
-        "spot": "10.0",
+        "spot": "10.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/shake-junt-die-cut-logo-griptape-77604?variant=48244619313425"
       }
@@ -26540,7 +26540,7 @@
     "productName": "Shake Junt Jacopo Pro Griptape",
     "productPrices": [
       {
-        "spot": "12.0",
+        "spot": "12.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/shake-junt-jacopo-pro-griptape-90411?variant=48246379675921"
       }
@@ -26553,7 +26553,7 @@
     "productName": "Shake Junt Jamie Foy Hurricane Griptape",
     "productPrices": [
       {
-        "spot": "14.0",
+        "spot": "14.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/shake-junt-jamie-foy-hurricane-griptape?variant=50853377212689"
       }
@@ -26566,7 +26566,7 @@
     "productName": "Shake Junt Lo Key Sprayed Griptape",
     "productPrices": [
       {
-        "spot": "15.0",
+        "spot": "15.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/shake-junt-lo-key-sprayed-griptape-74644?variant=48244217053457"
       }
@@ -26579,7 +26579,7 @@
     "productName": "Shake Junt Mob Grip Jamie Foy Collegiate Graphic Griptape",
     "productPrices": [
       {
-        "spot": "15.0",
+        "spot": "15.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/shake-junt-mob-grip-jamie-foy-collegiate-graphic-griptape?variant=50943332745489"
       }
@@ -26943,7 +26943,7 @@
     "productName": "Creature Slider Rails",
     "productPrices": [
       {
-        "spot": "10.0",
+        "spot": "10.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-slider-rails-71436?variant=48243897860369"
       }
@@ -26956,7 +26956,7 @@
     "productName": "Deathwish Glitter Death Rails",
     "productPrices": [
       {
-        "spot": "12.0",
+        "spot": "12.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-glitter-death-rails-78440?variant=48244745732369"
       }
@@ -26982,7 +26982,7 @@
     "productName": "Girl OG Rails",
     "productPrices": [
       {
-        "spot": "8.0",
+        "spot": "8.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/girl-og-rails-72400?variant=48243984662801"
       }
@@ -27535,7 +27535,7 @@
     "productName": "Ace Trucks Ace 33 Colored Truck",
     "productPrices": [
       {
-        "spot": "25.0",
+        "spot": "25.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/ace-trucks-ace-33-colored-truck-59811?variant=48243535118609"
       }
@@ -27548,7 +27548,7 @@
     "productName": "Ace Trucks Brian Anderson AF1 Limited Truck",
     "productPrices": [
       {
-        "spot": "28.0",
+        "spot": "28.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/ace-trucks-brian-anderson-af1-limited-truck-96616?variant=49244195651857"
       }
@@ -27561,7 +27561,7 @@
     "productName": "Ace Trucks Deedz Limited AF1 Hollow Truck",
     "productPrices": [
       {
-        "spot": "28.0",
+        "spot": "28.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/ace-trucks-deedz-limited-af1-hollow-truck-96617?variant=50191155888401"
       }
@@ -27782,7 +27782,7 @@
     "productName": "Independent Hockey x Independent Stage 11 Croc Standard Truck",
     "productPrices": [
       {
-        "spot": "25.0",
+        "spot": "25.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/independent-hockey-x-independent-stage-11-croc-standard-truck-96004?variant=49244137521425"
       }
@@ -27860,7 +27860,7 @@
     "productName": "Independent Stage 4 Pro Mark Gonzales Truck",
     "productPrices": [
       {
-        "spot": "31.0",
+        "spot": "31.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/independent-stage-4-pro-mark-gonzales-truck?variant=51244730155281"
       }
@@ -27873,7 +27873,7 @@
     "productName": "Independent T Funk Stage 11 Standard Truck",
     "productPrices": [
       {
-        "spot": "22.0",
+        "spot": "22.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/independent-t-funk-stage-11-standard-truck-95211?variant=48246997680401"
       }
@@ -27974,7 +27974,7 @@
     "productName": "Krux Grind Out Racism DLK Truck",
     "productPrices": [
       {
-        "spot": "16.0",
+        "spot": "16.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/krux-grind-out-racism-dlk-truck-88902?variant=48246185492753"
       }
@@ -28018,7 +28018,7 @@
         "productVendorUrl": "https://www.zumiez.com/krux-k5-dlk-polished-8-0-skateboard-truck.html"
       },
       {
-        "spot": "17.0",
+        "spot": "17.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/krux-standard-skateboard-truck-77422?variant=48244596703505"
       }
@@ -28044,7 +28044,7 @@
     "productName": "Krux K5 Nora Vasconcellos By Alexis Standard Truck",
     "productPrices": [
       {
-        "spot": "20.0",
+        "spot": "20.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/krux-k5-nora-vasconcellos-by-alexis-standard-truck-89637?variant=48246282092817"
       }
@@ -28057,7 +28057,7 @@
     "productName": "Krux K5 Pro Nora Vasconcellos Dreams DLK Standard Truck",
     "productPrices": [
       {
-        "spot": "18.0",
+        "spot": "18.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/krux-k5-pro-nora-vasconcellos-dreams-dlk-standard-truck-91884?variant=48246586802449"
       }
@@ -28083,7 +28083,7 @@
     "productName": "Krux K5 VIP Red Velvet DLK Truck",
     "productPrices": [
       {
-        "spot": "21.0",
+        "spot": "21.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/krux-k5-vip-red-velvet-dlk-truck-95874?variant=49244119171345"
       }
@@ -28109,7 +28109,7 @@
     "productName": "Krux Krome Kelvin Hoefler Truck",
     "productPrices": [
       {
-        "spot": "20.0",
+        "spot": "20.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/krux-krome-kelvin-hoefler-truck-79915?variant=48244930609425"
       }
@@ -28213,7 +28213,7 @@
     "productName": "Krux Nora By Lori D K5 Pro Truck",
     "productPrices": [
       {
-        "spot": "23.0",
+        "spot": "23.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/krux-nora-by-lori-d-k5-pro-truck-94715?variant=48246942826769"
       }
@@ -28265,7 +28265,7 @@
     "productName": "Krux Reverse Goth K5 DLK Truck",
     "productPrices": [
       {
-        "spot": "18.0",
+        "spot": "18.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/krux-reverse-goth-k5-dlk-truck-93136?variant=48246762766609"
       }
@@ -28353,7 +28353,7 @@
   {
     "slug": "mini-logo-trucks-8-0",
     "category": "trucks",
-    "productName": "Mini logo Trucks 8.0",
+    "productName": "Mini logo Trucks 8.00",
     "productPrices": [
       {
         "minilogo": "42.95",
@@ -28434,7 +28434,7 @@
     "productName": "Royal Crailtap Cursor Truck",
     "productPrices": [
       {
-        "spot": "22.0",
+        "spot": "22.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/royal-crailtap-cursor-truck-77365?variant=48244588740881"
       }
@@ -28447,7 +28447,7 @@
     "productName": "Royal Daniel Espinoza Pro Truck",
     "productPrices": [
       {
-        "spot": "22.0",
+        "spot": "22.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/royal-daniel-espinoza-pro-truck-81267?variant=48245104902417"
       }
@@ -28473,7 +28473,7 @@
     "productName": "Royal Jose Rojo Pro Trucks",
     "productPrices": [
       {
-        "spot": "22.0",
+        "spot": "22.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/royal-jose-rojo-pro-trucks-79234?variant=48244843970833"
       }
@@ -28486,7 +28486,7 @@
     "productName": "Royal Low Truck",
     "productPrices": [
       {
-        "spot": "23.0",
+        "spot": "23.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/royal-low-truck-73559?variant=48244091126033"
       }
@@ -28499,7 +28499,7 @@
     "productName": "Royal Mike Mo Capaldi Signature Truck",
     "productPrices": [
       {
-        "spot": "24.0",
+        "spot": "24.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/royal-mike-mo-capaldi-signature-truck-78120?variant=48244678033681"
       }
@@ -28512,7 +28512,7 @@
     "productName": "Royal Royal Mini Crown Truck",
     "productPrices": [
       {
-        "spot": "22.0",
+        "spot": "22.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/royal-royal-mini-crown-truck-75676?variant=48244346880273"
       }
@@ -28525,7 +28525,7 @@
     "productName": "Royal Standard Truck",
     "productPrices": [
       {
-        "spot": "22.0",
+        "spot": "22.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/royal-standard-truck-70901?variant=48243850182929"
       }
@@ -28538,7 +28538,7 @@
     "productName": "Royal Street Pirate Low Trucks",
     "productPrices": [
       {
-        "spot": "22.0",
+        "spot": "22.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/royal-street-pirate-low-trucks-80653?variant=48245021344017"
       }
@@ -28564,7 +28564,7 @@
     "productName": "Royal Ultra Light Truck",
     "productPrices": [
       {
-        "spot": "30.0",
+        "spot": "30.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/royal-ultra-light-truck-90301?variant=48246365585681"
       }
@@ -28577,7 +28577,7 @@
     "productName": "Royal Vincent Alvarez Signature Truck",
     "productPrices": [
       {
-        "spot": "24.0",
+        "spot": "24.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/royal-vincent-alvarez-signature-truck-72398?variant=48243984531729"
       }
@@ -28616,7 +28616,7 @@
     "productName": "Silver Brandon Biebel Crafted M-Class Set Trucks",
     "productPrices": [
       {
-        "spot": "40.0",
+        "spot": "40.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/silver-brandon-biebel-crafted-m-class-set-trucks-63701?variant=48243609239825"
       }
@@ -28629,7 +28629,7 @@
     "productName": "Silver Cody McEntire Everlast M-Class Set Trucks",
     "productPrices": [
       {
-        "spot": "40.0",
+        "spot": "40.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/silver-cody-mcentire-everlast-m-class-set-trucks-63697?variant=48243608813841"
       }
@@ -28642,7 +28642,7 @@
     "productName": "Silver Josh Kalis Everlast M-Class Set Trucks",
     "productPrices": [
       {
-        "spot": "40.0",
+        "spot": "40.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/silver-josh-kalis-everlast-m-class-set-trucks-62726?variant=48243591479569"
       }
@@ -28655,7 +28655,7 @@
     "productName": "Silver L-Class Set Of Trucks",
     "productPrices": [
       {
-        "spot": "30.0",
+        "spot": "30.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/silver-l-class-set-of-trucks-76428?variant=48244442824977"
       }
@@ -28668,7 +28668,7 @@
     "productName": "Silver M-Class Hollow Set Trucks",
     "productPrices": [
       {
-        "spot": "35.0",
+        "spot": "35.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/silver-m-class-hollow-set-trucks-63699?variant=50066872172817"
       }
@@ -28694,7 +28694,7 @@
     "productName": "Silver Ryan Gallant L-Class Trucks",
     "productPrices": [
       {
-        "spot": "35.0",
+        "spot": "35.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/silver-ryan-gallant-l-class-trucks-77731?variant=48244637434129"
       }
@@ -28707,7 +28707,7 @@
     "productName": "Silver Silver S-Class Regal Pattern Set Of Trucks",
     "productPrices": [
       {
-        "spot": "35.0",
+        "spot": "35.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/silver-silver-s-class-regal-pattern-set-of-trucks-75543?variant=48244327448849"
       }
@@ -28720,7 +28720,7 @@
     "productName": "Silver 10 Year Anniversary M-Class Set Trucks",
     "productPrices": [
       {
-        "spot": "20.0",
+        "spot": "20.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/silver-10-year-anniversary-m-class-set-trucks-63702?variant=48243609207057"
       }
@@ -28738,7 +28738,7 @@
         "productVendorUrl": "https://www.zumiez.com/slappy-curb-killer-inverted-8-5-matte-black-skateboard-truck.html"
       },
       {
-        "spot": "34.0",
+        "spot": "34.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/slappy-trucks-st1-inverted-curb-killer-black-truck?variant=50977437450513"
       }
@@ -28769,7 +28769,7 @@
         "productVendorUrl": "https://www.zumiez.com/slappy-st1-curb-creeper-8-5-purple-black-skateboard-truck.html"
       },
       {
-        "spot": "33.0",
+        "spot": "33.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/slappy-trucks-st1-hollow-lights-gunmetal-truck?variant=50977452196113"
       }
@@ -28886,7 +28886,7 @@
     "productName": "The Heated Wheel Polarizer Trucks",
     "productPrices": [
       {
-        "spot": "54.0",
+        "spot": "54.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/the-heated-wheel-polarizer-trucks-94689?variant=50066907660561"
       }
@@ -28925,7 +28925,7 @@
     "productName": "Thunder Catalyst Team Edition Truck",
     "productPrices": [
       {
-        "spot": "20.0",
+        "spot": "20.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-catalyst-team-edition-truck-94048?variant=48246873882897"
       }
@@ -28938,7 +28938,7 @@
     "productName": "Thunder Gilded Team Hollow Light Truck",
     "productPrices": [
       {
-        "spot": "24.0",
+        "spot": "24.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-gilded-team-hollow-light-truck?variant=50268662399249"
       }
@@ -28956,7 +28956,7 @@
         "productVendorUrl": "https://www.zumiez.com/thunder-grenade-hollow-lights-grey-147-skateboard-truck.html"
       },
       {
-        "spot": "22.0",
+        "spot": "22.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-death-grip-light-truck-95305?variant=48247007445265"
       }
@@ -28969,7 +28969,7 @@
     "productName": "Thunder Hollow Lights II Truck",
     "productPrices": [
       {
-        "spot": "32.0",
+        "spot": "32.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-hollow-lights-ii-truck-82113?variant=48245243707665"
       }
@@ -28995,7 +28995,7 @@
     "productName": "Thunder Ishod Wair Dawg Team Hollow Truck",
     "productPrices": [
       {
-        "spot": "23.0",
+        "spot": "23.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-ishod-wair-dawg-team-hollow-truck-94662?variant=48246937714961"
       }
@@ -29008,7 +29008,7 @@
     "productName": "Thunder Jamie Foy Fauna Pro Truck",
     "productPrices": [
       {
-        "spot": "28.0",
+        "spot": "28.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-jamie-foy-fauna-pro-truck?variant=51392900923665"
       }
@@ -29047,7 +29047,7 @@
     "productName": "Thunder Miles Silvas Masked Hollow Light Truck",
     "productPrices": [
       {
-        "spot": "24.0",
+        "spot": "24.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-miles-silvas-masked-hollow-light-truck-96303?variant=49244163244305"
       }
@@ -29065,7 +29065,7 @@
         "productVendorUrl": "https://www.zumiez.com/thunder-nora-campus-pro-purple-and-silver-147-skateboard-truck.html"
       },
       {
-        "spot": "28.0",
+        "spot": "28.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-nora-vasconcellos-campus-pro-truck?variant=50965264859409"
       }
@@ -29091,7 +29091,7 @@
     "productName": "Thunder Team Hollow Polished Truck",
     "productPrices": [
       {
-        "spot": "32.0",
+        "spot": "32.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-team-hollow-polished-truck?variant=51372458836241"
       }
@@ -29104,7 +29104,7 @@
     "productName": "Thunder Truck",
     "productPrices": [
       {
-        "spot": "24.0",
+        "spot": "24.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-thunder-truck-2541?variant=48243342541073"
       }
@@ -29143,7 +29143,7 @@
     "productName": "Venture John Shanahan Street V-Light Truck",
     "productPrices": [
       {
-        "spot": "22.0",
+        "spot": "22.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/venture-john-shanahan-street-v-light-truck-96304?variant=49244163637521"
       }
@@ -29174,7 +29174,7 @@
         "productVendorUrl": "https://www.zumiez.com/venture-koston-v8-silver-5-6-skateboard-truck.html"
       },
       {
-        "spot": "28.0",
+        "spot": "28.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/venture-eric-koston-v8-polished-truck?variant=50917099929873"
       }
@@ -29218,7 +29218,7 @@
     "productName": "Venture V-Forged Polished Truck",
     "productPrices": [
       {
-        "spot": "25.0",
+        "spot": "25.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/venture-v-forged-polished-truck?variant=51484168618257"
       }
@@ -29231,7 +29231,7 @@
     "productName": "Venture V-Hollow Truck",
     "productPrices": [
       {
-        "spot": "32.0",
+        "spot": "32.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/venture-v-hollow-truck?variant=50717487038737"
       }
@@ -29244,7 +29244,7 @@
     "productName": "Venture V-Light Trucks",
     "productPrices": [
       {
-        "spot": "28.0",
+        "spot": "28.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/venture-v-light-trucks-79457?variant=48244872413457"
       }
@@ -29257,7 +29257,7 @@
     "productName": "Venture Venture x Violet Team Truck",
     "productPrices": [
       {
-        "spot": "21.0",
+        "spot": "21.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/venture-venture-x-violet-team-truck-94431?variant=48246910550289"
       }
@@ -29597,7 +29597,7 @@
     "productName": "Bones Wheels Lizzie Armanto Alma Mutter X-Formula V5 Sidecut 99a Wheels",
     "productPrices": [
       {
-        "spot": "41.0",
+        "spot": "41.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/bones-wheels-lizzie-armanto-alma-mutter-x-formula-v5-sidecut-99a-wheels?variant=50840722473233"
       }
@@ -29649,7 +29649,7 @@
     "productName": "Bones Wheels X-Formula Dark Waters V5 Sidecut 99a Wheels",
     "productPrices": [
       {
-        "spot": "41.0",
+        "spot": "41.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/bones-wheels-x-formula-dark-waters-v5-sidecut-99a-wheels?variant=50986474438929"
       }
@@ -29672,7 +29672,7 @@
         "productVendorUrl": "https://www.tactics.com/bones/x-formula-v7-double-lock-skateboard-wheels/gold-chain-99a"
       },
       {
-        "spot": "41.0",
+        "spot": "41.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/bones-wheels-double-lock-x-formula-v7-99a-wheels?variant=51208179286289"
       }
@@ -29703,7 +29703,7 @@
         "productVendorUrl": "https://www.zumiez.com/bones-x-formula-pudwill-eyeing-saucer-53mm-99a-skateboard-wheels.html"
       },
       {
-        "spot": "41.0",
+        "spot": "41.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/bones-wheels-x-formula-torey-pudwill-eyeing-saucer-v1-standard-99a-wheels?variant=50986485219601"
       }
@@ -29947,7 +29947,7 @@
         "productVendorUrl": "https://www.tactics.com/oj/creature-how-to-kill-a-vampire-bloodsuckers-skateboard-wheels/purple-99a"
       },
       {
-        "spot": "41.0",
+        "spot": "41.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/oj-3-creature-how-to-kill-a-vampire-bloodsuckers-99a-wheels?variant=51434084794641"
       }
@@ -30038,7 +30038,7 @@
     "productName": "Dial Tone Christian Maalouf Blue Cat 99A Wheels",
     "productPrices": [
       {
-        "spot": "31.0",
+        "spot": "31.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/dial-tone-christian-maalouf-blue-cat-99a-wheels-96969?variant=50010974486801"
       }
@@ -30069,7 +30069,7 @@
         "productVendorUrl": "https://www.tactics.com/powell-peralta/dragon-formula-rat-bones-ii-skateboard-wheels/off-white-93a"
       },
       {
-        "spot": "44.0",
+        "spot": "44.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/bones-wheels-spencer-semien-dragon-formula-nano-rat-93a-wheels?variant=50924891210001"
       }
@@ -30261,7 +30261,7 @@
         "productVendorUrl": "https://www.zumiez.com/oj-frozen-energy-keyframe-52mm-92a-black-skateboard-wheels.html"
       },
       {
-        "spot": "39.0",
+        "spot": "39.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/oj-3-frozen-energy-92a-wheels?variant=51210060366097"
       }
@@ -30565,7 +30565,7 @@
         "productVendorUrl": "https://www.tactics.com/oj/lil-dough-butts-mini-chubbies-skateboard-wheels/white-99a"
       },
       {
-        "spot": "37.0",
+        "spot": "37.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/oj-3-lil-dough-butts-mini-chubbies-99a-wheels?variant=50721876869393"
       }
@@ -30731,7 +30731,7 @@
     "productName": "OJ 3 Creature DNA Curbsuckers Clear Swirl 95a Wheels",
     "productPrices": [
       {
-        "spot": "41.0",
+        "spot": "41.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/oj-3-creature-dna-curbsuckers-clear-swirl-95a-wheels?variant=51488295190801"
       }
@@ -30744,7 +30744,7 @@
     "productName": "OJ 3 Double Duro Mini Combo 99a/95a Wheels",
     "productPrices": [
       {
-        "spot": "57.0",
+        "spot": "57.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/oj-3-double-duro-mini-combo-99a-95a-wheels?variant=50443671372049"
       }
@@ -30770,7 +30770,7 @@
     "productName": "OJ 3 Elite Hardline 99a Wheels",
     "productPrices": [
       {
-        "spot": "40.0",
+        "spot": "40.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/oj-3-elite-hardline-99a-wheels?variant=50890907713809"
       }
@@ -30783,7 +30783,7 @@
     "productName": "OJ 3 Elite Nomads 95a Wheels",
     "productPrices": [
       {
-        "spot": "39.0",
+        "spot": "39.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/oj-3-elite-nomads-95a-wheels-85583?variant=51464095105297"
       }
@@ -30848,7 +30848,7 @@
     "productName": "OJ 3 Grey Matter EZ Edge 99a Wheels",
     "productPrices": [
       {
-        "spot": "39.0",
+        "spot": "39.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/oj-3-grey-matter-ez-edge-99a-wheels?variant=51438853882129"
       }
@@ -30861,7 +30861,7 @@
     "productName": "OJ 3 Grey Matter Hardline 101a Wheels",
     "productPrices": [
       {
-        "spot": "39.0",
+        "spot": "39.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/oj-3-grey-matter-hardline-101a-wheels?variant=51438854045969"
       }
@@ -30905,7 +30905,7 @@
     "productName": "OJ 3 Jake Yanko Night Panda Elite Chubbies 99a Wheels",
     "productPrices": [
       {
-        "spot": "41.0",
+        "spot": "41.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/oj-3-jake-yanko-night-panda-elite-chubbies-99a-wheels?variant=50721863958801"
       }
@@ -30931,7 +30931,7 @@
     "productName": "OJ 3 Lil Doodies 99a Wheels",
     "productPrices": [
       {
-        "spot": "41.0",
+        "spot": "41.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/oj-3-lil-doodies-99a-wheels?variant=51209908617489"
       }
@@ -30970,7 +30970,7 @@
     "productName": "OJ 3 Milton Martinez Gold Skeletons Double Duro Mini Combo 101a/95a Wheels",
     "productPrices": [
       {
-        "spot": "40.0",
+        "spot": "40.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/oj-3-milton-martinez-gold-skeletons-double-duro-mini-combo-101a95a-wheels-96840?variant=49835703730449"
       }
@@ -30996,7 +30996,7 @@
     "productName": "OJ 3 Mini Super Juice 78a Wheels",
     "productPrices": [
       {
-        "spot": "37.0",
+        "spot": "37.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/oj-3-mini-super-juice-78a-wheels-81501?variant=48245140848913"
       }
@@ -31048,7 +31048,7 @@
     "productName": "OJ 3 Plain Jane Keyframe 87a Wheels",
     "productPrices": [
       {
-        "spot": "37.0",
+        "spot": "37.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/oj-3-plain-jane-keyframe-87a-wheels-62433?variant=48243588923665"
       }
@@ -31399,7 +31399,7 @@
     "productName": "Powell Peralta Snakes 75A Wheels",
     "productPrices": [
       {
-        "spot": "61.0",
+        "spot": "61.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/powell-peralta-snakes-75a-wheels?variant=50840704090385"
       }
@@ -31482,7 +31482,7 @@
         "productVendorUrl": "https://www.zumiez.com/ricta-clouds-57mm-78a-iridescent-blue-crusier-skateboard-wheels.html"
       },
       {
-        "spot": "41.0",
+        "spot": "41.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/ricta-iridescent-blue-clouds-78a-wheels?variant=50890922098961"
       }
@@ -31638,7 +31638,7 @@
     "productName": "Santa Cruz Slime Balls Mike Giant Speed Balls 99a Wheels",
     "productPrices": [
       {
-        "spot": "30.0",
+        "spot": "30.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-slime-balls-mike-giant-speed-balls-99a-wheels-95088?variant=48246988210449"
       }
@@ -31677,7 +31677,7 @@
     "productName": "Satori Boozer Cruiser 84a Cruiser Wheels",
     "productPrices": [
       {
-        "spot": "45.0",
+        "spot": "45.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/satori-boozer-cruiser-84a-cruiser-wheels?variant=50629610111249"
       }
@@ -31690,7 +31690,7 @@
     "productName": "Satori Lifted Whip 78a Cruiser Wheels",
     "productPrices": [
       {
-        "spot": "45.0",
+        "spot": "45.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/satori-lifted-whip-78a-cruiser-wheels?variant=50629621416209"
       }
@@ -31703,7 +31703,7 @@
     "productName": "Satori Super Kush 78a Cruiser Wheels",
     "productPrices": [
       {
-        "spot": "45.0",
+        "spot": "45.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/satori-super-kush-78a-cruiser-wheels?variant=50629618467089"
       }
@@ -31794,7 +31794,7 @@
     "productName": "Skatepark of Tampa SPoT Basic Blank Wheels",
     "productPrices": [
       {
-        "spot": "20.0",
+        "spot": "20.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/skatepark-of-tampa-spot-basic-blank-wheels-69060?variant=48243748667665"
       }
@@ -31877,7 +31877,7 @@
         "productVendorUrl": "https://www.zumiez.com/slime-balls-light-ups-led-gator-swamp-spew-66mm-78a-pink-cruiser-skateboard-wheels.html"
       },
       {
-        "spot": "49.0",
+        "spot": "49.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-slime-balls-gator-swamp-spew-light-up-78a-wheels?variant=51144717664529"
       }
@@ -32082,7 +32082,7 @@
         "productVendorUrl": "https://www.tactics.com/spitfire/formula-four-conical-skateboard-wheels/white-green-101d"
       },
       {
-        "spot": "43.0",
+        "spot": "43.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/spitfire-formula-four-101d-conical-full-shaped-wheels-66582?variant=48243668746513"
       }
@@ -32100,7 +32100,7 @@
         "productVendorUrl": "https://www.zumiez.com/spitfire-burners-purple-56mm-99a-skateboard-wheels.html"
       },
       {
-        "spot": "30.0",
+        "spot": "30.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/spitfire-burner-99d-wheels?variant=50717556080913"
       }
@@ -32113,7 +32113,7 @@
     "productName": "Spitfire 80HD Chargers Classic Full Wheels",
     "productPrices": [
       {
-        "spot": "42.0",
+        "spot": "42.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/spitfire-80hd-chargers-classic-full-wheels-91707?variant=48246553444625"
       }
@@ -32139,7 +32139,7 @@
     "productName": "Spitfire Demon Gate Radial Full Glow Formula Four 99D Wheels",
     "productPrices": [
       {
-        "spot": "43.0",
+        "spot": "43.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/spitfire-demon-gate-radial-full-glow-formula-four-99d-wheels?variant=51392797376785"
       }
@@ -32204,7 +32204,7 @@
     "productName": "Spitfire Neon Yellow Bighead 99D Wheels",
     "productPrices": [
       {
-        "spot": "36.0",
+        "spot": "36.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/spitfire-neon-yellow-bighead-99d-wheels?variant=51484175827217"
       }
@@ -32217,7 +32217,7 @@
     "productName": "Spitfire 80HD Super Wide CMYK 80HD Wheels",
     "productPrices": [
       {
-        "spot": "45.0",
+        "spot": "45.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/spitfire-80hd-super-wide-cmyk-80hd-wheels?variant=51393550844177"
       }
@@ -32269,7 +32269,7 @@
     "productName": "Spitfire Tiago Lemos Sure Shot F499D Classic Wheels",
     "productPrices": [
       {
-        "spot": "43.0",
+        "spot": "43.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/spitfire-tiago-lemos-sure-shot-f499d-classic-wheels?variant=50717551821073"
       }
@@ -32347,7 +32347,7 @@
     "productName": "The Heated Wheel Phasecaster Sofa Tone 78a Wheels",
     "productPrices": [
       {
-        "spot": "38.0",
+        "spot": "38.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/the-heated-wheel-phasecaster-sofa-tone-78a-wheels-96897?variant=49835709235473"
       }
@@ -32744,7 +32744,7 @@
     "productName": "Ceramic",
     "productPrices": [
       {
-        "suregrip": "129.0",
+        "suregrip": "129.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/ceramic"
       }
@@ -32796,7 +32796,7 @@
     "productName": "Gold",
     "productPrices": [
       {
-        "suregrip": "75.0",
+        "suregrip": "75.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/gold"
       }
@@ -32848,7 +32848,7 @@
     "productName": "Kwik Ceramic Ball Bearings",
     "productPrices": [
       {
-        "moxi": "149.0",
+        "moxi": "149.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/bearings/products/kwik-brand-ceramic-ball-bearings"
       },
@@ -32871,7 +32871,7 @@
     "productName": "Kwik Swiss Bearings",
     "productPrices": [
       {
-        "moxi": "95.0",
+        "moxi": "95.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/bearings/products/kwik-swiss-bearings"
       }
@@ -32928,7 +32928,7 @@
         "productVendorUrl": "https://medusaskates.com/kwik-zenith-bearings/"
       },
       {
-        "moxi": "40.0",
+        "moxi": "40.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/bearings/products/kwik-brand-zenith-bearings"
       }
@@ -32972,7 +32972,7 @@
         "productVendorUrl": "https://medusaskates.com/moxi-mixtape-bearings-8mm-16-pack/"
       },
       {
-        "moxi": "35.0",
+        "moxi": "35.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/bearings/products/mixtape-bearings"
       },
@@ -33068,7 +33068,7 @@
     "productName": "Roller Skate Bearing Press",
     "productPrices": [
       {
-        "bont": "65.0",
+        "bont": "65.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-bearings/products/roller-skate-bearing-press"
       }
@@ -33094,7 +33094,7 @@
     "productName": "688 Roller Skate Mini Bearings",
     "productPrices": [
       {
-        "bont": "73.0",
+        "bont": "73.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-bearings/products/688-roller-skate-mini-bearings"
       }
@@ -33333,6 +33333,11 @@
         "riedell": "429.00",
         "url": "https://roller.riedellskates.com",
         "productVendorUrl": "https://roller.riedellskates.com/Product/boot-antik-ar2"
+      },
+      {
+        "lowlifemtl": "408.00",
+        "url": "https://www.lowlifemtl.com",
+        "productVendorUrl": "https://www.lowlifemtl.com/collections/boots/products/ar2"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370325/metacrawler/jfa7cp9d3jvzkptv9jlg.webp"
@@ -33356,7 +33361,7 @@
     "productName": "Antik Skyhawk Only",
     "productPrices": [
       {
-        "medusaskates": "149",
+        "medusaskates": "149.00",
         "url": "https://medusaskates.com",
         "productVendorUrl": "https://medusaskates.com/antik-skyhawk-boot-only/"
       },
@@ -33369,6 +33374,11 @@
         "riedell": "149.00",
         "url": "https://roller.riedellskates.com",
         "productVendorUrl": "https://roller.riedellskates.com/Product/boot-antik-skyhawk"
+      },
+      {
+        "lowlifemtl": "111.00",
+        "url": "https://www.lowlifemtl.com",
+        "productVendorUrl": "https://www.lowlifemtl.com/products/skyhawk-boot-only"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468303/ldjsonbuild/xnbkiylfmey6pzbusyzf.webp"
@@ -33379,7 +33389,7 @@
     "productName": "Boardwalk",
     "productPrices": [
       {
-        "suregrip": "100.0",
+        "suregrip": "100.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/boardwalk-boot"
       }
@@ -33392,7 +33402,7 @@
     "productName": "Boardwalk Plus",
     "productPrices": [
       {
-        "suregrip": "159.0",
+        "suregrip": "159.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/boardwalk-plus-boot"
       }
@@ -33496,7 +33506,7 @@
     "productName": "Envy Jam and Speed Skate",
     "productPrices": [
       {
-        "bont": "279.0",
+        "bont": "279.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-speed-skates/products/envy-jam-and-speed-skate-boots"
       }
@@ -33509,7 +33519,7 @@
     "productName": "Fame",
     "productPrices": [
       {
-        "suregrip": "99.0",
+        "suregrip": "99.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/fame-boot"
       }
@@ -33628,7 +33638,7 @@
         "productVendorUrl": "https://www.derbywarehouse.com/Moxi_Jack_1/descpage-JACK.html"
       },
       {
-        "moxi": "349.0",
+        "moxi": "349.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/jack-1-boot-only/products/customize-a-jack-green-apple"
       },
@@ -33651,14 +33661,19 @@
         "productVendorUrl": "https://www.derbywarehouse.com/Moxi_Lolly/descpage-MLOLB.html"
       },
       {
-        "medusaskates": "269",
+        "medusaskates": "269.00",
         "url": "https://medusaskates.com",
         "productVendorUrl": "https://medusaskates.com/moxiboot"
       },
       {
-        "moxi": "279.0",
+        "moxi": "279.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/boot-only-skates/products/customize-a-lolly-black"
+      },
+      {
+        "lowlifemtl": "245.00",
+        "url": "https://www.lowlifemtl.com",
+        "productVendorUrl": "https://www.lowlifemtl.com/collections/boots/products/lolly-boot-only"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370636/metacrawler/drg33ibrihy20n9u8psb.webp"
@@ -33682,7 +33697,7 @@
     "productName": "MyBonts Hybrid Fiberglass Roller Derby Skate",
     "productPrices": [
       {
-        "bont": "439.0",
+        "bont": "439.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-derby-skates/products/mybonts-hybrid-fiberglass-roller-derby-skate-boots"
       },
@@ -33700,7 +33715,7 @@
     "productName": "MyBonts Racer Carbon Speed Skate",
     "productPrices": [
       {
-        "bont": "479.0",
+        "bont": "479.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-speed-skates/products/mybonts-racer-carbon-speed-skate-boots"
       }
@@ -33752,7 +33767,7 @@
     "productName": "Oxford",
     "productPrices": [
       {
-        "suregrip": "169.0",
+        "suregrip": "169.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/oxford-boot"
       }
@@ -33765,7 +33780,7 @@
     "productName": "ParkStar Roller Skate",
     "productPrices": [
       {
-        "bont": "229.0",
+        "bont": "229.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/park-roller-skates/products/parkstar-roller-skate-boots-blue-suede"
       },
@@ -33783,7 +33798,7 @@
     "productName": "Quadstar Carbon Roller Derby Skate",
     "productPrices": [
       {
-        "bont": "289.0",
+        "bont": "289.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-derby-skates/products/quadstar-carbon-roller-derby-skate-boots"
       },
@@ -33801,7 +33816,7 @@
     "productName": "Quadstar Speed Roller Skate",
     "productPrices": [
       {
-        "bont": "249.0",
+        "bont": "249.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-speed-skates/products/quadstar-speed-roller-skate-boots"
       }
@@ -33814,7 +33829,7 @@
     "productName": "Racer Carbon Special Edition- Straight Cut Speed Skate",
     "productPrices": [
       {
-        "bont": "389.0",
+        "bont": "389.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-speed-skates/products/racer-carbon-special-edition-straight-cut-speed-skate-boots"
       }
@@ -33827,7 +33842,7 @@
     "productName": "Racer Roller Speed Skate",
     "productPrices": [
       {
-        "bont": "199.0",
+        "bont": "199.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-speed-skates/products/racer-speed-skate-boot"
       }
@@ -33866,7 +33881,7 @@
     "productName": "Rebel Black",
     "productPrices": [
       {
-        "suregrip": "125.0",
+        "suregrip": "125.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/rebel-boot"
       }
@@ -34354,7 +34369,7 @@
     "productName": "PowerDyne Magic Cushions",
     "productPrices": [
       {
-        "moxi": "20.0",
+        "moxi": "20.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/cushions/products/powerdyne-magic-cushions-1"
       }
@@ -34461,6 +34476,11 @@
         "moxi": "409.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/roller-skate-plates/products/arius-platnum"
+      },
+      {
+        "lowlifemtl": "405.00",
+        "url": "https://www.lowlifemtl.com",
+        "productVendorUrl": "https://www.lowlifemtl.com/products/arius-platinum-plate?_pos=1&_psq=Arius+Platinum+Plate++Arius+Platinum+Plate"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746223850/ldjsonbuild/ryau6j2bhvtzh9h1hnoy.webp"
@@ -34471,9 +34491,14 @@
     "productName": "Athena Roller Skate Plates",
     "productPrices": [
       {
-        "bont": "259.0",
+        "bont": "259.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-plates/products/athena-roller-skate-plate"
+      },
+      {
+        "sk8ratz": "234.00",
+        "url": "https://sk8ratz.com",
+        "productVendorUrl": "https://sk8ratz.com/products/bont-silver-athena-plates-sold-in-pairs?variant=45796506468596"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746366098/ldjsonbuild/b5yupn2pavt7rh7bxisg.webp"
@@ -34484,9 +34509,14 @@
     "productName": "Avanti Aluminum",
     "productPrices": [
       {
-        "suregrip": "129.0",
+        "suregrip": "129.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/avanti-aluminum"
+      },
+      {
+        "derbywarehouse": "129.00",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip_Avanti_Aluminum/descpage-AVNTALU.html"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746375571/ldjsonbuild/zhjvmhn19oszgwb2r2ff.webp"
@@ -34497,7 +34527,7 @@
     "productName": "Avanti Magnesium",
     "productPrices": [
       {
-        "suregrip": "210.0",
+        "suregrip": "210.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/avanti-magnesium"
       },
@@ -34510,11 +34540,6 @@
         "bruisedboutique": "210.00",
         "url": "https://bruisedboutique.com",
         "productVendorUrl": "https://bruisedboutique.com/sure-grip-avanti-magnesium-plate/?setCurrencyId=1&sku=286-ID"
-      },
-      {
-        "bruisedboutique": "210.00",
-        "url": "https://www.rhinorollerskates.com",
-        "productVendorUrl": "https://www.rhinorollerskates.com/product-page/sure-grip-avanti-magnesium-plates"
       },
       {
         "bosboots": "210.00",
@@ -34535,7 +34560,7 @@
     "productName": "Avenger Aluminum",
     "productPrices": [
       {
-        "suregrip": "160.0",
+        "suregrip": "160.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/avenger-aluminum"
       }
@@ -34548,7 +34573,7 @@
     "productName": "Avenger Magnesium",
     "productPrices": [
       {
-        "suregrip": "210.0",
+        "suregrip": "210.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/avenger-magnesium"
       }
@@ -34639,7 +34664,7 @@
     "productName": "Century NTS",
     "productPrices": [
       {
-        "suregrip": "119.0",
+        "suregrip": "119.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/copy-of-century"
       }
@@ -34652,7 +34677,7 @@
     "productName": "Century",
     "productPrices": [
       {
-        "suregrip": "189.0",
+        "suregrip": "189.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/century"
       }
@@ -34665,7 +34690,7 @@
     "productName": "Classic",
     "productPrices": [
       {
-        "suregrip": "199.0",
+        "suregrip": "199.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/classic"
       }
@@ -34769,7 +34794,7 @@
     "productName": "Jr. Pro Plate",
     "productPrices": [
       {
-        "suregrip": "79.0",
+        "suregrip": "79.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/jr-pro-plate"
       }
@@ -34782,7 +34807,7 @@
     "productName": "Laser",
     "productPrices": [
       {
-        "suregrip": "299.0",
+        "suregrip": "299.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/laser"
       }
@@ -34795,7 +34820,7 @@
     "productName": "Lo Ride",
     "productPrices": [
       {
-        "suregrip": "270.0",
+        "suregrip": "270.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/loride"
       }
@@ -34873,7 +34898,7 @@
     "productName": "Power Trac",
     "productPrices": [
       {
-        "suregrip": "320.0",
+        "suregrip": "320.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/power-trac"
       }
@@ -34951,7 +34976,7 @@
     "productName": "Probe",
     "productPrices": [
       {
-        "suregrip": "85.0",
+        "suregrip": "85.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/probe"
       }
@@ -35003,7 +35028,7 @@
     "productName": "Replacement Infinity Roller Skate Truck 4pcs",
     "productPrices": [
       {
-        "bont": "95.0",
+        "bont": "95.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-plates/products/replacement-infinity-roller-skate-truck"
       }
@@ -35016,7 +35041,7 @@
     "productName": "Rock",
     "productPrices": [
       {
-        "suregrip": "79.0",
+        "suregrip": "79.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/rock"
       }
@@ -35094,7 +35119,7 @@
     "productName": "Snyder Advantage",
     "productPrices": [
       {
-        "suregrip": "425.0",
+        "suregrip": "425.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/snyder-advantage"
       }
@@ -35107,7 +35132,7 @@
     "productName": "Snyder Deluxe",
     "productPrices": [
       {
-        "suregrip": "375.0",
+        "suregrip": "375.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/snyder-delux"
       }
@@ -35120,7 +35145,7 @@
     "productName": "Snyder Imperial",
     "productPrices": [
       {
-        "suregrip": "375.0",
+        "suregrip": "375.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/imperial"
       }
@@ -35133,7 +35158,7 @@
     "productName": "Snyder Royal",
     "productPrices": [
       {
-        "suregrip": "450.0",
+        "suregrip": "450.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/snyder-royal"
       }
@@ -35172,7 +35197,7 @@
     "productName": "Super X",
     "productPrices": [
       {
-        "suregrip": "99.0",
+        "suregrip": "99.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/century-nts"
       }
@@ -35224,7 +35249,7 @@
     "productName": "Tracer NTS Roller Skate Plates",
     "productPrices": [
       {
-        "bont": "109.0",
+        "bont": "109.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-plates/products/tracer-speed-roller-skate-plates"
       }
@@ -35276,7 +35301,7 @@
     "productName": "Zeus Carbon NTS Roller Skate Plates",
     "productPrices": [
       {
-        "bont": "499.0",
+        "bont": "499.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-plates/products/zeus-carbon-nts-speed-roller-skate-plates"
       }
@@ -35289,7 +35314,7 @@
     "productName": "Zeus NTS Roller Skate Plates",
     "productPrices": [
       {
-        "bont": "349.0",
+        "bont": "349.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-plates/products/zeus-nts-speed-roller-skate-plates"
       }
@@ -35320,7 +35345,7 @@
         "productVendorUrl": "https://medusaskates.com/brunny-hardcore-pro-slide-blocks/"
       },
       {
-        "moxi": "125.0",
+        "moxi": "125.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/products/brunny-hardcore-pro-blocks?variant=45140876656827"
       },
@@ -35486,7 +35511,7 @@
     "productName": "Brake Petals Toe Stops",
     "productPrices": [
       {
-        "moxi": "25.0",
+        "moxi": "25.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/toe-stops/products/brake-petals"
       }
@@ -35746,7 +35771,7 @@
     "productName": "Jammerz - Light Up Jam Plugs",
     "productPrices": [
       {
-        "moxi": "30.0",
+        "moxi": "30.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/toe-stops/products/jammerz-light-up-jam-plugs"
       }
@@ -35759,7 +35784,7 @@
     "productName": "Jammerz - Swirlz Jam Plugs",
     "productPrices": [
       {
-        "moxi": "23.0",
+        "moxi": "23.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/toe-stops/products/jammerz-jam-plugs"
       }
@@ -35842,7 +35867,7 @@
         "productVendorUrl": "https://medusaskates.com/powerdyne-adjustable-toe-stops-pair/"
       },
       {
-        "moxi": "12.0",
+        "moxi": "12.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/toe-stops/products/powerdyne-adjustable-toe-stops"
       }
@@ -35873,7 +35898,7 @@
     "productName": "PowerDyne Jam Plugs",
     "productPrices": [
       {
-        "moxi": "8.0",
+        "moxi": "8.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/toe-stops/products/powerdyne-jam-plugs"
       }
@@ -35904,7 +35929,7 @@
         "productVendorUrl": "https://medusaskates.com/powerdyne-jupiter-toe-stops/"
       },
       {
-        "moxi": "30.0",
+        "moxi": "30.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/toe-stops/products/jupiter-toe-stops"
       }
@@ -35917,7 +35942,7 @@
     "productName": "Rainbow Rider Replacement Toe Stops",
     "productPrices": [
       {
-        "moxi": "15.0",
+        "moxi": "15.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/toe-stops/products/rainbow-rider-replacement-toe-stops"
       }
@@ -36151,7 +36176,7 @@
     "productName": "Avanti White Truck",
     "productPrices": [
       {
-        "suregrip": "56.0",
+        "suregrip": "56.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/avanti-white-truck"
       }
@@ -36164,7 +36189,7 @@
     "productName": "Avenger truck",
     "productPrices": [
       {
-        "suregrip": "64.0",
+        "suregrip": "64.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/avenger-truck"
       }
@@ -36242,7 +36267,7 @@
     "productName": "Classic Truck",
     "productPrices": [
       {
-        "suregrip": "70.0",
+        "suregrip": "70.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/classic-truck"
       }
@@ -36255,7 +36280,7 @@
     "productName": "Cyclone truck",
     "productPrices": [
       {
-        "suregrip": "35.0",
+        "suregrip": "35.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/cyclone-truck"
       }
@@ -36268,7 +36293,7 @@
     "productName": "Huck Truck",
     "productPrices": [
       {
-        "suregrip": "95.0",
+        "suregrip": "95.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/huck-truck"
       }
@@ -36281,7 +36306,7 @@
     "productName": "HUCK Trucks - Hasley",
     "productPrices": [
       {
-        "moxi": "100.0",
+        "moxi": "100.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/trucks/products/huck-trucks-hasley-2-0"
       }
@@ -36307,7 +36332,7 @@
     "productName": "Junior Pro Truck",
     "productPrices": [
       {
-        "suregrip": "25.0",
+        "suregrip": "25.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/junior-pro-truck"
       }
@@ -36333,7 +36358,7 @@
     "productName": "Laser Trucks",
     "productPrices": [
       {
-        "suregrip": "100.0",
+        "suregrip": "100.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/laser-truck"
       }
@@ -36346,7 +36371,7 @@
     "productName": "Power Trac Truck",
     "productPrices": [
       {
-        "suregrip": "75.0",
+        "suregrip": "75.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/power-trac-truck"
       }
@@ -36528,7 +36553,7 @@
     "productName": "Snyder Truck",
     "productPrices": [
       {
-        "suregrip": "180.0",
+        "suregrip": "180.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/snyder-truck"
       }
@@ -36554,7 +36579,7 @@
     "productName": "Sunlite Aluminum Truck",
     "productPrices": [
       {
-        "moxi": "10.0",
+        "moxi": "10.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/trucks/products/sunlite-aluminum-truck"
       }
@@ -36593,7 +36618,7 @@
     "productName": "Super X Truck",
     "productPrices": [
       {
-        "suregrip": "30.0",
+        "suregrip": "30.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/super-x-truck"
       }
@@ -36801,7 +36826,7 @@
     "productName": "Aerobic",
     "productPrices": [
       {
-        "suregrip": "49.0",
+        "suregrip": "49.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/aerobic"
       }
@@ -36814,7 +36839,7 @@
     "productName": "All American Dream / Fo-Mac",
     "productPrices": [
       {
-        "suregrip": "155.0",
+        "suregrip": "155.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/all-american-dream"
       }
@@ -36853,7 +36878,7 @@
     "productName": "All American Plus / Fo-Mac",
     "productPrices": [
       {
-        "suregrip": "125.0",
+        "suregrip": "125.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/all-american-plus"
       }
@@ -36975,7 +37000,7 @@
     "productName": "Balance",
     "productPrices": [
       {
-        "suregrip": "59.0",
+        "suregrip": "59.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/balance"
       }
@@ -37014,7 +37039,7 @@
     "productName": "Black Girls Skate X Last Supper Holythane Classics 53mm/101a",
     "productPrices": [
       {
-        "moxi": "80.0",
+        "moxi": "80.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/black-girls-skate-x-last-supper-holythane-classics-53mm-101a"
       }
@@ -37040,7 +37065,7 @@
     "productName": "Boardwalk 65mm Limited Edition",
     "productPrices": [
       {
-        "suregrip": "65.0",
+        "suregrip": "65.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/boardwalk-limited-edition"
       }
@@ -37053,7 +37078,7 @@
     "productName": "Boardwalk 57mm Outdoor Wheel",
     "productPrices": [
       {
-        "suregrip": "30.0",
+        "suregrip": "30.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/boardwalk-57mm-outdoor-wheel"
       }
@@ -37066,7 +37091,7 @@
     "productName": "Boardwalk 65mm",
     "productPrices": [
       {
-        "suregrip": "65.0",
+        "suregrip": "65.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/boardwalk"
       }
@@ -37196,7 +37221,7 @@
     "productName": "Bont Nio 3 Roller Skate Wheels",
     "productPrices": [
       {
-        "bont": "349.0",
+        "bont": "349.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-wheels/products/bont-nio-3-roller-skate-wheels"
       }
@@ -37209,7 +37234,7 @@
     "productName": "Bont Royal Assassin Roller Skate Wheels",
     "productPrices": [
       {
-        "bont": "349.0",
+        "bont": "349.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-wheels/products/royal-assassin-roller-skate-wheels"
       }
@@ -37261,7 +37286,7 @@
     "productName": "Cannibal",
     "productPrices": [
       {
-        "suregrip": "149.0",
+        "suregrip": "149.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/cannibal"
       }
@@ -37365,7 +37390,7 @@
     "productName": "Cheshire Cat 55mm/100A Wheels",
     "productPrices": [
       {
-        "moxi": "90.0",
+        "moxi": "90.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/cheshire-cat-55mm-100a"
       }
@@ -37497,7 +37522,7 @@
     "productName": "Evolve 63mm Roller Skate Wheels",
     "productPrices": [
       {
-        "bont": "98.0",
+        "bont": "98.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-wheels/products/evolve-63mm-roller-skate-wheels"
       }
@@ -37510,7 +37535,7 @@
     "productName": "Fame Artistic Clear Limited Edition",
     "productPrices": [
       {
-        "suregrip": "65.0",
+        "suregrip": "65.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/fame-clear-limited-edition"
       }
@@ -37536,7 +37561,7 @@
     "productName": "FAME",
     "productPrices": [
       {
-        "suregrip": "49.0",
+        "suregrip": "49.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/fame"
       }
@@ -37611,7 +37636,7 @@
     "productName": "Freestyle / Fo-Mac",
     "productPrices": [
       {
-        "suregrip": "125.0",
+        "suregrip": "125.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/freestyle"
       }
@@ -37624,7 +37649,7 @@
     "productName": "Fugitive",
     "productPrices": [
       {
-        "suregrip": "70.0",
+        "suregrip": "70.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/fugitive"
       }
@@ -37663,7 +37688,7 @@
     "productName": "FXX Roller Skate Wheels",
     "productPrices": [
       {
-        "bont": "210.0",
+        "bont": "210.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-wheels/products/fxx-roller-skate-wheels"
       }
@@ -37793,7 +37818,7 @@
     "productName": "Gravity",
     "productPrices": [
       {
-        "suregrip": "75.0",
+        "suregrip": "75.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/gravity"
       }
@@ -37806,7 +37831,7 @@
     "productName": "Grip+Dip",
     "productPrices": [
       {
-        "suregrip": "79.0",
+        "suregrip": "79.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/grip-dip"
       }
@@ -37845,7 +37870,7 @@
     "productName": "Harmony / Fo-Mac",
     "productPrices": [
       {
-        "suregrip": "125.0",
+        "suregrip": "125.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/fo-mac-harmony"
       }
@@ -37881,7 +37906,7 @@
         "productVendorUrl": "https://medusaskates.com/huck-wonderland-skate-park-wheels-8-pack/"
       },
       {
-        "suregrip": "45.0",
+        "suregrip": "45.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/huck-wheels"
       }
@@ -37894,7 +37919,7 @@
     "productName": "Im Late 53mm/100A Wheels",
     "productPrices": [
       {
-        "moxi": "90.0",
+        "moxi": "90.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/im-late-53mm-100a"
       }
@@ -38050,7 +38075,7 @@
     "productName": "Mini Mac / Fo-Mac",
     "productPrices": [
       {
-        "suregrip": "125.0",
+        "suregrip": "125.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/mini-mac"
       }
@@ -38063,7 +38088,7 @@
     "productName": "Moco Pro Wheels Conical 53mm/99a",
     "productPrices": [
       {
-        "moxi": "90.0",
+        "moxi": "90.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/moco-pro-wheels-conical-53mm-99a"
       }
@@ -38076,7 +38101,7 @@
     "productName": "Monza",
     "productPrices": [
       {
-        "suregrip": "149.0",
+        "suregrip": "149.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/monza"
       }
@@ -38102,7 +38127,7 @@
     "productName": "Motion",
     "productPrices": [
       {
-        "suregrip": "65.0",
+        "suregrip": "65.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/motion"
       }
@@ -38115,7 +38140,7 @@
     "productName": "Moxi Cosmo Glow Wheels",
     "productPrices": [
       {
-        "moxi": "78.0",
+        "moxi": "78.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/cosmo-glow-wheels"
       }
@@ -38146,7 +38171,7 @@
     "productName": "Moxi Fundae Wheels",
     "productPrices": [
       {
-        "moxi": "60.0",
+        "moxi": "60.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/hybrid-wheels/products/moxi-fundae-blue-birthday-cake"
       },
@@ -38169,7 +38194,7 @@
     "productName": "Moxi Gummy Wheels",
     "productPrices": [
       {
-        "moxi": "78.0",
+        "moxi": "78.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/moxi-gummy-wheels"
       },
@@ -38228,7 +38253,7 @@
     "productName": "Original Phenolic",
     "productPrices": [
       {
-        "suregrip": "139.0",
+        "suregrip": "139.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/original"
       }
@@ -38254,7 +38279,7 @@
     "productName": "Premier / Fo-Mac",
     "productPrices": [
       {
-        "suregrip": "125.0",
+        "suregrip": "125.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/premier"
       }
@@ -38280,7 +38305,7 @@
     "productName": "Queen of Hearts 52mm/98A Wheels",
     "productPrices": [
       {
-        "moxi": "90.0",
+        "moxi": "90.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/queen-of-hearts-52mm-98a"
       }
@@ -38306,7 +38331,7 @@
     "productName": "Radar Crush Wheels",
     "productPrices": [
       {
-        "moxi": "98.0",
+        "moxi": "98.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/radar-crush"
       }
@@ -38345,7 +38370,7 @@
     "productName": "Radar Donut Pink Sprinkle Wheels",
     "productPrices": [
       {
-        "moxi": "78.0",
+        "moxi": "78.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/radar-donut-sprinkle-wheels"
       },
@@ -38389,7 +38414,7 @@
     "productName": "Radar Energy Wheels Seconds",
     "productPrices": [
       {
-        "moxi": "25.0",
+        "moxi": "25.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/radar-energy-wheels-blem"
       }
@@ -38402,7 +38427,7 @@
     "productName": "Radar Energy Wheels",
     "productPrices": [
       {
-        "moxi": "70.0",
+        "moxi": "70.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/radar-energy-wheels"
       }
@@ -38532,7 +38557,7 @@
     "productName": "Rainbow Rider Replacement Wheels 4-Pack",
     "productPrices": [
       {
-        "moxi": "20.0",
+        "moxi": "20.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/rainbow-rider-replacement-wheels"
       }
@@ -38680,7 +38705,7 @@
     "productName": "Royal",
     "productPrices": [
       {
-        "suregrip": "89.0",
+        "suregrip": "89.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/royal"
       }
@@ -38693,7 +38718,7 @@
     "productName": "Shaman",
     "productPrices": [
       {
-        "suregrip": "149.0",
+        "suregrip": "149.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/shaman"
       }
@@ -38737,7 +38762,7 @@
         "productVendorUrl": "https://www.derbywarehouse.com/Sonar_Riva_Wheels_4pk/descpage-SNRIVA.html"
       },
       {
-        "moxi": "50.0",
+        "moxi": "50.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/radar-riva-wheels"
       },
@@ -38807,7 +38832,7 @@
     "productName": "Supperthane Plus 52mm/101A",
     "productPrices": [
       {
-        "moxi": "80.0",
+        "moxi": "80.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/supperthane-plus-52mm"
       }
@@ -38856,7 +38881,7 @@
         "productVendorUrl": "https://medusaskates.com/sure-grip-fomac-slick-wheels-set-of-8/"
       },
       {
-        "suregrip": "125.0",
+        "suregrip": "125.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/sure-grip-slicks"
       }
@@ -39051,7 +39076,7 @@
     "productName": "Suregrip Velvet",
     "productPrices": [
       {
-        "moxi": "105.0",
+        "moxi": "105.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/indoor-wheels/products/suregrip-velvet"
       }
@@ -39077,7 +39102,7 @@
     "productName": "Twister",
     "productPrices": [
       {
-        "suregrip": "59.0",
+        "suregrip": "59.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/twister"
       }
@@ -39090,7 +39115,7 @@
     "productName": "Velvet",
     "productPrices": [
       {
-        "suregrip": "105.0",
+        "suregrip": "105.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/velvet"
       }
@@ -39116,7 +39141,7 @@
     "productName": "Who Are You? 54mm/98A Wheels",
     "productPrices": [
       {
-        "moxi": "90.0",
+        "moxi": "90.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/who-are-you-54mm-98a"
       }
@@ -39129,7 +39154,7 @@
     "productName": "Wood",
     "productPrices": [
       {
-        "suregrip": "69.0",
+        "suregrip": "69.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/wood"
       }
@@ -39142,7 +39167,7 @@
     "productName": "Zombie",
     "productPrices": [
       {
-        "suregrip": "75.0",
+        "suregrip": "75.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/zombie"
       }
@@ -39155,7 +39180,7 @@
     "productName": "Zoom",
     "productPrices": [
       {
-        "suregrip": "45.0",
+        "suregrip": "45.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/zoom"
       }

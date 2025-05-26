@@ -317,7 +317,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "129.0",
+        "suregrip": "129.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/ceramic"
       }
@@ -377,7 +377,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "75.0",
+        "suregrip": "75.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/gold"
       }
@@ -437,7 +437,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "moxi": "149.0",
+        "moxi": "149.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/bearings/products/kwik-brand-ceramic-ball-bearings"
       },
@@ -467,7 +467,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "moxi": "95.0",
+        "moxi": "95.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/bearings/products/kwik-swiss-bearings"
       }
@@ -532,7 +532,7 @@
         "productVendorUrl": "https://medusaskates.com/kwik-zenith-bearings/"
       },
       {
-        "moxi": "40.0",
+        "moxi": "40.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/bearings/products/kwik-brand-zenith-bearings"
       }
@@ -587,7 +587,7 @@
         "productVendorUrl": "https://medusaskates.com/moxi-mixtape-bearings-8mm-16-pack/"
       },
       {
-        "moxi": "35.0",
+        "moxi": "35.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/bearings/products/mixtape-bearings"
       },
@@ -702,7 +702,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "bont": "65.0",
+        "bont": "65.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-bearings/products/roller-skate-bearing-press"
       }
@@ -732,7 +732,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "bont": "73.0",
+        "bont": "73.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-bearings/products/688-roller-skate-mini-bearings"
       }

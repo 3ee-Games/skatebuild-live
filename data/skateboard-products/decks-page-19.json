@@ -157,7 +157,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/limosine-aaron-loreth-hail-flail-deck?variant=50996951417105"
       }
@@ -237,7 +237,7 @@
         "productVendorUrl": "https://www.tactics.com/creature/lockwood-fumes-825-skateboard-deck"
       },
       {
-        "spot": "68.0",
+        "spot": "68.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-cody-lockwood-fumes-deck?variant=51438849982737"
       }
@@ -272,7 +272,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/lopez-metal-health-85-skateboard-deck"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/zero-adrian-lopez-metal-health-deck?variant=50853304271121"
       }
@@ -737,7 +737,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "80.0",
+        "spot": "80.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/magenta-ben-gore-relic-series-deck?variant=51244702597393"
       }
@@ -752,7 +752,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "80.0",
+        "spot": "80.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/magenta-jameel-douglas-relic-series-deck?variant=51244705677585"
       }

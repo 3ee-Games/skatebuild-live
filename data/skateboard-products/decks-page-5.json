@@ -27,7 +27,7 @@
         "productVendorUrl": "https://www.tactics.com/strangelove/braun-icarus-825-skateboard-deck"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/strangelove-jake-braun-icarus-deck?variant=50522930512145"
       }
@@ -582,7 +582,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "98.0",
+        "spot": "98.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/carpet-company-bacteria-deck?variant=50298448150801"
       }
@@ -597,7 +597,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "98.0",
+        "spot": "98.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/carpet-company-tourist-deck?variant=50510691467537"
       }

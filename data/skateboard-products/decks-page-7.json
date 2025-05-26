@@ -457,7 +457,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "99.0",
+        "spot": "99.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-cody-lockwood-memento-vx-everslick-deck?variant=50590123360529"
       }
@@ -472,7 +472,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "55.0",
+        "spot": "55.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-forever-undead-deck?variant=50577805967633"
       }
@@ -487,7 +487,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "68.0",
+        "spot": "68.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-kevin-baekkel-demon-pro-deck?variant=51434089251089"
       }
@@ -687,7 +687,7 @@
         "productVendorUrl": "https://www.tactics.com/limosine/cyrus-bennett-morph-825-skateboard-deck"
       },
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/limosine-cyrus-bennett-morph-deck?variant=50996808352017"
       }

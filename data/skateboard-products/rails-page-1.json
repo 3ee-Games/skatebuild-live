@@ -22,7 +22,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "10.0",
+        "spot": "10.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-slider-rails-71436?variant=48243897860369"
       }
@@ -37,7 +37,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "12.0",
+        "spot": "12.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-glitter-death-rails-78440?variant=48244745732369"
       }
@@ -67,7 +67,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "8.0",
+        "spot": "8.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/girl-og-rails-72400?variant=48243984662801"
       }

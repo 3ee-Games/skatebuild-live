@@ -87,7 +87,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "61.0",
+        "spot": "61.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/powell-peralta-snakes-75a-wheels?variant=50840704090385"
       }
@@ -212,7 +212,7 @@
         "productVendorUrl": "https://www.zumiez.com/ricta-clouds-57mm-78a-iridescent-blue-crusier-skateboard-wheels.html"
       },
       {
-        "spot": "41.0",
+        "spot": "41.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/ricta-iridescent-blue-clouds-78a-wheels?variant=50890922098961"
       }
@@ -452,7 +452,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "30.0",
+        "spot": "30.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-slime-balls-mike-giant-speed-balls-99a-wheels-95088?variant=48246988210449"
       }
@@ -512,7 +512,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "45.0",
+        "spot": "45.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/satori-boozer-cruiser-84a-cruiser-wheels?variant=50629610111249"
       }
@@ -532,7 +532,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "45.0",
+        "spot": "45.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/satori-lifted-whip-78a-cruiser-wheels?variant=50629621416209"
       }
@@ -552,7 +552,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "45.0",
+        "spot": "45.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/satori-super-kush-78a-cruiser-wheels?variant=50629618467089"
       }
@@ -692,7 +692,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "20.0",
+        "spot": "20.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/skatepark-of-tampa-spot-basic-blank-wheels-69060?variant=48243748667665"
       }
@@ -817,7 +817,7 @@
         "productVendorUrl": "https://www.zumiez.com/slime-balls-light-ups-led-gator-swamp-spew-66mm-78a-pink-cruiser-skateboard-wheels.html"
       },
       {
-        "spot": "49.0",
+        "spot": "49.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-slime-balls-gator-swamp-spew-light-up-78a-wheels?variant=51144717664529"
       }

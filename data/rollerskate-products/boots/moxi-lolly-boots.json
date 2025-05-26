@@ -14,14 +14,19 @@
       "productVendorUrl": "https://www.derbywarehouse.com/Moxi_Lolly/descpage-MLOLB.html"
     },
     {
-      "medusaskates": "269",
+      "medusaskates": "269.00",
       "url": "https://medusaskates.com",
       "productVendorUrl": "https://medusaskates.com/moxiboot"
     },
     {
-      "moxi": "279.0",
+      "moxi": "279.00",
       "url": "https://www.moxiskates.com",
       "productVendorUrl": "https://www.moxiskates.com/collections/boot-only-skates/products/customize-a-lolly-black"
+    },
+    {
+      "lowlifemtl": "245.00",
+      "url": "https://www.lowlifemtl.com",
+      "productVendorUrl": "https://www.lowlifemtl.com/collections/boots/products/lolly-boot-only"
     }
   ]
 }

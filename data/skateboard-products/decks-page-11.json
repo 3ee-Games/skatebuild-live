@@ -427,7 +427,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "64.0",
+        "spot": "64.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/flip-denny-pham-matchbox-deck?variant=51124447478033"
       }
@@ -457,7 +457,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "64.0",
+        "spot": "64.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/flip-luan-oliveira-i-love-iapi-deck?variant=51124437713169"
       }
@@ -472,7 +472,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "64.0",
+        "spot": "64.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/flip-lucas-rabelo-creatures-deck?variant=51124440367377"
       }
@@ -577,7 +577,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "64.0",
+        "spot": "64.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/flip-really-sorry-scrobble-logo-deck?variant=51124449280273"
       }
