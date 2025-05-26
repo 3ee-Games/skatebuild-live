@@ -20,6 +20,11 @@
         "riedell": "429.00",
         "url": "https://roller.riedellskates.com",
         "productVendorUrl": "https://roller.riedellskates.com/Product/boot-antik-ar2"
+      },
+      {
+        "lowlifemtl": "408.00",
+        "url": "https://www.lowlifemtl.com",
+        "productVendorUrl": "https://www.lowlifemtl.com/collections/boots/products/ar2"
       }
     ],
     "productTags": [
@@ -57,7 +62,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "medusaskates": "149",
+        "medusaskates": "149.00",
         "url": "https://medusaskates.com",
         "productVendorUrl": "https://medusaskates.com/antik-skyhawk-boot-only/"
       },
@@ -70,6 +75,11 @@
         "riedell": "149.00",
         "url": "https://roller.riedellskates.com",
         "productVendorUrl": "https://roller.riedellskates.com/Product/boot-antik-skyhawk"
+      },
+      {
+        "lowlifemtl": "111.00",
+        "url": "https://www.lowlifemtl.com",
+        "productVendorUrl": "https://www.lowlifemtl.com/products/skyhawk-boot-only"
       }
     ],
     "productTags": []
@@ -82,7 +92,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "100.0",
+        "suregrip": "100.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/boardwalk-boot"
       }
@@ -97,7 +107,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "159.0",
+        "suregrip": "159.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/boardwalk-plus-boot"
       }
@@ -217,7 +227,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "bont": "279.0",
+        "bont": "279.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-speed-skates/products/envy-jam-and-speed-skate-boots"
       }
@@ -232,7 +242,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "99.0",
+        "suregrip": "99.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/fame-boot"
       }
@@ -367,7 +377,7 @@
         "productVendorUrl": "https://www.derbywarehouse.com/Moxi_Jack_1/descpage-JACK.html"
       },
       {
-        "moxi": "349.0",
+        "moxi": "349.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/jack-1-boot-only/products/customize-a-jack-green-apple"
       },
@@ -392,14 +402,19 @@
         "productVendorUrl": "https://www.derbywarehouse.com/Moxi_Lolly/descpage-MLOLB.html"
       },
       {
-        "medusaskates": "269",
+        "medusaskates": "269.00",
         "url": "https://medusaskates.com",
         "productVendorUrl": "https://medusaskates.com/moxiboot"
       },
       {
-        "moxi": "279.0",
+        "moxi": "279.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/boot-only-skates/products/customize-a-lolly-black"
+      },
+      {
+        "lowlifemtl": "245.00",
+        "url": "https://www.lowlifemtl.com",
+        "productVendorUrl": "https://www.lowlifemtl.com/collections/boots/products/lolly-boot-only"
       }
     ],
     "productTags": []
@@ -427,7 +442,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "bont": "439.0",
+        "bont": "439.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-derby-skates/products/mybonts-hybrid-fiberglass-roller-derby-skate-boots"
       },
@@ -447,7 +462,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "bont": "479.0",
+        "bont": "479.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-speed-skates/products/mybonts-racer-carbon-speed-skate-boots"
       }
@@ -507,7 +522,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "169.0",
+        "suregrip": "169.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/oxford-boot"
       }
@@ -522,7 +537,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "bont": "229.0",
+        "bont": "229.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/park-roller-skates/products/parkstar-roller-skate-boots-blue-suede"
       },
@@ -542,7 +557,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "bont": "289.0",
+        "bont": "289.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-derby-skates/products/quadstar-carbon-roller-derby-skate-boots"
       },
@@ -562,7 +577,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "bont": "249.0",
+        "bont": "249.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-speed-skates/products/quadstar-speed-roller-skate-boots"
       }
@@ -577,7 +592,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "bont": "389.0",
+        "bont": "389.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-speed-skates/products/racer-carbon-special-edition-straight-cut-speed-skate-boots"
       }
@@ -592,7 +607,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "bont": "199.0",
+        "bont": "199.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-speed-skates/products/racer-speed-skate-boot"
       }
@@ -637,7 +652,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "125.0",
+        "suregrip": "125.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/rebel-boot"
       }

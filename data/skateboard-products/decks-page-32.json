@@ -67,7 +67,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/there-kien-caples-blake-armstrong-deck?variant=51372526207249"
       }
@@ -472,7 +472,7 @@
         "productVendorUrl": "https://www.zumiez.com/toy-machine-axel-ladouceur-8-13-skateboard-deck.html"
       },
       {
-        "spot": "68.0",
+        "spot": "68.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/toy-machine-jeremy-leabres-ladouceur-deck?variant=50578531221777"
       }
@@ -507,7 +507,7 @@
         "productVendorUrl": "https://www.zumiez.com/toy-machine-rowley-fist-8-5-skateboard-deck.html"
       },
       {
-        "spot": "67.0",
+        "spot": "67.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/toy-machine-fists-deck?variant=50578472075537"
       }
@@ -522,7 +522,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "53.0",
+        "spot": "53.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/toy-machine-sect-eye-deck?variant=50578481119505"
       }
@@ -622,7 +622,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/traffic-skateboards-cover-the-earth-deck?variant=50974153670929"
       }

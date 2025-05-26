@@ -7,7 +7,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "450.0",
+        "suregrip": "450.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/snyder-royal"
       }
@@ -52,7 +52,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "99.0",
+        "suregrip": "99.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/century-nts"
       }
@@ -112,7 +112,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "bont": "109.0",
+        "bont": "109.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-plates/products/tracer-speed-roller-skate-plates"
       }
@@ -172,7 +172,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "bont": "499.0",
+        "bont": "499.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-plates/products/zeus-carbon-nts-speed-roller-skate-plates"
       }
@@ -187,7 +187,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "bont": "349.0",
+        "bont": "349.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-plates/products/zeus-nts-speed-roller-skate-plates"
       }

@@ -277,7 +277,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "72.0",
+        "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/vinyl-blake-carpenter-seraphim-deck?variant=50987279974673"
       }
@@ -292,7 +292,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/vinyl-robot-deck?variant=50987313594641"
       }
@@ -322,7 +322,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/vinyl-volt-splat-deck?variant=51282529485073"
       }
@@ -337,7 +337,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "78.0",
+        "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/violet-studded-banana-bear-deck?variant=50658409546001"
       }
@@ -622,7 +622,7 @@
         "productVendorUrl": "https://www.tactics.com/metal-skateboards/welcome-home-875-skateboard-deck"
       },
       {
-        "spot": "70.0",
+        "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-welcome-home-deck?variant=51397910364433"
       }

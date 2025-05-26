@@ -9,9 +9,14 @@
   "productVendorUrl": "https://bont.com/collections/roller-skate-plates/products/athena-roller-skate-plate",
   "productPrices": [
     {
-      "bont": "259.0",
+      "bont": "259.00",
       "url": "https://bont.com",
       "productVendorUrl": "https://bont.com/collections/roller-skate-plates/products/athena-roller-skate-plate"
+    },
+    {
+      "sk8ratz": "234.00",
+      "url": "https://sk8ratz.com",
+      "productVendorUrl": "https://sk8ratz.com/products/bont-silver-athena-plates-sold-in-pairs?variant=45796506468596"
     }
   ]
 }

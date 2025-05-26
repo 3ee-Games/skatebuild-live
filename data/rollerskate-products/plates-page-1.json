@@ -10,6 +10,11 @@
         "moxi": "409.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/roller-skate-plates/products/arius-platnum"
+      },
+      {
+        "lowlifemtl": "405.00",
+        "url": "https://www.lowlifemtl.com",
+        "productVendorUrl": "https://www.lowlifemtl.com/products/arius-platinum-plate?_pos=1&_psq=Arius+Platinum+Plate++Arius+Platinum+Plate"
       }
     ],
     "productTags": []
@@ -22,9 +27,14 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "bont": "259.0",
+        "bont": "259.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-plates/products/athena-roller-skate-plate"
+      },
+      {
+        "sk8ratz": "234.00",
+        "url": "https://sk8ratz.com",
+        "productVendorUrl": "https://sk8ratz.com/products/bont-silver-athena-plates-sold-in-pairs?variant=45796506468596"
       }
     ],
     "productTags": []
@@ -37,9 +47,14 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "129.0",
+        "suregrip": "129.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/avanti-aluminum"
+      },
+      {
+        "derbywarehouse": "129.00",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip_Avanti_Aluminum/descpage-AVNTALU.html"
       }
     ],
     "productTags": []
@@ -52,7 +67,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "210.0",
+        "suregrip": "210.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/avanti-magnesium"
       },
@@ -65,11 +80,6 @@
         "bruisedboutique": "210.00",
         "url": "https://bruisedboutique.com",
         "productVendorUrl": "https://bruisedboutique.com/sure-grip-avanti-magnesium-plate/?setCurrencyId=1&sku=286-ID"
-      },
-      {
-        "bruisedboutique": "210.00",
-        "url": "https://www.rhinorollerskates.com",
-        "productVendorUrl": "https://www.rhinorollerskates.com/product-page/sure-grip-avanti-magnesium-plates"
       },
       {
         "bosboots": "210.00",
@@ -92,7 +102,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "160.0",
+        "suregrip": "160.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/avenger-aluminum"
       }
@@ -107,7 +117,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "210.0",
+        "suregrip": "210.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/avenger-magnesium"
       }
@@ -212,7 +222,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "119.0",
+        "suregrip": "119.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/copy-of-century"
       }
@@ -227,7 +237,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "189.0",
+        "suregrip": "189.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/century"
       }
@@ -242,7 +252,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "199.0",
+        "suregrip": "199.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/classic"
       }
@@ -362,7 +372,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "79.0",
+        "suregrip": "79.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/jr-pro-plate"
       }
@@ -377,7 +387,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "299.0",
+        "suregrip": "299.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/laser"
       }
@@ -392,7 +402,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "270.0",
+        "suregrip": "270.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/loride"
       }
@@ -482,7 +492,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "320.0",
+        "suregrip": "320.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/power-trac"
       }
@@ -572,7 +582,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "85.0",
+        "suregrip": "85.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/probe"
       }
@@ -632,7 +642,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "bont": "95.0",
+        "bont": "95.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-plates/products/replacement-infinity-roller-skate-truck"
       }
@@ -647,7 +657,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "79.0",
+        "suregrip": "79.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/rock"
       }
@@ -737,7 +747,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "425.0",
+        "suregrip": "425.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/snyder-advantage"
       }
@@ -752,7 +762,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "375.0",
+        "suregrip": "375.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/snyder-delux"
       }
@@ -767,7 +777,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "375.0",
+        "suregrip": "375.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/imperial"
       }

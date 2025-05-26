@@ -9,9 +9,14 @@
   "productVendorUrl": "https://www.suregrip.com/products/avanti-aluminum",
   "productPrices": [
     {
-      "suregrip": "129.0",
+      "suregrip": "129.00",
       "url": "https://www.suregrip.com",
       "productVendorUrl": "https://www.suregrip.com/products/avanti-aluminum"
+    },
+    {
+      "derbywarehouse": "129.00",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip_Avanti_Aluminum/descpage-AVNTALU.html"
     }
   ]
 }

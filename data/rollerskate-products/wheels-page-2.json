@@ -61,7 +61,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "bont": "98.0",
+        "bont": "98.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-wheels/products/evolve-63mm-roller-skate-wheels"
       }
@@ -81,7 +81,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "65.0",
+        "suregrip": "65.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/fame-clear-limited-edition"
       }
@@ -121,7 +121,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "49.0",
+        "suregrip": "49.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/fame"
       }
@@ -231,7 +231,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "125.0",
+        "suregrip": "125.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/freestyle"
       }
@@ -251,7 +251,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "70.0",
+        "suregrip": "70.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/fugitive"
       }
@@ -311,7 +311,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "bont": "210.0",
+        "bont": "210.00",
         "url": "https://bont.com",
         "productVendorUrl": "https://bont.com/collections/roller-skate-wheels/products/fxx-roller-skate-wheels"
       }
@@ -511,7 +511,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "75.0",
+        "suregrip": "75.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/gravity"
       }
@@ -531,7 +531,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "79.0",
+        "suregrip": "79.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/grip-dip"
       }
@@ -591,7 +591,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "125.0",
+        "suregrip": "125.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/fo-mac-harmony"
       }
@@ -641,7 +641,7 @@
         "productVendorUrl": "https://medusaskates.com/huck-wonderland-skate-park-wheels-8-pack/"
       },
       {
-        "suregrip": "45.0",
+        "suregrip": "45.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/huck-wheels"
       }
@@ -665,7 +665,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "moxi": "90.0",
+        "moxi": "90.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/im-late-53mm-100a"
       }
@@ -905,7 +905,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "125.0",
+        "suregrip": "125.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/mini-mac"
       }
@@ -925,7 +925,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "moxi": "90.0",
+        "moxi": "90.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/moco-pro-wheels-conical-53mm-99a"
       }
@@ -945,7 +945,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "149.0",
+        "suregrip": "149.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/monza"
       }
@@ -985,7 +985,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "suregrip": "65.0",
+        "suregrip": "65.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/motion"
       }
@@ -1005,7 +1005,7 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "moxi": "78.0",
+        "moxi": "78.00",
         "url": "https://www.moxiskates.com",
         "productVendorUrl": "https://www.moxiskates.com/collections/outdoor-wheels/products/cosmo-glow-wheels"
       }

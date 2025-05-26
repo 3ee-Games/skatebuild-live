@@ -9,7 +9,7 @@
   "productVendorUrl": "https://www.suregrip.com/products/avanti-magnesium",
   "productPrices": [
     {
-      "suregrip": "210.0",
+      "suregrip": "210.00",
       "url": "https://www.suregrip.com",
       "productVendorUrl": "https://www.suregrip.com/products/avanti-magnesium"
     },
@@ -22,11 +22,6 @@
       "bruisedboutique": "210.00",
       "url": "https://bruisedboutique.com",
       "productVendorUrl": "https://bruisedboutique.com/sure-grip-avanti-magnesium-plate/?setCurrencyId=1&sku=286-ID"
-    },
-    {
-      "bruisedboutique": "210.00",
-      "url": "https://www.rhinorollerskates.com",
-      "productVendorUrl": "https://www.rhinorollerskates.com/product-page/sure-grip-avanti-magnesium-plates"
     },
     {
       "bosboots": "210.00",
