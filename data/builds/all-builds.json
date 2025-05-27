@@ -40,6 +40,14 @@
     "created": "2025-05-27T06:35:50.598227+00:00"
   },
   {
+    "name": "Test stats",
+    "build_type": "rollerskate",
+    "skating_type": "park skating",
+    "owner_username": "Test43215",
+    "slug": "test-stats",
+    "created": "2025-05-27T07:02:42.740830+00:00"
+  },
+  {
     "name": "Testsetup monte",
     "build_type": "skateboard",
     "skating_type": "park",
