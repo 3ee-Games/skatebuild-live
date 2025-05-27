@@ -10,8 +10,22 @@
   "bearings_slug": "skf-ishod-wair-pro-bearings",
   "wheels_slug": "pig-rover-cruiser-wheels",
   "bushings_slug": "hpf-standard-bushings",
+  "attributes": [
+    {
+      "name": "Speed",
+      "value": 0.84
+    },
+    {
+      "name": "Balance",
+      "value": 0.48
+    },
+    {
+      "name": "Quality",
+      "value": 1.0
+    }
+  ],
   "slug": "jessup-park-my-turn",
   "owner_username": "Test43215",
-  "created": "2025-05-24T17:56:00.244430+00:00",
-  "updated": "2025-05-24T17:56:00.244430+00:00"
+  "created": "2025-05-27T06:34:35.593025+00:00",
+  "updated": "2025-05-27T06:34:35.593025+00:00"
 }
