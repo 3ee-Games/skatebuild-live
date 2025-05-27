@@ -1038,6 +1038,16 @@
           "derbywarehouse": "299.00",
           "url": "https://www.derbywarehouse.com",
           "productVendorUrl": "https://www.derbywarehouse.com/Antik_Jet_Carbon/descpage-AJCB23.html"
+        },
+        {
+          "sk8ratz": "299.00",
+          "url": "https://sk8ratz.com",
+          "productVendorUrl": "https://sk8ratz.com/products/antik-jet-carbon-roller-skate-boots"
+        },
+        {
+          "pigeonskates": "279.00",
+          "url": "https://pigeonskates.com",
+          "productVendorUrl": "https://pigeonskates.com/products/antik-jet-carbon-boot-only"
         }
       ],
       "productTags": [
@@ -1085,9 +1095,19 @@
       "imageHeight": 200,
       "productPrices": [
         {
-          "suregrip": "100.00",
+          "suregrip": "145.00",
           "url": "https://www.suregrip.com",
           "productVendorUrl": "https://www.suregrip.com/products/boardwalk-boot"
+        },
+        {
+          "medusaskates": "135.00",
+          "url": "https://medusaskates.com",
+          "productVendorUrl": "https://medusaskates.com/sure-grip-boardwalk-boot-only"
+        },
+        {
+          "wickedskatewear": "135.00",
+          "url": "https://wickedskatewear.com",
+          "productVendorUrl": "https://wickedskatewear.com/sure-grip-boardwalk-boots-only-evergreen/"
         }
       ],
       "productTags": []
@@ -1100,24 +1120,14 @@
       "imageHeight": 200,
       "productPrices": [
         {
-          "suregrip": "159.00",
+          "suregrip": "185.00",
           "url": "https://www.suregrip.com",
           "productVendorUrl": "https://www.suregrip.com/products/boardwalk-plus-boot"
-        }
-      ],
-      "productTags": []
-    },
-    {
-      "slug": "bont-parkstar-boots-red",
-      "productName": "Bont Parkstar Red",
-      "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370449/metacrawler/jelsxnvnvgpetpcilcvf.webp",
-      "imageWidth": 200,
-      "imageHeight": 200,
-      "productPrices": [
+        },
         {
-          "derbywarehouse": "209.00",
-          "url": "https://www.derbywarehouse.com",
-          "productVendorUrl": "https://www.derbywarehouse.com/Bont_ParkStar_Boots/descpage-BPS18.html"
+          "medusaskates": "159.00",
+          "url": "https://medusaskates.com",
+          "productVendorUrl": "https://medusaskates.com/sure-grip-boardwalk-plus-boot-only/"
         }
       ],
       "productTags": []
@@ -1130,7 +1140,7 @@
       "imageHeight": 200,
       "productPrices": [
         {
-          "medusaskates": "",
+          "medusaskates": "149.00",
           "url": "https://medusaskates.com",
           "productVendorUrl": "https://medusaskates.com/bont-prostar-roller-skate-boot/"
         }
@@ -1535,9 +1545,19 @@
           "productVendorUrl": "https://bont.com/collections/park-roller-skates/products/parkstar-roller-skate-boots-blue-suede"
         },
         {
-          "medusaskates": "229",
+          "medusaskates": "229.00",
           "url": "https://medusaskates.com",
           "productVendorUrl": "https://medusaskates.com/bont-parkstar-roller-skate-boots/"
+        },
+        {
+          "derbywarehouse": "209.00",
+          "url": "https://www.derbywarehouse.com",
+          "productVendorUrl": "https://www.derbywarehouse.com/Bont_ParkStar_Boots/descpage-BPS18.html"
+        },
+        {
+          "bruisedboutique": "229.00",
+          "url": "https://bruisedboutique.com",
+          "productVendorUrl": "https://bruisedboutique.com/bont-parkstar-boots-blue/"
         }
       ],
       "productTags": []
@@ -1700,7 +1720,7 @@
           "productVendorUrl": "https://www.derbywarehouse.com/Riedell_595/descpage-595B.html"
         },
         {
-          "medusaskates": "349",
+          "medusaskates": "349.00",
           "url": "https://medusaskates.com",
           "productVendorUrl": "https://medusaskates.com/riedell-265-boots/"
         }
@@ -1868,21 +1888,6 @@
       "productTags": []
     },
     {
-      "slug": "sure-grip-boardwalk-plus-boot-only",
-      "productName": "Sure-Grip Boardwalk Plus Only",
-      "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468210/ldjsonbuild/jvdkdznyokpexuxeztsl.webp",
-      "imageWidth": 200,
-      "imageHeight": 200,
-      "productPrices": [
-        {
-          "medusaskates": "159",
-          "url": "https://medusaskates.com",
-          "productVendorUrl": "https://medusaskates.com/sure-grip-boardwalk-plus-boot-only/"
-        }
-      ],
-      "productTags": []
-    },
-    {
       "slug": "sure-grip-oxford-tipton-limited-edition-roller-skate-boot",
       "productName": "Sure-Grip Oxford Tipton Limited Edition Roller Skate",
       "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468180/ldjsonbuild/qi5m0dcdwzecnityabhu.webp",
@@ -1908,6 +1913,11 @@
           "derbywarehouse": "129.97",
           "url": "https://www.derbywarehouse.com",
           "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip_Phoenix_Boots/descpage-PHXBOOT.html"
+        },
+        {
+          "rollerskateusa": "190.00",
+          "url": "https://rollerskateusa.com",
+          "productVendorUrl": "https://rollerskateusa.com/product/sure-grip-phoenix-boot/"
         }
       ],
       "productTags": []

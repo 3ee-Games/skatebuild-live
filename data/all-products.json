@@ -1380,6 +1380,11 @@
         "tactics": "54.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/bacon/adam-mueller-pro-825-skateboard-deck/pink"
+      },
+      {
+        "exodusrideshop": "59.95",
+        "url": "https://exodusrideshop.com",
+        "productVendorUrl": "https://exodusrideshop.com/products/bacon-adam-mueller-pro-skateboard-deck"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400138/ldjsonbuild/llhyuedvkvfz5quzbo2e.webp"
@@ -1423,7 +1428,12 @@
       {
         "spot": "90.00",
         "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/welcome-skateboards-adventure-time-ice-king-on-crossbone-shaped-deck?variant=51347839680785"
+        "productVendorUrl": "https://skateparkoftampa.com/products/welcome-skateboards-adventure-time-ice-king-on-crossbone-shaped-deck"
+      },
+      {
+        "spot": "90.00",
+        "url": "https://boardofmissoula.com",
+        "productVendorUrl": "https://boardofmissoula.com/collections/decks/products/welcome-x-adventure-time-jake-on-dark-lord-9-75-deck"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462136/zumiezbuild/j4dnlqngkxkptvdihzsk.webp"
@@ -1675,9 +1685,14 @@
     "productName": "Alltimers x Creative Growth John Martin Deck",
     "productPrices": [
       {
-        "zumiez": "39.99",
+        "zumiez": "49.99",
         "url": "https://www.zumiez.com",
         "productVendorUrl": "https://www.zumiez.com/alltimers-x-creative-growth-john-martin-8-1-skateboard-deck.html"
+      },
+      {
+        "creativegrowth": "45.00",
+        "url": "https://www.creativegrowth.org",
+        "productVendorUrl": "https://www.creativegrowth.org/art/alltimers-x-creative-growth-aurie-ramirez-s-by-aurie-ramirez"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461878/zumiezbuild/r16q6fkf4hwzrcqzmh5z.webp"
@@ -1704,6 +1719,11 @@
         "tactics": "69.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/wknd-skateboards/almqvist-hello-march-8375-skateboard-deck"
+      },
+      {
+        "wkndbrand": "70.00",
+        "url": "https://shop.wkndbrand.com",
+        "productVendorUrl": "https://shop.wkndbrand.com/products/march-filip-almqvist-8-125wb-8-375wb"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400063/ldjsonbuild/zjrvbvv88s5qfnztytyz.webp"
@@ -33351,6 +33371,16 @@
         "derbywarehouse": "299.00",
         "url": "https://www.derbywarehouse.com",
         "productVendorUrl": "https://www.derbywarehouse.com/Antik_Jet_Carbon/descpage-AJCB23.html"
+      },
+      {
+        "sk8ratz": "299.00",
+        "url": "https://sk8ratz.com",
+        "productVendorUrl": "https://sk8ratz.com/products/antik-jet-carbon-roller-skate-boots"
+      },
+      {
+        "pigeonskates": "279.00",
+        "url": "https://pigeonskates.com",
+        "productVendorUrl": "https://pigeonskates.com/products/antik-jet-carbon-boot-only"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370210/metacrawler/vmeob5m1n80x7ds2vwny.webp"
@@ -33389,9 +33419,19 @@
     "productName": "Boardwalk",
     "productPrices": [
       {
-        "suregrip": "100.00",
+        "suregrip": "145.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/boardwalk-boot"
+      },
+      {
+        "medusaskates": "135.00",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/sure-grip-boardwalk-boot-only"
+      },
+      {
+        "wickedskatewear": "135.00",
+        "url": "https://wickedskatewear.com",
+        "productVendorUrl": "https://wickedskatewear.com/sure-grip-boardwalk-boots-only-evergreen/"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746374899/ldjsonbuild/baubgec84w4goligstk3.webp"
@@ -33402,25 +33442,17 @@
     "productName": "Boardwalk Plus",
     "productPrices": [
       {
-        "suregrip": "159.00",
+        "suregrip": "185.00",
         "url": "https://www.suregrip.com",
         "productVendorUrl": "https://www.suregrip.com/products/boardwalk-plus-boot"
+      },
+      {
+        "medusaskates": "159.00",
+        "url": "https://medusaskates.com",
+        "productVendorUrl": "https://medusaskates.com/sure-grip-boardwalk-plus-boot-only/"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746374913/ldjsonbuild/p6a1tvqsjrxm42sghwwo.webp"
-  },
-  {
-    "slug": "bont-parkstar-boots-red",
-    "category": "boots",
-    "productName": "Bont Parkstar Red",
-    "productPrices": [
-      {
-        "derbywarehouse": "209.00",
-        "url": "https://www.derbywarehouse.com",
-        "productVendorUrl": "https://www.derbywarehouse.com/Bont_ParkStar_Boots/descpage-BPS18.html"
-      }
-    ],
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370449/metacrawler/jelsxnvnvgpetpcilcvf.webp"
   },
   {
     "slug": "bont-prostar-roller-skate-boot",
@@ -33428,7 +33460,7 @@
     "productName": "Bont Prostar Roller Skate",
     "productPrices": [
       {
-        "medusaskates": "",
+        "medusaskates": "149.00",
         "url": "https://medusaskates.com",
         "productVendorUrl": "https://medusaskates.com/bont-prostar-roller-skate-boot/"
       }
@@ -33785,9 +33817,19 @@
         "productVendorUrl": "https://bont.com/collections/park-roller-skates/products/parkstar-roller-skate-boots-blue-suede"
       },
       {
-        "medusaskates": "229",
+        "medusaskates": "229.00",
         "url": "https://medusaskates.com",
         "productVendorUrl": "https://medusaskates.com/bont-parkstar-roller-skate-boots/"
+      },
+      {
+        "derbywarehouse": "209.00",
+        "url": "https://www.derbywarehouse.com",
+        "productVendorUrl": "https://www.derbywarehouse.com/Bont_ParkStar_Boots/descpage-BPS18.html"
+      },
+      {
+        "bruisedboutique": "229.00",
+        "url": "https://bruisedboutique.com",
+        "productVendorUrl": "https://bruisedboutique.com/bont-parkstar-boots-blue/"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746364286/ldjsonbuild/iphnbmhnikh5mnlro9si.webp"
@@ -33930,7 +33972,7 @@
         "productVendorUrl": "https://www.derbywarehouse.com/Riedell_595/descpage-595B.html"
       },
       {
-        "medusaskates": "349",
+        "medusaskates": "349.00",
         "url": "https://medusaskates.com",
         "productVendorUrl": "https://medusaskates.com/riedell-265-boots/"
       }
@@ -34078,19 +34120,6 @@
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747448734/skatebuild/rkn6dfuaivdecks1vjeh.webp"
   },
   {
-    "slug": "sure-grip-boardwalk-plus-boot-only",
-    "category": "boots",
-    "productName": "Sure-Grip Boardwalk Plus Only",
-    "productPrices": [
-      {
-        "medusaskates": "159",
-        "url": "https://medusaskates.com",
-        "productVendorUrl": "https://medusaskates.com/sure-grip-boardwalk-plus-boot-only/"
-      }
-    ],
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468210/ldjsonbuild/jvdkdznyokpexuxeztsl.webp"
-  },
-  {
     "slug": "sure-grip-oxford-tipton-limited-edition-roller-skate-boot",
     "category": "boots",
     "productName": "Sure-Grip Oxford Tipton Limited Edition Roller Skate",
@@ -34112,6 +34141,11 @@
         "derbywarehouse": "129.97",
         "url": "https://www.derbywarehouse.com",
         "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip_Phoenix_Boots/descpage-PHXBOOT.html"
+      },
+      {
+        "rollerskateusa": "190.00",
+        "url": "https://rollerskateusa.com",
+        "productVendorUrl": "https://rollerskateusa.com/product/sure-grip-phoenix-boot/"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746370761/metacrawler/ylfrplukrca0mvfjcc7c.webp"
