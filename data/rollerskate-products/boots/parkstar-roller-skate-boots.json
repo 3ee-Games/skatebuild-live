@@ -14,9 +14,19 @@
       "productVendorUrl": "https://bont.com/collections/park-roller-skates/products/parkstar-roller-skate-boots-blue-suede"
     },
     {
-      "medusaskates": "229",
+      "medusaskates": "229.00",
       "url": "https://medusaskates.com",
       "productVendorUrl": "https://medusaskates.com/bont-parkstar-roller-skate-boots/"
+    },
+    {
+      "derbywarehouse": "209.00",
+      "url": "https://www.derbywarehouse.com",
+      "productVendorUrl": "https://www.derbywarehouse.com/Bont_ParkStar_Boots/descpage-BPS18.html"
+    },
+    {
+      "bruisedboutique": "229.00",
+      "url": "https://bruisedboutique.com",
+      "productVendorUrl": "https://bruisedboutique.com/bont-parkstar-boots-blue/"
     }
   ]
 }

@@ -9,9 +9,14 @@
   "productVendorUrl": "https://www.zumiez.com/alltimers-x-creative-growth-john-martin-8-1-skateboard-deck.html",
   "productPrices": [
     {
-      "zumiez": "39.99",
+      "zumiez": "49.99",
       "url": "https://www.zumiez.com",
       "productVendorUrl": "https://www.zumiez.com/alltimers-x-creative-growth-john-martin-8-1-skateboard-deck.html"
+    },
+    {
+      "creativegrowth": "45.00",
+      "url": "https://www.creativegrowth.org",
+      "productVendorUrl": "https://www.creativegrowth.org/art/alltimers-x-creative-growth-aurie-ramirez-s-by-aurie-ramirez"
     }
   ]
 }

@@ -12,6 +12,16 @@
       "derbywarehouse": "299.00",
       "url": "https://www.derbywarehouse.com",
       "productVendorUrl": "https://www.derbywarehouse.com/Antik_Jet_Carbon/descpage-AJCB23.html"
+    },
+    {
+      "sk8ratz": "299.00",
+      "url": "https://sk8ratz.com",
+      "productVendorUrl": "https://sk8ratz.com/products/antik-jet-carbon-roller-skate-boots"
+    },
+    {
+      "pigeonskates": "279.00",
+      "url": "https://pigeonskates.com",
+      "productVendorUrl": "https://pigeonskates.com/products/antik-jet-carbon-boot-only"
     }
   ]
 }

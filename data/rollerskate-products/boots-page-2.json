@@ -1,35 +1,5 @@
 [
   {
-    "slug": "rondo",
-    "productName": "RONDO",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747448734/skatebuild/rkn6dfuaivdecks1vjeh.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "skatesus": "225.00",
-        "url": "https://skatesus.com",
-        "productVendorUrl": "https://skatesus.com/product/edea-rondo-roller-skate-boot/"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "sure-grip-boardwalk-plus-boot-only",
-    "productName": "Sure-Grip Boardwalk Plus Only",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468210/ldjsonbuild/jvdkdznyokpexuxeztsl.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "medusaskates": "159",
-        "url": "https://medusaskates.com",
-        "productVendorUrl": "https://medusaskates.com/sure-grip-boardwalk-plus-boot-only/"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "sure-grip-oxford-tipton-limited-edition-roller-skate-boot",
     "productName": "Sure-Grip Oxford Tipton Limited Edition Roller Skate",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746468180/ldjsonbuild/qi5m0dcdwzecnityabhu.webp",
@@ -55,6 +25,11 @@
         "derbywarehouse": "129.97",
         "url": "https://www.derbywarehouse.com",
         "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip_Phoenix_Boots/descpage-PHXBOOT.html"
+      },
+      {
+        "rollerskateusa": "190.00",
+        "url": "https://rollerskateusa.com",
+        "productVendorUrl": "https://rollerskateusa.com/product/sure-grip-phoenix-boot/"
       }
     ],
     "productTags": []

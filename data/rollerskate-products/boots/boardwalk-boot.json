@@ -9,9 +9,19 @@
   "productVendorUrl": "https://www.suregrip.com/products/boardwalk-boot",
   "productPrices": [
     {
-      "suregrip": "100.00",
+      "suregrip": "145.00",
       "url": "https://www.suregrip.com",
       "productVendorUrl": "https://www.suregrip.com/products/boardwalk-boot"
+    },
+    {
+      "medusaskates": "135.00",
+      "url": "https://medusaskates.com",
+      "productVendorUrl": "https://medusaskates.com/sure-grip-boardwalk-boot-only"
+    },
+    {
+      "wickedskatewear": "135.00",
+      "url": "https://wickedskatewear.com",
+      "productVendorUrl": "https://wickedskatewear.com/sure-grip-boardwalk-boots-only-evergreen/"
     }
   ]
 }
