@@ -13,15 +13,15 @@
   "attributes": [
     {
       "name": "Speed",
-      "value": 0.84
+      "value": 1.0
     },
     {
       "name": "Balance",
-      "value": 0.48
+      "value": 0.05
     },
     {
       "name": "Quality",
-      "value": 1.0
+      "value": 0.04
     },
     {
       "name": "Size",
@@ -30,6 +30,6 @@
   ],
   "slug": "jessup-park-my-turn",
   "owner_username": "Test43215",
-  "created": "2025-05-27T06:35:50.598227+00:00",
-  "updated": "2025-05-27T06:35:50.598227+00:00"
+  "created": "2025-05-28T21:58:46.914813+00:00",
+  "updated": "2025-05-28T21:58:46.914813+00:00"
 }
