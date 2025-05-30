@@ -1,0 +1,27 @@
+{
+  "name": "dickie mine",
+  "build_type": "skateboard",
+  "skating_type": "vert",
+  "deck_slug": "aidan-portrait-skateboard-deck",
+  "griptape_slug": "bro-style-black-grip-tape",
+  "risers_slug": "angled-riser-set",
+  "rails_slug": "deathwish-glitter-death-rails",
+  "trucks_slug": "ace-trucks-ace-colored-truck",
+  "bearings_slug": "black-skateboard-bearings",
+  "wheels_slug": "big-softies-cruiser-skateboard-wheels",
+  "bushings_slug": "hardcore-medium-skate-bushings-truck-set",
+  "attributes": [
+    {
+      "name": "one tuim",
+      "value": 0.5
+    },
+    {
+      "name": "speed",
+      "value": 0.86
+    }
+  ],
+  "slug": "dickie-mine",
+  "owner_username": "riptide420",
+  "created": "2025-05-30T02:19:37.886952+00:00",
+  "updated": "2025-05-30T02:19:37.886952+00:00"
+}
