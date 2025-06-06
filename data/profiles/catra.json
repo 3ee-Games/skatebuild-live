@@ -4,11 +4,10 @@
   "skater_type": [
     "skateboarder"
   ],
-  "stance": "regular",
+  "stance": "goofy",
   "status": "amateur",
   "sponsors": [
-    "BrandA",
-    "BrandB"
+    "BrandA"
   ],
   "contest_results": [
     {
