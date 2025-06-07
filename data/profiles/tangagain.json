@@ -1,13 +1,15 @@
 {
-  "name": "tangagain",
-  "hometown": "",
-  "skater_type": [],
-  "stance": "",
+  "name": "gsdfs",
+  "hometown": "nlerer",
+  "skater_type": [
+    "skateboarder"
+  ],
+  "stance": "regular",
   "status": "amateur",
   "sponsors": [],
   "contest_results": [],
-  "image": "",
-  "imageSmall": "",
+  "image": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/profile-image-default-2.png",
+  "imageSmall": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/profile-image-default.png",
   "supporter": null,
   "social_urls": []
 }
