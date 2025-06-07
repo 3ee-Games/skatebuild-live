@@ -1,6 +1,6 @@
 {
   "name": "Catra",
-  "hometown": "Test Town support",
+  "hometown": "Test Town",
   "skater_type": [
     "skateboarder"
   ],
@@ -8,7 +8,8 @@
   "status": "amateur",
   "sponsors": [
     "BrandA",
-    "BrandB"
+    "BrandB",
+    "CBrander"
   ],
   "contest_results": [
     {
