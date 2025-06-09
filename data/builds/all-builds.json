@@ -286,5 +286,13 @@
     "owner_username": "skateguilt456",
     "slug": "test-another",
     "created": "2025-05-12T01:12:12.045500+00:00"
+  },
+  {
+    "name": "test2",
+    "build_type": "skateboard",
+    "skating_type": "vert",
+    "owner_username": "workshop",
+    "slug": "test2",
+    "created": "2025-06-09T00:27:02.230319+00:00"
   }
 ]
