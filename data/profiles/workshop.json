@@ -11,6 +11,6 @@
   "contest_results": [],
   "image": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/profile-image-default-2.png",
   "imageSmall": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/profile-image-default.png",
-  "supporter": false,
+  "supporter": true,
   "social_urls": []
 }
