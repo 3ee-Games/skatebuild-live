@@ -2,7 +2,8 @@
   "name": "workshop",
   "hometown": "street tatics2",
   "skater_type": [
-    "skateboarder"
+    "skateboarder",
+    "roller skater"
   ],
   "stance": "regular",
   "status": "amateur",
