@@ -1,0 +1,31 @@
+{
+  "name": "Moxi FoMo",
+  "build_type": "rollerskate",
+  "skating_type": "park skating",
+  "boot_slug": "moxi-jack-2-boot",
+  "toestops_slug": "moxi-brake-petal-toe-stops-yellow-daisy-pair",
+  "slideblock_slug": "brunny-hardcore-pro-slide-blocks",
+  "plates_slug": "avanti-magnesium",
+  "trucks_slug": "huck-truck",
+  "bearings_slug": "bones-swiss-ceramic-bearings",
+  "wheels_slug": "estro-jen-bowl-bombers-rollerbones-skatepark-wheels-pack",
+  "bushings_slug": "powerdyne-magic-cushions",
+  "attributes": [
+    {
+      "name": "Speed",
+      "value": 1.0
+    },
+    {
+      "name": "Balance",
+      "value": 1.0
+    },
+    {
+      "name": "Grinds",
+      "value": 1.0
+    }
+  ],
+  "slug": "moxi-fomo",
+  "owner_username": "ryguy",
+  "created": "2025-06-10T22:58:24.110122+00:00",
+  "updated": "2025-06-10T22:58:24.110122+00:00"
+}
