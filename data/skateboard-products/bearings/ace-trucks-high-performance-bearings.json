@@ -9,9 +9,19 @@
   "productVendorUrl": "https://skateparkoftampa.com/products/ace-trucks-high-performance-bearings-96917?variant=49835711562001",
   "productPrices": [
     {
+      "zeastskateboards": "21.95",
+      "url": "https://www.zeastskateboards.com",
+      "productVendorUrl": "https://www.zeastskateboards.com/product-page/ace-performance-bearings"
+    },
+    {
       "spot": "23.95",
       "url": "https://skateparkoftampa.com",
       "productVendorUrl": "https://skateparkoftampa.com/products/ace-trucks-high-performance-bearings-96917?variant=49835711562001"
+    },
+    {
+      "5150skateshop": "21.60",
+      "url": "https://5150skateshop.com",
+      "productVendorUrl": "https://5150skateshop.com/products/ace-high-performance-bearings?variant=48563985776945&currency=USD&gQT=1"
     }
   ]
 }

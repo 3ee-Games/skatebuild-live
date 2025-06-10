@@ -12,5 +12,12 @@
   "slug": "jessup-park-skating",
   "owner_username": "catra",
   "created": "2025-05-09T05:04:31.600715+00:00",
-  "updated": "2025-05-09T05:04:31.600715+00:00"
+  "updated": "2025-05-09T05:04:31.600715+00:00",
+  "attributes": [
+    {"name": "speed", "value": 0.8 },
+    {"name": "dance", "value": 1 },
+    {"name": "quality", "value": 0.5 },
+    {"name": "ankle support", "value": 0.9 },
+    {"name": "grinds", "value": 1 }
+  ]
 }

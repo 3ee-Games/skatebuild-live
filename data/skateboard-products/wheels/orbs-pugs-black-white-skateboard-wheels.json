@@ -12,6 +12,21 @@
       "zumiez": "32.95",
       "url": "https://www.zumiez.com",
       "productVendorUrl": "https://www.zumiez.com/orbs-pugs-54mm-85a-black-white-skateboard-wheels.html"
+    },
+    {
+      "tactics": "47.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/powell-peralta/g-slides-cruiser-skateboard-wheels/white-85a"
+    },
+    {
+      "powellperalta": "50.95",
+      "url": "https://powell-peralta.com",
+      "productVendorUrl": "https://powell-peralta.com/powell-peralta-g-slides-skateboard-wheels-59mm-85a-4pk-white"
+    },
+    {
+      "nativeskatestoreuk": "54.50",
+      "url": "https://www.nativeskatestore.co.uk",
+      "productVendorUrl": "https://www.nativeskatestore.co.uk/skateboards-c7/skateboard-wheels-c8/g-slides-85a-ssf-white-skateboard-wheels-59mm-p60702"
     }
   ]
 }

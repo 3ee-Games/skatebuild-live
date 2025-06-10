@@ -9,9 +9,14 @@
   "productVendorUrl": "https://skateparkoftampa.com/products/satori-boozer-cruiser-84a-cruiser-wheels?variant=50629610111249",
   "productPrices": [
     {
-      "spot": "45.00",
+      "spot": "30.00",
       "url": "https://skateparkoftampa.com",
       "productVendorUrl": "https://skateparkoftampa.com/products/satori-boozer-cruiser-84a-cruiser-wheels?variant=50629610111249"
+    },
+    {
+      "satorimovement": "39.00",
+      "url": "https://www.satorimovement.com",
+      "productVendorUrl": "https://www.satorimovement.com/products/57mm-boozer-cruiser-84a-classic"
     }
   ]
 }

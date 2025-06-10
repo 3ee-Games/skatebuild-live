@@ -18,9 +18,19 @@
     "productName": "Ace Trucks High Performance Bearings",
     "productPrices": [
       {
+        "zeastskateboards": "21.95",
+        "url": "https://www.zeastskateboards.com",
+        "productVendorUrl": "https://www.zeastskateboards.com/product-page/ace-performance-bearings"
+      },
+      {
         "spot": "23.95",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/ace-trucks-high-performance-bearings-96917?variant=49835711562001"
+      },
+      {
+        "5150skateshop": "21.60",
+        "url": "https://5150skateshop.com",
+        "productVendorUrl": "https://5150skateshop.com/products/ace-high-performance-bearings?variant=48563985776945&currency=USD&gQT=1"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746413584/ldjsonbuild/ie6tg7xh70nwdjpuy13i.webp"
@@ -34,6 +44,21 @@
         "tactics": "24.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/nothing-special/adrian-del-campo-pro-skateboard-bearings/white"
+      },
+      {
+        "skatewarehouse": "25.00",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": " https://www.skatewarehouse.com/Nothing_Special_Adrian_Del_Campo_Bearings/descpage-NSADCBR.html"
+      },
+      {
+        "nothingspecial": "25.00",
+        "url": "https://nothingspecial.co",
+        "productVendorUrl": "https://nothingspecial.co/products/adrian-del-campo-nothing-special-bearings-8-pack"
+      },
+      {
+        "thinkempire": "33.95",
+        "url": "https://thinkempire.com",
+        "productVendorUrl": "https://thinkempire.com/products/nothing-special-adrian-del-campo-pro-bearings-co"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746391850/ldjsonbuild/isjqu9ipyjskomwvyqws.webp"
@@ -47,6 +72,26 @@
         "spot": "15.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/andale-abec-7-2-0-bearings-85005?variant=48245633122577"
+      },
+      {
+        "pepecaldopizza": "21.50",
+        "url": "https://pepecaldopizza.com",
+        "productVendorUrl": "https://pepecaldopizza.com/shop/andale-bearings-abec-7"
+      },
+      {
+        "walmart": "16.95",
+        "url": "https:///www.walmart.com",
+        "productVendorUrl": "https://www.walmart.com/ip/Andale-Abec-7-Bearing-Skateboard-Accessories-Black-64-Pack/205594821"
+      },
+      {
+        "amazon": "21.95",
+        "url": "https://www.amazon.com",
+        "productVendorUrl": "https://www.amazon.com/Andale-11246002-Abec-Accessory-Black/dp/B00T9LVBD6"
+      },
+      {
+        "sunnysmithco": "16.99",
+        "url": "https://sunnysmithco.com",
+        "productVendorUrl": "https://sunnysmithco.com/products/andale-abec-7-skateboard-bearings?variant=42725637685420"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746413744/ldjsonbuild/gvf8jqivsyfzwejlouyq.webp"
@@ -1315,6 +1360,26 @@
         "tactics": "76.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/limosine/aaron-loreth-hail-fail-825-skateboard-deck"
+      },
+      {
+        "skatewarehouse": "69.98",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Limosine_Aaron_Loreth_Hail_Fail_Deck/descpage-LSLF82DK.html"
+      },
+      {
+        "moceanskateboards": "78.00",
+        "url": "https://moceanskateboards.com",
+        "productVendorUrl": "https://moceanskateboards.com/products/hail-fail-aaron-loreth-deck"
+      },
+      {
+        "blacksheepskateshop": "79.95",
+        "url": "https://blacksheepskateshop.com",
+        "productVendorUrl": "https://blacksheepskateshop.com/products/limosine-skateboards-aaron-loreth-hail-fail-deck"
+      },
+      {
+        "nativeskatestoreuk": "88.50",
+        "url": "https://www.nativeskatestore.co.uk",
+        "productVendorUrl": "https://www.nativeskatestore.co.uk/skateboards-c7/skateboard-decks-c23/aaron-loreth-hail-fail-skateboard-deck-8-25-p69456"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400368/ldjsonbuild/cy1zdpqo10glvstzvoek.webp"
@@ -1328,6 +1393,21 @@
         "tactics": "58.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/arbor/ace-daytripper-8375-skateboard-deck"
+      },
+      {
+        "arborcollective": "69.99",
+        "url": "https://www.arborcollective.com",
+        "productVendorUrl": "https://www.arborcollective.com/products/ace-pelka-8-375-daytripper"
+      },
+      {
+        "skatehut": "87.67",
+        "url": "https://www.skatehut.co.uk",
+        "productVendorUrl": "https://www.skatehut.co.uk/arbor-ace-pelka-daytripper-skateboard-deck-8-375.htm"
+      },
+      {
+        "concretewave": "90.52",
+        "url": "https://www.concretewave.de",
+        "productVendorUrl": "https://www.concretewave.de/Arbor-Skateboards-Ace-Pelka-Daytripper-deck-8375"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397754/ldjsonbuild/r9ztagetui2dlrvroum5.webp"
@@ -1398,6 +1478,16 @@
         "tactics": "68.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/black-label/adams-el-pollo-diablo-95-custom-egg-skateboard-deck/blue"
+      },
+      {
+        "blacklabel": "69.95",
+        "url": "https://www.blacklabelskates.com",
+        "productVendorUrl": "https://www.blacklabelskates.com/product/jason-adams-el-pollo-diablo-9-0-custom-egg-9-5-custom-egg"
+      },
+      {
+        "riprideskateshop": "104.00",
+        "url": "https://www.riprideskateshop.co.uk",
+        "productVendorUrl": "https://www.riprideskateshop.co.uk/products/black-label-adams-el-pollo-diablo-9-5-egg"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399018/ldjsonbuild/llvn3cf2csl9l1ac8ajy.webp"
@@ -1431,7 +1521,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/welcome-skateboards-adventure-time-ice-king-on-crossbone-shaped-deck"
       },
       {
-        "spot": "90.00",
+        "boardofmissoula": "90.00",
         "url": "https://boardofmissoula.com",
         "productVendorUrl": "https://boardofmissoula.com/collections/decks/products/welcome-x-adventure-time-jake-on-dark-lord-9-75-deck"
       }
@@ -1597,6 +1687,26 @@
         "zumiez": "54.99",
         "url": "https://www.zumiez.com",
         "productVendorUrl": "https://www.zumiez.com/alien-workshop-x-thrasher-exalt-the-world-8-25-skateboard-deck.html"
+      },
+      {
+        "warehouseskateboards": "61.99",
+        "url": "https://www.warehouseskateboards.com",
+        "productVendorUrl": "https://www.warehouseskateboards.com/alien-workshop-skateboards-exalt-thrasher-assorted-stains-skateboard-deck-8.25x32.25"
+      },
+      {
+        "fressaskateshop": "67.99",
+        "url": "https://fresasskateshop.com",
+        "productVendorUrl": "https://fresasskateshop.com/products/alien-workshop-x-thrasher-xsalt-skateboard-deck-8-75-x-32-5"
+      },
+      {
+        "skatehut": "79.99",
+        "url": "https://www.skatehut.co.uk",
+        "productVendorUrl": "https://www.skatehut.co.uk/alien-workshop-x-thrasher-exalt-shovel-skateboard-deck-8-75.htm"
+      },
+      {
+        "amazon": "54.95",
+        "url": "https://www.amazon.com",
+        "productVendorUrl": "https://www.amazon.com/Alien-Workshop-Skateboard-Thrasher-Assorted/dp/B0BYK84R5P"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462036/zumiezbuild/mnqkcghfb01vuyrihnfp.webp"
@@ -1610,6 +1720,11 @@
         "tactics": "77.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/hockey/allen-pinto-825-skateboard-deck"
+      },
+      {
+        "slamcityskates": "185.00",
+        "url": "https://www.slamcity.com",
+        "productVendorUrl": "https://www.slamcity.com/en-us/products/hockey-825-andrew-allen-pinto-skateboard-deck"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396905/ldjsonbuild/piyk7l3zduuzj61rkrx6.webp"
@@ -1968,6 +2083,21 @@
         "tactics": "76.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/krooked/andrew-wilson-wegg-91-skateboard-deck"
+      },
+      {
+        "oldskullskateboards": "76.95",
+        "url": "https://www.oldskullskateboards.com",
+        "productVendorUrl": "https://www.oldskullskateboards.com/krooked-andrew-wilson-wegg-9-1-skateboard-deck/"
+      },
+      {
+        "tgmskateboards": "76.95",
+        "url": "https://tgmskateboards.com",
+        "productVendorUrl": "https://tgmskateboards.com/krooked-skateboard-deck-andrew-wilson-wegg-9-1-x-32/"
+      },
+      {
+        "escapistskateboarding": "75.00",
+        "url": "https://www.escapistskateboarding.com",
+        "productVendorUrl": "https://www.escapistskateboarding.com/krooked-andrew-wilson-wegg-shape-deck.html"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746403228/ldjsonbuild/yscwxgfrbefzdsa4tl5o.webp"
@@ -2004,6 +2134,16 @@
         "zumiez": "80.95",
         "url": "https://www.zumiez.com",
         "productVendorUrl": "https://www.zumiez.com/anti-hero-anderson-jalopi-9-25-skateboard-deck.html"
+      },
+      {
+        "tactics": "79.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/anti-hero/anderson-jalopi-925-ba18-wheel-wells-shape-skateboard-deck"
+      },
+      {
+        "amazon": "79.95",
+        "url": "https://www.amazon.com",
+        "productVendorUrl": "https://www.amazon.com/Anti-Hero-Skateboards-Anderson-Skateboard/dp/B0DPNHVV4Q"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461349/zumiezbuild/edodbxtran3lrtq0y7pb.webp"
@@ -2021,7 +2161,12 @@
       {
         "spot": "73.00",
         "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/anti-hero-brian-anderson-some-legs-deck?variant=50965218427153"
+        "productVendorUrl": "https://skateparkoftampa.com/products/anti-hero-brian-anderson-some-legs-deck"
+      },
+      {
+        "welcomeboardstore": "93.00",
+        "url": "https://welcomeboardstore.com.au",
+        "productVendorUrl": "https://welcomeboardstore.com.au/products/anti-hero-brian-anderson-some-legs-8-5-skateboard-deck"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460841/zumiezbuild/xjhp4nediduginfqzp8p.webp"
@@ -2034,7 +2179,7 @@
       {
         "spot": "73.00",
         "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/anti-hero-austin-kanfoush-some-legs-deck?variant=50965216231697"
+        "productVendorUrl": "https://skateparkoftampa.com/products/anti-hero-austin-kanfoush-some-legs-deck"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415285/ldjsonbuild/nmkoah9l9wuajkkcgwlu.webp"
@@ -3264,14 +3409,14 @@
         "productVendorUrl": "https://www.zumiez.com/baker-white-brand-logo-8-5-skateboard-deck.html"
       },
       {
-        "tactics": "39.95",
+        "tactics": "71.95",
         "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/tactics/oval-logo-skateboard-deck/orange"
+        "productVendorUrl": "https://www.tactics.com/baker/brand-logo-85-skateboard-deck/white"
       },
       {
-        "spot": "72.00",
+        "spot": "69.00",
         "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/april-skateboards-og-logo-photo-deck?variant=51397818941713"
+        "productVendorUrl": "https://skateparkoftampa.com/products/baker-brand-logo-deck-4431?variant=48243351617809"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461428/zumiezbuild/u29xtlzjacnxh4wr69r6.webp"
@@ -3628,6 +3773,11 @@
         "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/birdhouse-aaron-jaw-homoki-red-shift-deck?variant=51491563503889"
+      },
+      {
+        "warehouseskateboards": "69.99",
+        "url": "https://www.warehouseskateboards.com",
+        "productVendorUrl": "https://www.warehouseskateboards.com/birdhouse-skateboards-aaron-jaws-homoki-red-shift-skateboard-deck-8.38x32"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414031/ldjsonbuild/yamostwmqyqr46kx7tvs.webp"
@@ -3667,6 +3817,11 @@
         "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/birdhouse-felipe-nunes-red-shift-deck?variant=51491567075601"
+      },
+      {
+        "birdhouse": "79.00",
+        "url": "https://www.birdhouseskateboards.com",
+        "productVendorUrl": "https://www.birdhouseskateboards.com/products/felipe-nunes-red-shift-8-25"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414020/ldjsonbuild/hmanln4cyapiwlg3wbav.webp"
@@ -4257,6 +4412,21 @@
         "tactics": "87.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/thank-you/bufoni-bride-of-buddy-825-guest-skateboard-deck"
+      },
+      {
+        "xtremeskateshop": "122.94",
+        "url": "https://www.xtreme-skate.com",
+        "productVendorUrl": "https://www.xtreme-skate.com/gb/thank-you-skateboard-deck-leticia-bufoni-bride-of-buddy-collectors-box-825"
+      },
+      {
+        "routeone": "104.95",
+        "url": "https://www.routeone.co.uk",
+        "productVendorUrl": "https://www.routeone.co.uk/products/thank-you-leticia-bufoni-bride-of-buddy-guest-skateboard-deck-8-25-001178055"
+      },
+      {
+        "ebay": "89.95",
+        "url": "https://www.ebay.com",
+        "productVendorUrl": "https://www.ebay.com/itm/375757922764"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398339/ldjsonbuild/fcxxlilihbdwwjsautr6.webp"
@@ -5264,6 +5434,16 @@
         "tactics": "68.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/coexist-85-skateboard-deck"
+      },
+      {
+        "nativeskatestoreuk": "89.88",
+        "url": "https://www.nativeskatestore.co.uk",
+        "productVendorUrl": "https://www.nativeskatestore.co.uk/skateboards-c7/skateboard-decks-c23/coexist-skateboard-deck-8-25-p68980"
+      },
+      {
+        "select": "75.00",
+        "url": "https://slcth.shop",
+        "productVendorUrl": "https://slcth.shop/products/theories-skateboard-deck-coexist-8-125"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401209/ldjsonbuild/ekf1zsxujup28ohcieuc.webp"
@@ -5381,6 +5561,11 @@
         "tactics": "71.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/wknd-skateboards/considine-sugarloaf-85-skateboard-deck"
+      },
+      {
+        "wknd": "70.00",
+        "url": "https://shop.wkndbrand.com",
+        "productVendorUrl": "https://shop.wkndbrand.com/collections/wknd-decks"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398797/ldjsonbuild/bzah7wvttsqyulvbwrwr.webp"
@@ -29522,7 +29707,7 @@
         "productVendorUrl": "https://aptskateshop.com/products/snot-wheels-big-softies-63mm-78a"
       },
       {
-        "aptskateshop": "35.37",
+        "nativeskatestore": "35.37",
         "url": "https://www.nativeskatestore.co.uk",
         "productVendorUrl": "https://www.nativeskatestore.co.uk/skateboards-c7/skateboard-wheels-c8/big-softies-78a-skateboard-wheels-63mm-p59387"
       }
@@ -29974,7 +30159,7 @@
       {
         "cloudridewheels": "39.95",
         "url": "https://cloudridewheels.com",
-        "productVendorUrl": "https://cloudridewheels.com/products/cloud-ride-69mm-clear-pink-cruisers"
+        "productVendorUrl": "https://cloudridewheels.com/cloud-ride-69mm-clear-pink-cruisers.html"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462743/zumiezbuild/nlrcei6gqxmeb6kt3ebs.webp"
@@ -31315,19 +31500,14 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/oj-3-thunder-juice-78a-wheels-55417?variant=48243475513617"
       },
       {
-        "tactics": "51.95",
+        "tactics": "52.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/oj/thunder-juice-cruiser-skateboard-wheels/orange-78a"
       },
       {
         "nhsskatedirect": "36.00",
         "url": "https://nhsskatedirect.com",
-        "productVendorUrl": "https://nhsskatedirect.com/products/75mm-oj-thunder-juice-orange-78a-skateboard-wheels"
-      },
-      {
-        "thedarkslide": "36.00",
-        "url": "https://thedarkslide.com",
-        "productVendorUrl": "https://thedarkslide.com/products/oj-iii-thunder-juice-orange-75mm-78a-skateboard-wheels"
+        "productVendorUrl": "https://nhsskatedirect.com/products/75mm-thunder-juice-orange-78a-oj-skateboard-wheels"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746418256/ldjsonbuild/w17yoxerkfnbjqiome4c.webp"
@@ -31419,6 +31599,21 @@
         "zumiez": "32.95",
         "url": "https://www.zumiez.com",
         "productVendorUrl": "https://www.zumiez.com/orbs-pugs-54mm-85a-black-white-skateboard-wheels.html"
+      },
+      {
+        "tactics": "47.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/powell-peralta/g-slides-cruiser-skateboard-wheels/white-85a"
+      },
+      {
+        "powellperalta": "50.95",
+        "url": "https://powell-peralta.com",
+        "productVendorUrl": "https://powell-peralta.com/powell-peralta-g-slides-skateboard-wheels-59mm-85a-4pk-white"
+      },
+      {
+        "nativeskatestoreuk": "54.50",
+        "url": "https://www.nativeskatestore.co.uk",
+        "productVendorUrl": "https://www.nativeskatestore.co.uk/skateboards-c7/skateboard-wheels-c8/g-slides-85a-ssf-white-skateboard-wheels-59mm-p60702"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462857/zumiezbuild/aya8odzzidsujqaqowxa.webp"
@@ -31640,6 +31835,11 @@
         "tactics": "32.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/orbs/pugs-cruiser-skateboard-wheels/black-blue-swirl-85a"
+      },
+      {
+        "zumiez": "32.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/orbs-pugs-54mm-85a-black-blue-skateboard-wheels.html"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393545/ldjsonbuild/yxxqb30l5by17xzrkkoe.webp"
@@ -31902,9 +32102,14 @@
     "productName": "Satori Boozer Cruiser 84a Cruiser Wheels",
     "productPrices": [
       {
-        "spot": "45.00",
+        "spot": "30.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/satori-boozer-cruiser-84a-cruiser-wheels?variant=50629610111249"
+      },
+      {
+        "satorimovement": "39.00",
+        "url": "https://www.satorimovement.com",
+        "productVendorUrl": "https://www.satorimovement.com/products/57mm-boozer-cruiser-84a-classic"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746417715/ldjsonbuild/tbiyxhkac7dgij6bonbx.webp"

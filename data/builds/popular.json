@@ -3,27 +3,51 @@
         {
             "name": "sbooker t roller",
             "type": "skateboard",
-            "url": "/builds/catra/sboook-sdfsdf"
+            "url": "/builds/catra/sboook-sdfsdf",
+            "style": "skatepark",
+            "price": 120.99
         },
         {
             "name": "street skate",
             "type": "skateboard",
-            "url": "/builds/catra/street-skate"
+            "url": "/builds/catra/street-skate",
+            "style": "skatepark",
+            "price": 120.99
         },
         {
             "name": "oh lordie",
             "type": "skateboard",
-            "url": "/builds/catra/oh-lordie"
+            "url": "/builds/catra/oh-lordie",
+            "style": "skatepark",
+            "price": 120.99
         },
         {
             "name": "giblet",
             "type": "rollerskate",
-            "url": "/builds/catra/giblet"
+            "url": "/builds/catra/giblet",
+            "style": "skatepark",
+            "price": 120.99
         },
         {
             "name": "asdaw roller",
             "type": "skateboard",
-            "url": "/builds/catra/sboook-sdfsdf"
+            "url": "/builds/catra/sboook-sdfsdf",
+            "style": "skatepark",
+            "price": 120.99
+        },
+        {
+            "name": "giblet2",
+            "type": "rollerskate",
+            "url": "/builds/catra/giblet",
+            "style": "skatepark",
+            "price": 120.99
+        },
+        {
+            "name": "Moxi Loli Park Setup",
+            "type": "rollerskate",
+            "url": "/builds/catra/giblet",
+            "style": "skatepark",
+            "price": 120.99
         }
     ]
 }
