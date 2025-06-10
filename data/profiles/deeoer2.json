@@ -1,7 +1,10 @@
 {
   "name": "Deperer",
   "hometown": "erer tampa",
-  "skater_type": [],
+  "skater_type": [
+    "skateboarder",
+    "roller skater"
+  ],
   "stance": "regular",
   "status": "amateur",
   "sponsors": [],
