@@ -62,5 +62,13 @@
     "owner_username": "catra",
     "slug": "test2",
     "created": "2025-05-09T05:02:06.300799+00:00"
+  },
+  {
+    "name": "Smooth Riding",
+    "build_type": "skateboard",
+    "skating_type": "park",
+    "owner_username": "workshop",
+    "slug": "smooth-riding",
+    "created": "2025-06-10T21:14:14.675561+00:00"
   }
 ]
