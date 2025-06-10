@@ -1,0 +1,31 @@
+{
+  "name": "First Park Build",
+  "build_type": "rollerskate",
+  "skating_type": "park skating",
+  "boot_slug": "moxi-lolly-boots",
+  "toestops_slug": "rock-jam-plug",
+  "slideblock_slug": "cib-slide-blocks",
+  "plates_slug": "avanti-magnesium",
+  "trucks_slug": "huck-truck",
+  "bearings_slug": "bones-super-reds-ceramic-bearings",
+  "wheels_slug": "bont-full-flight-wheels-red",
+  "bushings_slug": "powerdyne-magic-cushions",
+  "attributes": [
+    {
+      "name": "speed",
+      "value": 0.68
+    },
+    {
+      "name": "ankle",
+      "value": 0.24
+    },
+    {
+      "name": "balance",
+      "value": 0.85
+    }
+  ],
+  "slug": "first-park-build",
+  "owner_username": "workshop",
+  "created": "2025-06-10T21:19:51.467378+00:00",
+  "updated": "2025-06-10T21:19:51.467378+00:00"
+}
