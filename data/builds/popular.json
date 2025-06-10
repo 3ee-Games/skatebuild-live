@@ -41,6 +41,13 @@
             "url": "/builds/workshop/smooth-riding",
             "style": "skatepark",
             "price": 307.70
+        },
+        {
+            "name": "Stinky Beginner Lolly",
+            "type": "rollerskate",
+            "url": "/builds/ryguy/stinky-beginner-lolly",
+            "style": "skatepark",
+            "price": 778.53
         }
     ]
 }
