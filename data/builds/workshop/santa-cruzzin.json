@@ -1,0 +1,31 @@
+{
+  "name": "Santa Cruzzin",
+  "build_type": "skateboard",
+  "skating_type": "park",
+  "deck_slug": "santa-cruz-wooten-contact-skateboard-deck",
+  "griptape_slug": "andrew-allen-graphic-skateboard-grip-tape",
+  "risers_slug": "angled-riser-set",
+  "rails_slug": "bonesaw-rails",
+  "trucks_slug": "independent-hockey-x-independent-stage-croc-standard-truck",
+  "bearings_slug": "swiss-skateboard-bearings",
+  "wheels_slug": "cranksters-skateboard-wheels",
+  "bushings_slug": "bones-hard-white-black-bushings",
+  "attributes": [
+    {
+      "name": "speed",
+      "value": 0.94
+    },
+    {
+      "name": "grind",
+      "value": 0.9
+    },
+    {
+      "name": "balance",
+      "value": 0.89
+    }
+  ],
+  "slug": "santa-cruzzin",
+  "owner_username": "workshop",
+  "created": "2025-06-10T21:29:50.760556+00:00",
+  "updated": "2025-06-10T21:29:50.760556+00:00"
+}
