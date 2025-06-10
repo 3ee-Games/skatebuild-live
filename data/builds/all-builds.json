@@ -64,6 +64,14 @@
     "created": "2025-05-09T05:02:06.300799+00:00"
   },
   {
+    "name": "Bakers Beginner's",
+    "build_type": "skateboard",
+    "skating_type": "park",
+    "owner_username": "workshop",
+    "slug": "bakers-beginners",
+    "created": "2025-06-10T22:30:55.734037+00:00"
+  },
+  {
     "name": "First Park Build",
     "build_type": "rollerskate",
     "skating_type": "park skating",
