@@ -1,53 +1,46 @@
 {
     "builds": [
         {
-            "name": "sbooker t roller",
-            "type": "skateboard",
-            "url": "/builds/catra/sboook-sdfsdf",
-            "style": "skatepark",
-            "price": 120.99
-        },
-        {
-            "name": "street skate",
-            "type": "skateboard",
-            "url": "/builds/catra/street-skate",
-            "style": "skatepark",
-            "price": 120.99
-        },
-        {
-            "name": "oh lordie",
-            "type": "skateboard",
-            "url": "/builds/catra/oh-lordie",
-            "style": "skatepark",
-            "price": 120.99
-        },
-        {
-            "name": "giblet",
+            "name": "Low Profile Park",
             "type": "rollerskate",
-            "url": "/builds/catra/giblet",
+            "url": "/builds/ryguy/low-profile-park",
             "style": "skatepark",
-            "price": 120.99
+            "price": 928.93
         },
         {
-            "name": "asdaw roller",
+            "name": "Moxi FoMo",
+            "type": "rollerskate",
+            "url": "/builds/ryguy/moxi-fomo",
+            "style": "skatepark",
+            "price": 938.98
+        },
+        {
+            "name": "Santa Cruzzin",
             "type": "skateboard",
-            "url": "/builds/catra/sboook-sdfsdf",
+            "url": "/builds/workshop/santa-cruzzin",
             "style": "skatepark",
-            "price": 120.99
+            "price": 209.65
         },
         {
-            "name": "giblet2",
-            "type": "rollerskate",
-            "url": "/builds/catra/giblet",
+            "name": "Bakers Beginner's",
+            "type": "skateboard",
+            "url": "/builds/workshop/bakers-beginners",
             "style": "skatepark",
-            "price": 120.99
+            "price": 193.64
         },
         {
-            "name": "Moxi Loli Park Setup",
-            "type": "rollerskate",
-            "url": "/builds/catra/giblet",
+            "name": "Powell Flight",
+            "type": "skateboard",
+            "url": "/builds/workshop/powell-flight",
             "style": "skatepark",
-            "price": 120.99
+            "price": 223.60
+        },
+        {
+            "name": "Smooth Riding",
+            "type": "skateboard",
+            "url": "/builds/workshop/smooth-riding",
+            "style": "skatepark",
+            "price": 307.70
         }
     ]
 }
