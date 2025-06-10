@@ -64,6 +64,14 @@
     "created": "2025-05-09T05:02:06.300799+00:00"
   },
   {
+    "name": "Low Profile Park",
+    "build_type": "rollerskate",
+    "skating_type": "park skating",
+    "owner_username": "ryguy",
+    "slug": "low-profile-park",
+    "created": "2025-06-10T22:56:08.463242+00:00"
+  },
+  {
     "name": "Bakers Beginner's",
     "build_type": "skateboard",
     "skating_type": "park",
