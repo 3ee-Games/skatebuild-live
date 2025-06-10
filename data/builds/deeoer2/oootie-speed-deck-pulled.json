@@ -1,0 +1,27 @@
+{
+  "name": "oootie speed deck pulled",
+  "build_type": "skateboard",
+  "skating_type": "park",
+  "deck_slug": "andy-anderson-heron-skull-skateboard-deck",
+  "griptape_slug": "andy-anderson-theory-map-graphic-skateboard-grip-tape",
+  "risers_slug": "independent-riser-pads",
+  "rails_slug": "creature-skateboards-slider-rails",
+  "trucks_slug": "independent-smith-white-skateboard-trucks",
+  "bearings_slug": "swiss-ceramic-skateboard-bearings",
+  "wheels_slug": "oj-double-duro-mini-combo-wheels",
+  "bushings_slug": "independent-genuine-parts-standard-super-soft-set-of-bushings",
+  "attributes": [
+    {
+      "name": "speed",
+      "value": 0.84
+    },
+    {
+      "name": "loose",
+      "value": 0.63
+    }
+  ],
+  "slug": "oootie-speed-deck-pulled",
+  "owner_username": "deeoer2",
+  "created": "2025-06-10T17:44:27.521371+00:00",
+  "updated": "2025-06-10T17:44:27.521371+00:00"
+}
