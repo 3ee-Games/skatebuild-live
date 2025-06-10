@@ -12,6 +12,26 @@
       "zumiez": "54.99",
       "url": "https://www.zumiez.com",
       "productVendorUrl": "https://www.zumiez.com/alien-workshop-x-thrasher-exalt-the-world-8-25-skateboard-deck.html"
+    },
+    {
+      "warehouseskateboards": "61.99",
+      "url": "https://www.warehouseskateboards.com",
+      "productVendorUrl": "https://www.warehouseskateboards.com/alien-workshop-skateboards-exalt-thrasher-assorted-stains-skateboard-deck-8.25x32.25"
+    },
+    {
+      "fressaskateshop": "67.99",
+      "url": "https://fresasskateshop.com",
+      "productVendorUrl": "https://fresasskateshop.com/products/alien-workshop-x-thrasher-xsalt-skateboard-deck-8-75-x-32-5"
+    },
+    {
+      "skatehut": "79.99",
+      "url": "https://www.skatehut.co.uk",
+      "productVendorUrl": "https://www.skatehut.co.uk/alien-workshop-x-thrasher-exalt-shovel-skateboard-deck-8-75.htm"
+    },
+    {
+      "amazon": "54.95",
+      "url": "https://www.amazon.com",
+      "productVendorUrl": "https://www.amazon.com/Alien-Workshop-Skateboard-Thrasher-Assorted/dp/B0BYK84R5P"
     }
   ]
 }

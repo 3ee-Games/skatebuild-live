@@ -110,6 +110,11 @@
         "tactics": "32.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/orbs/pugs-cruiser-skateboard-wheels/black-blue-swirl-85a"
+      },
+      {
+        "zumiez": "32.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/orbs-pugs-54mm-85a-black-blue-skateboard-wheels.html"
       }
     ],
     "productTags": [
@@ -512,9 +517,14 @@
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "45.00",
+        "spot": "30.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/satori-boozer-cruiser-84a-cruiser-wheels?variant=50629610111249"
+      },
+      {
+        "satorimovement": "39.00",
+        "url": "https://www.satorimovement.com",
+        "productVendorUrl": "https://www.satorimovement.com/products/57mm-boozer-cruiser-84a-classic"
       }
     ],
     "productTags": [

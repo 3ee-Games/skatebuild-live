@@ -1,40 +1,14 @@
 {
-  "name": "oootie",
-  "hometown": "tampa2",
-  "skater_type": [
-    "skateboarder"
-  ],
-  "stance": "regular",
-  "status": "amateur",
-  "sponsors": [
-    "nike",
-    "rebox",
-    "test"
-  ],
-  "contest_results": [
-    {
-      "name": "test",
-      "division": "rot1",
-      "date": "2023-05-09",
-      "placement": 17
-    },
-    {
-      "name": "baa2",
-      "division": "cee2",
-      "date": "2019-02-12",
-      "placement": 5
-    },
-    {
-      "name": "shjdksjdfh 3",
-      "division": "skjdhfkjsdfh",
-      "date": "2018-08-12",
-      "placement": 16
-    }
-  ],
-  "image": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250511/1eye_qdymtr",
-  "imageSmall": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250511/8bd9b8aaa24e4fe6ba281f7388ca92b0_fub18c",
-  "social_urls": [
-    "https://x.com/ryan_ootie",
-    "https://www.instagram.com/ryan.on.quads/"
-  ]
-}
+    "name": "oootie",
+    "hometown": "tampa",
+    "skater_type": [
+      "skateboarder"
+    ],
+    "stance": "regular",
+    "status": "amateur",
+    "sponsors": [],
+    "contest_results": [],
+    "image": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/profile-image-default-2.png",
+    "imageSmall": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/profile-image-default.png",
+    "social_urls": []
+  }

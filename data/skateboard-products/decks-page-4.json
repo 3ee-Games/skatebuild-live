@@ -255,6 +255,11 @@
         "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/birdhouse-aaron-jaw-homoki-red-shift-deck?variant=51491563503889"
+      },
+      {
+        "warehouseskateboards": "69.99",
+        "url": "https://www.warehouseskateboards.com",
+        "productVendorUrl": "https://www.warehouseskateboards.com/birdhouse-skateboards-aaron-jaws-homoki-red-shift-skateboard-deck-8.38x32"
       }
     ],
     "productTags": []
@@ -300,6 +305,11 @@
         "spot": "78.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/birdhouse-felipe-nunes-red-shift-deck?variant=51491567075601"
+      },
+      {
+        "birdhouse": "79.00",
+        "url": "https://www.birdhouseskateboards.com",
+        "productVendorUrl": "https://www.birdhouseskateboards.com/products/felipe-nunes-red-shift-8-25"
       }
     ],
     "productTags": []

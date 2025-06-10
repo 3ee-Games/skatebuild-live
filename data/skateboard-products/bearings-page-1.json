@@ -22,9 +22,19 @@
     "imageHeight": 200,
     "productPrices": [
       {
+        "zeastskateboards": "21.95",
+        "url": "https://www.zeastskateboards.com",
+        "productVendorUrl": "https://www.zeastskateboards.com/product-page/ace-performance-bearings"
+      },
+      {
         "spot": "23.95",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/ace-trucks-high-performance-bearings-96917?variant=49835711562001"
+      },
+      {
+        "5150skateshop": "21.60",
+        "url": "https://5150skateshop.com",
+        "productVendorUrl": "https://5150skateshop.com/products/ace-high-performance-bearings?variant=48563985776945&currency=USD&gQT=1"
       }
     ],
     "productTags": []
@@ -40,6 +50,21 @@
         "tactics": "24.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/nothing-special/adrian-del-campo-pro-skateboard-bearings/white"
+      },
+      {
+        "skatewarehouse": "25.00",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": " https://www.skatewarehouse.com/Nothing_Special_Adrian_Del_Campo_Bearings/descpage-NSADCBR.html"
+      },
+      {
+        "nothingspecial": "25.00",
+        "url": "https://nothingspecial.co",
+        "productVendorUrl": "https://nothingspecial.co/products/adrian-del-campo-nothing-special-bearings-8-pack"
+      },
+      {
+        "thinkempire": "33.95",
+        "url": "https://thinkempire.com",
+        "productVendorUrl": "https://thinkempire.com/products/nothing-special-adrian-del-campo-pro-bearings-co"
       }
     ],
     "productTags": []
@@ -55,6 +80,26 @@
         "spot": "15.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/andale-abec-7-2-0-bearings-85005?variant=48245633122577"
+      },
+      {
+        "pepecaldopizza": "21.50",
+        "url": "https://pepecaldopizza.com",
+        "productVendorUrl": "https://pepecaldopizza.com/shop/andale-bearings-abec-7"
+      },
+      {
+        "walmart": "16.95",
+        "url": "https:///www.walmart.com",
+        "productVendorUrl": "https://www.walmart.com/ip/Andale-Abec-7-Bearing-Skateboard-Accessories-Black-64-Pack/205594821"
+      },
+      {
+        "amazon": "21.95",
+        "url": "https://www.amazon.com",
+        "productVendorUrl": "https://www.amazon.com/Andale-11246002-Abec-Accessory-Black/dp/B00T9LVBD6"
+      },
+      {
+        "sunnysmithco": "16.99",
+        "url": "https://sunnysmithco.com",
+        "productVendorUrl": "https://sunnysmithco.com/products/andale-abec-7-skateboard-bearings?variant=42725637685420"
       }
     ],
     "productTags": []
