@@ -1,0 +1,27 @@
+{
+  "name": "Smooth Riding",
+  "build_type": "skateboard",
+  "skating_type": "park",
+  "deck_slug": "adams-to-life-egg-skateboard-deck",
+  "griptape_slug": "andy-roy-web-skateboard-grip-tape",
+  "risers_slug": "",
+  "rails_slug": "",
+  "trucks_slug": "independent-vertigo-span-stage-hollow-black-silver-skateboard-truck",
+  "bearings_slug": "swiss-ceramic-skateboard-bearings",
+  "wheels_slug": "dragon-formula-rat-bones-ii-skateboard-wheels",
+  "bushings_slug": "independent-genuine-parts-standard-super-soft-set-of-bushings",
+  "attributes": [
+    {
+      "name": "speed",
+      "value": 1.0
+    },
+    {
+      "name": "slap",
+      "value": 1.0
+    }
+  ],
+  "slug": "smooth-riding",
+  "owner_username": "workshop",
+  "created": "2025-06-10T21:14:14.675561+00:00",
+  "updated": "2025-06-10T21:14:14.675561+00:00"
+}
