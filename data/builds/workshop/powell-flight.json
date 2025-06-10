@@ -1,0 +1,31 @@
+{
+  "name": "Powell Flight",
+  "build_type": "skateboard",
+  "skating_type": "park",
+  "deck_slug": "powell-andy-anderson-flight",
+  "griptape_slug": "andrew-allen-graphic-skateboard-grip-tape",
+  "risers_slug": "angled-riser-set",
+  "rails_slug": "bonesaw-rails",
+  "trucks_slug": "independent-stage-bar-truck",
+  "bearings_slug": "swiss-skateboard-bearings",
+  "wheels_slug": "cranksters-skateboard-wheels",
+  "bushings_slug": "bones-hard-white-black-bushings",
+  "attributes": [
+    {
+      "name": "speed",
+      "value": 0.99
+    },
+    {
+      "name": "grind",
+      "value": 0.99
+    },
+    {
+      "name": "fun",
+      "value": 1.0
+    }
+  ],
+  "slug": "powell-flight",
+  "owner_username": "workshop",
+  "created": "2025-06-10T22:13:41.867522+00:00",
+  "updated": "2025-06-10T22:13:41.867522+00:00"
+}
