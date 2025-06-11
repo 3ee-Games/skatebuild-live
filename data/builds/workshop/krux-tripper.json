@@ -1,0 +1,27 @@
+{
+  "name": "Krux Tripper",
+  "build_type": "skateboard",
+  "skating_type": "park",
+  "deck_slug": "ace-daytripper-skateboard-deck",
+  "griptape_slug": "andy-anderson-theory-map-graphic-skateboard-grip-tape",
+  "risers_slug": "angled-riser-set",
+  "rails_slug": "creature-skateboards-slider-rails",
+  "trucks_slug": "krux-krux-x-spongebob-bikini-bottom-trucks",
+  "bearings_slug": "andale-abec-bearings",
+  "wheels_slug": "black-holes-mini-chubbies-skateboard-wheels",
+  "bushings_slug": "bones-hardcore-soft-bushings",
+  "attributes": [
+    {
+      "name": "Speed",
+      "value": 1.0
+    },
+    {
+      "name": "Balance",
+      "value": 1.0
+    }
+  ],
+  "slug": "krux-tripper",
+  "owner_username": "workshop",
+  "created": "2025-06-11T20:01:11.582399+00:00",
+  "updated": "2025-06-11T20:01:11.582399+00:00"
+}
