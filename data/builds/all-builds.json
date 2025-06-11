@@ -72,6 +72,14 @@
     "created": "2025-06-11T20:25:41.907370+00:00"
   },
   {
+    "name": "test2",
+    "build_type": "skateboard",
+    "skating_type": "vert",
+    "owner_username": "deeoer2",
+    "slug": "test2",
+    "created": "2025-06-11T21:16:24.013164+00:00"
+  },
+  {
     "name": "Town Ripper",
     "build_type": "skateboard",
     "skating_type": "park",
