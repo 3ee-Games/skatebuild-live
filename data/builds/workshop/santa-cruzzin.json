@@ -1,0 +1,23 @@
+{
+  "name": "Santa Cruzzin",
+  "build_type": "skateboard",
+  "skating_type": "park",
+  "deck_slug": "santa-cruz-asta-space-cat-vx-skateboard-deck",
+  "griptape_slug": "mob-grip-tape",
+  "risers_slug": "",
+  "rails_slug": "creature-skateboards-slider-rails",
+  "trucks_slug": "independent-justin-henry-stage-skateboard-trucks",
+  "bearings_slug": "bones-reds-skateboard-bearings",
+  "wheels_slug": "dragon-formula-v4-skateboard-wheels",
+  "bushings_slug": "hard-bushings",
+  "attributes": [
+    {
+      "name": "Speed",
+      "value": 1.0
+    }
+  ],
+  "slug": "santa-cruzzin",
+  "owner_username": "workshop",
+  "created": "2025-06-11T01:02:30.170214+00:00",
+  "updated": "2025-06-11T01:02:30.170214+00:00"
+}
