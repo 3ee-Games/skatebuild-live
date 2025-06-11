@@ -2,13 +2,13 @@
   "name": "Powell Flight",
   "build_type": "skateboard",
   "skating_type": "park",
-  "deck_slug": "powell-andy-anderson-flight",
+  "deck_slug": "almqvist-rex-skateboard-deck",
   "griptape_slug": "andy-anderson-theory-map-graphic-skateboard-grip-tape",
-  "risers_slug": "",
+  "risers_slug": "diamond-supply-co-skateboard-risers",
   "rails_slug": "creature-skateboards-slider-rails",
-  "trucks_slug": "independent-justin-henry-stage-skateboard-trucks",
+  "trucks_slug": "ace-deedz-hollow-af1-black-skateboard-truck",
   "bearings_slug": "bones-reds-skateboard-bearings",
-  "wheels_slug": "dragon-formula-rat-bones-ii-skateboard-wheels",
+  "wheels_slug": "bones-wheels-look-book-v6-widecut-x-formula-wheels",
   "bushings_slug": "hard-bushings",
   "attributes": [
     {
@@ -16,12 +16,12 @@
       "value": 1.0
     },
     {
-      "name": "Fun",
+      "name": "Grinds",
       "value": 1.0
     }
   ],
   "slug": "powell-flight",
   "owner_username": "workshop",
-  "created": "2025-06-11T00:56:26.709939+00:00",
-  "updated": "2025-06-11T00:56:26.709939+00:00"
+  "created": "2025-06-11T19:45:25.417830+00:00",
+  "updated": "2025-06-11T19:45:25.417830+00:00"
 }
