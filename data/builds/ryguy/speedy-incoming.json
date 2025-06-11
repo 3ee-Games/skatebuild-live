@@ -1,0 +1,27 @@
+{
+  "name": "Speedy Incoming",
+  "build_type": "skateboard",
+  "skating_type": "park",
+  "deck_slug": "birdhouse-elliot-sloan-provan-deck",
+  "griptape_slug": "andrew-allen-graphic-skateboard-grip-tape",
+  "risers_slug": "angled-riser-set",
+  "rails_slug": "bonesaw-rails",
+  "trucks_slug": "independent-t-funk-stage-standard-truck",
+  "bearings_slug": "adrian-del-campo-pro-skateboard-bearings",
+  "wheels_slug": "oj-double-duro-mini-combo-wheels",
+  "bushings_slug": "deluxe-tack-supply-supercush-medium-bushings",
+  "attributes": [
+    {
+      "name": "Speed",
+      "value": 1.0
+    },
+    {
+      "name": "Balance",
+      "value": 1.0
+    }
+  ],
+  "slug": "speedy-incoming",
+  "owner_username": "ryguy",
+  "created": "2025-06-11T00:18:11.538281+00:00",
+  "updated": "2025-06-11T00:18:11.538281+00:00"
+}
