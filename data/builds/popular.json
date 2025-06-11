@@ -5,42 +5,42 @@
             "type": "rollerskate",
             "url": "/builds/ryguy/low-profile-park",
             "style": "skatepark",
-            "price": 928.93
+            "price": 728.53
         },
         {
             "name": "Moxi FoMo",
             "type": "rollerskate",
             "url": "/builds/ryguy/moxi-fomo",
             "style": "skatepark",
-            "price": 938.98
+            "price": 948.54
         },
         {
             "name": "Santa Cruzzin",
             "type": "skateboard",
             "url": "/builds/workshop/santa-cruzzin",
             "style": "skatepark",
-            "price": 209.65
+            "price": 212.74
         },
         {
             "name": "Bakers Beginner's",
             "type": "skateboard",
             "url": "/builds/workshop/bakers-beginners",
             "style": "skatepark",
-            "price": 193.64
+            "price": 182.74
         },
         {
             "name": "Powell Flight",
             "type": "skateboard",
             "url": "/builds/workshop/powell-flight",
             "style": "skatepark",
-            "price": 223.60
+            "price": 235.74
         },
         {
             "name": "Smooth Riding",
             "type": "skateboard",
             "url": "/builds/workshop/smooth-riding",
             "style": "skatepark",
-            "price": 307.70
+            "price": 197.65
         }
     ]
 }
