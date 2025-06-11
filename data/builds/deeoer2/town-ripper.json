@@ -1,0 +1,27 @@
+{
+  "name": "Town Ripper",
+  "build_type": "skateboard",
+  "skating_type": "park",
+  "deck_slug": "anti-hero-anderson-some-legs-skateboard-deck",
+  "griptape_slug": "skull-fire-graphic-skateboard-grip-tape",
+  "risers_slug": "independent-riser-pads",
+  "rails_slug": "creature-skateboards-slider-rails",
+  "trucks_slug": "foy-fauna-pro-edition-skateboard-trucks",
+  "bearings_slug": "ace-trucks-high-performance-bearings",
+  "wheels_slug": "dragon-formula-rat-bones-ii-skateboard-wheels",
+  "bushings_slug": "bones-medium-bushings",
+  "attributes": [
+    {
+      "name": "Speed",
+      "value": 0.84
+    },
+    {
+      "name": "Rips",
+      "value": 1.0
+    }
+  ],
+  "slug": "town-ripper",
+  "owner_username": "deeoer2",
+  "created": "2025-06-11T20:29:37.972344+00:00",
+  "updated": "2025-06-11T20:29:37.972344+00:00"
+}
