@@ -1,0 +1,27 @@
+{
+  "name": "Cinco Skoots",
+  "build_type": "skateboard",
+  "skating_type": "park",
+  "deck_slug": "cinco-barrios-white-skateboard-deck",
+  "griptape_slug": "mob-grip-tape",
+  "risers_slug": "angled-riser-set",
+  "rails_slug": "creature-skateboards-slider-rails",
+  "trucks_slug": "mini-logo-trucks-8-0",
+  "bearings_slug": "bones-reds-skateboard-bearings",
+  "wheels_slug": "boot-skoots-conical-skateboard-wheels",
+  "bushings_slug": "deluxe-tack-supply-supercush-medium-bushings",
+  "attributes": [
+    {
+      "name": "Speed",
+      "value": 1.0
+    },
+    {
+      "name": "Slappy",
+      "value": 1.0
+    }
+  ],
+  "slug": "cinco-skoots",
+  "owner_username": "workshop",
+  "created": "2025-06-11T20:12:42.137494+00:00",
+  "updated": "2025-06-11T20:12:42.137494+00:00"
+}
