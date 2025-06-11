@@ -102,5 +102,13 @@
     "owner_username": "workshop",
     "slug": "powell-flight",
     "created": "2025-06-11T00:56:26.709939+00:00"
+  },
+  {
+    "name": "Santa Cruzzin",
+    "build_type": "skateboard",
+    "skating_type": "park",
+    "owner_username": "workshop",
+    "slug": "santa-cruzzin",
+    "created": "2025-06-11T01:02:30.170214+00:00"
   }
 ]
