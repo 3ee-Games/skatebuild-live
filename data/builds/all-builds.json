@@ -110,5 +110,13 @@
     "owner_username": "workshop",
     "slug": "santa-cruzzin",
     "created": "2025-06-11T01:02:57.312719+00:00"
+  },
+  {
+    "name": "Smooth Riding",
+    "build_type": "skateboard",
+    "skating_type": "park",
+    "owner_username": "workshop",
+    "slug": "smooth-riding",
+    "created": "2025-06-11T01:05:31.962131+00:00"
   }
 ]
