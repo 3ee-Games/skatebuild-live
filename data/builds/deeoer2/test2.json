@@ -1,0 +1,31 @@
+{
+  "name": "test2",
+  "build_type": "skateboard",
+  "skating_type": "vert",
+  "deck_slug": "anderson-parts-skateboard-deck",
+  "griptape_slug": "andy-roy-web-skateboard-grip-tape",
+  "risers_slug": "",
+  "rails_slug": "",
+  "trucks_slug": "royal-vincent-alvarez-signature-truck",
+  "bearings_slug": "swiss-ceramic-skateboard-bearings",
+  "wheels_slug": "oj-howell-og-slime-swirl-pink-green-cruiser-skateboard-wheels",
+  "bushings_slug": "independent-genuine-parts-standard-super-soft-set-of-bushings",
+  "attributes": [
+    {
+      "name": "dance",
+      "value": 1.0
+    },
+    {
+      "name": "quality",
+      "value": 0.39
+    },
+    {
+      "name": "ankle support",
+      "value": 0.07
+    }
+  ],
+  "slug": "test2",
+  "owner_username": "deeoer2",
+  "created": "2025-06-11T21:16:24.013164+00:00",
+  "updated": "2025-06-11T21:16:24.013164+00:00"
+}
