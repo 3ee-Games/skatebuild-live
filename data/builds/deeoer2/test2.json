@@ -9,7 +9,7 @@
   "trucks_slug": "royal-vincent-alvarez-signature-truck",
   "bearings_slug": "swiss-ceramic-skateboard-bearings",
   "wheels_slug": "oj-howell-og-slime-swirl-pink-green-cruiser-skateboard-wheels",
-  "bushings_slug": "independent-genuine-parts-standard-super-soft-set-of-bushings",
+  "bushings_slug": "ace-trucks-low-standard-bushings",
   "attributes": [
     {
       "name": "dance",
@@ -17,15 +17,15 @@
     },
     {
       "name": "quality",
-      "value": 0.39
+      "value": 0.52
     },
     {
       "name": "ankle support",
-      "value": 0.07
+      "value": 0.25
     }
   ],
   "slug": "test2",
   "owner_username": "deeoer2",
-  "created": "2025-06-11T21:16:24.013164+00:00",
-  "updated": "2025-06-11T21:16:24.013164+00:00"
+  "created": "2025-06-11T21:27:43.722696+00:00",
+  "updated": "2025-06-11T21:27:43.722696+00:00"
 }
