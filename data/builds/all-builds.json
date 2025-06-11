@@ -81,11 +81,11 @@
   },
   {
     "name": "Stinky Beginner Lolly",
-    "build_type": "rollerskate",
-    "skating_type": "park skating",
+    "build_type": "skateboard",
+    "skating_type": "park",
     "owner_username": "ryguy",
     "slug": "stinky-beginner-lolly",
-    "created": "2025-06-10T23:35:56.074092+00:00"
+    "created": "2025-06-11T00:17:16.217410+00:00"
   },
   {
     "name": "Bakers Beginner's",
