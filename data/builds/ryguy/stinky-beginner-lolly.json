@@ -1,23 +1,19 @@
 {
   "name": "Stinky Beginner Lolly",
-  "build_type": "rollerskate",
-  "skating_type": "park skating",
-  "boot_slug": "moxi-lolly-boots",
-  "toestops_slug": "moxi-brake-petal-toe-stops-yellow-daisy-pair",
-  "slideblock_slug": "cib-slide-blocks",
-  "plates_slug": "avanti-magnesium",
-  "trucks_slug": "huck-truck",
-  "bearings_slug": "bones-big-balls-reds-bearings",
-  "wheels_slug": "estro-jen-bowl-bombers-rollerbones-skatepark-wheels-pack",
-  "bushings_slug": "powerdyne-magic-cushions",
+  "build_type": "skateboard",
+  "skating_type": "park",
+  "deck_slug": "birdhouse-elliot-sloan-provan-deck",
+  "griptape_slug": "andrew-allen-graphic-skateboard-grip-tape",
+  "risers_slug": "angled-riser-set",
+  "rails_slug": "bonesaw-rails",
+  "trucks_slug": "independent-t-funk-stage-standard-truck",
+  "bearings_slug": "adrian-del-campo-pro-skateboard-bearings",
+  "wheels_slug": "oj-double-duro-mini-combo-wheels",
+  "bushings_slug": "deluxe-tack-supply-supercush-medium-bushings",
   "attributes": [
     {
-      "name": "Ankle",
-      "value": 0.08
-    },
-    {
       "name": "Speed",
-      "value": 0.64
+      "value": 1.0
     },
     {
       "name": "Balance",
@@ -26,6 +22,6 @@
   ],
   "slug": "stinky-beginner-lolly",
   "owner_username": "ryguy",
-  "created": "2025-06-10T23:35:56.074092+00:00",
-  "updated": "2025-06-10T23:35:56.074092+00:00"
+  "created": "2025-06-11T00:17:16.217410+00:00",
+  "updated": "2025-06-11T00:17:16.217410+00:00"
 }
