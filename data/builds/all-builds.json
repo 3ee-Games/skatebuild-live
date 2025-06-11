@@ -70,5 +70,13 @@
     "owner_username": "ryguy",
     "slug": "low-profile-park",
     "created": "2025-06-11T00:41:54.546842+00:00"
+  },
+  {
+    "name": "Moxi FoMo",
+    "build_type": "rollerskate",
+    "skating_type": "park skating",
+    "owner_username": "ryguy",
+    "slug": "moxi-fomo",
+    "created": "2025-06-11T00:42:51.801569+00:00"
   }
 ]
