@@ -14,10 +14,14 @@
     {
       "name": "Speed",
       "value": 1.0
+    },
+    {
+      "name": "Carving",
+      "value": 1.0
     }
   ],
   "slug": "santa-cruzzin",
   "owner_username": "workshop",
-  "created": "2025-06-11T01:02:30.170214+00:00",
-  "updated": "2025-06-11T01:02:30.170214+00:00"
+  "created": "2025-06-11T01:02:57.312719+00:00",
+  "updated": "2025-06-11T01:02:57.312719+00:00"
 }
