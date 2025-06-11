@@ -1,0 +1,31 @@
+{
+  "name": "oootie speed deck pulled",
+  "build_type": "skateboard",
+  "skating_type": "park",
+  "deck_slug": "adam-mueller-pro-skateboard-deck",
+  "griptape_slug": "andy-anderson-theory-map-graphic-skateboard-grip-tape",
+  "risers_slug": "independent-riser-pads",
+  "rails_slug": "creature-skateboards-slider-rails",
+  "trucks_slug": "ace-deedz-hollow-af1-black-skateboard-truck",
+  "bearings_slug": "swiss-ceramic-skateboard-bearings",
+  "wheels_slug": "oj-double-duro-mini-combo-wheels",
+  "bushings_slug": "independent-genuine-parts-standard-super-soft-set-of-bushings",
+  "attributes": [
+    {
+      "name": "speed",
+      "value": 0.84
+    },
+    {
+      "name": "loose",
+      "value": 0.63
+    },
+    {
+      "name": "Rips",
+      "value": 0.01
+    }
+  ],
+  "slug": "oootie-speed-deck-pulled",
+  "owner_username": "deeoer2",
+  "created": "2025-06-11T20:25:26.756998+00:00",
+  "updated": "2025-06-11T20:25:26.756998+00:00"
+}
