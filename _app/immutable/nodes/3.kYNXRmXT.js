@@ -1,4 +1,0 @@
-import{t as a,b as o}from"../chunks/DfXK_jSs.js";import"../chunks/DBxjm7Y_.js";import{an as r,ap as i,ao as p}from"../chunks/CWOhmV2c.js";import{s as l}from"../chunks/DxXLC0dA.js";const n=""+new URL("../assets/lucas-kohoko-about.CyTH7Md6.jpg",import.meta.url).href;var u=a(`<div class="about-container svelte-fxqbsx"><img class="about-img svelte-fxqbsx" alt="Skateboard decks"> <div class="about-overlay svelte-fxqbsx"><h1 class="svelte-fxqbsx">About Skatebuild</h1> <p class="svelte-fxqbsx">Skatebuild grew out of that passion: a place where anyone can dream up their perfect setup and
-			price it out in minutes.</p> <p class="svelte-fxqbsx">I saw an opportunity to combine two loves: shredding and the skater's need to express
-			themselves through their custom setups. Skatebuild is the result—a workshop where skaters
-			create and share their builds.</p></div></div>`);function h(t){var e=u(),s=r(e);l(s,"src",n),i(2),p(e),o(t,e)}export{h as component};
