@@ -5,42 +5,69 @@
             "type": "rollerskate",
             "url": "/builds/ryguy/low-profile-park",
             "style": "skatepark",
-            "price": 728.53
+            "price": 928.93,
+            "attributes": [
+                {"name": "speed", "value": 0.8 },
+                {"name": "dance", "value": 0.2 },
+                {"name": "ankle support", "value": 0.9 }
+              ]
         },
         {
             "name": "Moxi FoMo",
             "type": "rollerskate",
             "url": "/builds/ryguy/moxi-fomo",
             "style": "skatepark",
-            "price": 948.54
+            "price": 938.98,
+            "attributes": [
+                {"name": "speed", "value": 0.8 },
+                {"name": "quality", "value": 0.5 },
+                {"name": "ankle support", "value": 0.3 }
+              ]
         },
         {
             "name": "Santa Cruzzin",
             "type": "skateboard",
             "url": "/builds/workshop/santa-cruzzin",
             "style": "skatepark",
-            "price": 212.74
+            "price": 209.65,
+            "attributes": [
+                {"name": "speed", "value": 0.8 },
+                {"name": "ankle support", "value": 0.9 },
+                {"name": "grinds", "value": 0.2 }
+              ]
         },
         {
             "name": "Bakers Beginner's",
             "type": "skateboard",
             "url": "/builds/workshop/bakers-beginners",
             "style": "skatepark",
-            "price": 182.74
+            "price": 193.64,
+            "attributes": [
+                {"name": "speed", "value": 0.8 },
+                {"name": "dance", "value": 1 },
+                {"name": "quality", "value": 0.3 }
+              ]
         },
         {
             "name": "Powell Flight",
             "type": "skateboard",
             "url": "/builds/workshop/powell-flight",
             "style": "skatepark",
-            "price": 235.74
+            "price": 223.60,
+            "attributes": [
+                {"name": "speed", "value": 0.8 },
+                {"name": "grinds", "value": 1 }
+              ]
         },
         {
             "name": "Smooth Riding",
             "type": "skateboard",
             "url": "/builds/workshop/smooth-riding",
             "style": "skatepark",
-            "price": 197.65
+            "price": 307.70,
+            "attributes": [
+                {"name": "speed", "value": 0.8 }
+              ]
         }
     ]
 }
