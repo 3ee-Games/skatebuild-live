@@ -1,10 +1,10 @@
 [
-  "bearings",
-  "bushings",
   "decks",
   "griptape",
-  "rails",
-  "risers",
   "trucks",
-  "wheels"
+  "wheels",
+  "bearings",
+  "bushings",
+  "rails",
+  "risers"
 ]

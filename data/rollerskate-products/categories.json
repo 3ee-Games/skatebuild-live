@@ -1,10 +1,10 @@
 [
-  "bearings",
   "boots",
-  "bushings",
   "plates",
-  "slideblocks",
-  "toestops",
   "trucks",
-  "wheels"
+  "wheels",
+  "slideblocks",
+  "bearings",
+  "bushings",
+  "toestops"
 ]
