@@ -2,7 +2,7 @@
   "name": "Powell Flight",
   "build_type": "skateboard",
   "skating_type": "park",
-  "deck_slug": "almqvist-rex-skateboard-deck",
+  "deck_slug": "powell-andy-anderson-flight",
   "griptape_slug": "andy-anderson-theory-map-graphic-skateboard-grip-tape",
   "risers_slug": "diamond-supply-co-skateboard-risers",
   "rails_slug": "creature-skateboards-slider-rails",
@@ -22,6 +22,6 @@
   ],
   "slug": "powell-flight",
   "owner_username": "workshop",
-  "created": "2025-06-11T19:45:25.417830+00:00",
-  "updated": "2025-06-11T19:45:25.417830+00:00"
+  "created": "2025-06-12T03:58:39.999003+00:00",
+  "updated": "2025-06-12T03:58:39.999003+00:00"
 }
