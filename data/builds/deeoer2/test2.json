@@ -2,7 +2,7 @@
   "name": "test2",
   "build_type": "skateboard",
   "skating_type": "vert",
-  "deck_slug": "anderson-parts-skateboard-deck",
+  "deck_slug": "ace-daytripper-skateboard-deck",
   "griptape_slug": "andy-roy-web-skateboard-grip-tape",
   "risers_slug": "",
   "rails_slug": "",
@@ -26,6 +26,6 @@
   ],
   "slug": "test2",
   "owner_username": "deeoer2",
-  "created": "2025-06-11T21:27:43.722696+00:00",
-  "updated": "2025-06-11T21:27:43.722696+00:00"
+  "created": "2025-06-12T07:02:05.430812+00:00",
+  "updated": "2025-06-12T07:02:05.430812+00:00"
 }
