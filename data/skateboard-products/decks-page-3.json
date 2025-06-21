@@ -1,20 +1,5 @@
 [
   {
-    "slug": "atm-rat-skateboard-deck",
-    "productName": "ATM Rat Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461613/zumiezbuild/qst3sup53wccr9ozyrpk.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "45.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/atm-rat-8-375-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "atm-spider-skateboard-deck",
     "productName": "ATM Spider Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461857/zumiezbuild/vu4ifcjwehyxvunj4nit.webp",
@@ -601,7 +586,7 @@
   },
   {
     "slug": "baker-white-brand-logo-skateboard-deck",
-    "productName": "Baker White Brand Logo Deck",
+    "productName": "Baker Brand Logo White Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461428/zumiezbuild/u29xtlzjacnxh4wr69r6.webp",
     "imageWidth": 325,
     "imageHeight": 385,
@@ -620,6 +605,11 @@
         "spot": "69.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/baker-brand-logo-deck-4431?variant=48243351617809"
+      },
+      {
+        "evo": "78.95",
+        "url": "https://www.evo.com",
+        "productVendorUrl": "https://www.evo.com/skateboard-decks/baker-brand-logo-white-85-deck"
       }
     ],
     "productTags": []
@@ -770,6 +760,21 @@
         "tactics": "68.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/welcome/batman-knockout-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "batman-talons-dark-lord-shape-skateboard-deck",
+    "productName": "Batman Talons Dark Lord Shape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396617/ldjsonbuild/g8jmdhmyikkfupxevcyf.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "71.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/welcome/batman-talons-975-dark-lord-shape-skateboard-deck"
       }
     ],
     "productTags": []

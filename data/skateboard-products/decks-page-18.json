@@ -1,20 +1,5 @@
 [
   {
-    "slug": "king-skateboards-zach-saraceno-mirage-deck",
-    "productName": "King Zach Saraceno Mirage Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414700/ldjsonbuild/sivooizwklxp20rdcpir.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "72.00",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/king-skateboards-zach-saraceno-mirage-deck?variant=51362165489937"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "kirby-ascending-skateboard-deck",
     "productName": "Kirby Ascending Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402310/ldjsonbuild/pwmnnq4g5qxdm3mk29yf.webp",
@@ -795,6 +780,21 @@
         "tactics": "79.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/powell-peralta/lance-conklin-face-975-skateboard-deck/black-stain"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "langston-birds-of-a-feather-skateboard-deck",
+    "productName": "Langston Birds Of A Feather Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398709/ldjsonbuild/weznar3vn09romklfkvm.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "64.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/roger-skateboards/langston-birds-of-a-feather-825-skateboard-deck"
       }
     ],
     "productTags": []

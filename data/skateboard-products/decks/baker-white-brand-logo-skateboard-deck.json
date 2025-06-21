@@ -1,5 +1,5 @@
 {
-  "productName": "Baker White Brand Logo Deck",
+  "productName": "Baker Brand Logo White Deck",
   "productBrand": "Baker Skateboards",
   "productType": "Retro Skate",
   "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461428/zumiezbuild/u29xtlzjacnxh4wr69r6.webp",
@@ -22,6 +22,11 @@
       "spot": "69.00",
       "url": "https://skateparkoftampa.com",
       "productVendorUrl": "https://skateparkoftampa.com/products/baker-brand-logo-deck-4431?variant=48243351617809"
+    },
+    {
+      "evo": "78.95",
+      "url": "https://www.evo.com",
+      "productVendorUrl": "https://www.evo.com/skateboard-decks/baker-brand-logo-white-85-deck"
     }
   ]
 }

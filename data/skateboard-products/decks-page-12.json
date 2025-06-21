@@ -1,20 +1,5 @@
 [
   {
-    "slug": "foundation-lindloff-more-stuff-skateboard-deck",
-    "productName": "Foundation Lindloff More Stuff Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460801/zumiezbuild/vn7arwuvfi0ygtnaifvf.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/foundation-lindloff-more-stuff-8-38-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "foundation-mosquito-skateboard-deck",
     "productName": "Foundation Mosquito Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462032/zumiezbuild/rc4g4en58edkpi1vc0wk.webp",
@@ -755,6 +740,26 @@
         "tactics": "68.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/get-off-the-internet-80-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "ghost-ride-skateboard-deck",
+    "productName": "Ghost Ride Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395517/ldjsonbuild/vztuv0yntbini6qlqgn6.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "59.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/doom-sayers-club/ghost-ride-86-skateboard-deck"
+      },
+      {
+        "spot": "64.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/doom-sayers-ghost-ride-deck?variant=51283744686353"
       }
     ],
     "productTags": []

@@ -1,20 +1,5 @@
 [
   {
-    "slug": "plan-b-trevor-mcclung-supercharged-deck",
-    "productName": "Plan B Trevor McClung Supercharged Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415483/ldjsonbuild/pk58iutekk9trjm1ndia.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "69.00",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-trevor-mcclung-supercharged-deck?variant=50634438050065"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "plan-b-way-x-mckay-supercharged-deck",
     "productName": "Plan B Way x McKay Supercharged Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415479/ldjsonbuild/adgqxbe8kh8tsehsssv8.webp",
@@ -285,6 +270,11 @@
         "powell": "119.95",
         "url": "https://powell-peralta.com",
         "productVendorUrl": "https://powell-peralta.com/powell-peralta-pro-andy-anderson-heron-flightr-skateboard-deck-shape-289-8-45-x-31-8"
+      },
+      {
+        "stoked": "114.95",
+        "url": "https://stokedrideshop.com",
+        "productVendorUrl": "https://stokedrideshop.com/products/powell-peralta-flight-andy-anderson-heron-pro-skateboard-deck"
       }
     ],
     "productTags": []
@@ -765,6 +755,26 @@
         "zumiez": "74.95",
         "url": "https://www.zumiez.com",
         "productVendorUrl": "https://www.zumiez.com/primitive-x-dragon-ball-z-timeline-8-125-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "primitive-x-sublime-dirty-p-sun-skateboard-deck",
+    "productName": "Primitive x Sublime Dirty P Sun Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461402/zumiezbuild/eesby0rbcatfzducpdbw.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "74.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/primitive-x-sublime-dirty-p-sun-8-0-skateboard-deck.html"
+      },
+      {
+        "spot": "75.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-sublime-dirty-p-sunrise-team-shaped-deck?variant=51441672356113"
       }
     ],
     "productTags": []

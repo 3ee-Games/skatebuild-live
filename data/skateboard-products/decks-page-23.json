@@ -1,20 +1,5 @@
 [
   {
-    "slug": "passport-tub-time-skateboard-deck",
-    "productName": "Passport Tub Time Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462072/zumiezbuild/ww89utll956xu7eewy7m.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "69.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/passport-tub-time-8-0-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "passport-what-you-think-you-saw-skateboard-deck",
     "productName": "Passport What You Think You Saw Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461865/zumiezbuild/ihodplmkbwl88eh0gxkd.webp",
@@ -750,6 +735,21 @@
         "spot": "69.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-tommy-fynn-supercharged-deck?variant=50634516201745"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "plan-b-trevor-mcclung-supercharged-deck",
+    "productName": "Plan B Trevor McClung Supercharged Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415483/ldjsonbuild/pk58iutekk9trjm1ndia.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "69.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-trevor-mcclung-supercharged-deck?variant=50634438050065"
       }
     ],
     "productTags": []

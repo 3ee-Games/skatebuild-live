@@ -1,20 +1,5 @@
 [
   {
-    "slug": "wknd-maalouf-ghost-skateboard-deck",
-    "productName": "WKND Maalouf Ghost Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460812/zumiezbuild/pitmksszmqwpuxhfgf4f.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/wknd-maalouf-ghost-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "wknd-maalouf-subconscious-skateboard-deck",
     "productName": "WKND Maalouf Subconscious Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460625/zumiezbuild/cyu0sxpm4oziqheqndvj.webp",

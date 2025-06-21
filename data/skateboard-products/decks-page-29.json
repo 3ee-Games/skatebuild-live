@@ -1,20 +1,5 @@
 [
   {
-    "slug": "sensory-lab-skateboard-deck",
-    "productName": "Sensory Lab 11 Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397012/ldjsonbuild/xvhpwahcexje6nfxhjje.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "62.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/killing-floor-skateboards/sensory-lab-11-825-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "servold-biker-skateboard-deck",
     "productName": "Servold Biker Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397713/ldjsonbuild/sf3obosjpccyograqyyj.webp",
@@ -765,6 +750,21 @@
         "tactics": "51.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/cleaver/skull-8375-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "skull-skrew-skateboard-deck",
+    "productName": "Skull Skrew 3 Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396611/ldjsonbuild/ajjxogrwncyuskgk0avf.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "71.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/shake-junt/skull-skrew-3-825-skateboard-deck"
       }
     ],
     "productTags": []

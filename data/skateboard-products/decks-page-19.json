@@ -1,20 +1,5 @@
 [
   {
-    "slug": "langston-birds-of-a-feather-skateboard-deck",
-    "productName": "Langston Birds Of A Feather Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398709/ldjsonbuild/weznar3vn09romklfkvm.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "64.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/roger-skateboards/langston-birds-of-a-feather-825-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "langston-cut-it-out-skateboard-deck",
     "productName": "Langston Cut It Out Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400024/ldjsonbuild/bzxslqk9qovf0xs53r1m.webp",
@@ -755,6 +740,21 @@
         "spot": "80.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/magenta-jameel-douglas-relic-series-deck?variant=51244705677585"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "magenta-leo-valls-relic-series-deck",
+    "productName": "Magenta Leo Valls Relic Series Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414840/ldjsonbuild/xmx1ofbrarnpazygaijd.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "80.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/magenta-leo-valls-relic-series-deck?variant=51244695191825"
       }
     ],
     "productTags": []

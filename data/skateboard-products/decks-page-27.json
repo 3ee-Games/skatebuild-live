@@ -1,20 +1,5 @@
 [
   {
-    "slug": "ripndip-we-come-in-peace-skateboard-deck",
-    "productName": "RIPNDIP We Come In Peace Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462095/zumiezbuild/mhyw9c6xyczxx5na4x6o.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "44.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/ripndip-we-come-in-peace-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "ripndip-x-kiss-made-for-lovin-skateboard-deck",
     "productName": "RIPNDIP x Kiss Made For Lovin Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461794/zumiezbuild/rfo7dasemsix1z0iaemt.webp",
@@ -775,6 +760,21 @@
         "spot": "76.95",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-fabiana-delfino-pinball-shaped-deck?variant=51434076209425"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "santa-cruz-dressen-laugh-it-up-shaped-deck-9-3-x-32-36",
+    "productName": "Santa Cruz Dressen Laugh It Up Shaped Deck 9.3 x 32.36",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747431082/metacrawler/tity3pddghnprxjjirrx.webp",
+    "imageWidth": 270,
+    "imageHeight": 360,
+    "productPrices": [
+      {
+        "skatewarehouse": "59.98",
+        "url": "https://www.skatewarehouse.com",
+        "productVendorUrl": "https://www.skatewarehouse.com/Santa_Cruz_Dressen_Laugh_It_Up_Shaped_Deck/descpage-SCDLITDK.html"
       }
     ],
     "productTags": []

@@ -1,20 +1,5 @@
 [
   {
-    "slug": "grabke-exploding-clock-ltd-reissue-skateboard-deck",
-    "productName": "Grabke Exploding Clock LTD Reissue Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402019/ldjsonbuild/o7qemnm0j5pshq4yzvp6.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "86.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/santa-cruz/grabke-exploding-clock-1004-ltd-reissue-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "gradient-light-skateboard-deck",
     "productName": "Gradient Light Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396819/ldjsonbuild/da2fjwp9az76whgw0ckf.webp",
@@ -765,6 +750,21 @@
         "tactics": "79.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/birdhouse/hawk-the-bat-1025-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "hawk-watercolor-skateboard-deck",
+    "productName": "Hawk Watercolor Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400719/ldjsonbuild/jdjfgecytptltgjp0zrm.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "78.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/baker/hawk-watercolor-825-skateboard-deck"
       }
     ],
     "productTags": []

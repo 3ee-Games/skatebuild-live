@@ -1,20 +1,5 @@
 [
   {
-    "slug": "magenta-leo-valls-relic-series-deck",
-    "productName": "Magenta Leo Valls Relic Series Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414840/ldjsonbuild/xmx1ofbrarnpazygaijd.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "80.00",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/magenta-leo-valls-relic-series-deck?variant=51244695191825"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "magnetic-skateboard-deck",
     "productName": "Magnetic Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396072/ldjsonbuild/twjl8uunvxls8sb40hei.webp",
@@ -775,6 +760,21 @@
         "tactics": "71.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/frog/milic-tree-trunk-838-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "mini-logo-chevron-white-skateboard-deck",
+    "productName": "Mini Logo Chevron White Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461418/zumiezbuild/to38olfmwdxo9hc1tlt2.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "45.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/mini-logo-white-chevron-8-25-quot-skateboard-deck.html"
       }
     ],
     "productTags": []

@@ -1,25 +1,5 @@
 [
   {
-    "slug": "ghost-ride-skateboard-deck",
-    "productName": "Ghost Ride Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395517/ldjsonbuild/vztuv0yntbini6qlqgn6.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "59.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/doom-sayers-club/ghost-ride-86-skateboard-deck"
-      },
-      {
-        "spot": "64.00",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/doom-sayers-ghost-ride-deck?variant=51283744686353"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "gimme-skelter-skateboard-deck",
     "productName": "Gimme Skelter Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396952/ldjsonbuild/wbqcdjb9fusxcuge5xst.webp",
@@ -770,6 +750,21 @@
         "tactics": "73.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/krooked/gottwig-trails-825-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "grabke-exploding-clock-ltd-reissue-skateboard-deck",
+    "productName": "Grabke Exploding Clock LTD Reissue Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402019/ldjsonbuild/o7qemnm0j5pshq4yzvp6.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "86.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/santa-cruz/grabke-exploding-clock-1004-ltd-reissue-skateboard-deck"
       }
     ],
     "productTags": []
