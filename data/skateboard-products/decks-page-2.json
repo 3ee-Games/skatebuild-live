@@ -595,21 +595,6 @@
     "productTags": []
   },
   {
-    "slug": "arbor-pelka-daytripper-skateboard-deck",
-    "productName": "Arbor Pelka Daytripper Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461269/zumiezbuild/adk1vxxthgwwgvhcoo91.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "44.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/arbor-pelka-daytripper-8-375-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "arbor-shuriken-dragon-foo-skateboard-deck",
     "productName": "Arbor Shuriken Dragon Foo Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461264/zumiezbuild/idbf0tsjto2nfzpsijk4.webp",
@@ -665,6 +650,11 @@
         "tactics": "68.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/arrival-825-skateboard-deck"
+      },
+      {
+        "kinetics": "74.95",
+        "url": "https://kineticskateboarding.com",
+        "productVendorUrl": "https://kineticskateboarding.com/products/theories-arrival-deck-8-5?variant=42218121035878"
       }
     ],
     "productTags": []
@@ -800,6 +790,21 @@
         "zumiez": "45.95",
         "url": "https://www.zumiez.com",
         "productVendorUrl": "https://www.zumiez.com/atm-new-evil-8-5-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "atm-rat-skateboard-deck",
+    "productName": "ATM Rat Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461613/zumiezbuild/qst3sup53wccr9ozyrpk.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "45.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/atm-rat-8-375-skateboard-deck.html"
       }
     ],
     "productTags": []

@@ -1,20 +1,5 @@
 [
   {
-    "slug": "mini-logo-chevron-white-skateboard-deck",
-    "productName": "Mini Logo Chevron White Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461418/zumiezbuild/to38olfmwdxo9hc1tlt2.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "45.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/mini-logo-white-chevron-8-25-quot-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "mini-skateboard-deck",
     "productName": "Mini Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396354/ldjsonbuild/y3pqkjlpmonpi9s6w1qu.webp",
@@ -770,6 +755,21 @@
         "tactics": "73.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/deathwish/odwyer-spirit-animal-thrill-ride-80-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "oaky-skateboard-deck",
+    "productName": "Oaky Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400069/ldjsonbuild/gbgnzicvjrspyykrr9b8.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "51.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/cleaver/oaky-85-skateboard-deck/white"
       }
     ],
     "productTags": []

@@ -1,20 +1,5 @@
 [
   {
-    "slug": "jacuzzi-pulizzi-know-when-to-hold-skateboard-deck",
-    "productName": "Jacuzzi Pulizzi Know When To Hold Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461128/zumiezbuild/s0ssvm26dosneyvymjri.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "54.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/jacuzzi-pulizzi-know-when-to-hold-8-375-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "jacuzzi-tea-pot-skateboard-deck",
     "productName": "Jacuzzi Tea Pot Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461940/zumiezbuild/vspmwsveweetlsrwogft.webp",
@@ -775,6 +760,21 @@
         "spot": "72.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/king-skateboards-tyshawn-liberty-deck?variant=51362136129809"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "king-skateboards-zach-saraceno-mirage-deck",
+    "productName": "King Zach Saraceno Mirage Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414700/ldjsonbuild/sivooizwklxp20rdcpir.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "72.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/king-skateboards-zach-saraceno-mirage-deck?variant=51362165489937"
       }
     ],
     "productTags": []

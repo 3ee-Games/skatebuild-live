@@ -1,20 +1,5 @@
 [
   {
-    "slug": "there-chandler-festering-jester-skateboard-deck",
-    "productName": "There Chandler Festering Jester Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461340/zumiezbuild/qksyeh1rkuvrwm3c3ppa.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "64.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/there-chandler-festering-jester-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "there-chandler-starlight-skateboard-deck",
     "productName": "There Chandler Starlight Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461073/zumiezbuild/gpgurxtsukljcieijkgn.webp",
@@ -775,6 +760,21 @@
         "tactics": "71.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/polar-skate-co/trumpets-825-skateboard-deck/orange"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "turner-yo-chill-skateboard-deck",
+    "productName": "Turner Yo Chill Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392344/ldjsonbuild/zthnwpwkp5izcqsiogng.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "64.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/sk8mafia/turner-yo-chill-825-skateboard-deck"
       }
     ],
     "productTags": []

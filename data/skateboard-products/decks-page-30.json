@@ -1,20 +1,5 @@
 [
   {
-    "slug": "skull-skrew-skateboard-deck",
-    "productName": "Skull Skrew 3 Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396611/ldjsonbuild/ajjxogrwncyuskgk0avf.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "71.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/shake-junt/skull-skrew-3-825-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "skull-sword-shape-skateboard-deck",
     "productName": "Skull & Sword 243 Shape Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401628/ldjsonbuild/g4yuh679c7jg893sov6g.webp",
@@ -750,6 +735,21 @@
         "tactics": "84.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/heroin/swampy-alligator-shovel-105-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "swampy-hellscape-skateboard-deck",
+    "productName": "Swampy Hellscape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401883/ldjsonbuild/vyzplibm2jzd14o7fkdm.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "82.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/heroin/swampy-hellscape-100-skateboard-deck"
       }
     ],
     "productTags": []

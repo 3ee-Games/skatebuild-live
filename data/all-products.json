@@ -1408,6 +1408,11 @@
         "concretewave": "90.52",
         "url": "https://www.concretewave.de",
         "productVendorUrl": "https://www.concretewave.de/Arbor-Skateboards-Ace-Pelka-Daytripper-deck-8375"
+      },
+      {
+        "zumiez": "44.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/arbor-pelka-daytripper-8-375-skateboard-deck.html"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397754/ldjsonbuild/r9ztagetui2dlrvroum5.webp"
@@ -1421,6 +1426,11 @@
         "tactics": "67.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/arbor/ace-order-and-chaos-100-wheels-wells-skateboard-deck"
+      },
+      {
+        "arborcollective": "79.99",
+        "url": "https://www.arborcollective.com",
+        "productVendorUrl": "https://www.arborcollective.com/products/ace-pelka-10-chaos-and-order-24"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395401/ldjsonbuild/vnuyrkjkbtue6uenroku.webp"
@@ -2695,19 +2705,6 @@
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462147/zumiezbuild/xdxhjmpehm1vpqrs556b.webp"
   },
   {
-    "slug": "arbor-pelka-daytripper-skateboard-deck",
-    "category": "decks",
-    "productName": "Arbor Pelka Daytripper Deck",
-    "productPrices": [
-      {
-        "zumiez": "44.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/arbor-pelka-daytripper-8-375-skateboard-deck.html"
-      }
-    ],
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461269/zumiezbuild/adk1vxxthgwwgvhcoo91.webp"
-  },
-  {
     "slug": "arbor-shuriken-dragon-foo-skateboard-deck",
     "category": "decks",
     "productName": "Arbor Shuriken Dragon Foo Deck",
@@ -2755,6 +2752,11 @@
         "tactics": "68.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/arrival-825-skateboard-deck"
+      },
+      {
+        "kinetics": "74.95",
+        "url": "https://kineticskateboarding.com",
+        "productVendorUrl": "https://kineticskateboarding.com/products/theories-arrival-deck-8-5?variant=42218121035878"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399829/ldjsonbuild/oigisvehxx1cmjrz6dln.webp"
@@ -3401,7 +3403,7 @@
   {
     "slug": "baker-white-brand-logo-skateboard-deck",
     "category": "decks",
-    "productName": "Baker White Brand Logo Deck",
+    "productName": "Baker Brand Logo White Deck",
     "productPrices": [
       {
         "zumiez": "78.95",
@@ -3417,6 +3419,11 @@
         "spot": "69.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/baker-brand-logo-deck-4431?variant=48243351617809"
+      },
+      {
+        "evo": "78.95",
+        "url": "https://www.evo.com",
+        "productVendorUrl": "https://www.evo.com/skateboard-decks/baker-brand-logo-white-85-deck"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461428/zumiezbuild/u29xtlzjacnxh4wr69r6.webp"
@@ -28057,6 +28064,11 @@
         "spot": "27.95",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/independent-stage-11-bar-truck-95086?variant=48246987948305"
+      },
+      {
+        "evo": "29.95",
+        "url": "https://www.evo.com",
+        "productVendorUrl": "https://www.evo.com/skateboard-trucks/independent-159-stage-11-silver-truck"
       }
     ],
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416768/ldjsonbuild/yzkqcxfx1voug15dvbx9.webp"

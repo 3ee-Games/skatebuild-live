@@ -1,20 +1,5 @@
 [
   {
-    "slug": "santa-cruz-dressen-laugh-it-up-shaped-deck-9-3-x-32-36",
-    "productName": "Santa Cruz Dressen Laugh It Up Shaped Deck 9.3 x 32.36",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747431082/metacrawler/tity3pddghnprxjjirrx.webp",
-    "imageWidth": 270,
-    "imageHeight": 360,
-    "productPrices": [
-      {
-        "skatewarehouse": "59.98",
-        "url": "https://www.skatewarehouse.com",
-        "productVendorUrl": "https://www.skatewarehouse.com/Santa_Cruz_Dressen_Laugh_It_Up_Shaped_Deck/descpage-SCDLITDK.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "santa-cruz-dressen-rose-dagger-deck-8-70-x-31-825",
     "productName": "Santa Cruz Dressen Rose Dagger Deck 8.70 x 31.825",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747431094/metacrawler/a7tlsua51sjxnhxazm74.webp",
@@ -780,6 +765,21 @@
         "tactics": "58.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/space-program/sempre-838-skateboard-deck/orange"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "sensory-lab-skateboard-deck",
+    "productName": "Sensory Lab 11 Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397012/ldjsonbuild/xvhpwahcexje6nfxhjje.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "62.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/killing-floor-skateboards/sensory-lab-11-825-skateboard-deck"
       }
     ],
     "productTags": []

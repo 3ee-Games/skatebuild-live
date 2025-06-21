@@ -1,20 +1,5 @@
 [
   {
-    "slug": "real-ishod-cathedral-holograph-twin-skateboard-deck",
-    "productName": "Real Ishod Cathedral Holograph Twin Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460621/zumiezbuild/kvg2u0sig4umim5cvqsf.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "75.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/real-ishod-cathedral-holograph-twin-8-25-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "real-ishod-illuminated-twin-skateboard-deck",
     "productName": "Real Ishod Illuminated Twin Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460658/zumiezbuild/hyjutxqbimm83ifwa3rt.webp",
@@ -765,6 +750,21 @@
         "zumiez": "34.99",
         "url": "https://www.zumiez.com",
         "productVendorUrl": "https://www.zumiez.com/ripndip-venice-8-0-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "ripndip-we-come-in-peace-skateboard-deck",
+    "productName": "RIPNDIP We Come In Peace Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462095/zumiezbuild/mhyw9c6xyczxx5na4x6o.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "44.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/ripndip-we-come-in-peace-8-5-skateboard-deck.html"
       }
     ],
     "productTags": []

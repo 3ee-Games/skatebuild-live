@@ -1,20 +1,5 @@
 [
   {
-    "slug": "hawk-watercolor-skateboard-deck",
-    "productName": "Hawk Watercolor Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400719/ldjsonbuild/jdjfgecytptltgjp0zrm.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "78.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/baker/hawk-watercolor-825-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "hayes-endless-abyss-skateboard-deck",
     "productName": "Hayes Endless Abyss Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397076/ldjsonbuild/ysasych2b59obcnu1iid.webp",
@@ -770,6 +755,21 @@
         "zumiez": "77.95",
         "url": "https://www.zumiez.com",
         "productVendorUrl": "https://www.zumiez.com/hockey-rodrigues-behemoth-8-5-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "hockey-rodrigues-keep-sake-skateboard-deck",
+    "productName": "Hockey Rodrigues Keep Sake Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460684/zumiezbuild/t2d4gnofrrq3igqtpgdj.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "77.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/hockey-rodrigues-keep-sake-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []

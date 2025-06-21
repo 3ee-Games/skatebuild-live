@@ -1,20 +1,5 @@
 [
   {
-    "slug": "corporate-angel-investor-skateboard-deck",
-    "productName": "Corporate Angel Investor Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461947/zumiezbuild/kepcfsfkyp1tqfeqlrww.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "49.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/corporate-angel-investor-8-0-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "corporate-burning-man-skateboard-deck",
     "productName": "Corporate Burning Man Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462058/zumiezbuild/iesablmrlafbztaaifz7.webp",
@@ -780,6 +765,21 @@
         "tactics": "76.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/polar-skate-co/david-strenstrm-tape-panther-925-d1-wheel-wells-shape"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "david-strenstrom-toba-skateboard-deck",
+    "productName": "David Strenström Toba Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402316/ldjsonbuild/ww7zip8kvfduwvucwzrd.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "71.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/polar-skate-co/david-strenstrm-toba-825-skateboard-deck"
       }
     ],
     "productTags": []

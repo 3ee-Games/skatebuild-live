@@ -1,20 +1,5 @@
 [
   {
-    "slug": "turner-yo-chill-skateboard-deck",
-    "productName": "Turner Yo Chill Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392344/ldjsonbuild/zthnwpwkp5izcqsiogng.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "64.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/sk8mafia/turner-yo-chill-825-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "twenty-zero-two-skateboard-deck",
     "productName": "Twenty Zero Two Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402821/ldjsonbuild/rwssq6lv8iynnggu7nub.webp",
@@ -765,6 +750,21 @@
         "zumiez": "74.95",
         "url": "https://www.zumiez.com",
         "productVendorUrl": "https://www.zumiez.com/welcome-saint-8-5-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "welcome-skateboards-hedo-rick-on-gaia-deck",
+    "productName": "Welcome Hedo Rick on Gaia Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415668/ldjsonbuild/bbuex3zeprkzo7swvkza.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "79.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/welcome-skateboards-hedo-rick-on-gaia-deck?variant=50552970117393"
       }
     ],
     "productTags": []

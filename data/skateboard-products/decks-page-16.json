@@ -1,20 +1,5 @@
 [
   {
-    "slug": "hockey-rodrigues-keep-sake-skateboard-deck",
-    "productName": "Hockey Rodrigues Keep Sake Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460684/zumiezbuild/t2d4gnofrrq3igqtpgdj.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "77.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/hockey-rodrigues-keep-sake-8-25-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "hockey-stain-off-anxiety-skateboard-deck",
     "productName": "Hockey Stain 50% Off Anxiety Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461543/zumiezbuild/p9cm5ngk2hch13xb6jm9.webp",
@@ -770,6 +755,21 @@
         "zumiez": "74.95",
         "url": "https://www.zumiez.com",
         "productVendorUrl": "https://www.zumiez.com/jacuzzi-pilz-toadadelic-9-125-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "jacuzzi-pulizzi-know-when-to-hold-skateboard-deck",
+    "productName": "Jacuzzi Pulizzi Know When To Hold Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461128/zumiezbuild/s0ssvm26dosneyvymjri.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "54.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/jacuzzi-pulizzi-know-when-to-hold-8-375-skateboard-deck.html"
       }
     ],
     "productTags": []
