@@ -10,6 +10,6 @@
   "contest_results": [],
   "image": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250629/IMG_5974_n01zo8",
   "imageSmall": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250629/7ef9dbd5d0f04299a7bcca579425017e_loqvml",
-  "supporter": null,
+  "supporter": true,
   "social_urls": []
 }
