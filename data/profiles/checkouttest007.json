@@ -1,13 +1,15 @@
 {
-  "name": "checkouttest007",
-  "hometown": "",
-  "skater_type": [],
-  "stance": "",
+  "name": "Meeshie",
+  "hometown": "Utah",
+  "skater_type": [
+    "skateboarder"
+  ],
+  "stance": "regular",
   "status": "amateur",
   "sponsors": [],
   "contest_results": [],
-  "image": "",
-  "imageSmall": "",
+  "image": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250629/IMG_5974_n01zo8",
+  "imageSmall": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250629/7ef9dbd5d0f04299a7bcca579425017e_loqvml",
   "supporter": null,
   "social_urls": []
 }
