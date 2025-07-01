@@ -1,5 +1,20 @@
 [
   {
+    "slug": "cernicky-blue-thinker-skateboard-deck",
+    "productName": "Cernicky Blue Thinker Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397481/ldjsonbuild/j5zrfjgohkolhdfxnzgk.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "83.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/krooked/cernicky-blue-thinker-838-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "cernicky-eturnity-skateboard-deck",
     "productName": "Cernicky Eturnity Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395989/ldjsonbuild/zmce23dj0urfajcdt8km.webp",
@@ -790,21 +805,6 @@
         "tactics": "61.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/doom-sayers-club/corpo-guy-838-skateboard-deck/teal"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "corporate-angel-investor-skateboard-deck",
-    "productName": "Corporate Angel Investor Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461947/zumiezbuild/kepcfsfkyp1tqfeqlrww.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "49.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/corporate-angel-investor-8-0-skateboard-deck.html"
       }
     ],
     "productTags": []

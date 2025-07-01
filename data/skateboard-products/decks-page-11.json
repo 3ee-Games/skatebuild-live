@@ -1,5 +1,20 @@
 [
   {
+    "slug": "enjoi-whitey-panda-skateboard-deck",
+    "productName": "Enjoi Whitey Panda Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461513/zumiezbuild/b7qyg0rwj7qyjdtw4f0p.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "59.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/enjoi-whitey-panda-8-25-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "eric-koston-flexerx-skateboard-deck",
     "productName": "Eric Koston Flexerx Deck",
     "cloudinaryUrl": "",
@@ -735,21 +750,6 @@
         "zumiez": "59.99",
         "url": "https://www.zumiez.com",
         "productVendorUrl": "https://www.zumiez.com/foundation-lewis-fishing-8-38-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "foundation-lindloff-more-stuff-skateboard-deck",
-    "productName": "Foundation Lindloff More Stuff Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460801/zumiezbuild/vn7arwuvfi0ygtnaifvf.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/foundation-lindloff-more-stuff-8-38-skateboard-deck.html"
       }
     ],
     "productTags": []

@@ -211,8 +211,8 @@
   },
   {
     "slug": "mini-logo-trucks-8-0",
-    "productName": "Mini logo Trucks 8.00",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747414659/metacrawler/ini7czffkytkpt6fqqvz.webp",
+    "productName": "Mini logo Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1751389747/ldjsonbuild/TTCML800R2.webp",
     "imageWidth": 200,
     "imageHeight": 200,
     "productPrices": [
@@ -220,17 +220,17 @@
         "minilogo": "42.95",
         "url": "https://minilogoskateboards.com",
         "productVendorUrl": "https://minilogoskateboards.com/mini-logo-trucks-8-0-raw-set-of-2"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "minilogo-skateboard-trucks",
-    "productName": "MiniLogo Trucks",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393131/ldjsonbuild/kwdqwkvu2vb3hkpv0kvs.webp",
-    "imageWidth": 263,
-    "imageHeight": 144,
-    "productPrices": [
+      },
+      {
+        "skateone": "14.25",
+        "url": "https://www.skateone.com",
+        "productVendorUrl": "https://www.skateone.com/mini-logo-trucks-7-63-raw-set-of-2"
+      },
+      {
+        "socalskateshop": "38.95",
+        "url": "https://socalskateshop.com",
+        "productVendorUrl": "https://socalskateshop.com/Mini-Logo-Skateboard-Trucks-Raw-763.html"
+      },
       {
         "tactics": "32.95",
         "url": "https://www.tactics.com",
@@ -436,15 +436,25 @@
   },
   {
     "slug": "royal-the-royal-truck",
-    "productName": "Royal The Royal Truck",
+    "productName": "The Royal Truck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416894/ldjsonbuild/bacwvlx3mq1y89fprfnz.webp",
     "imageWidth": 200,
     "imageHeight": 200,
     "productPrices": [
       {
-        "spot": "24.5",
+        "spot": "24.50",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/royal-the-royal-truck-88995?variant=48246200631569"
+      },
+      {
+        "skatepro": "36.95",
+        "url": "https://www.skatepro.com",
+        "productVendorUrl": "https://www.skatepro.com/en-us/212-44363.htm?stockcode=RTR2050077"
+      },
+      {
+        "daddies": "41.95",
+        "url": "https://www.daddiesboardshop.com",
+        "productVendorUrl": "https://www.daddiesboardshop.com/products/royal-skateboard-trucks-raw-159mm-1"
       }
     ],
     "productTags": []
@@ -755,6 +765,21 @@
         "tactics": "57.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/slappy/st1-hollow-lights-skateboard-trucks/polished-gun-metal-825"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "st1-hollow-skateboard-trucks",
+    "productName": "ST1 Hollow Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393232/ldjsonbuild/mlilllal87svuakvn2pa.webp",
+    "imageWidth": 263,
+    "imageHeight": 144,
+    "productPrices": [
+      {
+        "tactics": "55.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/slappy/st1-hollow-skateboard-trucks/polished-85"
       }
     ],
     "productTags": []

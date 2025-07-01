@@ -1,5 +1,20 @@
 [
   {
+    "slug": "disorder-patc-skateboard-deck",
+    "productName": "Disorder PATC Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462086/zumiezbuild/qk2fxflqvvblsltlbxnd.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "54.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/disorder-patc-8-0-skateboard-deck.html"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "disorder-smooth-criminal-skateboard-deck",
     "productName": "Disorder Smooth Criminal Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461716/zumiezbuild/lrnw39fyljbyxgfsyi0h.webp",
@@ -750,21 +765,6 @@
         "tactics": "59.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/the-heated-wheel/eniz-fazliov-snake-charmer-825-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "enjoi-whitey-panda-skateboard-deck",
-    "productName": "Enjoi Whitey Panda Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461513/zumiezbuild/b7qyg0rwj7qyjdtw4f0p.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/enjoi-whitey-panda-8-25-skateboard-deck.html"
       }
     ],
     "productTags": []

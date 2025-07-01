@@ -1,5 +1,20 @@
 [
   {
+    "slug": "batman-talons-dark-lord-shape-skateboard-deck",
+    "productName": "Batman Talons Dark Lord Shape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396617/ldjsonbuild/g8jmdhmyikkfupxevcyf.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "71.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/welcome/batman-talons-975-dark-lord-shape-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "bauhaus-bela-gaia-shape-skateboard-deck",
     "productName": "Bauhaus Bela Gaia Shape Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402630/ldjsonbuild/jrjkq9htcew3abf7zzb8.webp",
@@ -755,21 +770,6 @@
         "tactics": "74.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/polar-skate-co/brady-worker-8625-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "brat-skateboard-deck",
-    "productName": "BRAT Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397421/ldjsonbuild/cg2xvmnfkvrho85h1miq.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "69.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/carpet/brat-81-skateboard-deck/red"
       }
     ],
     "productTags": []

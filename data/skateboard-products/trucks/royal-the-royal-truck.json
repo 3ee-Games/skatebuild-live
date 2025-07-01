@@ -1,5 +1,5 @@
 {
-  "productName": "Royal The Royal Truck",
+  "productName": "The Royal Truck",
   "productBrand": "Royal",
   "productType": "products",
   "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416894/ldjsonbuild/bacwvlx3mq1y89fprfnz.webp",
@@ -9,9 +9,19 @@
   "productVendorUrl": "https://skateparkoftampa.com/products/royal-the-royal-truck-88995?variant=48246200631569",
   "productPrices": [
     {
-      "spot": "24.5",
+      "spot": "24.50",
       "url": "https://skateparkoftampa.com",
       "productVendorUrl": "https://skateparkoftampa.com/products/royal-the-royal-truck-88995?variant=48246200631569"
+    },
+    {
+      "skatepro": "36.95",
+      "url": "https://www.skatepro.com",
+      "productVendorUrl": "https://www.skatepro.com/en-us/212-44363.htm?stockcode=RTR2050077"
+    },
+    {
+      "daddies": "41.95",
+      "url": "https://www.daddiesboardshop.com",
+      "productVendorUrl": "https://www.daddiesboardshop.com/products/royal-skateboard-trucks-raw-159mm-1"
     }
   ]
 }

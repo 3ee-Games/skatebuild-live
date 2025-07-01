@@ -1,20 +1,5 @@
 [
   {
-    "slug": "st1-hollow-skateboard-trucks",
-    "productName": "ST1 Hollow Trucks",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393232/ldjsonbuild/mlilllal87svuakvn2pa.webp",
-    "imageWidth": 263,
-    "imageHeight": 144,
-    "productPrices": [
-      {
-        "tactics": "55.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/slappy/st1-hollow-skateboard-trucks/polished-85"
-      }
-    ],
-    "productTags": []
-  },
-  {
     "slug": "st1-inverted-hollow-lights-skateboard-trucks",
     "productName": "ST1 Inverted Hollow Lights Trucks",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393161/ldjsonbuild/eqi69axa7rhjtoh4bbrl.webp",
