@@ -1,0 +1,42 @@
+{
+  "productName": "Madness Hazard Wheels",
+  "productBrand": "Hazard Wheels",
+  "productType": "products",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1751387482/ldjsonbuild/cfjk7yi4avx31ffwxv01.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1751388058,
+  "productVendorUrl": "https://stamfordskateshop.com/products/hazard-cs-radio-active-conical-52mm-white",
+  "productPrices": [
+    {
+      "stamfordskateshop": "25.00",
+      "url": "https://stamfordskateshop.com",
+      "productVendorUrl": "https://stamfordskateshop.com/products/hazard-cs-radio-active-conical-52mm-white"
+    },
+    {
+      "deliciousskateshop": "29.95",
+      "url": "https://deliciousskateshop.com",
+      "productVendorUrl": "https://deliciousskateshop.com/products/madness-hazard-wheels-52mm-emergency-all-access-conical-101a-white"
+    },
+    {
+      "deliciousskateshop": "32.00",
+      "url": "https://www.bswake.com",
+      "productVendorUrl": "https://www.bswake.com/products/hazard-cs-radio-active-conical-52mm-white"
+    },
+    {
+      "zumiez": "19.99",
+      "url": "https://www.zumiez.com",
+      "productVendorUrl": "https://www.zumiez.com/hazard-sign-52mm-101a-conical-skateboard-wheels.html"
+    },
+    {
+      "ollies": "4.99",
+      "url": "https://www.ollies.com",
+      "productVendorUrl": "https://www.ollies.com"
+    },
+    {
+      "boardparadise": "39.97",
+      "url": "https://www.boardparadise.com",
+      "productVendorUrl": "https://www.boardparadise.com/hazard-cs-radio-active-conical-52mm-white-wheels-set"
+    }
+  ]
+}

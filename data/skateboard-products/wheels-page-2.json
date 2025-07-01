@@ -935,6 +935,51 @@
     ]
   },
   {
+    "slug": "madness-hazard-wheels",
+    "productName": "Madness Hazard Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1751387482/ldjsonbuild/cfjk7yi4avx31ffwxv01.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "stamfordskateshop": "25.00",
+        "url": "https://stamfordskateshop.com",
+        "productVendorUrl": "https://stamfordskateshop.com/products/hazard-cs-radio-active-conical-52mm-white"
+      },
+      {
+        "deliciousskateshop": "29.95",
+        "url": "https://deliciousskateshop.com",
+        "productVendorUrl": "https://deliciousskateshop.com/products/madness-hazard-wheels-52mm-emergency-all-access-conical-101a-white"
+      },
+      {
+        "deliciousskateshop": "32.00",
+        "url": "https://www.bswake.com",
+        "productVendorUrl": "https://www.bswake.com/products/hazard-cs-radio-active-conical-52mm-white"
+      },
+      {
+        "zumiez": "19.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/hazard-sign-52mm-101a-conical-skateboard-wheels.html"
+      },
+      {
+        "ollies": "4.99",
+        "url": "https://www.ollies.com",
+        "productVendorUrl": "https://www.ollies.com"
+      },
+      {
+        "boardparadise": "39.97",
+        "url": "https://www.boardparadise.com",
+        "productVendorUrl": "https://www.boardparadise.com/hazard-cs-radio-active-conical-52mm-white-wheels-set"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "101a"
+      }
+    ]
+  },
+  {
     "slug": "martinez-pro-chubbies-skateboard-wheels",
     "productName": "Martinez Pro Chubbies Wheels",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746405626/ldjsonbuild/wv7hwihbauh6uzbcldp7.webp",
@@ -1081,36 +1126,6 @@
       {
         "field": "durometer",
         "value": "93a"
-      }
-    ]
-  },
-  {
-    "slug": "nineball-longboard-wheels",
-    "productName": "65mm Nineball Longboard Wheels",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393425/ldjsonbuild/wndp8hawxmloxofxzbbh.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "tactics": "41.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/sector-9/65mm-nineball-longboard-wheels/blue-78a"
-      },
-      {
-        "sector9": "45.00",
-        "url": "https://sector9.com",
-        "productVendorUrl": "https://sector9.com/products/65mm-78a-nineballs-blue"
-      },
-      {
-        "motionboardshop": "45.00",
-        "url": "https://www.motionboardshop.com",
-        "productVendorUrl": "https://www.motionboardshop.com/products/sector-9-nineballs-65mm-78a-longboard-skateboard-wheels"
-      }
-    ],
-    "productTags": [
-      {
-        "field": "durometer",
-        "value": "78a"
       }
     ]
   }

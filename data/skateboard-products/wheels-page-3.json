@@ -1,5 +1,35 @@
 [
   {
+    "slug": "nineball-longboard-wheels",
+    "productName": "65mm Nineball Longboard Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746393425/ldjsonbuild/wndp8hawxmloxofxzbbh.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "41.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/sector-9/65mm-nineball-longboard-wheels/blue-78a"
+      },
+      {
+        "sector9": "45.00",
+        "url": "https://sector9.com",
+        "productVendorUrl": "https://sector9.com/products/65mm-78a-nineballs-blue"
+      },
+      {
+        "motionboardshop": "45.00",
+        "url": "https://www.motionboardshop.com",
+        "productVendorUrl": "https://www.motionboardshop.com/products/sector-9-nineballs-65mm-78a-longboard-skateboard-wheels"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "78a"
+      }
+    ]
+  },
+  {
     "slug": "nomads-skateboard-wheels",
     "productName": "Nomads Wheels",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746405909/ldjsonbuild/ksxahcfbvhqmytdljcsq.webp",
@@ -1026,26 +1056,6 @@
       {
         "field": "durometer",
         "value": "97a"
-      }
-    ]
-  },
-  {
-    "slug": "pig-prime-white-skateboard-wheels",
-    "productName": "Pig Prime 52mm 103a White Wheels",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462760/zumiezbuild/v0usk8jcwvdr3dvuwgtr.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "35.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/pig-prime-52mm-103a-white-skateboard-wheels.html"
-      }
-    ],
-    "productTags": [
-      {
-        "field": "durometer",
-        "value": "103a"
       }
     ]
   }

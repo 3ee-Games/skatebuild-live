@@ -1,8 +1,8 @@
 {
-  "productName": "Mini logo Trucks 8.00",
+  "productName": "Mini logo Trucks",
   "productBrand": "mini logo",
   "productType": "",
-  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747414659/metacrawler/ini7czffkytkpt6fqqvz.webp",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1751389747/ldjsonbuild/TTCML800R2.webp",
   "imageWidth": 200,
   "imageHeight": 200,
   "updated": 1747418564,
@@ -12,6 +12,21 @@
       "minilogo": "42.95",
       "url": "https://minilogoskateboards.com",
       "productVendorUrl": "https://minilogoskateboards.com/mini-logo-trucks-8-0-raw-set-of-2"
+    },
+    {
+      "skateone": "14.25",
+      "url": "https://www.skateone.com",
+      "productVendorUrl": "https://www.skateone.com/mini-logo-trucks-7-63-raw-set-of-2"
+    },
+    {
+      "socalskateshop": "38.95",
+      "url": "https://socalskateshop.com",
+      "productVendorUrl": "https://socalskateshop.com/Mini-Logo-Skateboard-Trucks-Raw-763.html"
+    },
+    {
+      "tactics": "32.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/mini-logo/minilogo-713-skateboard-trucks/raw"
     }
   ]
 }

@@ -1,5 +1,25 @@
 [
   {
+    "slug": "sml-lucidity-series-gillette-v-cut-white-skateboard-wheels",
+    "productName": "SML. Lucidity Series Gillette 53mm 99a V Cut White Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746463039/zumiezbuild/oo2i51shjdzvhetyeigl.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "24.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/sml-lucidity-series-gillette-53mm-99a-v-cut-white-skateboard-wheels.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "99a"
+      }
+    ]
+  },
+  {
     "slug": "snakes-cruiser-skateboard-wheels",
     "productName": "Snakes Cruiser Wheels",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746405719/ldjsonbuild/ajice7c5yc5ntbejdcp2.webp",

@@ -1,5 +1,20 @@
 [
   {
+    "slug": "brat-skateboard-deck",
+    "productName": "BRAT Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397421/ldjsonbuild/cg2xvmnfkvrho85h1miq.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/carpet/brat-81-skateboard-deck/red"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "braun-icarus-skateboard-deck",
     "productName": "Braun Icarus Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397427/ldjsonbuild/czthikh4rxneeo1y7tpy.webp",
@@ -750,21 +765,6 @@
         "tactics": "44.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/tactics/center-of-existence-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "cernicky-blue-thinker-skateboard-deck",
-    "productName": "Cernicky Blue Thinker Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397481/ldjsonbuild/j5zrfjgohkolhdfxnzgk.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "83.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/krooked/cernicky-blue-thinker-838-skateboard-deck"
       }
     ],
     "productTags": []

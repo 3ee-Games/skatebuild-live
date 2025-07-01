@@ -1,5 +1,30 @@
 [
   {
+    "slug": "anti-hero-anderson-some-legs-skateboard-deck",
+    "productName": "Anti-Hero Anderson Some Legs Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460841/zumiezbuild/xjhp4nediduginfqzp8p.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "78.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/anti-hero-anderson-some-legs-8-5-skateboard-deck.html"
+      },
+      {
+        "spot": "73.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/anti-hero-brian-anderson-some-legs-deck"
+      },
+      {
+        "welcomeboardstore": "93.00",
+        "url": "https://welcomeboardstore.com.au",
+        "productVendorUrl": "https://welcomeboardstore.com.au/products/anti-hero-brian-anderson-some-legs-8-5-skateboard-deck"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "anti-hero-austin-kanfoush-some-legs-deck",
     "productName": "Anti-Hero Austin Kanfoush Some Legs Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415285/ldjsonbuild/nmkoah9l9wuajkkcgwlu.webp",
@@ -790,21 +815,6 @@
         "zumiez": "45.95",
         "url": "https://www.zumiez.com",
         "productVendorUrl": "https://www.zumiez.com/atm-new-evil-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "atm-rat-skateboard-deck",
-    "productName": "ATM Rat Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461613/zumiezbuild/qst3sup53wccr9ozyrpk.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "45.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/atm-rat-8-375-skateboard-deck.html"
       }
     ],
     "productTags": []

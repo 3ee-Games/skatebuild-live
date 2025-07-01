@@ -1,5 +1,20 @@
 [
   {
+    "slug": "dgk-boo-johnson-breezy-boo-deck",
+    "productName": "DGK Boo Johnson Breezy Boo Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414760/ldjsonbuild/as9ilpukgsou8pwpiutx.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "70.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/dgk-boo-johnson-breezy-boo-deck?variant=51297429258513"
+      }
+    ],
+    "productTags": []
+  },
+  {
     "slug": "dgk-boo-krazy-skateboard-deck",
     "productName": "DGK Boo Krazy Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460599/zumiezbuild/busnxwmgfe9hgi7vqaoj.webp",
@@ -740,21 +755,6 @@
         "spot": "70.00",
         "url": "https://skateparkoftampa.com",
         "productVendorUrl": "https://skateparkoftampa.com/products/disorder-skateboards-nyjah-huston-all-seeing-eye-deck-96764?variant=49835699077393"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "disorder-patc-skateboard-deck",
-    "productName": "Disorder PATC Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462086/zumiezbuild/qk2fxflqvvblsltlbxnd.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "54.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/disorder-patc-8-0-skateboard-deck.html"
       }
     ],
     "productTags": []

@@ -282,9 +282,9 @@
     "imageHeight": 291,
     "productPrices": [
       {
-        "tactics": "71.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/frog/alba-mr-mon-kay-838-skateboard-deck"
+        "zumiez": "75.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/frog-alba-mr-mon-kay-8-5-skateboard-deck.html"
       }
     ],
     "productTags": []
@@ -525,6 +525,46 @@
         "creativegrowth": "45.00",
         "url": "https://www.creativegrowth.org",
         "productVendorUrl": "https://www.creativegrowth.org/art/alltimers-x-creative-growth-aurie-ramirez-s-by-aurie-ramirez"
+      }
+    ],
+    "productTags": []
+  },
+  {
+    "slug": "almost-reflex-hyb-skateboard-deck",
+    "productName": "Almost Reflex HYB Skateboard Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1751382832/ldjsonbuild/huyzzfnhv6uht81jshhx.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "almostskateboards": "63.00",
+        "url": "https://almostskateboards.com",
+        "productVendorUrl": "https://almostskateboards.com/products/reflex-blue-8-0-skateboard-deck"
+      },
+      {
+        "amazon": "59.99",
+        "url": "https://www.amazon.com",
+        "productVendorUrl": "https://www.amazon.com/Almost-Skateboard-Deck-Reflex-Blue/dp/B09HSNWR3R"
+      },
+      {
+        "sk8ratz": "49.95",
+        "url": "https://sk8ratz.com",
+        "productVendorUrl": "https://sk8ratz.com/products/almost-7-37-reflex-hyb-skateboard-deck-green"
+      },
+      {
+        "boardary": "37.00",
+        "url": "https://boardary.com",
+        "productVendorUrl": "https://boardary.com/en-us/collections/almost/products/almost-reflex-hyb-8-blue-deck"
+      },
+      {
+        "skatedeluxe": "79.29",
+        "url": "https://www.skatedeluxe.com",
+        "productVendorUrl": "https://www.skatedeluxe.com/de/almost-reflex-8-skateboard-deck-blue_p146395"
+      },
+      {
+        "ollies": "4.99",
+        "url": "https://www.ollies.com/",
+        "productVendorUrl": "https://www.ollies.com"
       }
     ],
     "productTags": []
@@ -905,31 +945,6 @@
         "amazon": "79.95",
         "url": "https://www.amazon.com",
         "productVendorUrl": "https://www.amazon.com/Anti-Hero-Skateboards-Anderson-Skateboard/dp/B0DPNHVV4Q"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "anti-hero-anderson-some-legs-skateboard-deck",
-    "productName": "Anti-Hero Anderson Some Legs Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460841/zumiezbuild/xjhp4nediduginfqzp8p.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "78.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/anti-hero-anderson-some-legs-8-5-skateboard-deck.html"
-      },
-      {
-        "spot": "73.00",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/anti-hero-brian-anderson-some-legs-deck"
-      },
-      {
-        "welcomeboardstore": "93.00",
-        "url": "https://welcomeboardstore.com.au",
-        "productVendorUrl": "https://welcomeboardstore.com.au/products/anti-hero-brian-anderson-some-legs-8-5-skateboard-deck"
       }
     ],
     "productTags": []

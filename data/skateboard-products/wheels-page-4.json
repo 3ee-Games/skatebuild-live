@@ -1,5 +1,25 @@
 [
   {
+    "slug": "pig-prime-white-skateboard-wheels",
+    "productName": "Pig Prime 52mm 103a White Wheels",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462760/zumiezbuild/v0usk8jcwvdr3dvuwgtr.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "35.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/pig-prime-52mm-103a-white-skateboard-wheels.html"
+      }
+    ],
+    "productTags": [
+      {
+        "field": "durometer",
+        "value": "103a"
+      }
+    ]
+  },
+  {
     "slug": "pig-romero-speedo-skateboard-wheels",
     "productName": "Pig Romero Speedo 52mm 99a Wheels",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462938/zumiezbuild/fjiltw78lj5bufbfkcgp.webp",
@@ -996,26 +1016,6 @@
       {
         "field": "durometer",
         "value": "85d"
-      }
-    ]
-  },
-  {
-    "slug": "sml-lucidity-series-gillette-v-cut-white-skateboard-wheels",
-    "productName": "SML. Lucidity Series Gillette 53mm 99a V Cut White Wheels",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746463039/zumiezbuild/oo2i51shjdzvhetyeigl.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "24.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/sml-lucidity-series-gillette-53mm-99a-v-cut-white-skateboard-wheels.html"
-      }
-    ],
-    "productTags": [
-      {
-        "field": "durometer",
-        "value": "99a"
       }
     ]
   }
