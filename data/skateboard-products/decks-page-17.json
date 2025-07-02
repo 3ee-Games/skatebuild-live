@@ -1,5 +1,37 @@
 [
   {
+    "slug": "jacuzzi-pilz-toadadelic-skateboard-deck",
+    "productName": "Jacuzzi Pilz Toadadelic Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462167/zumiezbuild/k0eissauyym0f9hr1oqo.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "74.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/jacuzzi-pilz-toadadelic-9-125-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "Jacuzzi",
+    "productTags": []
+  },
+  {
+    "slug": "jacuzzi-pulizzi-know-when-to-hold-skateboard-deck",
+    "productName": "Jacuzzi Pulizzi Know When To Hold Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461128/zumiezbuild/s0ssvm26dosneyvymjri.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "54.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/jacuzzi-pulizzi-know-when-to-hold-8-375-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "Jacuzzi",
+    "productTags": []
+  },
+  {
     "slug": "jacuzzi-tea-pot-skateboard-deck",
     "productName": "Jacuzzi Tea Pot Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461940/zumiezbuild/vspmwsveweetlsrwogft.webp",
@@ -12,6 +44,7 @@
         "productVendorUrl": "https://www.zumiez.com/jacuzzi-tea-pot-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Jacuzzi",
     "productTags": []
   },
   {
@@ -27,6 +60,7 @@
         "productVendorUrl": "https://www.zumiez.com/jacuzzi-the-musical-8-37-skateboard-deck.html"
       }
     ],
+    "productBrand": "Jacuzzi",
     "productTags": []
   },
   {
@@ -42,6 +76,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/jacuzzi-unlimited-caswell-berry-dominance-ex7-deck?variant=50977502888209"
       }
     ],
+    "productBrand": "Jacuzzi Unlimited",
     "productTags": []
   },
   {
@@ -57,6 +92,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/jacuzzi-unlimited-jackson-pilz-patrons-shaped-ex7-deck?variant=50977510359313"
       }
     ],
+    "productBrand": "Jacuzzi Unlimited",
     "productTags": []
   },
   {
@@ -72,6 +108,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/jacuzzi-unlimited-louie-barletta-toy-ex7-deck?variant=50977501020433"
       }
     ],
+    "productBrand": "Jacuzzi Unlimited",
     "productTags": []
   },
   {
@@ -87,6 +124,7 @@
         "productVendorUrl": "https://www.zumiez.com/jacuzzi-500-years-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Jacuzzi",
     "productTags": []
   },
   {
@@ -102,6 +140,7 @@
         "productVendorUrl": "https://www.tactics.com/strangelove/jake-braun-pro-825-skateboard-deck"
       }
     ],
+    "productBrand": "StrangeLove",
     "productTags": []
   },
   {
@@ -117,6 +156,7 @@
         "productVendorUrl": "https://www.tactics.com/fucking-awesome/jake-the-first-church-825-skateboard-deck"
       }
     ],
+    "productBrand": "Fucking Awesome",
     "productTags": []
   },
   {
@@ -132,6 +172,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Jalopi_Returns_BA_Wheel_Wells_Deck/descpage-AHJRBADK.html"
       }
     ],
+    "productBrand": "Anti Hero",
     "productTags": []
   },
   {
@@ -147,6 +188,7 @@
         "productVendorUrl": "https://www.zumiez.com/jart-involution-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Jart Skateboards",
     "productTags": []
   },
   {
@@ -162,6 +204,7 @@
         "productVendorUrl": "https://www.zumiez.com/jart-love-at-first-sight-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Jart Skateboards",
     "productTags": []
   },
   {
@@ -177,6 +220,7 @@
         "productVendorUrl": "https://www.zumiez.com/jart-smoke-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Jart Skateboards",
     "productTags": []
   },
   {
@@ -192,6 +236,7 @@
         "productVendorUrl": "https://www.zumiez.com/jart-stay-high-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Jart Skateboards",
     "productTags": []
   },
   {
@@ -207,6 +252,7 @@
         "productVendorUrl": "https://www.tactics.com/black-label/jason-adams-smoking-section-95-custom-egg-shape-skateboard-deck/green"
       }
     ],
+    "productBrand": "Black Label",
     "productTags": []
   },
   {
@@ -222,6 +268,7 @@
         "productVendorUrl": "https://www.tactics.com/birdhouse/jaws-second-life-8475-skateboard-deck"
       }
     ],
+    "productBrand": "Birdhouse",
     "productTags": []
   },
   {
@@ -242,6 +289,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-jersey-devil-deck?variant=51397908398353"
       }
     ],
+    "productBrand": "Metal",
     "productTags": []
   },
   {
@@ -257,6 +305,7 @@
         "productVendorUrl": "https://www.tactics.com/there/jessyka-beginnings-806-skateboard-deck"
       }
     ],
+    "productBrand": "There",
     "productTags": []
   },
   {
@@ -277,6 +326,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-jhanka-gonzalez-snakes-pro-deck?variant=51144664121617"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -292,6 +342,7 @@
         "productVendorUrl": "https://www.tactics.com/strangelove/johnson-cigar-85-skateboard-deck"
       }
     ],
+    "productBrand": "StrangeLove",
     "productTags": []
   },
   {
@@ -307,6 +358,7 @@
         "productVendorUrl": "https://www.tactics.com/quasi-skateboards/johnson-milan-8375-skateboard-deck"
       }
     ],
+    "productBrand": "Quasi",
     "productTags": []
   },
   {
@@ -327,6 +379,7 @@
         "productVendorUrl": "https://www.tactics.com/5boro/join-or-die-85-skateboard-deck/black-yellow"
       }
     ],
+    "productBrand": "5Boro Skateboards",
     "productTags": []
   },
   {
@@ -342,6 +395,7 @@
         "productVendorUrl": "https://www.tactics.com/foundation/julian-lewis-hitchhiker-863-skateboard-deck/brown-dip"
       }
     ],
+    "productBrand": "Foundation",
     "productTags": []
   },
   {
@@ -357,6 +411,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/kader-guest-975-tri-plane-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -372,6 +427,7 @@
         "productVendorUrl": "https://www.tactics.com/hockey/kadow-car-kid-825-skateboard-deck"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -387,6 +443,7 @@
         "productVendorUrl": "https://www.tactics.com/hockey/kadow-denial-of-existence-825-skateboard-deck"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -402,6 +459,7 @@
         "productVendorUrl": "https://www.tactics.com/hockey/kadow-hatch-825-skateboard-deck"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -422,6 +480,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/april-skateboards-kai-kishi-figures-deck?variant=51474250105105"
       }
     ],
+    "productBrand": "April",
     "productTags": []
   },
   {
@@ -437,6 +496,7 @@
         "productVendorUrl": "https://www.tactics.com/anti-hero/kanfoush-dawn-of-the-pigeon-855-yinzer-shape-skateboard-deck/black"
       }
     ],
+    "productBrand": "Anti-Hero",
     "productTags": []
   },
   {
@@ -452,6 +512,7 @@
         "productVendorUrl": "https://www.tactics.com/limosine/karim-callender-dream-city-85-skateboard-deck"
       }
     ],
+    "productBrand": "Limosine",
     "productTags": []
   },
   {
@@ -467,6 +528,7 @@
         "productVendorUrl": "https://www.tactics.com/wknd-skateboards/karsten-family-85-wheel-wells-skateboard-deck"
       }
     ],
+    "productBrand": "WKND",
     "productTags": []
   },
   {
@@ -482,6 +544,7 @@
         "productVendorUrl": "https://www.tactics.com/wknd-skateboards/karsten-neighture-8375-skateboard-deck"
       }
     ],
+    "productBrand": "WKND",
     "productTags": []
   },
   {
@@ -497,6 +560,7 @@
         "productVendorUrl": "https://www.tactics.com/wknd-skateboards/karsten-sparky-825-skateboard-deck"
       }
     ],
+    "productBrand": "WKND",
     "productTags": []
   },
   {
@@ -512,6 +576,7 @@
         "productVendorUrl": "https://www.tactics.com/cleaver/kazwes-825-skateboard-deck"
       }
     ],
+    "productBrand": "Cleaver",
     "productTags": []
   },
   {
@@ -527,6 +592,7 @@
         "productVendorUrl": "https://www.tactics.com/hopps-skateboards/keith-denley-pop-85-skateboard-deck"
       }
     ],
+    "productBrand": "Hopps",
     "productTags": []
   },
   {
@@ -542,6 +608,7 @@
         "productVendorUrl": "https://www.tactics.com/real/kelly-bird-93-743-90s-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -557,6 +624,7 @@
         "productVendorUrl": "https://www.tactics.com/girl/kennedy-serif-85-skateboard-deck"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -572,6 +640,7 @@
         "productVendorUrl": "https://www.tactics.com/girl/kennedy-93-til-825-twin-tip-shape-skateboard-deck/og-natural"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -592,6 +661,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/hopps-kevin-taylor-battle-mask-deck?variant=50443349819665"
       }
     ],
+    "productBrand": "Hopps",
     "productTags": []
   },
   {
@@ -612,6 +682,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/opera-kieran-woolley-upward-ex7-deck?variant=50977564066065"
       }
     ],
+    "productBrand": "Opera",
     "productTags": []
   },
   {
@@ -627,6 +698,7 @@
         "productVendorUrl": "https://www.zumiez.com/killer-acid-pay-no-mind-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Killer Acid",
     "productTags": []
   },
   {
@@ -642,6 +714,7 @@
         "productVendorUrl": "https://www.tactics.com/strangelove/killing-tree-85-skateboard-deck"
       }
     ],
+    "productBrand": "StrangeLove",
     "productTags": []
   },
   {
@@ -657,6 +730,7 @@
         "productVendorUrl": "https://www.tactics.com/heroin/killing-yolk-925-skateboard-deck"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -672,6 +746,7 @@
         "productVendorUrl": "https://www.tactics.com/creature/kimbel-manor-934-vx-skateboard-deck"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -687,6 +762,7 @@
         "productVendorUrl": "https://www.tactics.com/creature/kimbel-origins-part-deux-957-wheel-wells-skateboard-deck"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -702,6 +778,7 @@
         "productVendorUrl": "https://www.tactics.com/creature/kimbel-the-lore-88-vx-skateboard-deck"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -717,6 +794,7 @@
         "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/kings-chamber-85-skateboard-deck"
       }
     ],
+    "productBrand": "Theories",
     "productTags": []
   },
   {
@@ -732,6 +810,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/king-skateboards-caleb-barnett-cherub-deck?variant=51362170568977"
       }
     ],
+    "productBrand": "King Skateboards",
     "productTags": []
   },
   {
@@ -747,36 +826,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/king-skateboards-nakel-smith-star-deck?variant=51362152677649"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "king-skateboards-tyshawn-liberty-deck",
-    "productName": "King Tyshawn Liberty Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414710/ldjsonbuild/n6ohskcqumi9bnboodf2.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "72.00",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/king-skateboards-tyshawn-liberty-deck?variant=51362136129809"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "king-skateboards-zach-saraceno-mirage-deck",
-    "productName": "King Zach Saraceno Mirage Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414700/ldjsonbuild/sivooizwklxp20rdcpir.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "72.00",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/king-skateboards-zach-saraceno-mirage-deck?variant=51362165489937"
-      }
-    ],
+    "productBrand": "King Skateboards",
     "productTags": []
   }
 ]

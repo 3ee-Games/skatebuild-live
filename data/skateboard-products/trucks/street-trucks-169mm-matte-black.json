@@ -1,0 +1,22 @@
+{
+  "productName": "Paris Street Trucks",
+  "productBrand": "Paris Truck Co",
+  "productType": "products",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1751400012/ldjsonbuild/gazwsa6clnwqtno2rseg.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1751401063,
+  "productVendorUrl": "https://www.paristruckco.com/collections/street-trucks/products/street-169mm-matte-black",
+  "productPrices": [
+    {
+      "paris": "26.00",
+      "url": "https://www.paristruckco.com",
+      "productVendorUrl": "https://www.paristruckco.com/collections/street-trucks/products/street-169mm-matte-black"
+    },
+    {
+      "loadedboards": "38.00",
+      "url": "https://www.loadedboards.com",
+      "productVendorUrl": "https://www.loadedboards.com/products/paris-street-trucks"
+    }
+  ]
+}

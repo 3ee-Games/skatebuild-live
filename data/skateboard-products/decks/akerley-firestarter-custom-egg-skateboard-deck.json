@@ -6,12 +6,17 @@
   "imageWidth": 78,
   "imageHeight": 291,
   "updated": 1746544882,
-  "productVendorUrl": "https://www.tactics.com/black-label/akerley-firestarter-90-custom-egg-skateboard-deck",
+  "productVendorUrl": "https://www.tactics.com/black-label/akerley-firestarter-825-skateboard-deck",
   "productPrices": [
     {
       "tactics": "61.95",
       "url": "https://www.tactics.com",
-      "productVendorUrl": "https://www.tactics.com/black-label/akerley-firestarter-90-custom-egg-skateboard-deck"
+      "productVendorUrl": "https://www.tactics.com/black-label/akerley-firestarter-825-skateboard-deck"
+    },
+    {
+      "theblock": "64.95",
+      "url": "https://theblockskatesupply.com",
+      "productVendorUrl": "https://theblockskatesupply.com/products/black-label-john-lucero-ripped-cross-deck-9-0?variant=46209865973975&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoohkvfrEejFX289Ahj1_tsubZvU9ry-rC7ZHelgJ68wHYeWC2zeBjM&gQT=2"
     }
   ]
 }

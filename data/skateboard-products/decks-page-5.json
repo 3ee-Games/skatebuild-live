@@ -1,5 +1,21 @@
 [
   {
+    "slug": "brady-worker-skateboard-deck",
+    "productName": "Brady Worker Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399755/ldjsonbuild/hkofhs139cb0jy3kqubp.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "74.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/polar-skate-co/brady-worker-8625-skateboard-deck"
+      }
+    ],
+    "productBrand": "Polar Skate Co.",
+    "productTags": []
+  },
+  {
     "slug": "brat-skateboard-deck",
     "productName": "BRAT Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397421/ldjsonbuild/cg2xvmnfkvrho85h1miq.webp",
@@ -12,6 +28,7 @@
         "productVendorUrl": "https://www.tactics.com/carpet/brat-81-skateboard-deck/red"
       }
     ],
+    "productBrand": "Carpet",
     "productTags": []
   },
   {
@@ -32,6 +49,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/strangelove-jake-braun-icarus-deck?variant=50522930512145"
       }
     ],
+    "productBrand": "StrangeLove",
     "productTags": []
   },
   {
@@ -47,6 +65,7 @@
         "productVendorUrl": "https://www.tactics.com/the-heated-wheel/brayan-coria-copilot-838-skateboard-deck"
       }
     ],
+    "productBrand": "The Heated Wheel",
     "productTags": []
   },
   {
@@ -62,6 +81,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/brazilian-punk-825-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -77,6 +97,7 @@
         "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/breakthrough-825-skateboard-deck"
       }
     ],
+    "productBrand": "Theories",
     "productTags": []
   },
   {
@@ -92,6 +113,7 @@
         "productVendorUrl": "https://www.tactics.com/transportation-unit-skateboards/breath-9125-skateboard-deck/green"
       }
     ],
+    "productBrand": "Transportation Unit",
     "productTags": []
   },
   {
@@ -107,6 +129,7 @@
         "productVendorUrl": "https://www.tactics.com/girl/brophy-93-til-90-loveseat-shape-skateboard-deck/lovers"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -122,6 +145,7 @@
         "productVendorUrl": "https://www.tactics.com/dgk/bruce-lee-flying-man-825-skateboard-deck"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -137,6 +161,7 @@
         "productVendorUrl": "https://www.tactics.com/powell-peralta/bruce-lee-skull-numchuck-100-166-shape-skateboard-deck/yellow"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -152,6 +177,7 @@
         "productVendorUrl": "https://www.zumiez.com/5boro-bubble-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "5Boro Skateboards",
     "productTags": []
   },
   {
@@ -167,6 +193,7 @@
         "productVendorUrl": "https://www.tactics.com/thank-you/bubbly-825-skateboard-deck"
       }
     ],
+    "productBrand": "Thank You",
     "productTags": []
   },
   {
@@ -182,6 +209,7 @@
         "productVendorUrl": "https://www.tactics.com/cleaver/bucchieri-mono-85-skateboard-deck"
       }
     ],
+    "productBrand": "Cleaver",
     "productTags": []
   },
   {
@@ -197,6 +225,7 @@
         "productVendorUrl": "https://www.tactics.com/cleaver/bucchieri-puente-85-skateboard-deck"
       }
     ],
+    "productBrand": "Cleaver",
     "productTags": []
   },
   {
@@ -212,6 +241,7 @@
         "productVendorUrl": "https://www.tactics.com/powell-peralta/bucky-lasek-stadium-100-reissue-skateboard-deck/multi"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -242,6 +272,7 @@
         "productVendorUrl": "https://www.ebay.com/itm/375757922764"
       }
     ],
+    "productBrand": "Thank You",
     "productTags": []
   },
   {
@@ -257,6 +288,7 @@
         "productVendorUrl": "https://www.tactics.com/the-heated-wheel/buggy-80-skateboard-deck/orange"
       }
     ],
+    "productBrand": "The Heated Wheel",
     "productTags": []
   },
   {
@@ -272,6 +304,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/burleigh-american-zero-825-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -287,6 +320,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/burleigh-chrome-85-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -302,6 +336,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/burleigh-south-park-horror-825-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -317,6 +352,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/burleigh-stipo-85-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -332,6 +368,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/burman-chrome-85-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -347,6 +384,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/burman-stipo-825-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -362,6 +400,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/burman-symbolism-85-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -377,6 +416,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/burnside-11-11-skateboard-deck"
       }
     ],
+    "productBrand": "Tactics",
     "productTags": []
   },
   {
@@ -392,6 +432,7 @@
         "productVendorUrl": "https://www.tactics.com/toy-machine/bury-the-hatchet-825-symmetrical-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -407,6 +448,7 @@
         "productVendorUrl": "https://www.tactics.com/wknd-skateboards/burzinski-paranoid-85-skateboard-deck"
       }
     ],
+    "productBrand": "WKND",
     "productTags": []
   },
   {
@@ -422,6 +464,7 @@
         "productVendorUrl": "https://www.tactics.com/wknd-skateboards/burzinski-slime-85-skateboard-deck/brown-yellow"
       }
     ],
+    "productBrand": "WKND",
     "productTags": []
   },
   {
@@ -437,6 +480,7 @@
         "productVendorUrl": "https://www.tactics.com/real/busenitz-can-can-838-true-fit-shape-skateboard-deck/brown"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -452,6 +496,7 @@
         "productVendorUrl": "https://www.tactics.com/powell-peralta/caballero-ban-this-dragon-9265-flight-skateboard-deck/black-pink-foil"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -467,6 +512,7 @@
         "productVendorUrl": "https://www.tactics.com/powell-peralta/caballero-gundam-85-244-shape-skateboard-deck/black"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -482,6 +528,7 @@
         "productVendorUrl": "https://www.tactics.com/powell-peralta/caballero-mask-975-reissue-skateboard-deck/blacklight"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -497,6 +544,7 @@
         "productVendorUrl": "https://www.tactics.com/thank-you/cairo-foster-miraged-825-signed-guest-skateboard-deck"
       }
     ],
+    "productBrand": "Thank You",
     "productTags": []
   },
   {
@@ -512,6 +560,7 @@
         "productVendorUrl": "https://www.tactics.com/foundation/campbell-busker-85-skateboard-deck"
       }
     ],
+    "productBrand": "Foundation",
     "productTags": []
   },
   {
@@ -527,6 +576,7 @@
         "productVendorUrl": "https://www.tactics.com/foundation/campbell-feral-85-skateboard-deck"
       }
     ],
+    "productBrand": "Foundation",
     "productTags": []
   },
   {
@@ -542,6 +592,7 @@
         "productVendorUrl": "https://www.tactics.com/hockey/campos-debut-844-skateboard-deck"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -557,6 +608,7 @@
         "productVendorUrl": "https://www.tactics.com/anti-hero/cardiel-coat-of-arms-862-skateboard-deck/brown-yellow-orange"
       }
     ],
+    "productBrand": "Anti-Hero",
     "productTags": []
   },
   {
@@ -572,6 +624,7 @@
         "productVendorUrl": "https://www.tactics.com/gx1000/carlyle-mono-8625-skateboard-deck/navy"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -587,6 +640,7 @@
         "productVendorUrl": "https://www.tactics.com/gx1000/carlyle-slow-burn-85-skateboard-deck/green"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -602,6 +656,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/carpet-company-bacteria-deck?variant=50298448150801"
       }
     ],
+    "productBrand": "Carpet Company",
     "productTags": []
   },
   {
@@ -617,6 +672,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/carpet-company-tourist-deck?variant=50510691467537"
       }
     ],
+    "productBrand": "Carpet Company",
     "productTags": []
   },
   {
@@ -632,6 +688,7 @@
         "productVendorUrl": "https://www.tactics.com/pizzaskateboards/carta-825-skateboard-deck/green"
       }
     ],
+    "productBrand": "Pizza",
     "productTags": []
   },
   {
@@ -647,6 +704,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/casper-black-book-85-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -662,6 +720,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/casper-desk-shrapnel-80-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -677,6 +736,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/casper-flame-blanca-825-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -692,6 +752,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/casper-watercolor-838-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -707,6 +768,7 @@
         "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/caswell-smoke-8375-skateboard-deck"
       }
     ],
+    "productBrand": "Jacuzzi Unlimited",
     "productTags": []
   },
   {
@@ -722,6 +784,7 @@
         "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/caswell-smokin-bones-825-skateboard-deck"
       }
     ],
+    "productBrand": "Jacuzzi Unlimited",
     "productTags": []
   },
   {
@@ -737,6 +800,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/cat-n-mouse-skateboard-deck"
       }
     ],
+    "productBrand": "Tactics",
     "productTags": []
   },
   {
@@ -752,21 +816,7 @@
         "productVendorUrl": "https://www.tactics.com/passport/cavein-85-skateboard-deck/shell"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "center-of-existence-skateboard-deck",
-    "productName": "Center Of Existence Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395947/ldjsonbuild/xnvdo7dk9q3ec5oufpgq.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "44.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/tactics/center-of-existence-skateboard-deck"
-      }
-    ],
+    "productBrand": "Passport",
     "productTags": []
   }
 ]

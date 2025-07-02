@@ -1,5 +1,21 @@
 [
   {
+    "slug": "center-of-existence-skateboard-deck",
+    "productName": "Center Of Existence Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395947/ldjsonbuild/xnvdo7dk9q3ec5oufpgq.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "44.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/tactics/center-of-existence-skateboard-deck"
+      }
+    ],
+    "productBrand": "Tactics",
+    "productTags": []
+  },
+  {
     "slug": "cernicky-blue-thinker-skateboard-deck",
     "productName": "Cernicky Blue Thinker Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397481/ldjsonbuild/j5zrfjgohkolhdfxnzgk.webp",
@@ -12,6 +28,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/cernicky-blue-thinker-838-skateboard-deck"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -27,6 +44,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/cernicky-eturnity-825-skateboard-deck"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -47,6 +65,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-eddie-cernicky-metal-park-deck?variant=50234778386705"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -62,6 +81,7 @@
         "productVendorUrl": "https://www.tactics.com/there/chandler-burton-ghoul-85-skateboard-deck"
       }
     ],
+    "productBrand": "There",
     "productTags": []
   },
   {
@@ -77,6 +97,7 @@
         "productVendorUrl": "https://www.tactics.com/umaverse/chapman-jester-838-chunk-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Umaverse",
     "productTags": []
   },
   {
@@ -92,6 +113,7 @@
         "productVendorUrl": "https://www.tactics.com/there/cher-get-off-my-case-825-skateboard-deck"
       }
     ],
+    "productBrand": "There",
     "productTags": []
   },
   {
@@ -112,6 +134,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/chocolate-chico-brenes-nicaraguan-sunrise-deck?variant=51104751157521"
       }
     ],
+    "productBrand": "Chocolate",
     "productTags": []
   },
   {
@@ -127,6 +150,7 @@
         "productVendorUrl": "https://www.tactics.com/real/chima-foil-cathedral-825-skateboard-deck"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -142,6 +166,7 @@
         "productVendorUrl": "https://www.tactics.com/tightbooth/chip-logo-80-skateboard-deck"
       }
     ],
+    "productBrand": "Tightbooth",
     "productTags": []
   },
   {
@@ -157,6 +182,7 @@
         "productVendorUrl": "https://www.zumiez.com/chocolate-bad-luck-aikens-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Chocolate Skateboards",
     "productTags": []
   },
   {
@@ -172,6 +198,7 @@
         "productVendorUrl": "https://www.zumiez.com/chocolate-aikens-heritage-logo-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Chocolate Skateboards",
     "productTags": []
   },
   {
@@ -187,6 +214,7 @@
         "productVendorUrl": "https://www.zumiez.com/chocolate-aikens-l8rgirl-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Chocolate Skateboards",
     "productTags": []
   },
   {
@@ -202,6 +230,7 @@
         "productVendorUrl": "https://www.zumiez.com/chocolate-aikens-loteria-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Chocolate Skateboards",
     "productTags": []
   },
   {
@@ -222,6 +251,7 @@
         "productVendorUrl": "https://www.tactics.com/chocolate/alvarez-jps-world-825-skateboard-deck"
       }
     ],
+    "productBrand": "Chocolate Skateboards",
     "productTags": []
   },
   {
@@ -242,6 +272,7 @@
         "productVendorUrl": "https://www.tactics.com/chocolate/herrera-mcfetridge-drips-8375-skateboard-deck"
       }
     ],
+    "productBrand": "Chocolate Skateboards",
     "productTags": []
   },
   {
@@ -262,6 +293,7 @@
         "productVendorUrl": "https://www.tactics.com/chocolate/perez-san-choco-84-skateboard-deck"
       }
     ],
+    "productBrand": "Chocolate Skateboards",
     "productTags": []
   },
   {
@@ -287,6 +319,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/chocolate-stevie-perez-loteria-deck?variant=50460975595793"
       }
     ],
+    "productBrand": "Chocolate Skateboards",
     "productTags": []
   },
   {
@@ -302,6 +335,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Chocolate_Chico_Nicaraguan_Sunrise_Re-Issue_SIGNED_Deck/descpage-CHNSSDK.html"
       }
     ],
+    "productBrand": "Chocolate",
     "productTags": []
   },
   {
@@ -317,6 +351,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/chocolate-jordan-trahan-mcfetridge-drips-deck?variant=51104754041105"
       }
     ],
+    "productBrand": "Chocolate",
     "productTags": []
   },
   {
@@ -332,6 +367,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/chocolate-kenny-anderson-hecox-still-deck?variant=51104845922577"
       }
     ],
+    "productBrand": "Chocolate",
     "productTags": []
   },
   {
@@ -347,6 +383,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/chocolate-kenny-anderson-loteria-shaped-deck?variant=50460981985553"
       }
     ],
+    "productBrand": "Chocolate",
     "productTags": []
   },
   {
@@ -362,6 +399,7 @@
         "productVendorUrl": "https://www.zumiez.com/chocolate-og-chunk-trahan-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Chocolate Skateboards",
     "productTags": []
   },
   {
@@ -377,6 +415,7 @@
         "productVendorUrl": "https://www.zumiez.com/chocolate-roberts-ink-blot-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Chocolate Skateboards",
     "productTags": []
   },
   {
@@ -392,6 +431,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Chocolate_Rodriguez_Poe_Reissue_Deck/descpage-CHRPDK.html"
       }
     ],
+    "productBrand": "Chocolate",
     "productTags": []
   },
   {
@@ -407,6 +447,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/chocolate-tampa-flip-the-script-deck?variant=50684467511569"
       }
     ],
+    "productBrand": "Chocolate",
     "productTags": []
   },
   {
@@ -422,6 +463,7 @@
         "productVendorUrl": "https://www.tactics.com/5boro/chris-anderson-5ball-85-skateboard-deck/black"
       }
     ],
+    "productBrand": "5boro",
     "productTags": []
   },
   {
@@ -437,6 +479,7 @@
         "productVendorUrl": "https://www.tactics.com/powell-peralta/chris-hiett-skull-95-flight-skateboard-deck"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -452,6 +495,7 @@
         "productVendorUrl": "https://www.tactics.com/hammers-usa-skateboards/chucky-825-skateboard-deck"
       }
     ],
+    "productBrand": "Hammers USA",
     "productTags": []
   },
   {
@@ -477,6 +521,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/5boro-cinco-barrios-deck-12594?variant=48243371933969"
       }
     ],
+    "productBrand": "5Boro Skateboards",
     "productTags": []
   },
   {
@@ -492,6 +537,7 @@
         "productVendorUrl": "https://www.tactics.com/fixer/cinder-90-egg-shape-skateboard-deck/blue"
       }
     ],
+    "productBrand": "Fixer",
     "productTags": []
   },
   {
@@ -507,6 +553,7 @@
         "productVendorUrl": "https://www.tactics.com/there/circle-of-life-825-skateboard-deck"
       }
     ],
+    "productBrand": "There",
     "productTags": []
   },
   {
@@ -522,6 +569,7 @@
         "productVendorUrl": "https://www.tactics.com/real/city-blocks-85-pp-skateboard-deck"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -537,6 +585,7 @@
         "productVendorUrl": "https://www.tactics.com/scram/cjv-105-skateboard-deck"
       }
     ],
+    "productBrand": "Scram",
     "productTags": []
   },
   {
@@ -552,6 +601,7 @@
         "productVendorUrl": "https://www.tactics.com/gx1000/clandestine-8375-skateboard-deck"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -567,6 +617,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/classic-dot-8375-skateboard-deck/grey"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -582,6 +633,7 @@
         "productVendorUrl": "https://www.tactics.com/strangelove/clockwork-xmas-825-skateboard-deck"
       }
     ],
+    "productBrand": "StrangeLove",
     "productTags": []
   },
   {
@@ -597,6 +649,7 @@
         "productVendorUrl": "https://www.tactics.com/opera/cloudy-9125-skateboard-deck"
       }
     ],
+    "productBrand": "Opera",
     "productTags": []
   },
   {
@@ -612,6 +665,7 @@
         "productVendorUrl": "https://www.tactics.com/the-heated-wheel/coastal-bowling-875-skateboard-deck/pink"
       }
     ],
+    "productBrand": "The Heated Wheel",
     "productTags": []
   },
   {
@@ -637,6 +691,7 @@
         "productVendorUrl": "https://slcth.shop/products/theories-skateboard-deck-coexist-8-125"
       }
     ],
+    "productBrand": "Theories",
     "productTags": []
   },
   {
@@ -652,6 +707,7 @@
         "productVendorUrl": "https://www.tactics.com/fixer/collage-98-skateboard-deck"
       }
     ],
+    "productBrand": "Fixer",
     "productTags": []
   },
   {
@@ -667,6 +723,7 @@
         "productVendorUrl": "https://www.tactics.com/toy-machine/collins-horror-show-813-skateboard-deck"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -682,6 +739,7 @@
         "productVendorUrl": "https://www.tactics.com/toy-machine/collins-no-fear-85-skateboard-deck"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -697,6 +755,7 @@
         "productVendorUrl": "https://www.zumiez.com/color-bars-x-harry-potter-boy-who-lived-8-38-skateboard-deck.html"
       }
     ],
+    "productBrand": "Color Bars",
     "productTags": []
   },
   {
@@ -712,6 +771,7 @@
         "productVendorUrl": "https://www.tactics.com/evisen/color-02-825-skateboard-deck"
       }
     ],
+    "productBrand": "Evisen",
     "productTags": []
   },
   {
@@ -727,6 +787,7 @@
         "productVendorUrl": "https://www.tactics.com/creature/conjure-853-skateboard-deck"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -742,6 +803,7 @@
         "productVendorUrl": "https://www.tactics.com/creature/conjure-90-wheel-wells-skateboard-deck"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -757,6 +819,7 @@
         "productVendorUrl": "https://www.tactics.com/wknd-skateboards/considine-burn-rate-825-skateboard-deck"
       }
     ],
+    "productBrand": "WKND",
     "productTags": []
   },
   {
@@ -777,6 +840,7 @@
         "productVendorUrl": "https://shop.wkndbrand.com/collections/wknd-decks"
       }
     ],
+    "productBrand": "WKND",
     "productTags": []
   },
   {
@@ -792,21 +856,7 @@
         "productVendorUrl": "https://www.tactics.com/wknd-skateboards/considine-third-eye-85-skateboard-deck"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "corpo-guy-skateboard-deck",
-    "productName": "Corpo Guy Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395911/ldjsonbuild/hi5rqztntziwe4ps90xx.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "61.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/doom-sayers-club/corpo-guy-838-skateboard-deck/teal"
-      }
-    ],
+    "productBrand": "WKND",
     "productTags": []
   }
 ]

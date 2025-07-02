@@ -1,5 +1,121 @@
 [
   {
+    "slug": "plan-b-nautical-skateboard-deck",
+    "productName": "Plan B Nautical Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461618/zumiezbuild/ccodfqc6f8ow7ve2gtpu.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "62.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/plan-b-nautical-8-5-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "Plan B Skateboards",
+    "productTags": []
+  },
+  {
+    "slug": "plan-b-pat-duffy-bug-deck",
+    "productName": "Plan B Pat Duffy Bug Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415885/ldjsonbuild/mtka6xtlzkdliybcxxvc.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "70.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-pat-duffy-bug-deck-96350?variant=51362885665041"
+      }
+    ],
+    "productBrand": "Plan B",
+    "productTags": []
+  },
+  {
+    "slug": "plan-b-raiden-mckay-8-5-skate-deck copy",
+    "productName": "Plan B Raiden McKay",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1751480630/ldjsonbuild/raiden_deck.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "skatemenu": "74.95",
+        "url": "https://skatemenu.com",
+        "productVendorUrl": "https://skatemenu.com/products/plan-b-raiden-mckay-8-5-skate-deck"
+      },
+      {
+        "thedarkslide": "69.95",
+        "url": "https://thedarkslide.com",
+        "productVendorUrl": "https://thedarkslide.com/products/plan-b-mckay-raiden-8-5-skateboard-deck?currency=USD&variant=42014791958625&utm_source=google&utm_medium=cpc&utm_campaign=Google+Shopping&stkn=c1e27330b1ce&srsltid=AfmBOoq2ZzN9Sz3GELA9zqN80T7H3BMT3aZ_Cmqpe7B5_f2yk7ttFpoCuGw&gQT=1"
+      },
+      {
+        "spot": "70.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-collin-mckay-raiden-deck?variant=51765844672785"
+      },
+      {
+        "941skateshop": "65.00",
+        "url": "https://941skateshop.com",
+        "productVendorUrl": "https://941skateshop.com/products/plan-b-blue-samurai-pat-duffy-8-625?variant=45631997509770&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooocxhGcS69cxUjHktUY4dtjx7yZ-ZZhM4v_sxpl35GyaEzR7MQIeE&gQT=2"
+      }
+    ],
+    "productBrand": "PLAN B",
+    "productTags": []
+  },
+  {
+    "slug": "plan-b-the-joslin-show-skateboard-deck",
+    "productName": "Plan B The Joslin Show Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461389/zumiezbuild/mpepxwhhe8nayvhzykxd.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "64.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/plan-b-the-joslin-show-8-25-skateboard-deck.html"
+      },
+      {
+        "spot": "70.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-chris-joslin-show-deck?variant=51362940518673"
+      }
+    ],
+    "productBrand": "Plan B Skateboards",
+    "productTags": []
+  },
+  {
+    "slug": "plan-b-tommy-fynn-supercharged-deck",
+    "productName": "Plan B Tommy Fynn Supercharged Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415459/ldjsonbuild/yaxk1gslkncfrcqjlyp9.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "69.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-tommy-fynn-supercharged-deck?variant=50634516201745"
+      }
+    ],
+    "productBrand": "Plan B",
+    "productTags": []
+  },
+  {
+    "slug": "plan-b-trevor-mcclung-supercharged-deck",
+    "productName": "Plan B Trevor McClung Supercharged Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415483/ldjsonbuild/pk58iutekk9trjm1ndia.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "69.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-trevor-mcclung-supercharged-deck?variant=50634438050065"
+      }
+    ],
+    "productBrand": "Plan B",
+    "productTags": []
+  },
+  {
     "slug": "plan-b-way-x-mckay-supercharged-deck",
     "productName": "Plan B Way x McKay Supercharged Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415479/ldjsonbuild/adgqxbe8kh8tsehsssv8.webp",
@@ -12,6 +128,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/plan-b-way-x-mckay-supercharged-deck?variant=50634439164177"
       }
     ],
+    "productBrand": "Plan B",
     "productTags": []
   },
   {
@@ -27,6 +144,7 @@
         "productVendorUrl": "https://www.tactics.com/polar-skate-co/platt-caged-875-1991-jr-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Polar Skate Co.",
     "productTags": []
   },
   {
@@ -42,6 +160,7 @@
         "productVendorUrl": "https://www.tactics.com/polar-skate-co/platt-skeleton-kid-90-skateboard-deck"
       }
     ],
+    "productBrand": "Polar Skate Co.",
     "productTags": []
   },
   {
@@ -57,6 +176,7 @@
         "productVendorUrl": "https://www.tactics.com/swim-skateboard-co/plunket-x-ray-82-skateboard-deck"
       }
     ],
+    "productBrand": "Swim Skateboard Co",
     "productTags": []
   },
   {
@@ -72,6 +192,7 @@
         "productVendorUrl": "https://www.tactics.com/swim-skateboard-co/plunkett-mountain-view-85-skateboard-deck/blue"
       }
     ],
+    "productBrand": "Swim Skateboard Co",
     "productTags": []
   },
   {
@@ -87,6 +208,7 @@
         "productVendorUrl": "https://www.tactics.com/quasi-skateboards/ply-logo-80-skateboard-deck"
       }
     ],
+    "productBrand": "Quasi",
     "productTags": []
   },
   {
@@ -102,6 +224,7 @@
         "productVendorUrl": "https://www.zumiez.com/poeticcollective-formula-one-scan-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Poetic Collective",
     "productTags": []
   },
   {
@@ -117,6 +240,7 @@
         "productVendorUrl": "https://www.zumiez.com/poeticcollective-80s-frame-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Poetic Collective",
     "productTags": []
   },
   {
@@ -132,6 +256,7 @@
         "productVendorUrl": "https://www.zumiez.com/poeticcollective-silver-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Poetic Collective",
     "productTags": []
   },
   {
@@ -147,6 +272,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/polar-skateboards-dane-brady-fish-bowl-wheel-wells-shaped-deck?variant=50827170971921"
       }
     ],
+    "productBrand": "Polar Skateboards",
     "productTags": []
   },
   {
@@ -162,6 +288,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/polar-skateboards-david-stenstrom-panther-and-tape-deck?variant=50451880411409"
       }
     ],
+    "productBrand": "Polar Skateboards",
     "productTags": []
   },
   {
@@ -177,6 +304,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/polar-skateboards-oskar-rozenberg-trust-deck-97193?variant=50087705477393"
       }
     ],
+    "productBrand": "Polar Skateboards",
     "productTags": []
   },
   {
@@ -192,6 +320,7 @@
         "productVendorUrl": "https://www.zumiez.com/poler-x-yew-slappy-hour-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Poler Stuff",
     "productTags": []
   },
   {
@@ -207,6 +336,7 @@
         "productVendorUrl": "https://www.tactics.com/tightbooth/police-checkup-825-skateboard-deck"
       }
     ],
+    "productBrand": "Tightbooth",
     "productTags": []
   },
   {
@@ -222,6 +352,7 @@
         "productVendorUrl": "https://www.tactics.com/pizzaskateboards/post-825-skateboard-deck"
       }
     ],
+    "productBrand": "Pizza",
     "productTags": []
   },
   {
@@ -237,6 +368,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Powell_Anderson_Herons_Egg_Flight_Deck/descpage-PLAHEFDK.html"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -252,6 +384,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Powell_Andy_Anderson_Flight_289_Deck/descpage-PLAAFDK.html"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -277,6 +410,7 @@
         "productVendorUrl": "https://stokedrideshop.com/products/powell-peralta-flight-andy-anderson-heron-pro-skateboard-deck"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -292,6 +426,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Powell_Andy_Anderson_Heron_Silver_Foil_Deck/descpage-PLAASFDK.html"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -307,6 +442,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Powell_Bones_Brigade_Mullen_16_Black_Deck/descpage-PLRM16DK.html"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -322,6 +458,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Powell_Caballero_Blacklight_Mask_Deck/descpage-PLSCBMDK.html"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -337,6 +474,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Powell_McGill_Skull__Snake_McTwist_Red_Gold_Deck/descpage-PLMSRDK.html"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -352,6 +490,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Powell_Peralta_Cab_Chinese_Dragon_Gold_Foil_Deck/descpage-PLCGFDK.html"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -367,6 +506,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Powell_Peralta_Chris_Hiett_Skull_Flight_Deck/descpage-PLCH95DK.html"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -382,6 +522,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Powell_Peralta_Geegah_Ripper_Silver_Red_Foil_Deck/descpage-PLGGSRDK.html"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -402,6 +543,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/powell-peralta-bones-brigade-mike-mcgill-series-16-deck?variant=51377346740497"
       }
     ],
+    "productBrand": "Powell",
     "productTags": []
   },
   {
@@ -417,6 +559,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Powell_Peralta_Hill_Bulldog_12_Blacklight_Deck/descpage-PLHBBLDK.html"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -432,6 +575,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/powell-peralta-kelvin-hoefler-flight-bones-deck?variant=51441398513937"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -447,6 +591,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Powell_Peralta_Mike_Vallely_Elephant_11_Deck/descpage-PLV11DK.html"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -462,6 +607,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Powell_Peralta_OG_Welinder_Pink_Foil_Deck/descpage-PLPWPDK.html"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -477,6 +623,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/powell-peralta-sakura-yosozumi-tiger-7-ply-deck?variant=51456601162001"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -492,6 +639,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/powell-peralta-steve-caballero-ban-this-pro-flight-shaped-deck?variant=51208203600145"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -507,6 +655,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Powell_Peralta_Steve_Saiz_Totem_05_Deck/descpage-PLBS05DK.html"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -522,6 +671,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Powell_Peralta_Welinder_Nordic_Skull_Navy_Deck/descpage-PLPWNSDK.html"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -537,6 +687,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Powell_Vallely_Lightning_Bolt_Flight_Deck/descpage-PLMVFDK.html"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -552,6 +703,7 @@
         "productVendorUrl": "https://www.tactics.com/real/praman-muay-thai-85-skateboard-deck/black"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -567,6 +719,7 @@
         "productVendorUrl": "https://www.zumiez.com/primitive-dirty-p-core-black-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Primitive",
     "productTags": []
   },
   {
@@ -587,6 +740,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-spencer-hamilton-dream-nicely-deck-97179?variant=50010988675345"
       }
     ],
+    "productBrand": "Primitive",
     "productTags": []
   },
   {
@@ -602,6 +756,7 @@
         "productVendorUrl": "https://www.zumiez.com/primitive-jungle-egg-8-75-skateboard-deck.html"
       }
     ],
+    "productBrand": "Primitive",
     "productTags": []
   },
   {
@@ -617,6 +772,7 @@
         "productVendorUrl": "https://www.zumiez.com/primitive-mcclung-tuner-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Primitive",
     "productTags": []
   },
   {
@@ -632,6 +788,7 @@
         "productVendorUrl": "https://www.zumiez.com/primitive-neal-indy-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Primitive",
     "productTags": []
   },
   {
@@ -647,6 +804,7 @@
         "productVendorUrl": "https://www.zumiez.com/primitive-rodriguez-honor-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Primitive",
     "productTags": []
   },
   {
@@ -662,6 +820,7 @@
         "productVendorUrl": "https://www.zumiez.com/primitive-silvas-soty-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Primitive",
     "productTags": []
   },
   {
@@ -677,106 +836,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-miles-silvas-redemption-deck?variant=50280423588113"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "primitive-skateboarding-tiago-lemos-silks-deck",
-    "productName": "Primitive Skateboarding Tiago Lemos Silks Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415826/ldjsonbuild/lvwdr78dimayda2hjnkn.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "70.00",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-tiago-lemos-silks-deck-97180?variant=50010990346513"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "primitive-team-moto-skateboard-deck",
-    "productName": "Primitive Team Moto Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461632/zumiezbuild/gdzthsuv5i7kdcxmmnxw.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "44.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/primitive-team-moto-8-38-skateboard-deck.html"
-      },
-      {
-        "spot": "70.00",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-team-moto-deck-97181?variant=50010990706961"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "primitive-williams-podium-skateboard-deck",
-    "productName": "Primitive Williams Podium Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460876/zumiezbuild/yiz9gdn7m0ni5khxj5wp.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "44.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/primitive-williams-podium-8-38-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "primitive-x-dodge-powered-skateboard-deck",
-    "productName": "Primitive x Dodge Powered Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461931/zumiezbuild/qhzwspahzeqaa2vtwrs9.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/primitive-x-dodge-powered-8-125-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "primitive-x-dragon-ball-z-timeline-skateboard-deck",
-    "productName": "Primitive x Dragon Ball Z Timeline Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461450/zumiezbuild/fhuazeie0mpeoexac6vh.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "74.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/primitive-x-dragon-ball-z-timeline-8-125-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "primitive-x-sublime-dirty-p-sun-skateboard-deck",
-    "productName": "Primitive x Sublime Dirty P Sun Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461402/zumiezbuild/eesby0rbcatfzducpdbw.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "74.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/primitive-x-sublime-dirty-p-sun-8-0-skateboard-deck.html"
-      },
-      {
-        "spot": "75.00",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/primitive-skateboarding-sublime-dirty-p-sunrise-team-shaped-deck?variant=51441672356113"
-      }
-    ],
+    "productBrand": "Primitive Skateboarding",
     "productTags": []
   }
 ]

@@ -1,5 +1,101 @@
 [
   {
+    "slug": "trial-boline-shape-skateboard-deck",
+    "productName": "Trial Boline Shape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401895/ldjsonbuild/qoncjgr71robocm0gcvt.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "64.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/welcome/trial-95-boline-20-shape-skateboard-deck/black-silver-foil"
+      }
+    ],
+    "productBrand": "Welcome",
+    "productTags": []
+  },
+  {
+    "slug": "trolley-full-se-shape-skateboard-deck",
+    "productName": "Trolley Full SE Shape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746403057/ldjsonbuild/dsyrc171co9mfa4lgo9c.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "69.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/real/trolley-825-full-se-shape-skateboard-deck"
+      }
+    ],
+    "productBrand": "Real",
+    "productTags": []
+  },
+  {
+    "slug": "trujillo-thrasher-skateboard-deck",
+    "productName": "Trujillo Thrasher Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401292/ldjsonbuild/kv5pxblhlzh8y8dbwl41.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "76.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/anti-hero/trujillo-thrasher-85-skateboard-deck/navy"
+      }
+    ],
+    "productBrand": "Anti-Hero",
+    "productTags": []
+  },
+  {
+    "slug": "trumpets-football-shape-skateboard-deck",
+    "productName": "Trumpets Football Shape Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396326/ldjsonbuild/vfrrjpfa97hlfcroldpy.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "74.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/polar-skate-co/trumpets-875-football-shape-skateboard-deck/orange"
+      }
+    ],
+    "productBrand": "Polar Skate Co.",
+    "productTags": []
+  },
+  {
+    "slug": "trumpets-skateboard-deck",
+    "productName": "Trumpets Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397645/ldjsonbuild/o6odlq6mxebzmiq9kxaa.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "71.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/polar-skate-co/trumpets-825-skateboard-deck/orange"
+      }
+    ],
+    "productBrand": "Polar Skate Co.",
+    "productTags": []
+  },
+  {
+    "slug": "turner-yo-chill-skateboard-deck",
+    "productName": "Turner Yo Chill Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392344/ldjsonbuild/zthnwpwkp5izcqsiogng.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "64.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/sk8mafia/turner-yo-chill-825-skateboard-deck"
+      }
+    ],
+    "productBrand": "SK8MAFIA",
+    "productTags": []
+  },
+  {
     "slug": "twenty-zero-two-skateboard-deck",
     "productName": "Twenty Zero Two Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402821/ldjsonbuild/rwssq6lv8iynnggu7nub.webp",
@@ -12,6 +108,7 @@
         "productVendorUrl": "https://www.tactics.com/gx1000/twenty-zero-two-85-skateboard-deck"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -27,6 +124,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/tyson-black-book-838-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -42,6 +140,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/tyson-brand-name-85-skateboard-deck/white-natural"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -57,6 +156,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/tyson-chicken-80-skateboard-deck/teal"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -72,6 +172,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/tyson-trollsafari-825-skateboard-deck/teal"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -87,6 +188,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/tyson-watercolor-85-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -102,6 +204,7 @@
         "productVendorUrl": "https://www.zumiez.com/uma-landsleds-cody-tales-8-38-skateboard-deck.html"
       }
     ],
+    "productBrand": "Uma Landsleds",
     "productTags": []
   },
   {
@@ -117,6 +220,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/una-flame-snail-825-skateboard-deck/navy"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -132,6 +236,7 @@
         "productVendorUrl": "https://www.tactics.com/welcome/unchained-105-magic-bullet-20-shape-skateboard-deck/black"
       }
     ],
+    "productBrand": "Welcome",
     "productTags": []
   },
   {
@@ -147,6 +252,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/unsurpassed-insignificance-skateboard-deck/pink"
       }
     ],
+    "productBrand": "Tactics",
     "productTags": []
   },
   {
@@ -162,6 +268,7 @@
         "productVendorUrl": "https://www.tactics.com/evisen/untitled-85-skateboard-deck"
       }
     ],
+    "productBrand": "Evisen",
     "productTags": []
   },
   {
@@ -177,6 +284,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/ur-top-advisor-skateboard-deck/multi"
       }
     ],
+    "productBrand": "Tactics",
     "productTags": []
   },
   {
@@ -192,6 +300,7 @@
         "productVendorUrl": "https://www.tactics.com/magenta/valls-dojo-825-skateboard-deck"
       }
     ],
+    "productBrand": "Magenta",
     "productTags": []
   },
   {
@@ -207,6 +316,7 @@
         "productVendorUrl": "https://www.tactics.com/magenta/valls-relic-825-skateboard-deck"
       }
     ],
+    "productBrand": "Magenta",
     "productTags": []
   },
   {
@@ -222,6 +332,7 @@
         "productVendorUrl": "https://www.tactics.com/there/vanessa-torres-guest-pro-ssd-25-806-true-fit-shape-skateboard-deck"
       }
     ],
+    "productBrand": "There",
     "productTags": []
   },
   {
@@ -237,6 +348,7 @@
         "productVendorUrl": "https://www.tactics.com/gx1000/vices-85-skateboard-deck"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -252,6 +364,7 @@
         "productVendorUrl": "https://www.tactics.com/edglrd/vincent-touzery-flexerx-825-skateboard-deck"
       }
     ],
+    "productBrand": "EDGLRD",
     "productTags": []
   },
   {
@@ -267,6 +380,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/vinyl-blake-carpenter-seraphim-deck?variant=50987279974673"
       }
     ],
+    "productBrand": "Vinyl",
     "productTags": []
   },
   {
@@ -282,6 +396,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/vinyl-robot-deck?variant=50987313594641"
       }
     ],
+    "productBrand": "Vinyl",
     "productTags": []
   },
   {
@@ -297,6 +412,7 @@
         "productVendorUrl": "https://www.tactics.com/carpet/vinyl-825-skateboard-deck/neon-green"
       }
     ],
+    "productBrand": "Carpet",
     "productTags": []
   },
   {
@@ -312,6 +428,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/vinyl-volt-splat-deck?variant=51282529485073"
       }
     ],
+    "productBrand": "Vinyl",
     "productTags": []
   },
   {
@@ -327,6 +444,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/violet-studded-banana-bear-deck?variant=50658409546001"
       }
     ],
+    "productBrand": "Violet",
     "productTags": []
   },
   {
@@ -342,6 +460,7 @@
         "productVendorUrl": "https://www.tactics.com/space-program/visintainer-bogey-825-skateboard-deck"
       }
     ],
+    "productBrand": "Space Program",
     "productTags": []
   },
   {
@@ -357,6 +476,7 @@
         "productVendorUrl": "https://www.tactics.com/alien-workshop/visitor-80-skateboard-deck/pink"
       }
     ],
+    "productBrand": "Alien Workshop",
     "productTags": []
   },
   {
@@ -372,6 +492,7 @@
         "productVendorUrl": "https://www.tactics.com/space-program/vitale-pleasures-85-skateboard-deck"
       }
     ],
+    "productBrand": "Space Program",
     "productTags": []
   },
   {
@@ -387,6 +508,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/walking-through-the-field-skateboard-deck/black"
       }
     ],
+    "productBrand": "Tactics",
     "productTags": []
   },
   {
@@ -402,6 +524,7 @@
         "productVendorUrl": "https://www.tactics.com/passport/wall-series-8625-softie-shape-skateboard-deck/leafy-blues"
       }
     ],
+    "productBrand": "Passport",
     "productTags": []
   },
   {
@@ -417,6 +540,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/water-balloon-skateboard-deck/brown"
       }
     ],
+    "productBrand": "Tactics",
     "productTags": []
   },
   {
@@ -432,6 +556,7 @@
         "productVendorUrl": "https://www.tactics.com/doom-sayers-club/we-appreciate-80-skateboard-deck/yellow"
       }
     ],
+    "productBrand": "Doom Sayers Club",
     "productTags": []
   },
   {
@@ -447,6 +572,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/we-are-still-the-world-skateboard-deck/multi"
       }
     ],
+    "productBrand": "Tactics",
     "productTags": []
   },
   {
@@ -462,6 +588,7 @@
         "productVendorUrl": "https://www.tactics.com/pizzaskateboards/weismantel-swifty-825-skateboard-deck"
       }
     ],
+    "productBrand": "Pizza",
     "productTags": []
   },
   {
@@ -477,6 +604,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-bapholit-on-boline-2-0-9-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -492,6 +620,7 @@
         "productVendorUrl": "https://www.zumiez.com/8-0-blood-sucker-welcome-us.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -507,6 +636,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-clairvoyant-on-evil-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -522,6 +652,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-depths-9-85-skateboard-deck.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -542,6 +673,7 @@
         "productVendorUrl": "https://www.tactics.com/welcome/diablo-90-skateboard-deck/black-red"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -557,6 +689,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-fire-breather-9-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -577,6 +710,7 @@
         "productVendorUrl": "https://www.tactics.com/welcome/nick-garcia-chalice-838-skateboard-deck/white"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -592,6 +726,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-garcia-paradox-8-38-skateboard-deck.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -612,6 +747,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-welcome-home-deck?variant=51397910364433"
       }
     ],
+    "productBrand": "Metal",
     "productTags": []
   },
   {
@@ -627,6 +763,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-light-and-easy-9-skateboard-deck.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -642,6 +779,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-lil-owl-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -657,6 +795,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-mace-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -672,101 +811,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-nora-feral-8-25-skateboard-deck.html"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "welcome-nora-purr-pile-skateboard-deck",
-    "productName": "Welcome Nora Purr Pile Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461360/zumiezbuild/htwyf9z4jrfg8lgqefko.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/8-25-nora-pur-pile-welcome-ska.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "welcome-nora-special-effects-skateboard-deck",
-    "productName": "Welcome Nora Special Effects Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460969/zumiezbuild/yetq7dtc0itou7gtk7fh.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "49.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/welcome-nora-special-effects-8-25-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "welcome-rapture-on-a-dark-lord-skateboard-deck",
-    "productName": "Welcome Rapture On A Dark Lord Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462138/zumiezbuild/xt6iimcyt4rpsifeeow7.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "79.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/welcome-rapture-on-a-dark-lord-9-85-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "welcome-reyes-paladin-skateboard-deck",
-    "productName": "Welcome Reyes Paladin Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460855/zumiezbuild/w9kdnoizy5px9trnnidg.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "74.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/welcome-reyes-paladin-8-5-skateboard-deck.html"
-      },
-      {
-        "tactics": "65.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/welcome/reyes-paladin-85-skateboard-deck/purple-gold-foil"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "welcome-saint-skateboard-deck",
-    "productName": "Welcome Saint Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461437/zumiezbuild/szhcimdmplywjyuj1vtz.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "74.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/welcome-saint-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "welcome-skateboards-hedo-rick-on-gaia-deck",
-    "productName": "Welcome Hedo Rick on Gaia Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415668/ldjsonbuild/bbuex3zeprkzo7swvkza.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "79.95",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/welcome-skateboards-hedo-rick-on-gaia-deck?variant=50552970117393"
-      }
-    ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   }
 ]

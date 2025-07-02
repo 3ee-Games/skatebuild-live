@@ -1,5 +1,37 @@
 [
   {
+    "slug": "gottwig-trails-skateboard-deck",
+    "productName": "Gottwig Trails Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746403314/ldjsonbuild/mlyn9chxya8hs8aibysd.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "73.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/krooked/gottwig-trails-825-skateboard-deck"
+      }
+    ],
+    "productBrand": "Krooked",
+    "productTags": []
+  },
+  {
+    "slug": "grabke-exploding-clock-ltd-reissue-skateboard-deck",
+    "productName": "Grabke Exploding Clock LTD Reissue Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402019/ldjsonbuild/o7qemnm0j5pshq4yzvp6.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "86.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/santa-cruz/grabke-exploding-clock-1004-ltd-reissue-skateboard-deck"
+      }
+    ],
+    "productBrand": "Santa Cruz",
+    "productTags": []
+  },
+  {
     "slug": "gradient-light-skateboard-deck",
     "productName": "Gradient Light Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396819/ldjsonbuild/da2fjwp9az76whgw0ckf.webp",
@@ -12,6 +44,7 @@
         "productVendorUrl": "https://www.tactics.com/traffic-skateboards/gradient-light-85-skateboard-deck"
       }
     ],
+    "productBrand": "Traffic",
     "productTags": []
   },
   {
@@ -27,6 +60,7 @@
         "productVendorUrl": "https://www.tactics.com/the-heated-wheel/grasshopper-838-skateboard-deck/yellow"
       }
     ],
+    "productBrand": "The Heated Wheel",
     "productTags": []
   },
   {
@@ -47,6 +81,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-david-gravette-big-game-pro-deck?variant=51438845034769"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -62,6 +97,7 @@
         "productVendorUrl": "https://www.tactics.com/killing-floor-skateboards/gray-patagonia-86-skateboard-deck"
       }
     ],
+    "productBrand": "The Killing Floor",
     "productTags": []
   },
   {
@@ -77,6 +113,7 @@
         "productVendorUrl": "https://www.tactics.com/gx1000/greene-ice-walls-8125-skateboard-deck"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -92,6 +129,7 @@
         "productVendorUrl": "https://www.tactics.com/blood-wizard/gregson-x-mercyful-fate-85-skateboard-deck"
       }
     ],
+    "productBrand": "Blood Wizard",
     "productTags": []
   },
   {
@@ -107,6 +145,7 @@
         "productVendorUrl": "https://www.tactics.com/girl/griffin-gass-93-til-85-skateboard-deck/og-natural"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -122,6 +161,7 @@
         "productVendorUrl": "https://www.tactics.com/anti-hero/grimple-beach-955-skateboard-deck"
       }
     ],
+    "productBrand": "Anti-Hero",
     "productTags": []
   },
   {
@@ -137,6 +177,7 @@
         "productVendorUrl": "https://www.tactics.com/anti-hero/grimplestix-barbarians-875-flyer-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Anti-Hero",
     "productTags": []
   },
   {
@@ -152,6 +193,7 @@
         "productVendorUrl": "https://www.tactics.com/anti-hero/grimplestix-litho-100-horse-pill-shape-skateboard-deck/navy"
       }
     ],
+    "productBrand": "Anti-Hero",
     "productTags": []
   },
   {
@@ -167,6 +209,7 @@
         "productVendorUrl": "https://www.zumiez.com/grizzly-already-dead-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Grizzly Griptape",
     "productTags": []
   },
   {
@@ -182,6 +225,7 @@
         "productVendorUrl": "https://www.zumiez.com/grizzly-boneyard-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Grizzly Griptape",
     "productTags": []
   },
   {
@@ -197,6 +241,7 @@
         "productVendorUrl": "https://www.zumiez.com/grizzly-triple-double-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Grizzly Griptape",
     "productTags": []
   },
   {
@@ -212,6 +257,7 @@
         "productVendorUrl": "https://www.zumiez.com/grizzly-worlds-end-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Grizzly Griptape",
     "productTags": []
   },
   {
@@ -227,6 +273,7 @@
         "productVendorUrl": "https://www.tactics.com/polar-skate-co/grund-untitled-825-skateboard-deck"
       }
     ],
+    "productBrand": "Polar Skate Co.",
     "productTags": []
   },
   {
@@ -242,6 +289,7 @@
         "productVendorUrl": "https://www.tactics.com/shake-junt/gtwyc-85-skateboard-deck"
       }
     ],
+    "productBrand": "Shake Junt",
     "productTags": []
   },
   {
@@ -257,6 +305,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/guzman-divine-diner-916-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -272,6 +321,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/gx1000-bloody-gold-deck?variant=50583648862481"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -287,6 +337,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/gx1000-candy-deck?variant=50144843727121"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -302,6 +353,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/gx1000-clandestine-deck?variant=50583652073745"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -317,6 +369,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/gx1000-embedded-deck?variant=51259250901265"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -337,6 +390,7 @@
         "productVendorUrl": "https://www.tactics.com/gx1000/greene-humid-85-skateboard-deck"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -352,6 +406,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/gx1000-jeff-carlyle-path-deck?variant=50144834158865"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -367,6 +422,7 @@
         "productVendorUrl": "https://www.zumiez.com/gx1000-magnetic-8-625-skateboard-deck.html"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -382,6 +438,7 @@
         "productVendorUrl": "https://www.zumiez.com/gx1000-og-logo-blue-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -397,6 +454,7 @@
         "productVendorUrl": "https://www.zumiez.com/habitat-audio-centric-8-125-skateboard-deck.html"
       }
     ],
+    "productBrand": "Habitat Skateboards",
     "productTags": []
   },
   {
@@ -412,6 +470,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/habitat-brian-delatorre-portraits-from-the-edge-deck?variant=51094963978513"
       }
     ],
+    "productBrand": "Habitat",
     "productTags": []
   },
   {
@@ -427,6 +486,7 @@
         "productVendorUrl": "https://www.zumiez.com/habitat-harper-owltercation-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Habitat Skateboards",
     "productTags": []
   },
   {
@@ -442,6 +502,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/habitat-mark-suciu-anima-mundi-glow-deck?variant=51094956933393"
       }
     ],
+    "productBrand": "Habitat",
     "productTags": []
   },
   {
@@ -457,6 +518,7 @@
         "productVendorUrl": "https://www.zumiez.com/habitat-suciu-jazz-leeb-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Habitat Skateboards",
     "productTags": []
   },
   {
@@ -477,6 +539,7 @@
         "productVendorUrl": "https://www.tactics.com/habitat/suciu-speed-test-8375-twin-tail-skateboard-deck"
       }
     ],
+    "productBrand": "Habitat Skateboards",
     "productTags": []
   },
   {
@@ -492,6 +555,7 @@
         "productVendorUrl": "https://www.tactics.com/thank-you/hamaguchi-snow-monkey-825-skateboard-deck"
       }
     ],
+    "productBrand": "Thank You",
     "productTags": []
   },
   {
@@ -507,6 +571,7 @@
         "productVendorUrl": "https://www.tactics.com/fixer/hana-875-skateboard-deck"
       }
     ],
+    "productBrand": "Fixer",
     "productTags": []
   },
   {
@@ -522,6 +587,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-monica-airlines/harada-dragon-90-skateboard-deck/orange-stain"
       }
     ],
+    "productBrand": "Santa Monica Airlines",
     "productTags": []
   },
   {
@@ -537,6 +603,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/hardbody-hjalte-halberg-pro-wheel-wells-deck?variant=51369823306001"
       }
     ],
+    "productBrand": "Hardbody",
     "productTags": []
   },
   {
@@ -552,6 +619,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/hardbody-puerto-rico-flag-deck?variant=51369831465233"
       }
     ],
+    "productBrand": "Hardbody",
     "productTags": []
   },
   {
@@ -567,6 +635,7 @@
         "productVendorUrl": "https://www.tactics.com/dgk/harold-hunter-street-soldier-85-skateboard-deck/red"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -582,6 +651,7 @@
         "productVendorUrl": "https://www.tactics.com/black-label/hassan-fire-it-up-925-black-widow-skateboard-deck/teal"
       }
     ],
+    "productBrand": "Black Label",
     "productTags": []
   },
   {
@@ -597,6 +667,7 @@
         "productVendorUrl": "https://www.tactics.com/black-label/hassan-headache-925-black-widow-skateboard-deck/teal"
       }
     ],
+    "productBrand": "Black Label",
     "productTags": []
   },
   {
@@ -612,6 +683,7 @@
         "productVendorUrl": "https://www.tactics.com/real/hause-dface-806-full-se-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -627,6 +699,7 @@
         "productVendorUrl": "https://www.tactics.com/real/hause-pig-romp-975-romper-shape-skateboard-deck/orange"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -647,6 +720,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/real-nicole-hause-queen-of-hearts-twin-nose-black-deck?variant=51457051918609"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -662,6 +736,7 @@
         "productVendorUrl": "https://www.tactics.com/real/hause-time-flies-825-skateboard-deck"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -677,6 +752,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/hawk-brain-donor-85-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -692,6 +768,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/hawk-brand-name-85-skateboard-deck/neon-green"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -707,6 +784,7 @@
         "productVendorUrl": "https://www.tactics.com/birdhouse/hawk-enteries-85-skateboard-deck/black"
       }
     ],
+    "productBrand": "Birdhouse",
     "productTags": []
   },
   {
@@ -722,6 +800,7 @@
         "productVendorUrl": "https://www.tactics.com/birdhouse/hawk-gargoyle-975-skateboard-deck"
       }
     ],
+    "productBrand": "Birdhouse",
     "productTags": []
   },
   {
@@ -737,36 +816,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/hawk-get-lost-8125-skateboard-deck"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "hawk-the-bat-skateboard-deck",
-    "productName": "Hawk The Bat Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395995/ldjsonbuild/yusj063ek7sgl4zefw0p.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "79.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/birdhouse/hawk-the-bat-1025-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "hawk-watercolor-skateboard-deck",
-    "productName": "Hawk Watercolor Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400719/ldjsonbuild/jdjfgecytptltgjp0zrm.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "78.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/baker/hawk-watercolor-825-skateboard-deck"
-      }
-    ],
+    "productBrand": "Baker",
     "productTags": []
   }
 ]

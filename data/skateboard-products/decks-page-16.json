@@ -1,5 +1,37 @@
 [
   {
+    "slug": "hockey-rodrigues-behemoth-skateboard-deck",
+    "productName": "Hockey Rodrigues Behemoth Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460839/zumiezbuild/ohpcr8fdkdixlywj4gmy.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "77.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/hockey-rodrigues-behemoth-8-5-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "Hockey",
+    "productTags": []
+  },
+  {
+    "slug": "hockey-rodrigues-keep-sake-skateboard-deck",
+    "productName": "Hockey Rodrigues Keep Sake Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460684/zumiezbuild/t2d4gnofrrq3igqtpgdj.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "77.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/hockey-rodrigues-keep-sake-8-25-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "Hockey",
+    "productTags": []
+  },
+  {
     "slug": "hockey-stain-off-anxiety-skateboard-deck",
     "productName": "Hockey Stain 50% Off Anxiety Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461543/zumiezbuild/p9cm5ngk2hch13xb6jm9.webp",
@@ -12,6 +44,7 @@
         "productVendorUrl": "https://www.zumiez.com/hockey-stain-50-off-anxiety-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -27,6 +60,7 @@
         "productVendorUrl": "https://www.zumiez.com/hockey-stain-side-one-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -47,6 +81,7 @@
         "productVendorUrl": "https://www.tactics.com/hockey/war-all-over-875-skateboard-deck"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -62,6 +97,7 @@
         "productVendorUrl": "https://www.zumiez.com/hoddle-luxton-realist-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Hoddle",
     "productTags": []
   },
   {
@@ -77,6 +113,7 @@
         "productVendorUrl": "https://www.zumiez.com/hoddle-paul-bell-8-38-skateboard-deck.html"
       }
     ],
+    "productBrand": "Hoddle",
     "productTags": []
   },
   {
@@ -92,6 +129,7 @@
         "productVendorUrl": "https://www.zumiez.com/hoddle-thunderdome-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Hoddle",
     "productTags": []
   },
   {
@@ -107,6 +145,7 @@
         "productVendorUrl": "https://www.zumiez.com/hoddle-zuzic-fracture-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Hoddle",
     "productTags": []
   },
   {
@@ -122,6 +161,7 @@
         "productVendorUrl": "https://www.tactics.com/loaded/hola-lou-coyote-3075-skateboard-deck"
       }
     ],
+    "productBrand": "Loaded",
     "productTags": []
   },
   {
@@ -137,6 +177,7 @@
         "productVendorUrl": "https://www.tactics.com/bacon/hopkins-ramblin-and-scramblin-85-skateboard-deck/brown"
       }
     ],
+    "productBrand": "Bacon Skateboards",
     "productTags": []
   },
   {
@@ -157,6 +198,7 @@
         "productVendorUrl": "https://www.tactics.com/hopps-skateboards/big-hopps-roses-8125-skateboard-deck"
       }
     ],
+    "productBrand": "Hopps",
     "productTags": []
   },
   {
@@ -182,6 +224,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/hopps-keith-denley-jen-traub-artist-deck?variant=51389359653137"
       }
     ],
+    "productBrand": "Hopps",
     "productTags": []
   },
   {
@@ -197,6 +240,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/hopps-dustin-eggeling-jen-traub-artist-deck?variant=51389360865553"
       }
     ],
+    "productBrand": "Hopps",
     "productTags": []
   },
   {
@@ -212,6 +256,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/hopps-keep-it-moving-checkered-fade-deck?variant=51389380722961"
       }
     ],
+    "productBrand": "Hopps",
     "productTags": []
   },
   {
@@ -227,6 +272,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/hopps-keith-denley-throwie-deck?variant=50443375149329"
       }
     ],
+    "productBrand": "Hopps",
     "productTags": []
   },
   {
@@ -242,6 +288,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/hopps-mark-del-negro-jen-traub-artist-deck?variant=51389359423761"
       }
     ],
+    "productBrand": "Hopps",
     "productTags": []
   },
   {
@@ -257,6 +304,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/hopps-pops-deck?variant=51453403005201"
       }
     ],
+    "productBrand": "Hopps",
     "productTags": []
   },
   {
@@ -272,6 +320,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/hopps-sun-logo-checkered-fade-deck?variant=51389385048337"
       }
     ],
+    "productBrand": "Hopps",
     "productTags": []
   },
   {
@@ -287,6 +336,7 @@
         "productVendorUrl": "https://www.tactics.com/flip/hotdogger-80-skateboard-deck"
       }
     ],
+    "productBrand": "Flip",
     "productTags": []
   },
   {
@@ -302,6 +352,7 @@
         "productVendorUrl": "https://www.tactics.com/creature/hotrod-reaper-xx-1025-skateboard-deck"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -317,6 +368,7 @@
         "productVendorUrl": "https://www.tactics.com/heroin/houghton-hellscape-95-skateboard-deck"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -332,6 +384,7 @@
         "productVendorUrl": "https://www.tactics.com/sci-fi-fantasy/hsu-bear-suit-825-swb-skateboard-deck"
       }
     ],
+    "productBrand": "Sci-Fi Fantasy",
     "productTags": []
   },
   {
@@ -347,6 +400,7 @@
         "productVendorUrl": "https://www.tactics.com/sci-fi-fantasy/hsu-lamb-825-swb-skateboard-deck"
       }
     ],
+    "productBrand": "Sci-Fi Fantasy",
     "productTags": []
   },
   {
@@ -362,6 +416,7 @@
         "productVendorUrl": "https://www.zumiez.com/huf-x-kodak-filmer-board-9-8-skateboard-deck.html"
       }
     ],
+    "productBrand": "HUF",
     "productTags": []
   },
   {
@@ -377,6 +432,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/huf-x-tactics-mixer-skateboard-deck"
       }
     ],
+    "productBrand": "Tactics",
     "productTags": []
   },
   {
@@ -392,6 +448,7 @@
         "productVendorUrl": "https://www.tactics.com/limosine/hugo-boserup-heart-throb-825-skateboard-deck"
       }
     ],
+    "productBrand": "Limosine",
     "productTags": []
   },
   {
@@ -407,6 +464,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-monica-airlines/humpston-dream-catcher-10125-skateboard-deck/red-stain"
       }
     ],
+    "productBrand": "Santa Monica Airlines",
     "productTags": []
   },
   {
@@ -422,6 +480,7 @@
         "productVendorUrl": "https://www.tactics.com/turtle-island-mind-expansion/hungry-825-skateboard-deck"
       }
     ],
+    "productBrand": "Turtle Island Mind Expansion",
     "productTags": []
   },
   {
@@ -437,6 +496,7 @@
         "productVendorUrl": "https://www.tactics.com/passport/hybrid-vigour-825-skateboard-deck/kelpie"
       }
     ],
+    "productBrand": "Passport",
     "productTags": []
   },
   {
@@ -452,6 +512,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/i-know-nothing-skateboard-deck"
       }
     ],
+    "productBrand": "Tactics",
     "productTags": []
   },
   {
@@ -467,6 +528,7 @@
         "productVendorUrl": "https://www.tactics.com/yew/i-love-yew-825-skateboard-deck"
       }
     ],
+    "productBrand": "Yew",
     "productTags": []
   },
   {
@@ -482,6 +544,7 @@
         "productVendorUrl": "https://www.tactics.com/metal-skateboards/inauguration-85-skateboard-deck"
       }
     ],
+    "productBrand": "Metal",
     "productTags": []
   },
   {
@@ -497,6 +560,7 @@
         "productVendorUrl": "https://www.tactics.com/tightbooth/initialize-80-skateboard-deck"
       }
     ],
+    "productBrand": "Tightbooth",
     "productTags": []
   },
   {
@@ -512,6 +576,7 @@
         "productVendorUrl": "https://www.tactics.com/yew/introverted-80-skateboard-deck"
       }
     ],
+    "productBrand": "Yew",
     "productTags": []
   },
   {
@@ -527,6 +592,7 @@
         "productVendorUrl": "https://www.tactics.com/real/ishod-bouquet-838-easy-rider-skateboard-deck"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -542,6 +608,7 @@
         "productVendorUrl": "https://www.tactics.com/real/ishod-custom-ssd-25-825-easy-rider-twin-tail-blind-bag/blind-bag"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -557,6 +624,7 @@
         "productVendorUrl": "https://www.tactics.com/real/ishod-dface-825-skateboard-deck"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -577,6 +645,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/real-ishod-wair-by-gonz-oval-party-deck?variant=51392655556881"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -592,6 +661,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-monica-airlines/jack-waterman-110-ltd-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Monica Airlines",
     "productTags": []
   },
   {
@@ -607,6 +677,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/jacopo-black-book-825-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -622,6 +693,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/jacopo-desk-shrapnel-8125-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -637,6 +709,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/jacopo-dimensions-80-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -652,6 +725,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/jacopo-il-pranzo-838-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -667,6 +741,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/jacopo-take-the-cannoli-8125-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -682,6 +757,7 @@
         "productVendorUrl": "https://www.zumiez.com/jacuzzi-big-ol-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Jacuzzi",
     "productTags": []
   },
   {
@@ -697,6 +773,7 @@
         "productVendorUrl": "https://www.zumiez.com/jacuzzi-dilo-gator-bait-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Jacuzzi",
     "productTags": []
   },
   {
@@ -712,6 +789,7 @@
         "productVendorUrl": "https://www.zumiez.com/jacuzzi-dilo-no-fear-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Jacuzzi",
     "productTags": []
   },
   {
@@ -727,6 +805,7 @@
         "productVendorUrl": "https://www.zumiez.com/jacuzzi-flipper-dilo-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Jacuzzi",
     "productTags": []
   },
   {
@@ -742,36 +821,7 @@
         "productVendorUrl": "https://www.zumiez.com/jacuzzi-lawn-fire-pilz-9-125-skateboard-deck.html"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "jacuzzi-pilz-toadadelic-skateboard-deck",
-    "productName": "Jacuzzi Pilz Toadadelic Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462167/zumiezbuild/k0eissauyym0f9hr1oqo.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "74.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/jacuzzi-pilz-toadadelic-9-125-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "jacuzzi-pulizzi-know-when-to-hold-skateboard-deck",
-    "productName": "Jacuzzi Pulizzi Know When To Hold Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461128/zumiezbuild/s0ssvm26dosneyvymjri.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "54.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/jacuzzi-pulizzi-know-when-to-hold-8-375-skateboard-deck.html"
-      }
-    ],
+    "productBrand": "Jacuzzi",
     "productTags": []
   }
 ]

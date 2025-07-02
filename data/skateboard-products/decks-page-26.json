@@ -1,5 +1,126 @@
 [
   {
+    "slug": "real-classic-oval-skateboard-deck",
+    "productName": "Real Classic Oval Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461424/zumiezbuild/vmzbbphulp2ais1gxub0.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "74.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/real-classic-oval-8-5-skateboard-deck.html"
+      },
+      {
+        "tactics": "72.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/real/team-classic-oval-85-skateboard-deck"
+      },
+      {
+        "spot": "70.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/real-classic-oval-deck-86673?variant=48245858730257"
+      }
+    ],
+    "productBrand": "Real Skateboards",
+    "productTags": []
+  },
+  {
+    "slug": "real-dbx-blue-foil-oval-deck",
+    "productName": "Real DBX Blue Foil Oval Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414224/ldjsonbuild/adsvkcjimlpwthougudf.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "120.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/real-dbx-blue-foil-oval-deck?variant=51484199551249"
+      }
+    ],
+    "productBrand": "Real",
+    "productTags": []
+  },
+  {
+    "slug": "real-hayley-cathedral-skateboard-deck",
+    "productName": "Real Hayley Cathedral Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460639/zumiezbuild/hfdv8nusfdpbtdbbpdah.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "78.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/real-hayley-cathedral-8-38-skateboard-deck.html"
+      },
+      {
+        "tactics": "76.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/real/hayley-wilson-clean-cut-838-skateboard-deck"
+      },
+      {
+        "spot": "73.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/real-hayley-wilson-clean-cut-deck?variant=51207851933969"
+      }
+    ],
+    "productBrand": "Real Skateboards",
+    "productTags": []
+  },
+  {
+    "slug": "real-hayley-pro-skateboard-deck",
+    "productName": "Real Hayley Pro Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461012/zumiezbuild/i7upj85kp3xuzqcslppr.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "75.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/real-hayley-pro-8-06-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "Real Skateboards",
+    "productTags": []
+  },
+  {
+    "slug": "real-ishod-burnout-skateboard-deck",
+    "productName": "Real Ishod Burnout Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461075/zumiezbuild/s0qtfk9fbraeeykjtwkw.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "64.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/real-ishod-burnout-8-38-skateboard-deck.html"
+      },
+      {
+        "tactics": "62.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/the-heated-wheel/burnout-925-skateboard-deck"
+      }
+    ],
+    "productBrand": "Real Skateboards",
+    "productTags": []
+  },
+  {
+    "slug": "real-ishod-cathedral-holograph-twin-skateboard-deck",
+    "productName": "Real Ishod Cathedral Holograph Twin Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460621/zumiezbuild/kvg2u0sig4umim5cvqsf.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "75.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/real-ishod-cathedral-holograph-twin-8-25-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "Real Skateboards",
+    "productTags": []
+  },
+  {
     "slug": "real-ishod-illuminated-twin-skateboard-deck",
     "productName": "Real Ishod Illuminated Twin Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460658/zumiezbuild/hyjutxqbimm83ifwa3rt.webp",
@@ -17,6 +138,7 @@
         "productVendorUrl": "https://www.tactics.com/real/ishod-jeweler-80-twin-tail-shape-skateboard-deck/red"
       }
     ],
+    "productBrand": "Real Skateboards",
     "productTags": []
   },
   {
@@ -32,6 +154,7 @@
         "productVendorUrl": "https://www.zumiez.com/real-ishod-mascot-8-06-skateboard-deck.html"
       }
     ],
+    "productBrand": "Real Skateboards",
     "productTags": []
   },
   {
@@ -47,6 +170,7 @@
         "productVendorUrl": "https://www.zumiez.com/real-ishod-revealing-8-06-skateboard-deck.html"
       }
     ],
+    "productBrand": "Real Skateboards",
     "productTags": []
   },
   {
@@ -62,6 +186,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/real-ishod-wair-peace-tie-dye-full-se-deck?variant=51207863238929"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -77,6 +202,7 @@
         "productVendorUrl": "https://www.zumiez.com/real-jack-cathedral-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Real Skateboards",
     "productTags": []
   },
   {
@@ -92,6 +218,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/real-kyle-walker-cherub-ez-rider-deck?variant=51207860453649"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -112,6 +239,7 @@
         "productVendorUrl": "https://www.tactics.com/real/lintell-revealing-828-skateboard-deck"
       }
     ],
+    "productBrand": "Real Skateboards",
     "productTags": []
   },
   {
@@ -127,6 +255,7 @@
         "productVendorUrl": "https://www.zumiez.com/real-mason-cathedral-ii-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Real Skateboards",
     "productTags": []
   },
   {
@@ -142,6 +271,7 @@
         "productVendorUrl": "https://www.zumiez.com/real-nicole-cathedral-rainbow-chromatic-8-38-skateboard-deck.html"
       }
     ],
+    "productBrand": "Real Skateboards",
     "productTags": []
   },
   {
@@ -157,6 +287,7 @@
         "productVendorUrl": "https://www.zumiez.com/real-nicole-kitted-assorted-8-06-skateboard-deck.html"
       }
     ],
+    "productBrand": "Real Skateboards",
     "productTags": []
   },
   {
@@ -172,6 +303,7 @@
         "productVendorUrl": "https://www.zumiez.com/real-nicole-pig-romp-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Real Skateboards",
     "productTags": []
   },
   {
@@ -187,6 +319,7 @@
         "productVendorUrl": "https://www.zumiez.com/real-nicole-time-flies-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Real Skateboards",
     "productTags": []
   },
   {
@@ -202,6 +335,7 @@
         "productVendorUrl": "https://www.zumiez.com/real-nicole-unchained-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Real Skateboards",
     "productTags": []
   },
   {
@@ -222,6 +356,7 @@
         "productVendorUrl": "https://www.tactics.com/real/praman-holographic-cathedral-85-skateboard-deck"
       }
     ],
+    "productBrand": "Real Skateboards",
     "productTags": []
   },
   {
@@ -237,6 +372,7 @@
         "productVendorUrl": "https://www.zumiez.com/real-praman-rampage-8-38-skateboard-deck.html"
       }
     ],
+    "productBrand": "Real Skateboards",
     "productTags": []
   },
   {
@@ -252,6 +388,7 @@
         "productVendorUrl": "https://www.zumiez.com/real-stenne-battle-axe-8-06-skateboard-deck.html"
       }
     ],
+    "productBrand": "Real Skateboards",
     "productTags": []
   },
   {
@@ -267,6 +404,7 @@
         "productVendorUrl": "https://www.zumiez.com/real-stenne-fun-bear-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Real Skateboards",
     "productTags": []
   },
   {
@@ -282,6 +420,7 @@
         "productVendorUrl": "https://www.zumiez.com/real-trolley-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Real Skateboards",
     "productTags": []
   },
   {
@@ -297,6 +436,7 @@
         "productVendorUrl": "https://www.zumiez.com/real-walker-cathedral-8-38-skateboard-deck.html"
       }
     ],
+    "productBrand": "Real Skateboards",
     "productTags": []
   },
   {
@@ -312,6 +452,7 @@
         "productVendorUrl": "https://www.zumiez.com/real-wilkins-holographic-cathedral-rainbow-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Real Skateboards",
     "productTags": []
   },
   {
@@ -327,6 +468,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/real-x-tactics-railway-85-skateboard-deck"
       }
     ],
+    "productBrand": "Tactics",
     "productTags": []
   },
   {
@@ -342,6 +484,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/recurring-dream-skateboard-deck/multi"
       }
     ],
+    "productBrand": "Tactics",
     "productTags": []
   },
   {
@@ -357,6 +500,7 @@
         "productVendorUrl": "https://www.tactics.com/evisen/redevelopment-02-85-skateboard-deck"
       }
     ],
+    "productBrand": "Evisen",
     "productTags": []
   },
   {
@@ -372,6 +516,7 @@
         "productVendorUrl": "https://www.tactics.com/blood-wizard/rennie-conjuring-dogs-8375-skateboard-deck"
       }
     ],
+    "productBrand": "Blood Wizard",
     "productTags": []
   },
   {
@@ -387,6 +532,7 @@
         "productVendorUrl": "https://www.tactics.com/blood-wizard/rennie-outer-realms-85-skateboard-deck"
       }
     ],
+    "productBrand": "Blood Wizard",
     "productTags": []
   },
   {
@@ -402,6 +548,7 @@
         "productVendorUrl": "https://www.tactics.com/black-label/reuter-lone-wolf-85-skateboard-deck"
       }
     ],
+    "productBrand": "Black Label",
     "productTags": []
   },
   {
@@ -417,6 +564,7 @@
         "productVendorUrl": "https://www.tactics.com/black-label/reuter-snake-and-rat-825-skateboard-deck/green"
       }
     ],
+    "productBrand": "Black Label",
     "productTags": []
   },
   {
@@ -432,6 +580,7 @@
         "productVendorUrl": "https://www.zumiez.com/revive-red-lifeline-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Revive Skateboards",
     "productTags": []
   },
   {
@@ -447,6 +596,7 @@
         "productVendorUrl": "https://www.tactics.com/thank-you/reyes-apocalypse-838-skateboard-deck"
       }
     ],
+    "productBrand": "Thank You",
     "productTags": []
   },
   {
@@ -462,6 +612,7 @@
         "productVendorUrl": "https://www.tactics.com/thank-you/reyes-buddy-825-skateboard-deck"
       }
     ],
+    "productBrand": "Thank You",
     "productTags": []
   },
   {
@@ -477,6 +628,7 @@
         "productVendorUrl": "https://www.tactics.com/welcome/reyes-dancer-85-skateboard-deck/black"
       }
     ],
+    "productBrand": "Welcome",
     "productTags": []
   },
   {
@@ -492,6 +644,7 @@
         "productVendorUrl": "https://www.tactics.com/thank-you/reyes-smokin-cowboy-85-skateboard-deck"
       }
     ],
+    "productBrand": "Thank You",
     "productTags": []
   },
   {
@@ -507,6 +660,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/reynolds-freight-hopper-85-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -522,6 +676,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/reynolds-get-lost-825-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -537,6 +692,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/reynolds-here-to-stay-838-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -557,6 +713,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/baker-andrew-reynolds-thrasher-cover-deck?variant=51491594797329"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -572,6 +729,7 @@
         "productVendorUrl": "https://www.tactics.com/quasi-skateboards/ride-90-skateboard-deck/brown"
       }
     ],
+    "productBrand": "Quasi",
     "productTags": []
   },
   {
@@ -587,6 +745,7 @@
         "productVendorUrl": "https://www.zumiez.com/ripndip-afterlife-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "RIPNDIP",
     "productTags": []
   },
   {
@@ -602,6 +761,7 @@
         "productVendorUrl": "https://www.zumiez.com/ripndip-bestie-gang-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "RIPNDIP",
     "productTags": []
   },
   {
@@ -617,6 +777,7 @@
         "productVendorUrl": "https://www.zumiez.com/ripndip-horntail-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "RIPNDIP",
     "productTags": []
   },
   {
@@ -632,6 +793,7 @@
         "productVendorUrl": "https://www.zumiez.com/ripndip-jerm-oasis-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "RIPNDIP",
     "productTags": []
   },
   {
@@ -647,6 +809,7 @@
         "productVendorUrl": "https://www.zumiez.com/ripndip-lord-nermal-foil-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "RIPNDIP",
     "productTags": []
   },
   {
@@ -662,6 +825,7 @@
         "productVendorUrl": "https://www.zumiez.com/ripndip-mystic-jermal-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "RIPNDIP",
     "productTags": []
   },
   {
@@ -677,96 +841,7 @@
         "productVendorUrl": "https://www.zumiez.com/ripndip-rise-n-grind-8-0-skateboard-deck.html"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "ripndip-ryu-skateboard-deck",
-    "productName": "RIPNDIP Ryu Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461479/zumiezbuild/ge2ckjxzlg5qvpeflnss.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "56.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/ripndip-ryu-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "ripndip-scary-cute-skateboard-deck",
-    "productName": "RIPNDIP Scary Cute Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461796/zumiezbuild/cpdmyybyhn9zsoz5zt0h.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "56.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/ripndip-scary-cute-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "ripndip-so-mushroom-skateboard-deck",
-    "productName": "RIPNDIP So Mushroom Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461859/zumiezbuild/qmwkjh0wnlmyap6yqoz6.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "44.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/ripndip-so-mushroom-8-0-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "ripndip-sprinkles-skateboard-deck",
-    "productName": "RIPNDIP Sprinkles Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461724/zumiezbuild/hztot2yardpydqjg4yd0.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "44.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/ripndip-sprinkles-8-0-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "ripndip-venice-skateboard-deck",
-    "productName": "RIPNDIP Venice Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461581/zumiezbuild/zk66ghipfkxztgy5rvll.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "34.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/ripndip-venice-8-0-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "ripndip-we-come-in-peace-skateboard-deck",
-    "productName": "RIPNDIP We Come In Peace Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462095/zumiezbuild/mhyw9c6xyczxx5na4x6o.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "44.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/ripndip-we-come-in-peace-8-5-skateboard-deck.html"
-      }
-    ],
+    "productBrand": "RIPNDIP",
     "productTags": []
   }
 ]

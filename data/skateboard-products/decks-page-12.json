@@ -1,5 +1,42 @@
 [
   {
+    "slug": "foundation-i-m-dead-skateboard-deck",
+    "productName": "Foundation Im Dead Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461908/zumiezbuild/we8wjrm7xlwrszhmvgfq.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "69.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/foundation-im-dead-8-38-skateboard-deck.html"
+      },
+      {
+        "tactics": "68.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/foundation/im-dead-838-skateboard-deck"
+      }
+    ],
+    "productBrand": "Foundation Skateboards",
+    "productTags": []
+  },
+  {
+    "slug": "foundation-lewis-fishing-skateboard-deck",
+    "productName": "Foundation Lewis Fishing Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460937/zumiezbuild/ervtveeqmp4bm7vl1qw3.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "59.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/foundation-lewis-fishing-8-38-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "Foundation Skateboards",
+    "productTags": []
+  },
+  {
     "slug": "foundation-lindloff-more-stuff-skateboard-deck",
     "productName": "Foundation Lindloff More Stuff Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460801/zumiezbuild/vn7arwuvfi0ygtnaifvf.webp",
@@ -12,6 +49,7 @@
         "productVendorUrl": "https://www.zumiez.com/foundation-lindloff-more-stuff-8-38-skateboard-deck.html"
       }
     ],
+    "productBrand": "Foundation Skateboards",
     "productTags": []
   },
   {
@@ -27,6 +65,7 @@
         "productVendorUrl": "https://www.zumiez.com/foundation-mosquito-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Foundation Skateboards",
     "productTags": []
   },
   {
@@ -42,6 +81,7 @@
         "productVendorUrl": "https://www.zumiez.com/foundation-star-and-moon-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Foundation Skateboards",
     "productTags": []
   },
   {
@@ -57,6 +97,7 @@
         "productVendorUrl": "https://www.zumiez.com/foundation-witkin-cult-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Foundation Skateboards",
     "productTags": []
   },
   {
@@ -72,6 +113,7 @@
         "productVendorUrl": "https://www.zumiez.com/foundation-witkin-portal-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Foundation Skateboards",
     "productTags": []
   },
   {
@@ -87,6 +129,7 @@
         "productVendorUrl": "https://www.zumiez.com/foundation-worm-8-75-skateboard-deck.html"
       }
     ],
+    "productBrand": "Foundation Skateboards",
     "productTags": []
   },
   {
@@ -102,6 +145,7 @@
         "productVendorUrl": "https://www.tactics.com/magenta/fox-dojo-825-skateboard-deck"
       }
     ],
+    "productBrand": "Magenta",
     "productTags": []
   },
   {
@@ -117,6 +161,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/foy-ammonia-838-skateboard-deck"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -132,6 +177,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/foy-checkered-85-skateboard-deck"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -147,6 +193,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/foy-commemorative-hammer-85-skateboard-deck/yellow"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -162,6 +209,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/foy-33-degrees-825-skateboard-deck"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -177,6 +225,7 @@
         "productVendorUrl": "https://www.tactics.com/frog/frankie-decker-cat-daddy-818-skateboard-deck"
       }
     ],
+    "productBrand": "Frog",
     "productTags": []
   },
   {
@@ -192,6 +241,7 @@
         "productVendorUrl": "https://www.tactics.com/frog/frankie-decker-comic-book-85-skateboard-deck"
       }
     ],
+    "productBrand": "Frog",
     "productTags": []
   },
   {
@@ -207,6 +257,7 @@
         "productVendorUrl": "https://www.tactics.com/frog/frankie-decker-secret-penguin-842-skateboard-deck"
       }
     ],
+    "productBrand": "Frog",
     "productTags": []
   },
   {
@@ -222,6 +273,7 @@
         "productVendorUrl": "https://www.tactics.com/powell-peralta/frankie-hill-bull-dog-100-reissue-skateboard-deck/brown-stain"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -237,6 +289,7 @@
         "productVendorUrl": "https://www.tactics.com/passport/fretwork-85-skateboard-deck/pillars"
       }
     ],
+    "productBrand": "Passport",
     "productTags": []
   },
   {
@@ -252,6 +305,7 @@
         "productVendorUrl": "https://www.tactics.com/heroin/fried-boy-104-wheel-wells-skateboard-deck/yellow"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -267,6 +321,7 @@
         "productVendorUrl": "https://www.zumiez.com/frog-alba-shark-8-38-skateboard-deck.html"
       }
     ],
+    "productBrand": "Frog Skateboards",
     "productTags": []
   },
   {
@@ -282,6 +337,7 @@
         "productVendorUrl": "https://www.zumiez.com/frog-alba-tech-deck-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Frog Skateboards",
     "productTags": []
   },
   {
@@ -297,6 +353,7 @@
         "productVendorUrl": "https://www.zumiez.com/frog-caterpillar-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Frog Skateboards",
     "productTags": []
   },
   {
@@ -312,6 +369,7 @@
         "productVendorUrl": "https://www.zumiez.com/frog-dear-george-2-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Frog Skateboards",
     "productTags": []
   },
   {
@@ -327,6 +385,7 @@
         "productVendorUrl": "https://www.zumiez.com/frog-decker-cat-daddy-8-18-skateboard-deck.html"
       }
     ],
+    "productBrand": "Frog Skateboards",
     "productTags": []
   },
   {
@@ -347,6 +406,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/frog-skateboards-frankie-decker-comic-book-deck?variant=51244612714769"
       }
     ],
+    "productBrand": "Frog Skateboards",
     "productTags": []
   },
   {
@@ -362,6 +422,7 @@
         "productVendorUrl": "https://www.zumiez.com/frog-decker-no-frog-zone-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Frog Skateboards",
     "productTags": []
   },
   {
@@ -377,6 +438,7 @@
         "productVendorUrl": "https://www.zumiez.com/frog-gallaher-red-cat-8-18-skateboard-deck.html"
       }
     ],
+    "productBrand": "Frog Skateboards",
     "productTags": []
   },
   {
@@ -392,6 +454,7 @@
         "productVendorUrl": "https://www.zumiez.com/frog-henry-mosaic-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Frog Skateboards",
     "productTags": []
   },
   {
@@ -407,6 +470,7 @@
         "productVendorUrl": "https://www.zumiez.com/frog-memories-1000-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Frog Skateboards",
     "productTags": []
   },
   {
@@ -422,6 +486,7 @@
         "productVendorUrl": "https://www.zumiez.com/frog-michel-claw-machine-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Frog Skateboards",
     "productTags": []
   },
   {
@@ -437,6 +502,7 @@
         "productVendorUrl": "https://www.zumiez.com/frog-michel-kitchen-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Frog Skateboards",
     "productTags": []
   },
   {
@@ -452,6 +518,7 @@
         "productVendorUrl": "https://www.tactics.com/frog/frog-nation-825-skateboard-deck"
       }
     ],
+    "productBrand": "Frog",
     "productTags": []
   },
   {
@@ -467,6 +534,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Frog_Pat_G_Bird_Girl_Deck/descpage-FGBG82DK.html"
       }
     ],
+    "productBrand": "Frog",
     "productTags": []
   },
   {
@@ -482,6 +550,7 @@
         "productVendorUrl": "https://www.zumiez.com/frog-pat-g-technique-8-18-skateboard-deck.html"
       }
     ],
+    "productBrand": "Frog Skateboards",
     "productTags": []
   },
   {
@@ -497,6 +566,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/frog-skateboards-chris-milic-vector-world-deck?variant=51244624183569"
       }
     ],
+    "productBrand": "Frog Skateboards",
     "productTags": []
   },
   {
@@ -512,6 +582,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/frog-skateboards-dustin-henry-auntie-deck?variant=51244603834641"
       }
     ],
+    "productBrand": "Frog Skateboards",
     "productTags": []
   },
   {
@@ -527,6 +598,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/frog-skateboards-nick-michel-bug-finder-deck?variant=51244610421009"
       }
     ],
+    "productBrand": "Frog Skateboards",
     "productTags": []
   },
   {
@@ -542,6 +614,7 @@
         "productVendorUrl": "https://www.tactics.com/roger-skateboards/fruits-8125-skateboard-deck/red"
       }
     ],
+    "productBrand": "Roger Skateboards",
     "productTags": []
   },
   {
@@ -557,6 +630,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/fucking-awesome-elijah-berle-kick-in-the-face-deck?variant=51071756108049"
       }
     ],
+    "productBrand": "Fucking Awesome",
     "productTags": []
   },
   {
@@ -572,6 +646,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/fucking-awesome-gonz-class-photo-deck?variant=51453308141841"
       }
     ],
+    "productBrand": "Fucking Awesome",
     "productTags": []
   },
   {
@@ -587,6 +662,7 @@
         "productVendorUrl": "https://www.tactics.com/welcome/full-moon-85-skateboard-deck/purple-stain"
       }
     ],
+    "productBrand": "Welcome",
     "productTags": []
   },
   {
@@ -602,6 +678,7 @@
         "productVendorUrl": "https://www.tactics.com/welcome/full-moon-88-sphynx-shape-skateboard-deck/purple-stain"
       }
     ],
+    "productBrand": "Welcome",
     "productTags": []
   },
   {
@@ -622,6 +699,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-fred-gall-odin-deck?variant=51397906727185"
       }
     ],
+    "productBrand": "Metal",
     "productTags": []
   },
   {
@@ -637,6 +715,7 @@
         "productVendorUrl": "https://www.tactics.com/girl/geering-red-85-skateboard-deck"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -652,6 +731,7 @@
         "productVendorUrl": "https://www.tactics.com/girl/geering-serif-80-skateboard-deck"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -667,6 +747,7 @@
         "productVendorUrl": "https://www.tactics.com/toy-machine/geoff-rowley-fence-series-85-skateboard-deck"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -682,6 +763,7 @@
         "productVendorUrl": "https://www.tactics.com/toy-machine/geoff-rowley-fist-85-skateboard-deck/red-fist-purple"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -697,6 +779,7 @@
         "productVendorUrl": "https://www.tactics.com/toy-machine/geoff-rowley-heavy-metal-875-skateboard-deck"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -712,6 +795,7 @@
         "productVendorUrl": "https://www.tactics.com/toy-machine/georgia-martin-fence-series-838-skateboard-deck"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -727,41 +811,7 @@
         "productVendorUrl": "https://www.tactics.com/toy-machine/georgia-martin-horror-show-80-skateboard-deck"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "get-off-the-internet-skateboard-deck",
-    "productName": "Get Off The Internet Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401039/ldjsonbuild/zvrsenjmn1ykyqcemdmc.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "68.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/get-off-the-internet-80-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "ghost-ride-skateboard-deck",
-    "productName": "Ghost Ride Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395517/ldjsonbuild/vztuv0yntbini6qlqgn6.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "59.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/doom-sayers-club/ghost-ride-86-skateboard-deck"
-      },
-      {
-        "spot": "64.00",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/doom-sayers-ghost-ride-deck?variant=51283744686353"
-      }
-    ],
+    "productBrand": "Toy Machine",
     "productTags": []
   }
 ]

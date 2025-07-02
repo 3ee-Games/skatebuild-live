@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "zero-zero-x-misfits-collage-deck",
+    "productName": "Zero Zero x Misfits Collage Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414819/ldjsonbuild/v8vkgcop0ioghkdcpn80.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "75.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/zero-zero-x-misfits-collage-deck?variant=51267777200401"
+      }
+    ],
+    "productBrand": "Zero",
+    "productTags": []
+  },
+  {
+    "slug": "zion-d-face-skateboard-deck",
+    "productName": "Zion D*Face Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401485/ldjsonbuild/ue7i8dm04tiucuegvhyq.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "76.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/real/zion-dface-85-skateboard-deck"
+      }
+    ],
+    "productBrand": "Real",
+    "productTags": []
+  }
+]

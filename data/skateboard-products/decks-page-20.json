@@ -1,5 +1,53 @@
 [
   {
+    "slug": "magenta-ben-gore-relic-series-deck",
+    "productName": "Magenta Ben Gore Relic Series Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414834/ldjsonbuild/w4d0tmj6mzdxlwtiqufm.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "80.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/magenta-ben-gore-relic-series-deck?variant=51244702597393"
+      }
+    ],
+    "productBrand": "Magenta",
+    "productTags": []
+  },
+  {
+    "slug": "magenta-jameel-douglas-relic-series-deck",
+    "productName": "Magenta Jameel Douglas Relic Series Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414829/ldjsonbuild/ulidslndmxqtpbdadjow.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "80.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/magenta-jameel-douglas-relic-series-deck?variant=51244705677585"
+      }
+    ],
+    "productBrand": "Magenta",
+    "productTags": []
+  },
+  {
+    "slug": "magenta-leo-valls-relic-series-deck",
+    "productName": "Magenta Leo Valls Relic Series Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414840/ldjsonbuild/xmx1ofbrarnpazygaijd.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "80.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/magenta-leo-valls-relic-series-deck?variant=51244695191825"
+      }
+    ],
+    "productBrand": "Magenta",
+    "productTags": []
+  },
+  {
     "slug": "magnetic-skateboard-deck",
     "productName": "Magnetic Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396072/ldjsonbuild/twjl8uunvxls8sb40hei.webp",
@@ -12,6 +60,7 @@
         "productVendorUrl": "https://www.tactics.com/gx1000/magnetic-875-skateboard-deck"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -27,6 +76,7 @@
         "productVendorUrl": "https://www.tactics.com/flip/majerus-buddies-84-skateboard-deck"
       }
     ],
+    "productBrand": "Flip",
     "productTags": []
   },
   {
@@ -42,6 +92,7 @@
         "productVendorUrl": "https://www.tactics.com/flip/majerus-optical-84-skateboard-deck"
       }
     ],
+    "productBrand": "Flip",
     "productTags": []
   },
   {
@@ -57,6 +108,7 @@
         "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/malaney-mount-katahdin-825-skateboard-deck"
       }
     ],
+    "productBrand": "Theories",
     "productTags": []
   },
   {
@@ -72,6 +124,7 @@
         "productVendorUrl": "https://www.zumiez.com/mall-grab-rainbow-logo-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Mall Grab",
     "productTags": []
   },
   {
@@ -87,6 +140,7 @@
         "productVendorUrl": "https://www.tactics.com/girl/malto-93-til-85-skateboard-deck/lovers"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -102,6 +156,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/manderson-just-caus-838-skateboard-deck"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -117,6 +172,7 @@
         "productVendorUrl": "https://www.tactics.com/there/marbie-angel-85-easy-rider-skateboard-deck"
       }
     ],
+    "productBrand": "There",
     "productTags": []
   },
   {
@@ -132,6 +188,7 @@
         "productVendorUrl": "https://www.tactics.com/there/marbie-goopy-85-skateboard-deck"
       }
     ],
+    "productBrand": "There",
     "productTags": []
   },
   {
@@ -147,6 +204,7 @@
         "productVendorUrl": "https://www.tactics.com/april/mariano-cheetah-80-skateboard-deck"
       }
     ],
+    "productBrand": "April",
     "productTags": []
   },
   {
@@ -162,6 +220,7 @@
         "productVendorUrl": "https://www.tactics.com/april/mariano-1990-85-skateboard-deck"
       }
     ],
+    "productBrand": "April",
     "productTags": []
   },
   {
@@ -182,6 +241,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/april-skateboards-guy-mariano-the-dogs-deck?variant=50557089218833"
       }
     ],
+    "productBrand": "April",
     "productTags": []
   },
   {
@@ -197,6 +257,7 @@
         "productVendorUrl": "https://www.tactics.com/roger-skateboards/marshall-friends-825-skateboard-deck"
       }
     ],
+    "productBrand": "Roger Skateboards",
     "productTags": []
   },
   {
@@ -212,6 +273,7 @@
         "productVendorUrl": "https://www.tactics.com/creature/martinez-guero-86-skateboard-deck"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -227,6 +289,7 @@
         "productVendorUrl": "https://www.tactics.com/real/mason-by-marbie-85-skateboard-deck"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -242,6 +305,7 @@
         "productVendorUrl": "https://www.tactics.com/real/mason-gonz-art-redux-85-skateboard-deck"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -257,6 +321,7 @@
         "productVendorUrl": "https://www.tactics.com/real/mason-script-colorblock-85-skateboard-deck"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -277,6 +342,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/real-mason-silva-on-the-rocks-deck?variant=51207859667217"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -292,6 +358,7 @@
         "productVendorUrl": "https://www.tactics.com/evisen/match-2-85-skateboard-deck"
       }
     ],
+    "productBrand": "Evisen",
     "productTags": []
   },
   {
@@ -307,6 +374,7 @@
         "productVendorUrl": "https://www.tactics.com/black-label/matt-hensley-smoking-section-85-skateboard-deck/brown"
       }
     ],
+    "productBrand": "Black Label",
     "productTags": []
   },
   {
@@ -322,6 +390,7 @@
         "productVendorUrl": "https://www.tactics.com/heritage/matt-reason-sub-zero-85-skateboard-deck/white"
       }
     ],
+    "productBrand": "Heritage",
     "productTags": []
   },
   {
@@ -342,6 +411,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/limosine-max-palmer-temptress-deck?variant=50996973076753"
       }
     ],
+    "productBrand": "Limosine",
     "productTags": []
   },
   {
@@ -362,6 +432,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/dgk-will-mazzari-cant-stop-deck?variant=51297470316817"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -377,6 +448,7 @@
         "productVendorUrl": "https://www.tactics.com/dgk/mazzari-sorcery-838-skateboard-deck"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -392,6 +464,7 @@
         "productVendorUrl": "https://www.tactics.com/dgk/mcbride-thrasher-cover-825-skateboard-deck/black"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -407,6 +480,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/mccoy-donuts-82-twin-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -422,6 +496,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/mccoy-elite-eagle-80-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -437,6 +512,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/mccoy-space-chick-825-vx-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -452,6 +528,7 @@
         "productVendorUrl": "https://www.tactics.com/girl/mccrank-dual-directional-80-twin-tip-shape-skateboard-deck/black-white"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -467,6 +544,7 @@
         "productVendorUrl": "https://www.tactics.com/5boro/mcdonald-5ball-825-skateboard-deck/blue"
       }
     ],
+    "productBrand": "5boro",
     "productTags": []
   },
   {
@@ -482,6 +560,7 @@
         "productVendorUrl": "https://www.tactics.com/powell-peralta/mcgill-skull-snake-897-flight-k21-shape-skateboard-deck/green-white"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -497,6 +576,7 @@
         "productVendorUrl": "https://www.tactics.com/powell-peralta/mcgill-skull-snake-100-mctwist-40th-anniversary-skateboard-deck/gold-foil-red"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -512,6 +592,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/meek-scratched-slasher-80-7-ply-birch-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -527,6 +608,7 @@
         "productVendorUrl": "https://www.tactics.com/hopps-skateboards/meinholz-forward-movement-825-skateboard-deck"
       }
     ],
+    "productBrand": "Hopps",
     "productTags": []
   },
   {
@@ -542,6 +624,7 @@
         "productVendorUrl": "https://www.tactics.com/frog/memories1000-825-skateboard-deck"
       }
     ],
+    "productBrand": "Frog",
     "productTags": []
   },
   {
@@ -562,6 +645,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/theotis-big-cats-825-skateboard-deck"
       }
     ],
+    "productBrand": "Meow Skateboards",
     "productTags": []
   },
   {
@@ -577,6 +661,7 @@
         "productVendorUrl": "https://www.zumiez.com/meow-teal-logo-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Meow Skateboards",
     "productTags": []
   },
   {
@@ -592,6 +677,7 @@
         "productVendorUrl": "https://www.zumiez.com/metal-gall-willard-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Metal Skateboards",
     "productTags": []
   },
   {
@@ -612,6 +698,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-medusa-proto-team-shaped-deck?variant=51085852246289"
       }
     ],
+    "productBrand": "Metal Skateboards",
     "productTags": []
   },
   {
@@ -627,6 +714,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-ben-raybourn-steer-shaped-deck?variant=51397906235665"
       }
     ],
+    "productBrand": "Metal Skateboards",
     "productTags": []
   },
   {
@@ -642,6 +730,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-gorgo-team-deck?variant=51085849723153"
       }
     ],
+    "productBrand": "Metal Skateboards",
     "productTags": []
   },
   {
@@ -657,6 +746,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-heaven-and-hell-deck?variant=50297578979601"
       }
     ],
+    "productBrand": "Metal Skateboards",
     "productTags": []
   },
   {
@@ -672,6 +762,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/metal-skateboards-joel-meinholz-blackbeard-deck-95385?variant=48247015211281"
       }
     ],
+    "productBrand": "Metal Skateboards",
     "productTags": []
   },
   {
@@ -687,6 +778,7 @@
         "productVendorUrl": "https://www.tactics.com/wknd-skateboards/meurle-simply-8125-skateboard-deck"
       }
     ],
+    "productBrand": "WKND",
     "productTags": []
   },
   {
@@ -702,6 +794,7 @@
         "productVendorUrl": "https://www.tactics.com/wknd-skateboards/meurle-smirley-825-skateboard-deck"
       }
     ],
+    "productBrand": "WKND",
     "productTags": []
   },
   {
@@ -717,6 +810,7 @@
         "productVendorUrl": "https://www.tactics.com/edglrd/mike-arnold-flexerx-85-skateboard-deck"
       }
     ],
+    "productBrand": "EDGLRD",
     "productTags": []
   },
   {
@@ -732,51 +826,7 @@
         "productVendorUrl": "https://www.tactics.com/powell-peralta/mike-vallely-bug-100-reissue-skateboard-deck/white"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "mikey-pro-skateboard-deck",
-    "productName": "Mikey Pro Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395342/ldjsonbuild/fsnkntlgp19ezfiooegf.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "61.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/transportation-unit-skateboards/mikey-pro-825-skateboard-deck/pink"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "milic-tree-trunk-skateboard-deck",
-    "productName": "Milic Tree Trunk Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397183/ldjsonbuild/ehs7yrv6p4r9yn40saum.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "71.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/frog/milic-tree-trunk-838-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "mini-logo-chevron-white-skateboard-deck",
-    "productName": "Mini Logo Chevron White Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461418/zumiezbuild/to38olfmwdxo9hc1tlt2.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "45.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/mini-logo-white-chevron-8-25-quot-skateboard-deck.html"
-      }
-    ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   }
 ]

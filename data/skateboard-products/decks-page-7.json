@@ -1,5 +1,21 @@
 [
   {
+    "slug": "corpo-guy-skateboard-deck",
+    "productName": "Corpo Guy Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395911/ldjsonbuild/hi5rqztntziwe4ps90xx.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "61.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/doom-sayers-club/corpo-guy-838-skateboard-deck/teal"
+      }
+    ],
+    "productBrand": "Doom Sayers Club",
+    "productTags": []
+  },
+  {
     "slug": "corporate-angel-investor-skateboard-deck",
     "productName": "Corporate Angel Investor Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461947/zumiezbuild/kepcfsfkyp1tqfeqlrww.webp",
@@ -12,6 +28,7 @@
         "productVendorUrl": "https://www.zumiez.com/corporate-angel-investor-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Corporate",
     "productTags": []
   },
   {
@@ -27,6 +44,7 @@
         "productVendorUrl": "https://www.zumiez.com/corporate-burning-man-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Corporate",
     "productTags": []
   },
   {
@@ -42,6 +60,7 @@
         "productVendorUrl": "https://www.zumiez.com/corporate-strong-man-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Corporate",
     "productTags": []
   },
   {
@@ -57,6 +76,7 @@
         "productVendorUrl": "https://www.zumiez.com/corporate-world-ruler-8-3-skateboard-deck.html"
       }
     ],
+    "productBrand": "Corporate",
     "productTags": []
   },
   {
@@ -72,6 +92,7 @@
         "productVendorUrl": "https://www.tactics.com/yew/cowboy-875-skateboard-deck"
       }
     ],
+    "productBrand": "Yew",
     "productTags": []
   },
   {
@@ -87,6 +108,7 @@
         "productVendorUrl": "https://www.tactics.com/yew/cowgirl-875-skateboard-deck"
       }
     ],
+    "productBrand": "Yew",
     "productTags": []
   },
   {
@@ -102,6 +124,7 @@
         "productVendorUrl": "https://www.zumiez.com/creature-baekkel-doomsday-8-375-skateboard-deck.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -122,6 +145,7 @@
         "productVendorUrl": "https://www.tactics.com/creature/baekkel-metal-xx-851-skateboard-deck"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -137,6 +161,7 @@
         "productVendorUrl": "https://www.zumiez.com/creature-baekkel-two-moons-too-8-6-skateboard-deck.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -157,6 +182,7 @@
         "productVendorUrl": "https://www.tactics.com/creature/baekkel-wasteland-86-skateboard-deck"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -172,6 +198,7 @@
         "productVendorUrl": "https://www.zumiez.com/creature-catacomb-relic-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -192,6 +219,7 @@
         "productVendorUrl": "https://www.tactics.com/creature/fiend-twin-bat-82-7-ply-birch-skateboard-deck"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -207,6 +235,7 @@
         "productVendorUrl": "https://www.zumiez.com/creature-gravette-truce-8-3-skateboard-deck.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -222,6 +251,7 @@
         "productVendorUrl": "https://www.zumiez.com/creature-hitz-larb-machine-8-9-skateboard-deck.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -237,6 +267,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Creature_Hot_Rod_Reaper_XX_Deck/descpage-CEHRRK.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -252,6 +283,7 @@
         "productVendorUrl": "https://www.zumiez.com/creature-igniter-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -267,6 +299,7 @@
         "productVendorUrl": "https://www.zumiez.com/creature-kimbel-fiend-flash-vx-9-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -282,6 +315,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Creature_Kimbel_Manor_VX_Deck/descpage-CEKMVDK.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -297,6 +331,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Creature_Kimbel_Origins_Part_Deux_Deck/descpage-CEKP2DK.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -312,6 +347,7 @@
         "productVendorUrl": "https://www.zumiez.com/creature-larry-8-75-skateboard-deck.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -327,6 +363,7 @@
         "productVendorUrl": "https://www.zumiez.com/creature-lockwood-xploration-vx-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -347,6 +384,7 @@
         "productVendorUrl": "https://www.tactics.com/creature/logo-outline-stumps-88-skateboard-deck"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -362,6 +400,7 @@
         "productVendorUrl": "https://www.zumiez.com/creature-martinez-pharmacy-8-6-skateboard-deck.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -377,6 +416,7 @@
         "productVendorUrl": "https://www.zumiez.com/creature-martinez-shrine-8-7-skateboard-deck.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -397,6 +437,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-collin-provost-manor-vx-deck?variant=50280289730833"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -417,6 +458,7 @@
         "productVendorUrl": "https://www.tactics.com/creature/lockwood-crest-825-skateboard-deck"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -432,6 +474,7 @@
         "productVendorUrl": "https://www.zumiez.com/creature-russel-reaper-vx-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -447,6 +490,7 @@
         "productVendorUrl": "https://www.zumiez.com/creature-8-6-russell-beastial-skateboard-deck.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -462,6 +506,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-cody-lockwood-memento-vx-everslick-deck?variant=50590123360529"
       }
     ],
+    "productBrand": "Creature Skateboards",
     "productTags": []
   },
   {
@@ -477,6 +522,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-forever-undead-deck?variant=50577805967633"
       }
     ],
+    "productBrand": "Creature Skateboards",
     "productTags": []
   },
   {
@@ -492,6 +538,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-kevin-baekkel-demon-pro-deck?variant=51434089251089"
       }
     ],
+    "productBrand": "Creature Skateboards",
     "productTags": []
   },
   {
@@ -507,6 +554,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Creature_The_Heshcutioner_Deck/descpage-CETHDK.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -522,6 +570,7 @@
         "productVendorUrl": "https://www.zumiez.com/creature-worthington-alter-8-6-skateboard-deck.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -537,6 +586,7 @@
         "productVendorUrl": "https://www.zumiez.com/creature-worthington-bandits-8-8-skateboard-deck.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -552,6 +602,7 @@
         "productVendorUrl": "https://www.zumiez.com/creature-worthington-skullburn-8-6-skateboard-deck.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -567,6 +618,7 @@
         "productVendorUrl": "https://www.zumiez.com/creature-x-sketchy-tank-provost-trippy-tanks-vx-8-8-skateboard-deck.html"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -582,6 +634,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/crescent-bone-hand-825-7-ply-birch-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -597,6 +650,7 @@
         "productVendorUrl": "https://www.tactics.com/quasi-skateboards/crockett-bio-825-skateboard-deck"
       }
     ],
+    "productBrand": "Quasi",
     "productTags": []
   },
   {
@@ -612,6 +666,7 @@
         "productVendorUrl": "https://www.tactics.com/quasi-skateboards/crockett-the-puker-825-skateboard-deck"
       }
     ],
+    "productBrand": "Quasi",
     "productTags": []
   },
   {
@@ -627,6 +682,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/cromer-cute-cate-806-skateboard-deck"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -642,6 +698,7 @@
         "productVendorUrl": "https://www.tactics.com/umaverse/cross-eyed-825-skateboard-deck"
       }
     ],
+    "productBrand": "Umaverse",
     "productTags": []
   },
   {
@@ -657,6 +714,7 @@
         "productVendorUrl": "https://www.tactics.com/creature/cyborg-85-skateboard-deck"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -672,6 +730,7 @@
         "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/cydonia-825-skateboard-deck"
       }
     ],
+    "productBrand": "Theories",
     "productTags": []
   },
   {
@@ -692,6 +751,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/limosine-cyrus-bennett-morph-deck?variant=50996808352017"
       }
     ],
+    "productBrand": "Limosine",
     "productTags": []
   },
   {
@@ -707,6 +767,7 @@
         "productVendorUrl": "https://www.tactics.com/anti-hero/daan-absentes-838-skateboard-deck"
       }
     ],
+    "productBrand": "Anti-Hero",
     "productTags": []
   },
   {
@@ -722,6 +783,7 @@
         "productVendorUrl": "https://www.tactics.com/thank-you/daewon-3-monsters-825-skateboard-deck"
       }
     ],
+    "productBrand": "Thank You",
     "productTags": []
   },
   {
@@ -737,6 +799,7 @@
         "productVendorUrl": "https://www.tactics.com/transportation-unit-skateboards/damion-85-skateboard-deck/red"
       }
     ],
+    "productBrand": "Transportation Unit",
     "productTags": []
   },
   {
@@ -752,6 +815,7 @@
         "productVendorUrl": "https://www.tactics.com/april/dashawn-aim-825-skateboard-deck"
       }
     ],
+    "productBrand": "April",
     "productTags": []
   },
   {
@@ -767,21 +831,7 @@
         "productVendorUrl": "https://www.tactics.com/april/dashawn-character-825-skateboard-deck"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "david-strenstrom-tape-panther-d1-wheel-wells-shape",
-    "productName": "David Strenström Tape & Panther D1 Wheel Wells Shape",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400815/ldjsonbuild/qwwxmkozidqo29cnzsoo.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "76.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/polar-skate-co/david-strenstrm-tape-panther-925-d1-wheel-wells-shape"
-      }
-    ],
+    "productBrand": "April",
     "productTags": []
   }
 ]

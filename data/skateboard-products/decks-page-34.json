@@ -1,5 +1,106 @@
 [
   {
+    "slug": "welcome-nora-purr-pile-skateboard-deck",
+    "productName": "Welcome Nora Purr Pile Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461360/zumiezbuild/htwyf9z4jrfg8lgqefko.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "59.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/8-25-nora-pur-pile-welcome-ska.html"
+      }
+    ],
+    "productBrand": "Welcome Skateboards",
+    "productTags": []
+  },
+  {
+    "slug": "welcome-nora-special-effects-skateboard-deck",
+    "productName": "Welcome Nora Special Effects Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460969/zumiezbuild/yetq7dtc0itou7gtk7fh.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "49.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/welcome-nora-special-effects-8-25-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "Welcome Skateboards",
+    "productTags": []
+  },
+  {
+    "slug": "welcome-rapture-on-a-dark-lord-skateboard-deck",
+    "productName": "Welcome Rapture On A Dark Lord Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462138/zumiezbuild/xt6iimcyt4rpsifeeow7.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "79.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/welcome-rapture-on-a-dark-lord-9-85-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "Welcome Skateboards",
+    "productTags": []
+  },
+  {
+    "slug": "welcome-reyes-paladin-skateboard-deck",
+    "productName": "Welcome Reyes Paladin Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460855/zumiezbuild/w9kdnoizy5px9trnnidg.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "74.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/welcome-reyes-paladin-8-5-skateboard-deck.html"
+      },
+      {
+        "tactics": "65.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/welcome/reyes-paladin-85-skateboard-deck/purple-gold-foil"
+      }
+    ],
+    "productBrand": "Welcome Skateboards",
+    "productTags": []
+  },
+  {
+    "slug": "welcome-saint-skateboard-deck",
+    "productName": "Welcome Saint Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461437/zumiezbuild/szhcimdmplywjyuj1vtz.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "74.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/welcome-saint-8-5-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "Welcome Skateboards",
+    "productTags": []
+  },
+  {
+    "slug": "welcome-skateboards-hedo-rick-on-gaia-deck",
+    "productName": "Welcome Hedo Rick on Gaia Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415668/ldjsonbuild/bbuex3zeprkzo7swvkza.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "79.95",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/welcome-skateboards-hedo-rick-on-gaia-deck?variant=50552970117393"
+      }
+    ],
+    "productBrand": "Welcome Skateboards",
+    "productTags": []
+  },
+  {
     "slug": "welcome-skateboards-infinitely-batty-on-totem-deck",
     "productName": "Welcome Infinitely Batty on Totem Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415663/ldjsonbuild/zaft57n5n62axxkrfhjj.webp",
@@ -12,6 +113,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/welcome-skateboards-infinitely-batty-on-totem-2-0-deck?variant=50552973656337"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -27,6 +129,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/welcome-skateboards-nora-vasconcellos-full-moon-deck?variant=50552966447377"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -47,6 +150,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/welcome-skateboards-sloth-deck?variant=50552983781649"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -62,6 +166,7 @@
         "productVendorUrl": "https://www.tactics.com/toy-machine/welcome-to-hell-vice-813-skateboard-deck/blue"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -77,6 +182,7 @@
         "productVendorUrl": "https://www.tactics.com/black-label/welcome-to-1988-825-skateboard-deck/green"
       }
     ],
+    "productBrand": "Black Label",
     "productTags": []
   },
   {
@@ -97,6 +203,7 @@
         "productVendorUrl": "https://www.tactics.com/welcome/townley-contemplation-85-enenra-shape-skateboard-deck/black-gold-foil"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -117,6 +224,7 @@
         "productVendorUrl": "https://www.tactics.com/welcome/townley-venus-825-skateboard-deck/light-teal"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -132,6 +240,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-unchained-on-evil-twin-8-75-skateboard-deck.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -147,6 +256,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-x-afi-sing-the-sorrow-on-golem-9-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -162,6 +272,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-x-avenged-sevenfold-death-bat-on-magic-bullet-10-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -177,6 +288,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-x-avenged-sevenfold-life-is-but-a-dream-9-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -197,6 +309,7 @@
         "productVendorUrl": "https://www.tactics.com/welcome/batman-heart-of-hush-85-skateboard-deck"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -212,6 +325,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-x-bauhaus-bela-on-gia-9-6-skateboard-deck.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -232,6 +346,7 @@
         "productVendorUrl": "https://www.tactics.com/welcome/bauhaus-mask-100-early-grab-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -247,6 +362,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Welcome_x_Bauhaus_Portrait_on_Dark_Lord_Deck/descpage-WCBHDLDK.html"
       }
     ],
+    "productBrand": "Welcome",
     "productTags": []
   },
   {
@@ -267,6 +383,7 @@
         "productVendorUrl": "https://www.tactics.com/welcome/bauhaus-portrait-975-dark-lord-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -292,6 +409,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/welcome-skateboards-beetlejuice-showtime-deck?variant=50298752401681"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -307,6 +425,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-x-beetlejuice-sandworm-10-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -327,6 +446,7 @@
         "productVendorUrl": "https://www.tactics.com/welcome/britney-spears-believe-825-skateboard-deck/pearl-fade"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -342,6 +462,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-x-my-chemical-romance-bullets-on-antheme-8-8-skateboard-deck.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -357,6 +478,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-x-nine-inch-nails-pig-9-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -372,6 +494,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-yanko-swamp-fight-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -387,6 +510,7 @@
         "productVendorUrl": "https://www.tactics.com/passport/what-u-think-u-saw-825-skateboard-deck/suds"
       }
     ],
+    "productBrand": "Passport",
     "productTags": []
   },
   {
@@ -402,6 +526,7 @@
         "productVendorUrl": "https://www.zumiez.com/5boro-white-flower-8-5-skateboard-deck-1.html"
       }
     ],
+    "productBrand": "5Boro Skateboards",
     "productTags": []
   },
   {
@@ -417,6 +542,7 @@
         "productVendorUrl": "https://www.tactics.com/hopps-skateboards/wild-hopps-80-skateboard-deck"
       }
     ],
+    "productBrand": "Hopps",
     "productTags": []
   },
   {
@@ -437,6 +563,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/real-jimmy-wilkins-key-of-life-deck?variant=51392658080017"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -452,6 +579,7 @@
         "productVendorUrl": "https://www.tactics.com/real/wilkins-sun-lizard-85-wheel-wells-skateboard-deck"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -467,6 +595,7 @@
         "productVendorUrl": "https://www.tactics.com/toy-machine/willard-city-838-skateboard-deck"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -482,6 +611,7 @@
         "productVendorUrl": "https://www.tactics.com/toy-machine/willard-horror-show-838-skateboard-deck"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -502,6 +632,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/hopps-jahmal-williams-day-dreamer-deck?variant=51453373415697"
       }
     ],
+    "productBrand": "Hopps",
     "productTags": []
   },
   {
@@ -517,6 +648,7 @@
         "productVendorUrl": "https://www.tactics.com/sk8mafia/willms-piled-83-skateboard-deck"
       }
     ],
+    "productBrand": "SK8MAFIA",
     "productTags": []
   },
   {
@@ -532,6 +664,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/wilson-bird-keeper-825-skateboard-deck"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -552,6 +685,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/heroin-skateboards-aaron-wilson-hellscape-deck?variant=50718141841681"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -567,6 +701,7 @@
         "productVendorUrl": "https://www.tactics.com/heroin/wilson-teggxas-888-skateboard-deck"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -582,6 +717,7 @@
         "productVendorUrl": "https://www.tactics.com/quasi-skateboards/wilson-the-sitter-85-skateboard-deck"
       }
     ],
+    "productBrand": "Quasi",
     "productTags": []
   },
   {
@@ -602,6 +738,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-andrew-wilson-turn-out-deck?variant=51207880081681"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -617,6 +754,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/wimer-han-shinko-825-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -632,6 +770,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/wimer-heron-825-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -647,6 +786,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/winkowski-8ballr-day-dream-1035-wheel-wells-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -662,6 +802,7 @@
         "productVendorUrl": "https://www.zumiez.com/wknd-mr-zaza-burzinski-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "WKND Skateboards",
     "productTags": []
   },
   {
@@ -677,6 +818,7 @@
         "productVendorUrl": "https://www.zumiez.com/wknd-burzinski-say-when-8-375-skateboard-deck.html"
       }
     ],
+    "productBrand": "WKND Skateboards",
     "productTags": []
   },
   {
@@ -697,6 +839,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/wknd-skateboards-andrew-considine-third-eye-deck?variant=51347648741649"
       }
     ],
+    "productBrand": "WKND Skateboards",
     "productTags": []
   },
   {
@@ -712,6 +855,7 @@
         "productVendorUrl": "https://www.zumiez.com/wknd-karsten-family-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "WKND Skateboards",
     "productTags": []
   },
   {
@@ -727,96 +871,7 @@
         "productVendorUrl": "https://www.zumiez.com/wknd-karsten-icy-hot-8-5-skateboard-deck.html"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "wknd-karsten-thy-kingdom-come-skateboard-deck",
-    "productName": "WKND Karsten Thy Kingdom Come Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461178/zumiezbuild/gbxc19qjbn2hjrt9ru8c.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "39.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/wknd-karsten-thy-kingdom-come-8-25-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "wknd-look-out-skateboard-deck",
-    "productName": "WKND Look Out Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461966/zumiezbuild/xzsfqq3l09anztdyhvzt.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "71.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/wknd-look-out-8-0-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "wknd-louie-skateboard-deck",
-    "productName": "WKND Louie Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462066/zumiezbuild/jggaqd7e3fubunkdomch.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "71.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/wknd-louie-8-25-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "wknd-maalouf-buggy-alert-skateboard-deck",
-    "productName": "WKND Maalouf Buggy Alert Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461182/zumiezbuild/pvpefa4cda1uvl7zxcdy.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "39.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/wknd-maalouf-buggy-alert-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "wknd-maalouf-fire-in-the-pipe-skateboard-deck",
-    "productName": "WKND Maalouf Fire In The Pipe Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461287/zumiezbuild/betymtnjrlj83stqjlac.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "71.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/wknd-maalouf-fire-in-the-pipe-8-0-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "wknd-maalouf-ghost-skateboard-deck",
-    "productName": "WKND Maalouf Ghost Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460812/zumiezbuild/pitmksszmqwpuxhfgf4f.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/wknd-maalouf-ghost-8-5-skateboard-deck.html"
-      }
-    ],
+    "productBrand": "WKND Skateboards",
     "productTags": []
   }
 ]

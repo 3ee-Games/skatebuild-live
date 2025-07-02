@@ -1,5 +1,37 @@
 [
   {
+    "slug": "king-skateboards-tyshawn-liberty-deck",
+    "productName": "King Tyshawn Liberty Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414710/ldjsonbuild/n6ohskcqumi9bnboodf2.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "72.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/king-skateboards-tyshawn-liberty-deck?variant=51362136129809"
+      }
+    ],
+    "productBrand": "King Skateboards",
+    "productTags": []
+  },
+  {
+    "slug": "king-skateboards-zach-saraceno-mirage-deck",
+    "productName": "King Zach Saraceno Mirage Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414700/ldjsonbuild/sivooizwklxp20rdcpir.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "72.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/king-skateboards-zach-saraceno-mirage-deck?variant=51362165489937"
+      }
+    ],
+    "productBrand": "King Skateboards",
+    "productTags": []
+  },
+  {
     "slug": "kirby-ascending-skateboard-deck",
     "productName": "Kirby Ascending Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402310/ldjsonbuild/pwmnnq4g5qxdm3mk29yf.webp",
@@ -12,6 +44,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/kirby-ascending-825-skateboard-deck"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -27,6 +60,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/kirby-bless-this-mess-825-skateboard-deck/yellow"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -42,6 +76,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/knox-burn-bird-825-skateboard-deck"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -57,6 +92,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/knox-gordjust-85-skateboard-deck"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -77,6 +113,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-tom-knox-toms-brain-deck?variant=51207877755153"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -92,6 +129,7 @@
         "productVendorUrl": "https://www.tactics.com/blood-wizard/kowalski-outer-realms-875-skateboard-deck"
       }
     ],
+    "productBrand": "Blood Wizard",
     "productTags": []
   },
   {
@@ -107,6 +145,7 @@
         "productVendorUrl": "https://www.tactics.com/strangelove/krampus-105-skateboard-deck/green"
       }
     ],
+    "productBrand": "StrangeLove",
     "productTags": []
   },
   {
@@ -122,6 +161,7 @@
         "productVendorUrl": "https://www.tactics.com/opera/kreiner-agony-85-skateboard-deck/black-red"
       }
     ],
+    "productBrand": "Opera",
     "productTags": []
   },
   {
@@ -137,6 +177,7 @@
         "productVendorUrl": "https://www.tactics.com/sk8mafia/kremer-happy-85-skateboard-deck"
       }
     ],
+    "productBrand": "SK8MAFIA",
     "productTags": []
   },
   {
@@ -152,6 +193,7 @@
         "productVendorUrl": "https://www.tactics.com/sk8mafia/kremer-piled-825-skateboard-deck"
       }
     ],
+    "productBrand": "SK8MAFIA",
     "productTags": []
   },
   {
@@ -167,6 +209,7 @@
         "productVendorUrl": "https://www.tactics.com/sk8mafia/kremer-strick9-85-skateboard-deck/red"
       }
     ],
+    "productBrand": "SK8MAFIA",
     "productTags": []
   },
   {
@@ -182,6 +225,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-brad-cromer-cute-cat-deck?variant=51372483674385"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -197,6 +241,7 @@
         "productVendorUrl": "https://www.zumiez.com/krooked-cernicky-drumbe-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -212,6 +257,7 @@
         "productVendorUrl": "https://www.zumiez.com/krooked-cromer-fangs-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -232,6 +278,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/cromer-grocery-smile-806-skateboard-deck"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -252,6 +299,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/cromer-redacted-806-skateboard-deck/yellow"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -267,6 +315,7 @@
         "productVendorUrl": "https://www.zumiez.com/krooked-cromer-stare-8-38-skateboard-deck.html"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -282,6 +331,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-eddie-cernicky-tall-snake-true-fit-deck?variant=50574352351505"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -302,6 +352,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/kevin-emerson-guest-artist-85-skateboard-deck"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -322,6 +373,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-dipped-white-team-eyes-deck?variant=51372468961553"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -337,6 +389,7 @@
         "productVendorUrl": "https://www.zumiez.com/krooked-geering-guest-punx-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -352,6 +405,7 @@
         "productVendorUrl": "https://www.zumiez.com/krooked-gonz-fear-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -367,6 +421,7 @@
         "productVendorUrl": "https://www.zumiez.com/krooked-gonz-mermaid-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -382,6 +437,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-gonz-out-my-ears-deck?variant=51207872282897"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -397,6 +453,7 @@
         "productVendorUrl": "https://www.zumiez.com/krooked-gonz-stroll-9-1-skateboard-deck.html"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -412,6 +469,7 @@
         "productVendorUrl": "https://www.zumiez.com/krooked-gonz-your-good-9-02-skateboard-deck.html"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -437,6 +495,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-kader-guest-deck?variant=50965268300049"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -452,6 +511,7 @@
         "productVendorUrl": "https://www.zumiez.com/krooked-knox-on-the-street-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -467,6 +527,7 @@
         "productVendorUrl": "https://www.zumiez.com/krooked-manderson-chain-frame-8-38-skateboard-deck.html"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -482,6 +543,7 @@
         "productVendorUrl": "https://www.zumiez.com/krooked-manderson-tombe-stone-8-38-skateboard-deck.html"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -497,6 +559,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-mark-gonzales-mermaid-shaped-deck?variant=51484190998801"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -512,6 +575,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-mike-anderson-just-cause-deck?variant=50574346486033"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -527,6 +591,7 @@
         "productVendorUrl": "https://www.zumiez.com/krooked-razo-guest-8-62-skateboard-deck.html"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -547,6 +612,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/team-incognito-825-skateboard-deck/blue"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -562,6 +628,7 @@
         "productVendorUrl": "https://www.zumiez.com/krooked-una-butterflies-8-28-skateboard-deck.html"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -582,6 +649,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-una-farrar-teeth-deck?variant=50717531373841"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -597,6 +665,7 @@
         "productVendorUrl": "https://www.zumiez.com/krooked-wilson-positively-pro-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -612,6 +681,7 @@
         "productVendorUrl": "https://www.zumiez.com/krooked-worrest-chop-shop-twin-8-38-skateboard-deck.html"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -627,6 +697,7 @@
         "productVendorUrl": "https://www.zumiez.com/krooked-worrest-southbound-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -642,6 +713,7 @@
         "productVendorUrl": "https://www.zumiez.com/krooked-worrest-waiting-position-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Krooked Skateboards",
     "productTags": []
   },
   {
@@ -662,6 +734,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/gx1000-zack-krull-embers-deck?variant=50583672979729"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -677,6 +750,7 @@
         "productVendorUrl": "https://www.tactics.com/gx1000/krull-lifted-825-skateboard-deck"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -692,6 +766,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/lady-bug-phantom-1102-ltd-skateboard-deck/red-metallic-sparkle"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -707,6 +782,7 @@
         "productVendorUrl": "https://www.zumiez.com/lamebrain-beer-bong-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Lamebrain Skateboards",
     "productTags": []
   },
   {
@@ -722,6 +798,7 @@
         "productVendorUrl": "https://www.zumiez.com/lamebrain-blowing-me-up-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Lamebrain Skateboards",
     "productTags": []
   },
   {
@@ -737,6 +814,7 @@
         "productVendorUrl": "https://www.zumiez.com/lamebrain-bowl-riders-association-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Lamebrain Skateboards",
     "productTags": []
   },
   {
@@ -752,6 +830,7 @@
         "productVendorUrl": "https://www.zumiez.com/lamebrain-enjoy-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Lamebrain Skateboards",
     "productTags": []
   },
   {
@@ -767,36 +846,7 @@
         "productVendorUrl": "https://www.zumiez.com/lamebrain-true-love-8-0-skateboard-deck.html"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "lance-conklin-face-skateboard-deck",
-    "productName": "Lance Conklin Face Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401275/ldjsonbuild/nafobi4h35i8hy7t4znn.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "79.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/powell-peralta/lance-conklin-face-975-skateboard-deck/black-stain"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "langston-birds-of-a-feather-skateboard-deck",
-    "productName": "Langston Birds Of A Feather Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398709/ldjsonbuild/weznar3vn09romklfkvm.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "64.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/roger-skateboards/langston-birds-of-a-feather-825-skateboard-deck"
-      }
-    ],
+    "productBrand": "Lamebrain Skateboards",
     "productTags": []
   }
 ]

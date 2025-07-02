@@ -1,5 +1,37 @@
 [
   {
+    "slug": "hawk-the-bat-skateboard-deck",
+    "productName": "Hawk The Bat Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395995/ldjsonbuild/yusj063ek7sgl4zefw0p.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "79.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/birdhouse/hawk-the-bat-1025-skateboard-deck"
+      }
+    ],
+    "productBrand": "Birdhouse",
+    "productTags": []
+  },
+  {
+    "slug": "hawk-watercolor-skateboard-deck",
+    "productName": "Hawk Watercolor Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400719/ldjsonbuild/jdjfgecytptltgjp0zrm.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "78.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/baker/hawk-watercolor-825-skateboard-deck"
+      }
+    ],
+    "productBrand": "Baker",
+    "productTags": []
+  },
+  {
     "slug": "hayes-endless-abyss-skateboard-deck",
     "productName": "Hayes Endless Abyss Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397076/ldjsonbuild/ysasych2b59obcnu1iid.webp",
@@ -12,6 +44,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/hayes-endless-abyss-85-skateboard-deck"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -27,6 +60,7 @@
         "productVendorUrl": "https://www.tactics.com/real/hayley-wilson-pro-oval-85-skateboard-deck/black"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -42,6 +76,7 @@
         "productVendorUrl": "https://www.tactics.com/limosine/heart-825-skateboard-deck/black"
       }
     ],
+    "productBrand": "Limosine",
     "productTags": []
   },
   {
@@ -57,6 +92,7 @@
         "productVendorUrl": "https://www.tactics.com/roger-skateboards/heavy-happy-8875-skateboard-deck"
       }
     ],
+    "productBrand": "Roger Skateboards",
     "productTags": []
   },
   {
@@ -72,6 +108,7 @@
         "productVendorUrl": "https://www.tactics.com/edglrd/hell-hound-85-skateboard-deck"
       }
     ],
+    "productBrand": "EDGLRD",
     "productTags": []
   },
   {
@@ -87,6 +124,7 @@
         "productVendorUrl": "https://www.tactics.com/yew/hello-deer-825-skateboard-deck"
       }
     ],
+    "productBrand": "Yew",
     "productTags": []
   },
   {
@@ -102,6 +140,7 @@
         "productVendorUrl": "https://www.tactics.com/quasi-skateboards/henry-bighead-80-skateboard-deck"
       }
     ],
+    "productBrand": "Quasi",
     "productTags": []
   },
   {
@@ -122,6 +161,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/quasi-justin-henry-mempool-deck?variant=50418637209873"
       }
     ],
+    "productBrand": "Quasi",
     "productTags": []
   },
   {
@@ -137,6 +177,7 @@
         "productVendorUrl": "https://www.tactics.com/real/hermann-stene-battle-axe-825-wheel-wells-skateboard-deck/navy"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -157,6 +198,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/real-hermann-stene-fairy-tale-deck?variant=51392651854097"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -172,6 +214,7 @@
         "productVendorUrl": "https://www.zumiez.com/heroin-avi-guest-egg-8-8-skateboard-deck.html"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -187,6 +230,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Heroin_Bail_Gun_Garys_Tall_Boy_Deck/descpage-HRBGTDK.html"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -207,6 +251,7 @@
         "productVendorUrl": "https://www.tactics.com/heroin/brain-on-eggs-95-skateboard-deck/pink"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -222,6 +267,7 @@
         "productVendorUrl": "https://www.zumiez.com/heroin-craig-questions-allegory-of-fear-10-skateboard-deck.html"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -237,6 +283,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Heroin_Dead_Dave_Allegory_Of_Fear_Deck/descpage-HRDDADK.html"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -252,6 +299,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/heroin-skateboards-dalton-dern-hurricane-deck?variant=51491532898577"
       }
     ],
+    "productBrand": "Heroin Skateboards",
     "productTags": []
   },
   {
@@ -267,6 +315,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/heroin-skateboards-fried-boy-egg-shaped-deck?variant=51491524215057"
       }
     ],
+    "productBrand": "Heroin Skateboards",
     "productTags": []
   },
   {
@@ -282,6 +331,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/heroin-skateboards-holographic-eyes-symmetrical-blue-deck?variant=51491536830737"
       }
     ],
+    "productBrand": "Heroin Skateboards",
     "productTags": []
   },
   {
@@ -297,6 +347,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/heroin-skateboards-killing-yolk-symmetrical-egg-deck?variant=51491521036561"
       }
     ],
+    "productBrand": "Heroin Skateboards",
     "productTags": []
   },
   {
@@ -312,6 +363,7 @@
         "productVendorUrl": "https://www.zumiez.com/heroin-snot-egg-10-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -327,6 +379,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Heroin_Swampys_Bog_Hog_Deck/descpage-HRSBHDK.html"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -342,6 +395,7 @@
         "productVendorUrl": "https://www.zumiez.com/heroin-swampzilla-egg-13-skateboard-deck.html"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -357,6 +411,7 @@
         "productVendorUrl": "https://www.tactics.com/chocolate/herrera-then-now-script-8375-skateboard-deck"
       }
     ],
+    "productBrand": "Chocolate",
     "productTags": []
   },
   {
@@ -372,6 +427,7 @@
         "productVendorUrl": "https://www.tactics.com/chocolate/herrera-waylon-jennings-85-skateboard-deck"
       }
     ],
+    "productBrand": "Chocolate",
     "productTags": []
   },
   {
@@ -387,6 +443,7 @@
         "productVendorUrl": "https://www.tactics.com/5boro/herrick-mermaid-85-skateboard-deck"
       }
     ],
+    "productBrand": "5boro",
     "productTags": []
   },
   {
@@ -402,6 +459,7 @@
         "productVendorUrl": "https://www.tactics.com/5boro/herrick-5ball-8375-skateboard-deck/green"
       }
     ],
+    "productBrand": "5boro",
     "productTags": []
   },
   {
@@ -417,6 +475,7 @@
         "productVendorUrl": "https://www.zumiez.com/5boro-herrick-5ball-video-series-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "5Boro Skateboards",
     "productTags": []
   },
   {
@@ -432,6 +491,7 @@
         "productVendorUrl": "https://www.tactics.com/polar-skate-co/herrington-bunny-8625-skateboard-deck"
       }
     ],
+    "productBrand": "Polar Skate Co.",
     "productTags": []
   },
   {
@@ -447,6 +507,7 @@
         "productVendorUrl": "https://www.tactics.com/polar-skate-co/herrington-bunny-875-surf-jr-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Polar Skate Co.",
     "productTags": []
   },
   {
@@ -467,6 +528,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/polar-skateboards-aaron-herrington-cowboy-cop-deck?variant=50451916488977"
       }
     ],
+    "productBrand": "Polar Skate Co.",
     "productTags": []
   },
   {
@@ -482,6 +544,7 @@
         "productVendorUrl": "https://www.tactics.com/anti-hero/hewitt-grimplestix-sightings-838-skateboard-deck"
       }
     ],
+    "productBrand": "Anti-Hero",
     "productTags": []
   },
   {
@@ -497,6 +560,7 @@
         "productVendorUrl": "https://www.tactics.com/sci-fi-fantasy/high-gloss-big-logo-80-skateboard-deck"
       }
     ],
+    "productBrand": "Sci-Fi Fantasy",
     "productTags": []
   },
   {
@@ -512,6 +576,7 @@
         "productVendorUrl": "https://www.tactics.com/the-heated-wheel/hill-on-vacation-85-skateboard-deck/blue"
       }
     ],
+    "productBrand": "The Heated Wheel",
     "productTags": []
   },
   {
@@ -527,6 +592,7 @@
         "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/hiroki-faces-80-skateboard-deck"
       }
     ],
+    "productBrand": "Theories",
     "productTags": []
   },
   {
@@ -542,6 +608,7 @@
         "productVendorUrl": "https://www.tactics.com/toy-machine/hoban-horror-show-825-skateboard-deck"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -557,6 +624,7 @@
         "productVendorUrl": "https://www.zumiez.com/hockey-allen-screen-time-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -577,6 +645,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/hockey-andrew-allen-support-deck?variant=51410457526545"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -592,6 +661,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/hockey-ben-kadow-inorganic-chaos-deck?variant=51410456248593"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -607,6 +677,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/hockey-cry-later-deck?variant=51410465063185"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -622,6 +693,7 @@
         "productVendorUrl": "https://www.zumiez.com/hockey-diego-crazy-neighbor-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -637,6 +709,7 @@
         "productVendorUrl": "https://www.zumiez.com/hockey-diego-victory-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -652,6 +725,7 @@
         "productVendorUrl": "https://www.zumiez.com/hockey-fitzgerald-tier-one-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -667,6 +741,7 @@
         "productVendorUrl": "https://www.zumiez.com/hockey-kadow-crosswalk-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -682,6 +757,7 @@
         "productVendorUrl": "https://www.zumiez.com/hockey-kadow-endless-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -697,6 +773,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/hockey-kevin-rodrigues-keepsake-deck?variant=51410470011153"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -712,6 +789,7 @@
         "productVendorUrl": "https://www.zumiez.com/hockey-lay-flat-8-75-skateboard-deck.html"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -727,6 +805,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/hockey-panic-to-peace-deck?variant=51410459754769"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -742,36 +821,7 @@
         "productVendorUrl": "https://www.zumiez.com/hockey-piscopo-newbown-8-25-skateboard-deck.html"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "hockey-rodrigues-behemoth-skateboard-deck",
-    "productName": "Hockey Rodrigues Behemoth Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460839/zumiezbuild/ohpcr8fdkdixlywj4gmy.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "77.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/hockey-rodrigues-behemoth-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "hockey-rodrigues-keep-sake-skateboard-deck",
-    "productName": "Hockey Rodrigues Keep Sake Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460684/zumiezbuild/t2d4gnofrrq3igqtpgdj.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "77.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/hockey-rodrigues-keep-sake-8-25-skateboard-deck.html"
-      }
-    ],
+    "productBrand": "Hockey",
     "productTags": []
   }
 ]

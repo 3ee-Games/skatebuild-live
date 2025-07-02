@@ -12,6 +12,7 @@
         "productVendorUrl": "https://www.tactics.com/creature/bonesaw-rails/orange"
       }
     ],
+    "productBrand": "Creature",
     "productTags": []
   },
   {
@@ -27,6 +28,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/creature-skateboards-slider-rails-71436?variant=48243897860369"
       }
     ],
+    "productBrand": "Creature Skateboards",
     "productTags": []
   },
   {
@@ -42,6 +44,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-glitter-death-rails-78440?variant=48244745732369"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -57,6 +60,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/doom-sayers-slider-rails-73148?variant=48244052230417"
       }
     ],
+    "productBrand": "Doom Sayers",
     "productTags": []
   },
   {
@@ -72,6 +76,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/girl-og-rails-72400?variant=48243984662801"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -87,6 +92,7 @@
         "productVendorUrl": "https://www.tactics.com/heroin/glow-stick-rails/glow"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -102,6 +108,7 @@
         "productVendorUrl": "https://www.tactics.com/rad-railz/grabrailz/royal"
       }
     ],
+    "productBrand": "Rad Railz",
     "productTags": []
   },
   {
@@ -117,6 +124,7 @@
         "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/jacuzzi-rails/salmon"
       }
     ],
+    "productBrand": "Jacuzzi Unlimited",
     "productTags": []
   },
   {
@@ -137,6 +145,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/oj-3-juice-bar-rails-83898?variant=48245477212433"
       }
     ],
+    "productBrand": "OJ",
     "productTags": []
   },
   {
@@ -152,6 +161,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/madness-repeat-rails-82484?variant=48245319696657"
       }
     ],
+    "productBrand": "Madness",
     "productTags": []
   },
   {
@@ -167,6 +177,7 @@
         "productVendorUrl": "https://www.tactics.com/pig/neon-deck-rails/ledge"
       }
     ],
+    "productBrand": "Pig",
     "productTags": []
   },
   {
@@ -182,6 +193,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/pig-pig-rails-94671?variant=48246938599697"
       }
     ],
+    "productBrand": "Pig",
     "productTags": []
   },
   {
@@ -197,6 +209,7 @@
         "productVendorUrl": "https://www.tactics.com/tail-devil/rail-devils"
       }
     ],
+    "productBrand": "Tail Devil",
     "productTags": []
   },
   {
@@ -222,6 +235,7 @@
         "productVendorUrl": "https://powell-peralta.com/powell-peralta-14-5-rib-bones-white"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": [
       {
         "field": "combine",
@@ -242,6 +256,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-slimline-rails-77305?variant=48244584939793"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -257,6 +272,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/shake-junt-rails-79759?variant=48244902461713"
       }
     ],
+    "productBrand": "Shake Junt",
     "productTags": []
   },
   {
@@ -272,6 +288,7 @@
         "productVendorUrl": "https://www.tactics.com/shake-junt/sj-deck-rails"
       }
     ],
+    "productBrand": "Shake Junt",
     "productTags": []
   },
   {
@@ -287,6 +304,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/slimline-hsr-rails/black"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   }
 ]

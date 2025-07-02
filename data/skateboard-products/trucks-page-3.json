@@ -12,6 +12,7 @@
         "productVendorUrl": "https://www.tactics.com/slappy/st1-inverted-hollow-lights-skateboard-trucks/polished-gold-825"
       }
     ],
+    "productBrand": "Slappy",
     "productTags": []
   },
   {
@@ -27,6 +28,28 @@
         "productVendorUrl": "https://www.tactics.com/bullet/standard-skate-trucks/black-130mm"
       }
     ],
+    "productBrand": "Bullet",
+    "productTags": []
+  },
+  {
+    "slug": "street-trucks-169mm-matte-black",
+    "productName": "Paris Street Trucks",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1751400012/ldjsonbuild/gazwsa6clnwqtno2rseg.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "paris": "26.00",
+        "url": "https://www.paristruckco.com",
+        "productVendorUrl": "https://www.paristruckco.com/collections/street-trucks/products/street-169mm-matte-black"
+      },
+      {
+        "loadedboards": "38.00",
+        "url": "https://www.loadedboards.com",
+        "productVendorUrl": "https://www.loadedboards.com/products/paris-street-trucks"
+      }
+    ],
+    "productBrand": "Paris Truck Co",
     "productTags": []
   },
   {
@@ -42,6 +65,7 @@
         "productVendorUrl": "https://www.zumiez.com/tensor-mag-light-5-0-white-skateboard-truck.html"
       }
     ],
+    "productBrand": "Tensor Trucks",
     "productTags": []
   },
   {
@@ -57,6 +81,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/the-heated-wheel-polarizer-trucks-94689?variant=50066907660561"
       }
     ],
+    "productBrand": "The Heated Wheel",
     "productTags": []
   },
   {
@@ -72,6 +97,7 @@
         "productVendorUrl": "https://www.tactics.com/ace/theories-of-atlantis-af-1-hollow-skateboard-trucks/raw-black-ano"
       }
     ],
+    "productBrand": "Ace",
     "productTags": []
   },
   {
@@ -87,6 +113,7 @@
         "productVendorUrl": "https://www.zumiez.com/thunder-anderson-airstrike-white-147-skateboard-truck.html"
       }
     ],
+    "productBrand": "Thunder Trucks",
     "productTags": []
   },
   {
@@ -102,6 +129,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-catalyst-team-edition-truck-94048?variant=48246873882897"
       }
     ],
+    "productBrand": "Thunder",
     "productTags": []
   },
   {
@@ -117,6 +145,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-gilded-team-hollow-light-truck?variant=50268662399249"
       }
     ],
+    "productBrand": "Thunder",
     "productTags": []
   },
   {
@@ -137,6 +166,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-death-grip-light-truck-95305?variant=48247007445265"
       }
     ],
+    "productBrand": "Thunder Trucks",
     "productTags": []
   },
   {
@@ -152,6 +182,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-hollow-lights-ii-truck-82113?variant=48245243707665"
       }
     ],
+    "productBrand": "Thunder",
     "productTags": []
   },
   {
@@ -167,6 +198,7 @@
         "productVendorUrl": "https://www.zumiez.com/thunder-inverted-editions-polished-silver-149-skateboard-truck.html"
       }
     ],
+    "productBrand": "Thunder Trucks",
     "productTags": []
   },
   {
@@ -182,6 +214,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-ishod-wair-dawg-team-hollow-truck-94662?variant=48246937714961"
       }
     ],
+    "productBrand": "Thunder",
     "productTags": []
   },
   {
@@ -197,6 +230,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-jamie-foy-fauna-pro-truck?variant=51392900923665"
       }
     ],
+    "productBrand": "Thunder",
     "productTags": []
   },
   {
@@ -212,6 +246,7 @@
         "productVendorUrl": "https://www.zumiez.com/thunder-mariano-customs-team-148-hollow-skateboard-truck.html"
       }
     ],
+    "productBrand": "Thunder Trucks",
     "productTags": []
   },
   {
@@ -227,6 +262,7 @@
         "productVendorUrl": "https://www.zumiez.com/thunder-medieval-team-edition-148-skateboard-truck.html"
       }
     ],
+    "productBrand": "Thunder Trucks",
     "productTags": []
   },
   {
@@ -242,6 +278,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-miles-silvas-masked-hollow-light-truck-96303?variant=49244163244305"
       }
     ],
+    "productBrand": "Thunder",
     "productTags": []
   },
   {
@@ -262,6 +299,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-nora-vasconcellos-campus-pro-truck?variant=50965264859409"
       }
     ],
+    "productBrand": "Thunder Trucks",
     "productTags": []
   },
   {
@@ -277,6 +315,7 @@
         "productVendorUrl": "https://www.zumiez.com/thunder-silvas-masked-hollow-black-148-skateboard-truck.html"
       }
     ],
+    "productBrand": "Thunder Trucks",
     "productTags": []
   },
   {
@@ -292,6 +331,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-team-hollow-polished-truck?variant=51372458836241"
       }
     ],
+    "productBrand": "Thunder",
     "productTags": []
   },
   {
@@ -307,6 +347,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/thunder-thunder-truck-2541?variant=48243342541073"
       }
     ],
+    "productBrand": "Thunder",
     "productTags": []
   },
   {
@@ -322,6 +363,7 @@
         "productVendorUrl": "https://www.zumiez.com/thunder-villani-to-pieces-black-147-skateboard-truck.html"
       }
     ],
+    "productBrand": "Thunder Trucks",
     "productTags": []
   },
   {
@@ -337,6 +379,7 @@
         "productVendorUrl": "https://www.tactics.com/venture/v-lights-skateboard-trucks/all-polished-56-hi"
       }
     ],
+    "productBrand": "Venture",
     "productTags": []
   },
   {
@@ -352,6 +395,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/venture-john-shanahan-street-v-light-truck-96304?variant=49244163637521"
       }
     ],
+    "productBrand": "Venture",
     "productTags": []
   },
   {
@@ -367,6 +411,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/venture-kader-bloodshot-v-cast-hollow-light-truck-97205?variant=50087707312401"
       }
     ],
+    "productBrand": "Venture",
     "productTags": []
   },
   {
@@ -387,6 +432,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/venture-eric-koston-v8-polished-truck?variant=50917099929873"
       }
     ],
+    "productBrand": "Venture",
     "productTags": []
   },
   {
@@ -407,6 +453,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/venture-awake-team-edition-truck-94664?variant=48246938108177"
       }
     ],
+    "productBrand": "Venture",
     "productTags": []
   },
   {
@@ -422,6 +469,7 @@
         "productVendorUrl": "https://www.zumiez.com/venture-salt-pepper-ii-5-6-skateboard-trucks.html"
       }
     ],
+    "productBrand": "Venture",
     "productTags": []
   },
   {
@@ -437,6 +485,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/venture-v-forged-polished-truck?variant=51484168618257"
       }
     ],
+    "productBrand": "Venture",
     "productTags": []
   },
   {
@@ -452,6 +501,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/venture-v-hollow-truck?variant=50717487038737"
       }
     ],
+    "productBrand": "Venture",
     "productTags": []
   },
   {
@@ -467,6 +517,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/venture-v-light-trucks-79457?variant=48244872413457"
       }
     ],
+    "productBrand": "Venture",
     "productTags": []
   },
   {
@@ -482,6 +533,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/venture-venture-x-violet-team-truck-94431?variant=48246910550289"
       }
     ],
+    "productBrand": "Venture",
     "productTags": []
   },
   {
@@ -497,6 +549,7 @@
         "productVendorUrl": "https://www.zumiez.com/venture-vue-5-2-skateboard-truck.html"
       }
     ],
+    "productBrand": "Venture",
     "productTags": []
   },
   {
@@ -512,6 +565,7 @@
         "productVendorUrl": "https://www.zumiez.com/venture-x-bronze-56k-team-edition-silver-and-bronze-5-8-skateboard-truck.html"
       }
     ],
+    "productBrand": "Venture",
     "productTags": []
   },
   {
@@ -527,6 +581,7 @@
         "productVendorUrl": "https://www.zumiez.com/venture-yuto-pro-edition-liquid-chrome-5-6-skateboard-truck.html"
       }
     ],
+    "productBrand": "Venture",
     "productTags": []
   },
   {
@@ -542,6 +597,7 @@
         "productVendorUrl": "https://www.zumiez.com/venture-yuto-v-hollows-great-wave-silver-blue-5-6-skateboard-truck.html"
       }
     ],
+    "productBrand": "Venture",
     "productTags": []
   }
 ]
