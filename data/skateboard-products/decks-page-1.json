@@ -32,6 +32,7 @@
         "productVendorUrl": "https://www.nativeskatestore.co.uk/skateboards-c7/skateboard-decks-c23/aaron-loreth-hail-fail-skateboard-deck-8-25-p69456"
       }
     ],
+    "productBrand": "Limosine",
     "productTags": []
   },
   {
@@ -67,6 +68,7 @@
         "productVendorUrl": "https://www.zumiez.com/arbor-pelka-daytripper-8-375-skateboard-deck.html"
       }
     ],
+    "productBrand": "Arbor",
     "productTags": []
   },
   {
@@ -85,8 +87,19 @@
         "arborcollective": "79.99",
         "url": "https://www.arborcollective.com",
         "productVendorUrl": "https://www.arborcollective.com/products/ace-pelka-10-chaos-and-order-24"
+      },
+      {
+        "blacksheep": "119.00",
+        "url": "https://blacksheepstore.co.uk",
+        "productVendorUrl": "https://blacksheepstore.co.uk/products/arbor-skateboard-deck-ace-pelka-10-0-order-and-chaos-multi-colour-10?variant=54827476648313&country=EC&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoo-FWqhAKTtiLLwQDt0qPxZK7NFSy8ZC5VydiJjEUcUmTUnPih8IHQ&gQT=2"
+      },
+      {
+        "status": "84.95",
+        "url": "https://statusskateshop.com",
+        "productVendorUrl": "https://statusskateshop.com/products/arbor-ace-pelka-order-and-chaos-10-0-deck?variant=50691736567976&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqZ0xdbrymAKac5jd_B3OeQW4TAgaY7DQYalsOA8DNDqdmmOPVKq-s"
       }
     ],
+    "productBrand": "Arbor",
     "productTags": []
   },
   {
@@ -102,6 +115,7 @@
         "productVendorUrl": "https://www.tactics.com/arbor/ace-rearview-100-wheel-wells-skateboard-deck"
       }
     ],
+    "productBrand": "Arbor",
     "productTags": []
   },
   {
@@ -117,6 +131,7 @@
         "productVendorUrl": "https://www.tactics.com/arbor/ace-underground-85-skateboard-deck"
       }
     ],
+    "productBrand": "Arbor",
     "productTags": []
   },
   {
@@ -137,6 +152,7 @@
         "productVendorUrl": "https://exodusrideshop.com/products/bacon-adam-mueller-pro-skateboard-deck"
       }
     ],
+    "productBrand": "Bacon Skateboards",
     "productTags": []
   },
   {
@@ -162,6 +178,7 @@
         "productVendorUrl": "https://www.riprideskateshop.co.uk/products/black-label-adams-el-pollo-diablo-9-5-egg"
       }
     ],
+    "productBrand": "Black Label",
     "productTags": []
   },
   {
@@ -175,8 +192,14 @@
         "tactics": "61.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/black-label/adams-50-to-life-90-egg-skateboard-deck/black"
+      },
+      {
+        "killerskateshop": "69.99",
+        "url": "https://killerskatepark.com",
+        "productVendorUrl": "https://killerskatepark.com/products/black-label-9-5-adams-50-to-live-egg-deck?variant=49838964277544&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoobKkn2Q6G92iay9TcDytDJJAognFz05l5wOa7Iq3dM92ZC5afinGw&gQT=1"
       }
     ],
+    "productBrand": "Black Label",
     "productTags": []
   },
   {
@@ -202,6 +225,7 @@
         "productVendorUrl": "https://boardofmissoula.com/collections/decks/products/welcome-x-adventure-time-jake-on-dark-lord-9-75-deck"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -222,6 +246,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/fucking-awesome-aidan-mackey-no-world-order-deck?variant=51071732351249"
       }
     ],
+    "productBrand": "Fucking Awesome",
     "productTags": []
   },
   {
@@ -235,8 +260,34 @@
         "tactics": "77.95",
         "url": "https://www.tactics.com",
         "productVendorUrl": "https://www.tactics.com/fucking-awesome/aidan-portrait-844-skateboard-deck"
+      },
+      {
+        "ccs": "81.95",
+        "url": "https://shop.ccs.com",
+        "productVendorUrl": "https://shop.ccs.com/products/fucking-awesome-aidan-mackey-painted-aidan-2024-skateboard-deck-8-44?variant=43189124366519&currency=USD&utm_source=google&utm_medium=cpc&utm_campaign=google%2Bshopping&srsltid=AfmBOorNkdw8HM29fNdvgKV_y5c9W_NeT0Glt9Edy5nbXaDrelvnc2k1u5o&gQT=2"
+      },
+      {
+        "rosestreet": "78.00",
+        "url": "https://www.rosestreetskateshop.com",
+        "productVendorUrl": "https://www.rosestreetskateshop.com/products/fa-aidan-painted-deck-8-44?variant=45050008699079&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorM_K8_rZR9RnCzUW0VuWqvG9CAF2uCZA2UDVTGNzmXA5zDPWkCJRg"
+      },
+      {
+        "daddies": "81.95",
+        "url": "https://www.daddiesboardshop.com",
+        "productVendorUrl": "https://www.daddiesboardshop.com/products/fucking-awesome-aidan-mackey-painted-aidan-2024-skateboard-deck-8-44?variant=49117130522792&currency=USD&utm_source=google&utm_medium=cpc&utm_campaign=google%2Bshopping&srsltid=AfmBOopxZDba9mkd8DxiQI_4u9Um1v0ztfXHSk8z-T9H3t-WtFNsmCeljFw"
+      },
+      {
+        "spot": "65.00",
+        "url": "https://www.skateparkoftampa.com",
+        "productVendorUrl": "https://www.skateparkoftampa.com/products/fucking-awesome-aidan-mackey-painted-2024-deck?variant=50853002314001&srsltid=AfmBOooQruEbzucgMBac9feftcG3QHS9S-0JtQz8x0-WIVHJhvfgmfDmdyc"
+      },
+      {
+        "civil": "78.00",
+        "url": "https://www.wearecivil.com",
+        "productVendorUrl": "https://www.wearecivil.com/products/fa-aidan-mackey-painted-deck-8-44?variant=49737784557856&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorj5qGXPCQEvrkRrU4sKobthZIP09ugJm7pODw3p91TlWDpI_c2zRk"
       }
     ],
+    "productBrand": "Fucking Awesome",
     "productTags": []
   },
   {
@@ -252,6 +303,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/air-nowhere-skateboard-deck"
       }
     ],
+    "productBrand": "Tactics",
     "productTags": []
   },
   {
@@ -264,9 +316,15 @@
       {
         "tactics": "61.95",
         "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/black-label/akerley-firestarter-90-custom-egg-skateboard-deck"
+        "productVendorUrl": "https://www.tactics.com/black-label/akerley-firestarter-825-skateboard-deck"
+      },
+      {
+        "theblock": "64.95",
+        "url": "https://theblockskatesupply.com",
+        "productVendorUrl": "https://theblockskatesupply.com/products/black-label-john-lucero-ripped-cross-deck-9-0?variant=46209865973975&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoohkvfrEejFX289Ahj1_tsubZvU9ry-rC7ZHelgJ68wHYeWC2zeBjM&gQT=2"
       }
     ],
+    "productBrand": "Black Label",
     "productTags": [
       {
         "field": "combine",
@@ -285,8 +343,39 @@
         "zumiez": "75.95",
         "url": "https://www.zumiez.com",
         "productVendorUrl": "https://www.zumiez.com/frog-alba-mr-mon-kay-8-5-skateboard-deck.html"
+      },
+      {
+        "embassy": "70.00",
+        "url": "https://embassyboardshop.com",
+        "productVendorUrl": "https://embassyboardshop.com/products/mr-mon-kay-jesse-alba-deck-8-5?variant=41653864267831&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqoKD31EmppVQdpIQ_Z2_-cFhSiZsl5lrNkW0Yri7Sb18Rh881sBGM&gQT=2"
+      },
+      {
+        "ccs": "79.95",
+        "url": "https://shop.ccs.com",
+        "productVendorUrl": "https://shop.ccs.com/products/frog-mr-mon-kay-jesse-alba-skateboard-deck-8-50?variant=43969249870007&currency=USD&utm_source=google&utm_medium=cpc&utm_campaign=google%2Bshopping&srsltid=AfmBOorQ3e2FWyxG4Qm0zsqmjLwmZZPqh6tDnteN-pOXFaaL8B45aGqOsKY&gQT=2"
+      },
+      {
+        "daddies": "79.95",
+        "url": "https://www.daddiesboardshop.com",
+        "productVendorUrl": "https://www.daddiesboardshop.com/products/frog-mr-mon-kay-jesse-alba-skateboard-deck-8-50?variant=50566863749288&currency=USD&utm_source=google&utm_medium=cpc&utm_campaign=google%2Bshopping&srsltid=AfmBOopQsWR4DZBOaA63Awl9VpW0HWj7Kt1HDpcq43bYIF7XjdtCx56j9YY&gQT=2"
+      },
+      {
+        "people": "75.95",
+        "url": "https://peopleskateandsnowboard.com",
+        "productVendorUrl": "https://peopleskateandsnowboard.com/products/frog-mr-mon-kay-jesse-alba-skate-deck-8-5?variant=46346886086871&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoow1qP8TXW9eqzQ_yRJX7TAvS_U17Qhyh7T35Okb5Kk8D1l2PDKxXc"
+      },
+      {
+        "uprise": "75.00",
+        "url": "https://upriseskateshop.com",
+        "productVendorUrl": "https://upriseskateshop.com/products/alba-mr-mon-kay-deck-8-5?variant=46318394081495&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoraR6yf2cqGR-pgFYU933JX_STsDYdLGwCN-9JFGbjvMzKoulWXVZw"
+      },
+      {
+        "lighthouses": "76.00",
+        "url": "https://lighthousesb.com",
+        "productVendorUrl": "https://lighthousesb.com/products/frog-shark-deck?variant=45085739581615&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopRX7mocTzNWGncTyTodMNfJkUOFwe2X_rCBzibH0nFdY8uhHmKyxg"
       }
     ],
+    "productBrand": "Frog",
     "productTags": []
   },
   {
@@ -302,6 +391,7 @@
         "productVendorUrl": "https://www.tactics.com/killing-floor-skateboards/alby-vessel-825-skateboard-deck"
       }
     ],
+    "productBrand": "The Killing Floor",
     "productTags": []
   },
   {
@@ -317,6 +407,7 @@
         "productVendorUrl": "https://www.tactics.com/swim-skateboard-co/aleve-91-egg-shape-skateboard-deck/green"
       }
     ],
+    "productBrand": "Swim Skateboard Co",
     "productTags": []
   },
   {
@@ -337,6 +428,7 @@
         "productVendorUrl": "https://atlasskateboarding.com/collections/swim/products/swim-aleve-deck-1"
       }
     ],
+    "productBrand": "Swim Skateboard Co",
     "productTags": []
   },
   {
@@ -357,6 +449,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/alien-workshop-joey-guevara-exp-series-deck-97238?variant=50087710392593"
       }
     ],
+    "productBrand": "Alien Workshop",
     "productTags": []
   },
   {
@@ -377,6 +470,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/alien-workshop-visitor-deck?variant=51094903554321"
       }
     ],
+    "productBrand": "Alien Workshop",
     "productTags": []
   },
   {
@@ -412,6 +506,7 @@
         "productVendorUrl": "https://www.amazon.com/Alien-Workshop-Skateboard-Thrasher-Assorted/dp/B0BYK84R5P"
       }
     ],
+    "productBrand": "Alien Workshop",
     "productTags": []
   },
   {
@@ -432,6 +527,7 @@
         "productVendorUrl": "https://www.slamcity.com/en-us/products/hockey-825-andrew-allen-pinto-skateboard-deck"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -447,6 +543,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/allie-eyeball-825-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -462,6 +559,7 @@
         "productVendorUrl": "https://www.zumiez.com/alltimers-alexis-loves-harpie-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Alltimers",
     "productTags": []
   },
   {
@@ -477,6 +575,7 @@
         "productVendorUrl": "https://www.zumiez.com/alltimers-arcade-carpet-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Alltimers",
     "productTags": []
   },
   {
@@ -492,6 +591,7 @@
         "productVendorUrl": "https://www.zumiez.com/alltimers-x-bronze-sophisticated-cruiser-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Alltimers",
     "productTags": []
   },
   {
@@ -507,6 +607,7 @@
         "productVendorUrl": "https://www.zumiez.com/alltimers-x-creative-growth-aurie-ramirez-8-3-skateboard-deck.html"
       }
     ],
+    "productBrand": "Alltimers",
     "productTags": []
   },
   {
@@ -527,6 +628,7 @@
         "productVendorUrl": "https://www.creativegrowth.org/art/alltimers-x-creative-growth-aurie-ramirez-s-by-aurie-ramirez"
       }
     ],
+    "productBrand": "Alltimers",
     "productTags": []
   },
   {
@@ -567,6 +669,7 @@
         "productVendorUrl": "https://www.ollies.com"
       }
     ],
+    "productBrand": "Almost Skateboards",
     "productTags": []
   },
   {
@@ -582,6 +685,7 @@
         "productVendorUrl": "https://www.tactics.com/wknd-skateboards/almquist-gym-n-tonic-825-skateboard-deck"
       }
     ],
+    "productBrand": "WKND",
     "productTags": []
   },
   {
@@ -602,6 +706,7 @@
         "productVendorUrl": "https://shop.wkndbrand.com/products/march-filip-almqvist-8-125wb-8-375wb"
       }
     ],
+    "productBrand": "WKND",
     "productTags": []
   },
   {
@@ -617,6 +722,7 @@
         "productVendorUrl": "https://www.tactics.com/wknd-skateboards/almqvist-rex-8375-skateboard-deck"
       }
     ],
+    "productBrand": "WKND",
     "productTags": []
   },
   {
@@ -632,6 +738,7 @@
         "productVendorUrl": "https://www.tactics.com/lovesick/alone-again-85-skateboard-deck"
       }
     ],
+    "productBrand": "Lovesick",
     "productTags": []
   },
   {
@@ -647,6 +754,7 @@
         "productVendorUrl": "https://www.tactics.com/chocolate/alvarez-chocolate-kiss-80-skateboard-deck"
       }
     ],
+    "productBrand": "Chocolate",
     "productTags": []
   },
   {
@@ -662,6 +770,7 @@
         "productVendorUrl": "https://www.tactics.com/chocolate/alvarez-western-85-skateboard-deck"
       }
     ],
+    "productBrand": "Chocolate",
     "productTags": []
   },
   {
@@ -682,6 +791,7 @@
         "productVendorUrl": "https://www.tactics.com/5boro/always-run-825-skateboard-deck/blue"
       }
     ],
+    "productBrand": "5Boro Skateboards",
     "productTags": []
   },
   {
@@ -697,6 +807,7 @@
         "productVendorUrl": "https://www.tactics.com/arbor/amelia-folklore-85-skateboard-deck"
       }
     ],
+    "productBrand": "Arbor",
     "productTags": []
   },
   {
@@ -712,6 +823,7 @@
         "productVendorUrl": "https://www.tactics.com/arbor/amelia-neuron-825-skateboard-deck"
       }
     ],
+    "productBrand": "Arbor",
     "productTags": []
   },
   {
@@ -727,6 +839,7 @@
         "productVendorUrl": "https://www.tactics.com/arbor/amelia-underground-825-skateboard-deck"
       }
     ],
+    "productBrand": "Arbor",
     "productTags": []
   },
   {
@@ -742,6 +855,7 @@
         "productVendorUrl": "https://www.tactics.com/roger-skateboards/amelio-beckoner-825-skateboard-deck/brown"
       }
     ],
+    "productBrand": "Roger Skateboards",
     "productTags": []
   },
   {
@@ -757,6 +871,7 @@
         "productVendorUrl": "https://www.tactics.com/roger-skateboards/amelio-dancers-85-skateboard-deck"
       }
     ],
+    "productBrand": "Roger Skateboards",
     "productTags": []
   },
   {
@@ -772,6 +887,7 @@
         "productVendorUrl": "https://www.tactics.com/tightbooth/analyze-2-825-skateboard-deck"
       }
     ],
+    "productBrand": "Tightbooth",
     "productTags": []
   },
   {
@@ -792,6 +908,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/fucking-awesome-jake-anderson-biblical-technology-deck?variant=51071789629713"
       }
     ],
+    "productBrand": "Fucking Awesome",
     "productTags": []
   },
   {
@@ -807,6 +924,7 @@
         "productVendorUrl": "https://www.tactics.com/chocolate/anderson-chocolate-kiss-825-twin-tip-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Chocolate",
     "productTags": []
   },
   {
@@ -822,6 +940,7 @@
         "productVendorUrl": "https://www.tactics.com/anti-hero/anderson-jalopi-925-ba18-wheel-wells-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Anti-Hero",
     "productTags": []
   },
   {
@@ -837,6 +956,7 @@
         "productVendorUrl": "https://www.tactics.com/killing-floor-skateboards/anderson-parts-85-skateboard-deck"
       }
     ],
+    "productBrand": "The Killing Floor",
     "productTags": []
   },
   {
@@ -852,6 +972,7 @@
         "productVendorUrl": "https://www.tactics.com/chocolate/anderson-western-85-skidul-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Chocolate",
     "productTags": []
   },
   {
@@ -867,6 +988,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/5boro-abdrew-singh-mermaid-pro-series-deck-97078?variant=50010978255121"
       }
     ],
+    "productBrand": "5boro",
     "productTags": []
   },
   {
@@ -897,6 +1019,7 @@
         "productVendorUrl": "https://www.escapistskateboarding.com/krooked-andrew-wilson-wegg-shape-deck.html"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -922,6 +1045,7 @@
         "productVendorUrl": "https://www.cowtownskateboards.com/skateboarding/decks/shaped/powell-peralta/andy-anderson-heron-skull-gold-foil-deck-913-pid-75881"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -947,6 +1071,7 @@
         "productVendorUrl": "https://www.amazon.com/Anti-Hero-Skateboards-Anderson-Skateboard/dp/B0DPNHVV4Q"
       }
     ],
+    "productBrand": "Anti-Hero Skateboards",
     "productTags": []
   }
 ]

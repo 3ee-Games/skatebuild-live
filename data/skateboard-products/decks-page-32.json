@@ -1,5 +1,106 @@
 [
   {
+    "slug": "the-sunset-night-skateboard-deck",
+    "productName": "The Sunset Night Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395459/ldjsonbuild/ykbtcs1jlna4cjyabh5x.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "74.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/evisen/the-sunset-night-85-skateboard-deck"
+      }
+    ],
+    "productBrand": "Evisen",
+    "productTags": []
+  },
+  {
+    "slug": "theories-nyle-lovett-broadcast-deck",
+    "productName": "Theories Nyle Lovett Broadcast Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746415523/ldjsonbuild/rga5rtglpl7wx3jmoaop.webp",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "spot": "75.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/theories-nyle-lovett-broadcast-deck?variant=50593913667857"
+      }
+    ],
+    "productBrand": "Theories",
+    "productTags": []
+  },
+  {
+    "slug": "theories-pollinate-skateboard-deck",
+    "productName": "Theories Pollinate Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461765/zumiezbuild/ioyv8qe2jwhi6e4vswak.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "73.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/theories-pollinate-8-25-skateboard-deck.html"
+      },
+      {
+        "tactics": "68.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/pollinate-825-skateboard-deck"
+      }
+    ],
+    "productBrand": "Theories",
+    "productTags": []
+  },
+  {
+    "slug": "theotis-flow-state-skateboard-deck",
+    "productName": "Theotis Flow State Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402798/ldjsonbuild/f2hljcbeb8guojcfvygc.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "71.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/baker/theotis-flow-state-80-skateboard-deck"
+      }
+    ],
+    "productBrand": "Baker",
+    "productTags": []
+  },
+  {
+    "slug": "theotis-no-busters-skateboard-deck",
+    "productName": "Theotis No Busters Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402371/ldjsonbuild/u2lddwcy3iecozydxmxc.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "73.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/baker/theotis-no-busters-825-skateboard-deck"
+      }
+    ],
+    "productBrand": "Baker",
+    "productTags": []
+  },
+  {
+    "slug": "there-chandler-festering-jester-skateboard-deck",
+    "productName": "There Chandler Festering Jester Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461340/zumiezbuild/qksyeh1rkuvrwm3c3ppa.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "64.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/there-chandler-festering-jester-8-5-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "THERE Skateboards",
+    "productTags": []
+  },
+  {
     "slug": "there-chandler-starlight-skateboard-deck",
     "productName": "There Chandler Starlight Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461073/zumiezbuild/gpgurxtsukljcieijkgn.webp",
@@ -12,6 +113,7 @@
         "productVendorUrl": "https://www.zumiez.com/there-chandler-starlight-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "THERE Skateboards",
     "productTags": []
   },
   {
@@ -27,6 +129,7 @@
         "productVendorUrl": "https://www.zumiez.com/there-chandler-wild-card-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "THERE Skateboards",
     "productTags": []
   },
   {
@@ -42,6 +145,7 @@
         "productVendorUrl": "https://www.zumiez.com/there-cher-rise-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "THERE Skateboards",
     "productTags": []
   },
   {
@@ -57,6 +161,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/there-kien-caples-blake-armstrong-deck?variant=51372526207249"
       }
     ],
+    "productBrand": "There",
     "productTags": []
   },
   {
@@ -72,6 +177,7 @@
         "productVendorUrl": "https://www.zumiez.com/there-kien-day-end-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "THERE Skateboards",
     "productTags": []
   },
   {
@@ -92,6 +198,7 @@
         "productVendorUrl": "https://www.tactics.com/there/kien-severed-thorns-838-dreamer-shape-skateboard-deck"
       }
     ],
+    "productBrand": "THERE Skateboards",
     "productTags": []
   },
   {
@@ -107,6 +214,7 @@
         "productVendorUrl": "https://www.zumiez.com/there-kien-starry-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "THERE Skateboards",
     "productTags": []
   },
   {
@@ -122,6 +230,7 @@
         "productVendorUrl": "https://www.zumiez.com/there-kien-vexing-insect-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "THERE Skateboards",
     "productTags": []
   },
   {
@@ -137,6 +246,7 @@
         "productVendorUrl": "https://www.zumiez.com/there-marbie-gloopy-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "THERE Skateboards",
     "productTags": []
   },
   {
@@ -152,6 +262,7 @@
         "productVendorUrl": "https://www.zumiez.com/there-parasite-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "THERE Skateboards",
     "productTags": []
   },
   {
@@ -167,6 +278,7 @@
         "productVendorUrl": "https://www.zumiez.com/there-team-mask-9-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "THERE Skateboards",
     "productTags": []
   },
   {
@@ -182,6 +294,7 @@
         "productVendorUrl": "https://www.zumiez.com/there-tiger-sun-shag-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "THERE Skateboards",
     "productTags": []
   },
   {
@@ -197,6 +310,7 @@
         "productVendorUrl": "https://www.zumiez.com/there-tower-jessyka-8-06-skateboard-deck.html"
       }
     ],
+    "productBrand": "THERE Skateboards",
     "productTags": []
   },
   {
@@ -212,6 +326,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/thomas-pablo-mask-825-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -227,6 +342,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/thomas-stipo-825-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -242,6 +358,7 @@
         "productVendorUrl": "https://www.tactics.com/wknd-skateboards/thompson-ethereal-825-skateboard-deck"
       }
     ],
+    "productBrand": "WKND",
     "productTags": []
   },
   {
@@ -257,6 +374,7 @@
         "productVendorUrl": "https://www.tactics.com/roger-skateboards/thompson-twin-tunnel-85-twin-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Roger Skateboards",
     "productTags": []
   },
   {
@@ -272,6 +390,7 @@
         "productVendorUrl": "https://www.tactics.com/toy-machine/thrasher-girlfriend-825-skateboard-deck/white"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -287,6 +406,7 @@
         "productVendorUrl": "https://www.tactics.com/evisen/tiger-in-the-shining-night-838-skateboard-deck"
       }
     ],
+    "productBrand": "Evisen",
     "productTags": []
   },
   {
@@ -307,6 +427,7 @@
         "productVendorUrl": "https://www.tactics.com/tightbooth/doggy-piss-825-skateboard-deck"
       }
     ],
+    "productBrand": "Tightbooth",
     "productTags": []
   },
   {
@@ -322,6 +443,7 @@
         "productVendorUrl": "https://www.zumiez.com/tightbooth-polie-checkup-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Tightbooth",
     "productTags": []
   },
   {
@@ -337,6 +459,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/tino-razo-guest-pro-862-wheel-wells-skateboard-deck/red-yellow-fade"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -352,6 +475,7 @@
         "productVendorUrl": "https://www.tactics.com/wknd-skateboards/tom-k-bliss-825-skateboard-deck"
       }
     ],
+    "productBrand": "WKND",
     "productTags": []
   },
   {
@@ -367,6 +491,7 @@
         "productVendorUrl": "https://www.tactics.com/wknd-skateboards/tom-k-psycho-8125-skateboard-deck/purple"
       }
     ],
+    "productBrand": "WKND",
     "productTags": []
   },
   {
@@ -382,6 +507,7 @@
         "productVendorUrl": "https://www.tactics.com/lovesick/tomorrows-teardrop-8375-skateboard-deck"
       }
     ],
+    "productBrand": "Lovesick",
     "productTags": []
   },
   {
@@ -397,6 +523,7 @@
         "productVendorUrl": "https://www.tactics.com/umaverse/toner-838-skateboard-deck"
       }
     ],
+    "productBrand": "Umaverse",
     "productTags": []
   },
   {
@@ -412,6 +539,7 @@
         "productVendorUrl": "https://www.tactics.com/meow/torres-thriving-80-skateboard-deck"
       }
     ],
+    "productBrand": "Meow",
     "productTags": []
   },
   {
@@ -427,6 +555,7 @@
         "productVendorUrl": "https://www.zumiez.com/torro-heinert-staten-island-ferry-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Torro Skateboards",
     "productTags": []
   },
   {
@@ -442,6 +571,7 @@
         "productVendorUrl": "https://www.tactics.com/welcome/townley-contemplation-100-early-grab-shape-skateboard-deck/black-gold-foil"
       }
     ],
+    "productBrand": "Welcome",
     "productTags": []
   },
   {
@@ -462,6 +592,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/toy-machine-jeremy-leabres-ladouceur-deck?variant=50578531221777"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -477,6 +608,7 @@
         "productVendorUrl": "https://www.zumiez.com/toy-machine-hoban-brain-punch-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -497,6 +629,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/toy-machine-fists-deck?variant=50578472075537"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -512,6 +645,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/toy-machine-sect-eye-deck?variant=50578481119505"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -532,6 +666,7 @@
         "productVendorUrl": "https://www.tactics.com/toy-machine/templeton-graffiti-95-skateboard-deck"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -547,6 +682,7 @@
         "productVendorUrl": "https://www.zumiez.com/toy-machine-welcome-to-hell-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -562,6 +698,7 @@
         "productVendorUrl": "https://www.zumiez.com/toy-machine-willard-one-hit-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -577,6 +714,7 @@
         "productVendorUrl": "https://www.zumiez.com/toy-machine-x-thrasher-bury-the-hatchet-8-8-skateboard-deck.html"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -597,6 +735,7 @@
         "productVendorUrl": "https://www.tactics.com/toy-machine/thrasher-monster-gram-95-skateboard-deck"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -612,6 +751,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/traffic-skateboards-cover-the-earth-deck?variant=50974153670929"
       }
     ],
+    "productBrand": "Traffic Skateboards",
     "productTags": []
   },
   {
@@ -627,6 +767,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/traffic-skateboards-james-sayres-fire-hazard-deck-96978?variant=50010976518417"
       }
     ],
+    "productBrand": "Traffic Skateboards",
     "productTags": []
   },
   {
@@ -642,6 +783,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/traffic-skateboards-kevin-coakley-be-here-now-deck-96976?variant=50010972389649"
       }
     ],
+    "productBrand": "Traffic Skateboards",
     "productTags": []
   },
   {
@@ -657,6 +799,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/traffic-skateboards-ricky-oyola-tru-age-coaster-deck-96977?variant=50010981990673"
       }
     ],
+    "productBrand": "Traffic Skateboards",
     "productTags": []
   },
   {
@@ -672,6 +815,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/trees-skateboard-deck/mint"
       }
     ],
+    "productBrand": "Tactics",
     "productTags": []
   },
   {
@@ -687,96 +831,7 @@
         "productVendorUrl": "https://www.tactics.com/opera/trey-dramatic-825-skateboard-deck"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "trial-boline-shape-skateboard-deck",
-    "productName": "Trial Boline Shape Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401895/ldjsonbuild/qoncjgr71robocm0gcvt.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "64.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/welcome/trial-95-boline-20-shape-skateboard-deck/black-silver-foil"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "trolley-full-se-shape-skateboard-deck",
-    "productName": "Trolley Full SE Shape Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746403057/ldjsonbuild/dsyrc171co9mfa4lgo9c.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "69.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/real/trolley-825-full-se-shape-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "trujillo-thrasher-skateboard-deck",
-    "productName": "Trujillo Thrasher Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401292/ldjsonbuild/kv5pxblhlzh8y8dbwl41.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "76.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/anti-hero/trujillo-thrasher-85-skateboard-deck/navy"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "trumpets-football-shape-skateboard-deck",
-    "productName": "Trumpets Football Shape Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396326/ldjsonbuild/vfrrjpfa97hlfcroldpy.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "74.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/polar-skate-co/trumpets-875-football-shape-skateboard-deck/orange"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "trumpets-skateboard-deck",
-    "productName": "Trumpets Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397645/ldjsonbuild/o6odlq6mxebzmiq9kxaa.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "71.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/polar-skate-co/trumpets-825-skateboard-deck/orange"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "turner-yo-chill-skateboard-deck",
-    "productName": "Turner Yo Chill Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392344/ldjsonbuild/zthnwpwkp5izcqsiogng.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "64.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/sk8mafia/turner-yo-chill-825-skateboard-deck"
-      }
-    ],
+    "productBrand": "Opera",
     "productTags": []
   }
 ]

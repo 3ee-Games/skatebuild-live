@@ -1,5 +1,101 @@
 [
   {
+    "slug": "screaming-mouth-ply-birch-skateboard-deck",
+    "productName": "Screaming Mouth 7 Ply Birch Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402540/ldjsonbuild/iitiob1oxnj63q16tq2g.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "53.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/santa-cruz/screaming-mouth-80-7-ply-birch-skateboard-deck"
+      }
+    ],
+    "productBrand": "Santa Cruz",
+    "productTags": []
+  },
+  {
+    "slug": "sean-pablo-flexerx-skateboard-deck",
+    "productName": "Sean Pablo Flexerx Deck",
+    "cloudinaryUrl": "",
+    "imageWidth": 200,
+    "imageHeight": 200,
+    "productPrices": [
+      {
+        "tactics": "72.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/edglrd/sean-pablo-flexerx-80-skateboard-deck"
+      }
+    ],
+    "productBrand": "EDGLRD",
+    "productTags": []
+  },
+  {
+    "slug": "sect-eye-skateboard-deck",
+    "productName": "Sect Eye Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402132/ldjsonbuild/wi7ngacrkngbwnvgvi67.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "48.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/toy-machine/sect-eye-813-skateboard-deck/bloodshot"
+      }
+    ],
+    "productBrand": "Toy Machine",
+    "productTags": []
+  },
+  {
+    "slug": "seikaika-skateboard-deck",
+    "productName": "Seikaika Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400206/ldjsonbuild/qyj4mqbxyekmrjkrubih.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "74.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/evisen/seikaika-85-skateboard-deck"
+      }
+    ],
+    "productBrand": "Evisen",
+    "productTags": []
+  },
+  {
+    "slug": "sempre-skateboard-deck",
+    "productName": "Sempre Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746392338/ldjsonbuild/yuvuu3wzxkn0hzo3gibv.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "58.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/space-program/sempre-838-skateboard-deck/orange"
+      }
+    ],
+    "productBrand": "Space Program",
+    "productTags": []
+  },
+  {
+    "slug": "sensory-lab-skateboard-deck",
+    "productName": "Sensory Lab 11 Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397012/ldjsonbuild/xvhpwahcexje6nfxhjje.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "62.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/killing-floor-skateboards/sensory-lab-11-825-skateboard-deck"
+      }
+    ],
+    "productBrand": "The Killing Floor",
+    "productTags": []
+  },
+  {
     "slug": "servold-biker-skateboard-deck",
     "productName": "Servold Biker Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397713/ldjsonbuild/sf3obosjpccyograqyyj.webp",
@@ -12,6 +108,7 @@
         "productVendorUrl": "https://www.tactics.com/foundation/servold-biker-825-skateboard-deck"
       }
     ],
+    "productBrand": "Foundation",
     "productTags": []
   },
   {
@@ -27,6 +124,7 @@
         "productVendorUrl": "https://www.tactics.com/foundation/servold-cowboy-838-skateboard-deck"
       }
     ],
+    "productBrand": "Foundation",
     "productTags": []
   },
   {
@@ -42,6 +140,7 @@
         "productVendorUrl": "https://www.tactics.com/foundation/servold-feral-813-skateboard-deck"
       }
     ],
+    "productBrand": "Foundation",
     "productTags": []
   },
   {
@@ -57,6 +156,7 @@
         "productVendorUrl": "https://www.tactics.com/foundation/servold-the-meeting-85-skateboard-deck"
       }
     ],
+    "productBrand": "Foundation",
     "productTags": []
   },
   {
@@ -77,6 +177,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/dgk-john-shanahan-thrift-deck?variant=51297382727953"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -92,6 +193,7 @@
         "productVendorUrl": "https://www.tactics.com/dgk/shanahan-thrift-80-skateboard-deck/yellow"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -112,6 +214,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/april-skateboards-shane-oneill-leopard-deck?variant=51474244272401"
       }
     ],
+    "productBrand": "April",
     "productTags": []
   },
   {
@@ -127,6 +230,7 @@
         "productVendorUrl": "https://www.tactics.com/anti-hero/shaped-eagle-836-sardine-shape-skateboard-deck/sardine"
       }
     ],
+    "productBrand": "Anti-Hero",
     "productTags": []
   },
   {
@@ -142,6 +246,7 @@
         "productVendorUrl": "https://www.tactics.com/limosine/sharpie-86-skateboard-deck/yellow"
       }
     ],
+    "productBrand": "Limosine",
     "productTags": []
   },
   {
@@ -157,6 +262,7 @@
         "productVendorUrl": "https://www.zumiez.com/sheisty-beware-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "$hei$ty",
     "productTags": []
   },
   {
@@ -172,6 +278,7 @@
         "productVendorUrl": "https://www.zumiez.com/sheisty-face-tat-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "$hei$ty",
     "productTags": []
   },
   {
@@ -187,6 +294,7 @@
         "productVendorUrl": "https://www.zumiez.com/sheisty-sinner-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "$hei$ty",
     "productTags": []
   },
   {
@@ -202,6 +310,7 @@
         "productVendorUrl": "https://www.zumiez.com/sheisty-slayer-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "$hei$ty",
     "productTags": []
   },
   {
@@ -217,6 +326,7 @@
         "productVendorUrl": "https://www.tactics.com/heroin/shelloween-2-101-skateboard-deck"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -232,6 +342,7 @@
         "productVendorUrl": "https://www.tactics.com/magenta/shogo-zama-relic-84-skateboard-deck"
       }
     ],
+    "productBrand": "Magenta",
     "productTags": []
   },
   {
@@ -247,6 +358,7 @@
         "productVendorUrl": "https://www.tactics.com/evisen/shor-abnormal-turbo-1034-skateboard-deck"
       }
     ],
+    "productBrand": "Evisen",
     "productTags": []
   },
   {
@@ -262,6 +374,7 @@
         "productVendorUrl": "https://www.tactics.com/black-label/shredded-barcode-90-custom-egg-shape-skateboard-deck/yellow"
       }
     ],
+    "productBrand": "Black Label",
     "productTags": []
   },
   {
@@ -277,6 +390,7 @@
         "productVendorUrl": "https://www.tactics.com/black-label/shredded-barcode-825-skateboard-deck/green"
       }
     ],
+    "productBrand": "Black Label",
     "productTags": []
   },
   {
@@ -292,6 +406,7 @@
         "productVendorUrl": "https://www.tactics.com/habitat/silas-jazz-leeb-85-skateboard-deck"
       }
     ],
+    "productBrand": "Habitat",
     "productTags": []
   },
   {
@@ -307,6 +422,7 @@
         "productVendorUrl": "https://www.tactics.com/5boro/singh-mermaid-8375-skateboard-deck"
       }
     ],
+    "productBrand": "5boro",
     "productTags": []
   },
   {
@@ -322,6 +438,7 @@
         "productVendorUrl": "https://www.tactics.com/5boro/singh-5ball-8125-skateboard-deck/brown"
       }
     ],
+    "productBrand": "5boro",
     "productTags": []
   },
   {
@@ -337,6 +454,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/sk8mafia-alexis-ramirez-paisley-foil-deck?variant=51362836873489"
       }
     ],
+    "productBrand": "Sk8Mafia",
     "productTags": []
   },
   {
@@ -352,6 +470,7 @@
         "productVendorUrl": "https://www.zumiez.com/sk8mafia-kremer-hiya-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Sk8mafia",
     "productTags": []
   },
   {
@@ -367,6 +486,7 @@
         "productVendorUrl": "https://www.zumiez.com/sk8mafia-kremer-no-service-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Sk8mafia",
     "productTags": []
   },
   {
@@ -382,6 +502,7 @@
         "productVendorUrl": "https://www.zumiez.com/sk8mafia-kremer-twisted-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Sk8mafia",
     "productTags": []
   },
   {
@@ -397,6 +518,7 @@
         "productVendorUrl": "https://www.zumiez.com/sk8mafia-lawyer-good-luck-8-3-skateboard-deck.html"
       }
     ],
+    "productBrand": "Sk8mafia",
     "productTags": []
   },
   {
@@ -412,6 +534,7 @@
         "productVendorUrl": "https://www.zumiez.com/sk8mafia-logo-12-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Sk8mafia",
     "productTags": []
   },
   {
@@ -427,6 +550,7 @@
         "productVendorUrl": "https://www.zumiez.com/sk8mafia-love-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Sk8mafia",
     "productTags": []
   },
   {
@@ -452,6 +576,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/sk8mafia-tj-rogers-represent-deck?variant=51124419723537"
       }
     ],
+    "productBrand": "Sk8mafia",
     "productTags": []
   },
   {
@@ -467,6 +592,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/sk8mafia-strick9-willms-deck?variant=50634455777553"
       }
     ],
+    "productBrand": "Sk8Mafia",
     "productTags": []
   },
   {
@@ -482,6 +608,7 @@
         "productVendorUrl": "https://www.zumiez.com/sk8mafia-surrey-great-white-buffalo-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Sk8mafia",
     "productTags": []
   },
   {
@@ -497,6 +624,7 @@
         "productVendorUrl": "https://www.zumiez.com/sk8mafia-surrey-hiya-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Sk8mafia",
     "productTags": []
   },
   {
@@ -512,6 +640,7 @@
         "productVendorUrl": "https://www.zumiez.com/sk8mafia-team-icon-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Sk8mafia",
     "productTags": []
   },
   {
@@ -527,6 +656,7 @@
         "productVendorUrl": "https://www.zumiez.com/sk8mafia-turner-yochill-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Sk8mafia",
     "productTags": []
   },
   {
@@ -542,6 +672,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/sk8mafia-tyler-surrey-paisley-foil-deck?variant=51362826322193"
       }
     ],
+    "productBrand": "Sk8Mafia",
     "productTags": []
   },
   {
@@ -557,6 +688,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/sk8mafia-wes-kremer-stay-connected-deck?variant=51124425228561"
       }
     ],
+    "productBrand": "Sk8Mafia",
     "productTags": []
   },
   {
@@ -572,6 +704,7 @@
         "productVendorUrl": "https://www.zumiez.com/sk8mafia-willms-sent-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Sk8mafia",
     "productTags": []
   },
   {
@@ -587,6 +720,7 @@
         "productVendorUrl": "https://www.tactics.com/hammers-usa-skateboards/2g-85-skateboard-deck"
       }
     ],
+    "productBrand": "Hammers USA",
     "productTags": []
   },
   {
@@ -602,6 +736,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/2cents-skateboards-ryan-decenzo-monkey-business-carbon-fiber-signed-deck-copy?variant=50924906512657"
       }
     ],
+    "productBrand": "2Cents Skateboards",
     "productTags": []
   },
   {
@@ -617,6 +752,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/2cents-skateboards-tyson-bowerbank-obverse-deck?variant=50924911395089"
       }
     ],
+    "productBrand": "2Cents Skateboards",
     "productTags": []
   },
   {
@@ -632,6 +768,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/skatepark-of-tampa-oversized-circle-city-deck-96018?variant=49244138733841"
       }
     ],
+    "productBrand": "Skatepark of Tampa",
     "productTags": []
   },
   {
@@ -647,6 +784,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/skatepark-of-tampa-rally-car-deck-94858?variant=48246964093201"
       }
     ],
+    "productBrand": "Skatepark of Tampa",
     "productTags": []
   },
   {
@@ -662,6 +800,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/skatepark-of-tampa-rope-logo-screen-printed-deck-86420?variant=48245821276433"
       }
     ],
+    "productBrand": "Skatepark of Tampa",
     "productTags": []
   },
   {
@@ -677,96 +816,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-monica-airlines/skater-hall-of-fame-110-ltd-skateboard-deck"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "skeleton-flight-shape-skateboard-deck",
-    "productName": "Skeleton Flight 244W Shape Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398218/ldjsonbuild/ar0lmt9qh7wfq0ao5jkq.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "109.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/powell-peralta/skeleton-863-flight-244w-shape-skateboard-deck/gold-foil"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "sketch-skateboard-deck",
-    "productName": "Sketch Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401959/ldjsonbuild/ppe0xk7cmtqsaxtpkska.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "69.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/gx1000/sketch-8375-skateboard-deck/black"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "skoom-logo-skateboard-deck",
-    "productName": "Skoom Logo Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402529/ldjsonbuild/sd60hkyistvzpn9rz1bc.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "71.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/frog/skoom-logo-85-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "skull-blood-leo-guest-pro-skateboard-deck",
-    "productName": "3 Skull Blood Leo Guest Pro Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399737/ldjsonbuild/un00ddpinigm1fwfkufp.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "71.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/zero/3-skull-blood-85-leo-guest-pro-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "skull-skateboard-deck",
-    "productName": "Skull Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399250/ldjsonbuild/iagt35jnqsrvkq7tpx0r.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "51.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/cleaver/skull-8375-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "skull-skrew-skateboard-deck",
-    "productName": "Skull Skrew 3 Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396611/ldjsonbuild/ajjxogrwncyuskgk0avf.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "71.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/shake-junt/skull-skrew-3-825-skateboard-deck"
-      }
-    ],
+    "productBrand": "Santa Monica Airlines",
     "productTags": []
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "slug": "batman-knockout-skateboard-deck",
+    "productName": "Batman Knockout Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398680/ldjsonbuild/aipkptuizaxhdd6wmoqj.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "68.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/welcome/batman-knockout-825-skateboard-deck"
+      }
+    ],
+    "productBrand": "Welcome",
+    "productTags": []
+  },
+  {
     "slug": "batman-talons-dark-lord-shape-skateboard-deck",
     "productName": "Batman Talons Dark Lord Shape Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396617/ldjsonbuild/g8jmdhmyikkfupxevcyf.webp",
@@ -12,6 +28,7 @@
         "productVendorUrl": "https://www.tactics.com/welcome/batman-talons-975-dark-lord-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Welcome",
     "productTags": []
   },
   {
@@ -27,6 +44,7 @@
         "productVendorUrl": "https://www.tactics.com/welcome/bauhaus-bela-96-gaia-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Welcome",
     "productTags": []
   },
   {
@@ -42,6 +60,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/beat-street-85-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -57,6 +76,7 @@
         "productVendorUrl": "https://www.tactics.com/fucking-awesome/beatrice-painting-825-skateboard-deck/yellow"
       }
     ],
+    "productBrand": "Fucking Awesome",
     "productTags": []
   },
   {
@@ -72,6 +92,7 @@
         "productVendorUrl": "https://www.tactics.com/welcome/beetlejuice-lydia-96-gaia-shape-skateboard-deck/black-white-dip"
       }
     ],
+    "productBrand": "Welcome",
     "productTags": []
   },
   {
@@ -87,6 +108,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/belle-806-easy-rider-skateboard-deck"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -107,6 +129,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/krooked-belle-deck?variant=50574342586641"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -122,6 +145,7 @@
         "productVendorUrl": "https://www.tactics.com/hopps-skateboards/bender-man-825-skateboard-deck/green"
       }
     ],
+    "productBrand": "Hopps",
     "productTags": []
   },
   {
@@ -137,6 +161,7 @@
         "productVendorUrl": "https://www.tactics.com/girl/bennett-93-til-85-skateboard-deck/lovers"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -152,6 +177,7 @@
         "productVendorUrl": "https://www.tactics.com/anti-hero/beres-old-west-84-skateboard-deck/natural"
       }
     ],
+    "productBrand": "Anti-Hero",
     "productTags": []
   },
   {
@@ -167,6 +193,7 @@
         "productVendorUrl": "https://www.tactics.com/fucking-awesome/berle-kick-in-face-85-skateboard-deck/blue"
       }
     ],
+    "productBrand": "Fucking Awesome",
     "productTags": []
   },
   {
@@ -182,6 +209,7 @@
         "productVendorUrl": "https://www.tactics.com/quasi-skateboards/big-corp-80-skateboard-deck"
       }
     ],
+    "productBrand": "Quasi",
     "productTags": []
   },
   {
@@ -197,6 +225,7 @@
         "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/big-ol-j-8375-egg-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Jacuzzi Unlimited",
     "productTags": []
   },
   {
@@ -212,6 +241,7 @@
         "productVendorUrl": "https://www.tactics.com/magenta/big-plant-85-skateboard-deck/orange"
       }
     ],
+    "productBrand": "Magenta",
     "productTags": []
   },
   {
@@ -227,6 +257,7 @@
         "productVendorUrl": "https://www.tactics.com/fixer/big-spider-95-skateboard-deck/red"
       }
     ],
+    "productBrand": "Fixer",
     "productTags": []
   },
   {
@@ -242,6 +273,7 @@
         "productVendorUrl": "https://www.tactics.com/the-heated-wheel/bio-surf-60-cork-top-polarizer-skateboard-deck"
       }
     ],
+    "productBrand": "The Heated Wheel",
     "productTags": []
   },
   {
@@ -262,6 +294,7 @@
         "productVendorUrl": "https://www.warehouseskateboards.com/birdhouse-skateboards-aaron-jaws-homoki-red-shift-skateboard-deck-8.38x32"
       }
     ],
+    "productBrand": "Birdhouse",
     "productTags": []
   },
   {
@@ -282,6 +315,7 @@
         "productVendorUrl": "https://www.birdhouseskateboards.com/products/david-loy-divine-aura-deck-8-5"
       }
     ],
+    "productBrand": "Birdhouse",
     "productTags": []
   },
   {
@@ -302,6 +336,7 @@
         "productVendorUrl": "https://www.birdhouseskateboards.com/products/elliot-sloan-provan-deck-8-38"
       }
     ],
+    "productBrand": "Birdhouse",
     "productTags": []
   },
   {
@@ -322,6 +357,7 @@
         "productVendorUrl": "https://www.birdhouseskateboards.com/products/felipe-nunes-red-shift-8-25"
       }
     ],
+    "productBrand": "Birdhouse",
     "productTags": []
   },
   {
@@ -337,6 +373,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/birdhouse-greyson-fletcher-squared-deck?variant=51244643614993"
       }
     ],
+    "productBrand": "Birdhouse",
     "productTags": []
   },
   {
@@ -352,6 +389,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Birdhouse_Hawk_Full_Skull_Deck/descpage-BHFSDK.html"
       }
     ],
+    "productBrand": "Birdhouse",
     "productTags": []
   },
   {
@@ -367,6 +405,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Birdhouse_Hawk_Gargoyle_Deck/descpage-BHGDK.html"
       }
     ],
+    "productBrand": "Birdhouse",
     "productTags": []
   },
   {
@@ -382,6 +421,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/birdhouse-lizzie-armanto-chain-deck?variant=51491557310737"
       }
     ],
+    "productBrand": "Birdhouse",
     "productTags": []
   },
   {
@@ -397,6 +437,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/birdhouse-tom-schaar-red-shift-deck?variant=51491566518545"
       }
     ],
+    "productBrand": "Birdhouse",
     "productTags": []
   },
   {
@@ -412,6 +453,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/birdhouse-tony-hawk-falcon-1-deck?variant=51491555574033"
       }
     ],
+    "productBrand": "Birdhouse",
     "productTags": []
   },
   {
@@ -427,6 +469,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/birdhouse-tony-hawk-mcaqueeb-shaped-deck?variant=51078540689681"
       }
     ],
+    "productBrand": "Birdhouse",
     "productTags": []
   },
   {
@@ -442,6 +485,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Black_Label_Shredded_Barcode_Deck/descpage-BLSHBC10DK.html"
       }
     ],
+    "productBrand": "Black Label",
     "productTags": []
   },
   {
@@ -457,6 +501,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Black_Label_Vulture_Curb_Club_Deck/descpage-BLVCC95DK.html"
       }
     ],
+    "productBrand": "Black Label",
     "productTags": []
   },
   {
@@ -472,6 +517,7 @@
         "productVendorUrl": "https://www.tactics.com/blood-wizard/black-script-825-skateboard-deck"
       }
     ],
+    "productBrand": "Blood Wizard",
     "productTags": []
   },
   {
@@ -487,6 +533,7 @@
         "productVendorUrl": "https://www.zumiez.com/blackout-alien-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Blackout Skateboards",
     "productTags": []
   },
   {
@@ -502,6 +549,7 @@
         "productVendorUrl": "https://www.zumiez.com/blackout-doberman-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Blackout Skateboards",
     "productTags": []
   },
   {
@@ -517,6 +565,7 @@
         "productVendorUrl": "https://www.zumiez.com/blackout-glowpool-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Blackout Skateboards",
     "productTags": []
   },
   {
@@ -532,6 +581,7 @@
         "productVendorUrl": "https://www.zumiez.com/blackout-neon-dragon-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Blackout Skateboards",
     "productTags": []
   },
   {
@@ -547,6 +597,7 @@
         "productVendorUrl": "https://www.zumiez.com/blackout-2000-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Blackout Skateboards",
     "productTags": []
   },
   {
@@ -562,6 +613,7 @@
         "productVendorUrl": "https://www.tactics.com/quasi-skateboards/bledsoe-mush-85-skateboard-deck"
       }
     ],
+    "productBrand": "Quasi",
     "productTags": []
   },
   {
@@ -577,6 +629,7 @@
         "productVendorUrl": "https://www.zumiez.com/blind-lil-reaper-desert-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Blind Skateboards",
     "productTags": []
   },
   {
@@ -592,6 +645,7 @@
         "productVendorUrl": "https://www.zumiez.com/blind-og-wallpaper-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Blind Skateboards",
     "productTags": []
   },
   {
@@ -607,6 +661,7 @@
         "productVendorUrl": "https://www.tactics.com/gx1000/bloody-gold-8625-skateboard-deck/navy"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -622,6 +677,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/boards-r-us-skateboard-deck"
       }
     ],
+    "productBrand": "Tactics",
     "productTags": []
   },
   {
@@ -637,6 +693,7 @@
         "productVendorUrl": "https://www.tactics.com/alien-workshop/bomb-head-ktc-mache-7875-plexi-lam-reissue-skateboard-deck"
       }
     ],
+    "productBrand": "Alien Workshop",
     "productTags": []
   },
   {
@@ -652,6 +709,7 @@
         "productVendorUrl": "https://www.tactics.com/powell-peralta/bones-brigade-caballero-series-16-1009-ltd-skateboard-deck"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -667,6 +725,7 @@
         "productVendorUrl": "https://www.tactics.com/dgk/boo-breezy-x-825-skateboard-deck"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -682,6 +741,7 @@
         "productVendorUrl": "https://www.tactics.com/dgk/boo-ghetto-gt-79-skateboard-deck"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -697,6 +757,7 @@
         "productVendorUrl": "https://www.tactics.com/dgk/boo-peace-825-skateboard-deck"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -712,6 +773,7 @@
         "productVendorUrl": "https://www.tactics.com/polar-skate-co/boserio-jesus-838-skateboard-deck"
       }
     ],
+    "productBrand": "Polar Skate Co.",
     "productTags": []
   },
   {
@@ -727,6 +789,7 @@
         "productVendorUrl": "https://www.tactics.com/polar-skate-co/boserio-voices-85-p2-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Polar Skate Co.",
     "productTags": []
   },
   {
@@ -742,6 +805,7 @@
         "productVendorUrl": "https://www.tactics.com/opera/bouquet-87-skateboard-deck"
       }
     ],
+    "productBrand": "Opera",
     "productTags": []
   },
   {
@@ -757,21 +821,7 @@
         "productVendorUrl": "https://www.tactics.com/fucking-awesome/bradley-ganesh-838-skateboard-deck"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "brady-worker-skateboard-deck",
-    "productName": "Brady Worker Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746399755/ldjsonbuild/hkofhs139cb0jy3kqubp.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "74.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/polar-skate-co/brady-worker-8625-skateboard-deck"
-      }
-    ],
+    "productBrand": "Fucking Awesome",
     "productTags": []
   }
 ]

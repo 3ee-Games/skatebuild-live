@@ -1,5 +1,21 @@
 [
   {
+    "slug": "david-strenstrom-tape-panther-d1-wheel-wells-shape",
+    "productName": "David Strenström Tape & Panther D1 Wheel Wells Shape",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400815/ldjsonbuild/qwwxmkozidqo29cnzsoo.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "76.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/polar-skate-co/david-strenstrm-tape-panther-925-d1-wheel-wells-shape"
+      }
+    ],
+    "productBrand": "Polar Skate Co.",
+    "productTags": []
+  },
+  {
     "slug": "david-strenstrom-toba-skateboard-deck",
     "productName": "David Strenström Toba Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402316/ldjsonbuild/ww7zip8kvfduwvucwzrd.webp",
@@ -12,6 +28,7 @@
         "productVendorUrl": "https://www.tactics.com/polar-skate-co/david-strenstrm-toba-825-skateboard-deck"
       }
     ],
+    "productBrand": "Polar Skate Co.",
     "productTags": []
   },
   {
@@ -27,6 +44,7 @@
         "productVendorUrl": "https://www.tactics.com/girl/davis-serif-825-skateboard-deck"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -42,6 +60,7 @@
         "productVendorUrl": "https://www.tactics.com/real/dbx-oval-85-basalt-skateboard-deck"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -57,6 +76,7 @@
         "productVendorUrl": "https://www.tactics.com/heroin/dead-dave-allegory-of-fear-101-skateboard-deck"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -72,6 +92,7 @@
         "productVendorUrl": "https://www.tactics.com/heroin/dead-dave-bug-101-skateboard-deck/yellow"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -87,6 +108,7 @@
         "productVendorUrl": "https://www.tactics.com/heroin/dead-dave-hellscape-101-skateboard-deck"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -102,6 +124,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/dead-moon-825-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -117,6 +140,7 @@
         "productVendorUrl": "https://www.tactics.com/frog/dear-george-2-85-skateboard-deck"
       }
     ],
+    "productBrand": "Frog",
     "productTags": []
   },
   {
@@ -132,6 +156,7 @@
         "productVendorUrl": "https://www.zumiez.com/deathwish-big-boy-foy-new-balance-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -147,6 +172,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-brian-odwyer-all-seeing-deck?variant=51491358605585"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -162,6 +188,7 @@
         "productVendorUrl": "https://www.zumiez.com/deathwish-delfino-incarceration-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -177,6 +204,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-el-dorado-spray-deck?variant=51491371221265"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -192,6 +220,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-erik-ellington-twins-deck?variant=51491365716241"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -207,6 +236,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-erik-ellington-twins-shaped-deck?variant=51491369320721"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -222,6 +252,7 @@
         "productVendorUrl": "https://www.zumiez.com/deathwish-foy-breaking-and-entering-8-35-skateboard-deck.html"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -237,6 +268,7 @@
         "productVendorUrl": "https://www.zumiez.com/deathwish-foy-skull-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -257,6 +289,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-jamie-foy-mash-the-throttle-deck?variant=51491329605905"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -272,6 +305,7 @@
         "productVendorUrl": "https://www.zumiez.com/deathwish-hayes-mean-machine-8-125-skateboard-deck.html"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -287,6 +321,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-jade-gator-deck?variant=51491374170385"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -302,6 +337,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-jake-hayes-never-breathe-again-deck?variant=51491341992209"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -317,6 +353,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-jamie-foy-ammonia-burn-deck?variant=51491329507601"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -332,6 +369,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-jamie-foy-deerfield-beach-champ-deck?variant=51078306988305"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -347,6 +385,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-jamie-foy-highway-man-deck?variant=51491335143697"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -362,6 +401,7 @@
         "productVendorUrl": "https://www.zumiez.com/deathwish-kirby-dealers-choice-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -382,6 +422,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/kirby-passing-through-8125-skateboard-deck"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -397,6 +438,7 @@
         "productVendorUrl": "https://www.zumiez.com/deathwish-kirby-your-light-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -412,6 +454,7 @@
         "productVendorUrl": "https://www.zumiez.com/deathwish-knitted-deathspray-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -427,6 +470,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-neen-williams-we-fell-into-it-deck?variant=51491341304081"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -442,6 +486,7 @@
         "productVendorUrl": "https://www.zumiez.com/deathwish-odwyer-breaking-and-entering-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -462,6 +507,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/odwyer-skull-8475-skateboard-deck"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -477,6 +523,7 @@
         "productVendorUrl": "https://www.zumiez.com/deathwish-pedro-delfino-seven-trumpets-8-125-skateboard-deck.html"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -492,6 +539,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-taylor-kirby-cathouse-deck?variant=51491363062033"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -507,6 +555,7 @@
         "productVendorUrl": "https://www.zumiez.com/deathwish-yuri-breaking-and-entering-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -522,6 +571,7 @@
         "productVendorUrl": "https://www.zumiez.com/deathwish-yuri-skull-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -537,6 +587,7 @@
         "productVendorUrl": "https://www.tactics.com/hopps-skateboards/del-negro-artist-series-825-skateboard-deck/teal"
       }
     ],
+    "productBrand": "Hopps",
     "productTags": []
   },
   {
@@ -552,6 +603,7 @@
         "productVendorUrl": "https://www.tactics.com/hopps-skateboards/del-negro-throwie-825-skateboard-deck/red"
       }
     ],
+    "productBrand": "Hopps",
     "productTags": []
   },
   {
@@ -567,6 +619,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/delfino-devil-mask-825-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -582,6 +635,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/delfino-switchblade-comb-825-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -597,6 +651,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/delfino-voided-825-skateboard-deck"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -617,6 +672,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-pedro-delfino-whiplash-deck?variant=51491359686929"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -632,6 +688,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/deluxe-ssd-2025-shop-keeper-deck?variant=51105966850321"
       }
     ],
+    "productBrand": "Deluxe",
     "productTags": []
   },
   {
@@ -647,6 +704,7 @@
         "productVendorUrl": "https://www.tactics.com/hopps-skateboards/denley-throwie-825-skateboard-deck/red"
       }
     ],
+    "productBrand": "Hopps",
     "productTags": []
   },
   {
@@ -662,6 +720,7 @@
         "productVendorUrl": "https://www.tactics.com/welcome/depths-975-dark-lord-shape-skateboard-deck/red-dip"
       }
     ],
+    "productBrand": "Welcome",
     "productTags": []
   },
   {
@@ -677,6 +736,7 @@
         "productVendorUrl": "https://www.tactics.com/heroin/dern-hellscape-90-skateboard-deck/holo"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -692,6 +752,7 @@
         "productVendorUrl": "https://www.tactics.com/heroin/dern-hurricane-85-skateboard-deck"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -707,6 +768,7 @@
         "productVendorUrl": "https://www.tactics.com/heroin/dern-skeleton-85-skateboard-deck"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -722,6 +784,7 @@
         "productVendorUrl": "https://www.tactics.com/gx1000/detention-80-skateboard-deck"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -742,6 +805,7 @@
         "productVendorUrl": "https://www.tactics.com/dgk/bandera-85-skateboard-deck"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -757,21 +821,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-bendicion-8-25-skateboard-deck.html"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "dgk-blessed-skateboard-deck",
-    "productName": "DGK Blessed Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461650/zumiezbuild/awiwd5xlcxxlkwhwbb61.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "59.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/dgk-blessed-8-06-skateboard-deck.html"
-      }
-    ],
+    "productBrand": "DGK",
     "productTags": []
   }
 ]

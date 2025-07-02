@@ -1,5 +1,69 @@
 [
   {
+    "slug": "o-dwyer-all-seeing-skateboard-deck",
+    "productName": "ODwyer All Seeing Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400328/ldjsonbuild/hqprrrimndokxknokehz.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "78.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/deathwish/odwyer-all-seeing-85-skateboard-deck"
+      }
+    ],
+    "productBrand": "Deathwish",
+    "productTags": []
+  },
+  {
+    "slug": "o-dwyer-duality-skateboard-deck",
+    "productName": "ODwyer Duality Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400563/ldjsonbuild/b8usbcrv56z2sd01sh86.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "73.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/deathwish/odwyer-duality-85-skateboard-deck"
+      }
+    ],
+    "productBrand": "Deathwish",
+    "productTags": []
+  },
+  {
+    "slug": "o-dwyer-spirit-animal-thrill-ride-skateboard-deck",
+    "productName": "ODwyer Spirit Animal Thrill Ride Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746397971/ldjsonbuild/fnde8kfoz6fcgmcvbglm.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "73.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/deathwish/odwyer-spirit-animal-thrill-ride-80-skateboard-deck"
+      }
+    ],
+    "productBrand": "Deathwish",
+    "productTags": []
+  },
+  {
+    "slug": "oaky-skateboard-deck",
+    "productName": "Oaky Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746400069/ldjsonbuild/gbgnzicvjrspyykrr9b8.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "51.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/cleaver/oaky-85-skateboard-deck/white"
+      }
+    ],
+    "productBrand": "Cleaver",
+    "productTags": []
+  },
+  {
     "slug": "obedience-denied-skateboard-deck",
     "productName": "Obedience Denied Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746398978/ldjsonbuild/pjkupzxf1mddcaufywn1.webp",
@@ -12,6 +76,7 @@
         "productVendorUrl": "https://www.tactics.com/real/obedience-denied-85-skateboard-deck/yellow"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -27,6 +92,7 @@
         "productVendorUrl": "https://www.tactics.com/gx1000/og-logo-stain-825-skateboard-deck/white-grey"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -42,6 +108,7 @@
         "productVendorUrl": "https://www.tactics.com/powell-peralta/og-rat-bones-100-wheel-wells-skateboard-deck/olive-green"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -57,6 +124,7 @@
         "productVendorUrl": "https://www.tactics.com/flip/oliveira-flag-8125-skateboard-deck"
       }
     ],
+    "productBrand": "Flip",
     "productTags": []
   },
   {
@@ -72,6 +140,7 @@
         "productVendorUrl": "https://www.tactics.com/hockey/onyx-ii-86-shaped-skateboard-deck"
       }
     ],
+    "productBrand": "Hockey",
     "productTags": []
   },
   {
@@ -87,6 +156,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/oops-mucus-1032-ltd-reissue-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -102,6 +172,7 @@
         "productVendorUrl": "https://www.zumiez.com/opera-beckett-melt-8-75-skateboard-deck.html"
       }
     ],
+    "productBrand": "Opera Skateboards",
     "productTags": []
   },
   {
@@ -117,6 +188,7 @@
         "productVendorUrl": "https://www.zumiez.com/opera-cherub-pop-slick-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Opera Skateboards",
     "productTags": []
   },
   {
@@ -132,6 +204,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/opera-clay-kriener-agony-ex7-deck?variant=50977555120401"
       }
     ],
+    "productBrand": "Opera",
     "productTags": []
   },
   {
@@ -147,6 +220,7 @@
         "productVendorUrl": "https://www.zumiez.com/opera-cloudy-9-125-skateboard-deck.html"
       }
     ],
+    "productBrand": "Opera Skateboards",
     "productTags": []
   },
   {
@@ -162,6 +236,7 @@
         "productVendorUrl": "https://www.zumiez.com/opera-die-cut-mask-8-25-skateboard-deck-1.html"
       }
     ],
+    "productBrand": "Opera Skateboards",
     "productTags": []
   },
   {
@@ -177,6 +252,7 @@
         "productVendorUrl": "https://www.zumiez.com/opera-drama-9-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Opera Skateboards",
     "productTags": []
   },
   {
@@ -192,6 +268,7 @@
         "productVendorUrl": "https://www.zumiez.com/opera-exit-8-375-skateboard-deck.html"
       }
     ],
+    "productBrand": "Opera Skateboards",
     "productTags": []
   },
   {
@@ -207,6 +284,7 @@
         "productVendorUrl": "https://www.zumiez.com/opera-kreiner-cutter-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Opera Skateboards",
     "productTags": []
   },
   {
@@ -222,6 +300,7 @@
         "productVendorUrl": "https://www.zumiez.com/opera-kreiner-throne-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Opera Skateboards",
     "productTags": []
   },
   {
@@ -237,6 +316,7 @@
         "productVendorUrl": "https://www.zumiez.com/opera-maestro-8-375-skateboard-deck.html"
       }
     ],
+    "productBrand": "Opera Skateboards",
     "productTags": []
   },
   {
@@ -252,6 +332,7 @@
         "productVendorUrl": "https://www.zumiez.com/opera-mask-logo-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Opera Skateboards",
     "productTags": []
   },
   {
@@ -267,6 +348,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/opera-nassim-lachhab-serpent-ex7-deck?variant=50977549582609"
       }
     ],
+    "productBrand": "Opera",
     "productTags": []
   },
   {
@@ -282,6 +364,7 @@
         "productVendorUrl": "https://www.zumiez.com/opera-perelson-no-evil-act-2-8-38-skateboard-deck.html"
       }
     ],
+    "productBrand": "Opera Skateboards",
     "productTags": []
   },
   {
@@ -297,6 +380,7 @@
         "productVendorUrl": "https://www.zumiez.com/opera-slither-pop-slick-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Opera Skateboards",
     "productTags": []
   },
   {
@@ -312,6 +396,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/opera-trey-wood-unmasked-ex7-deck?variant=50977566163217"
       }
     ],
+    "productBrand": "Opera",
     "productTags": []
   },
   {
@@ -327,6 +412,7 @@
         "productVendorUrl": "https://www.zumiez.com/opera-wood-dimensional-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Opera Skateboards",
     "productTags": []
   },
   {
@@ -342,6 +428,7 @@
         "productVendorUrl": "https://www.zumiez.com/opera-wood-unmasked-8-7-skateboard-deck.html"
       }
     ],
+    "productBrand": "Opera Skateboards",
     "productTags": []
   },
   {
@@ -357,6 +444,7 @@
         "productVendorUrl": "https://www.zumiez.com/opera-woolley-fire-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Opera Skateboards",
     "productTags": []
   },
   {
@@ -372,6 +460,7 @@
         "productVendorUrl": "https://www.tactics.com/opera/opus-8625-skateboard-deck"
       }
     ],
+    "productBrand": "Opera",
     "productTags": []
   },
   {
@@ -387,6 +476,7 @@
         "productVendorUrl": "https://www.tactics.com/dgk/ortiz-avenue-838-skateboard-deck"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -402,6 +492,7 @@
         "productVendorUrl": "https://www.tactics.com/killing-floor-skateboards/orwell-80-skateboard-deck"
       }
     ],
+    "productBrand": "The Killing Floor",
     "productTags": []
   },
   {
@@ -417,6 +508,7 @@
         "productVendorUrl": "https://www.tactics.com/arbor/oso-linked-100-wheel-wells-skateboard-deck"
       }
     ],
+    "productBrand": "Arbor",
     "productTags": []
   },
   {
@@ -432,6 +524,7 @@
         "productVendorUrl": "https://www.tactics.com/blood-wizard/outer-realms-vol-iii-875-skateboard-deck/navy"
       }
     ],
+    "productBrand": "Blood Wizard",
     "productTags": []
   },
   {
@@ -447,6 +540,7 @@
         "productVendorUrl": "https://www.tactics.com/alien-workshop/owlien-8375-twin-tail-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Alien Workshop",
     "productTags": []
   },
   {
@@ -462,6 +556,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/pace-deathtrap-87-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -477,6 +572,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/pace-torch-825-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -492,6 +588,7 @@
         "productVendorUrl": "https://www.tactics.com/girl/pacheco-thegoodlife-85-twin-tip-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -507,6 +604,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/paddle-in-skateboard-deck"
       }
     ],
+    "productBrand": "Tactics",
     "productTags": []
   },
   {
@@ -522,6 +620,7 @@
         "productVendorUrl": "https://www.tactics.com/cleaver/painkiller-80-skateboard-deck/white"
       }
     ],
+    "productBrand": "Cleaver",
     "productTags": []
   },
   {
@@ -537,6 +636,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/palace-danny-charlie-birch-s38-deck?variant=51071181422865"
       }
     ],
+    "productBrand": "Palace",
     "productTags": []
   },
   {
@@ -552,6 +652,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/palace-danny-brady-pro-s38-deck?variant=51071173132561"
       }
     ],
+    "productBrand": "Palace",
     "productTags": []
   },
   {
@@ -567,6 +668,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/palace-kyle-wilson-s38-deck?variant=51071198855441"
       }
     ],
+    "productBrand": "Palace",
     "productTags": []
   },
   {
@@ -582,6 +684,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/palace-lucas-puig-pro-s38-deck?variant=51071211864337"
       }
     ],
+    "productBrand": "Palace",
     "productTags": []
   },
   {
@@ -597,6 +700,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/palace-tri-bal-deck?variant=51158062727441"
       }
     ],
+    "productBrand": "Palace",
     "productTags": []
   },
   {
@@ -612,6 +716,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/palace-ville-wester-pro-s38-deck?variant=51071232639249"
       }
     ],
+    "productBrand": "Palace",
     "productTags": []
   },
   {
@@ -627,6 +732,7 @@
         "productVendorUrl": "https://www.tactics.com/sk8mafia/palmore-past-86-skateboard-deck"
       }
     ],
+    "productBrand": "SK8MAFIA",
     "productTags": []
   },
   {
@@ -642,6 +748,7 @@
         "productVendorUrl": "https://www.tactics.com/tightbooth/pass-the-pie-825-skateboard-deck"
       }
     ],
+    "productBrand": "Tightbooth",
     "productTags": []
   },
   {
@@ -657,6 +764,7 @@
         "productVendorUrl": "https://www.zumiez.com/passport-art-dept-open-studio-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Passport",
     "productTags": []
   },
   {
@@ -672,6 +780,7 @@
         "productVendorUrl": "https://www.zumiez.com/passport-art-dept-rough-draft-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Passport",
     "productTags": []
   },
   {
@@ -687,66 +796,7 @@
         "productVendorUrl": "https://www.zumiez.com/passport-art-dept-set-dress-8-5-skateboard-deck.html"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "passport-horse-breaker-skateboard-deck",
-    "productName": "Passport Horse Breaker Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461897/zumiezbuild/qraaj0bxy38rbpsctw70.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "69.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/passport-horse-breaker-8-25-skateboard-deck-1.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "passport-jack-angel-vs-devil-skateboard-deck",
-    "productName": "Passport Jack Angel VS Devil Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460829/zumiezbuild/cfw8fv3w2rmxesda4fcc.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "54.99",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/passport-jack-angel-vs-devil-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "passport-red-flag-skateboard-deck",
-    "productName": "Passport Red Flag Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462068/zumiezbuild/pbvbc7rtjovzihegqdv3.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "69.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/passport-red-flag-8-5-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "passport-tub-time-skateboard-deck",
-    "productName": "Passport Tub Time Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462072/zumiezbuild/ww89utll956xu7eewy7m.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "69.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/passport-tub-time-8-0-skateboard-deck.html"
-      }
-    ],
+    "productBrand": "Passport",
     "productTags": []
   }
 ]

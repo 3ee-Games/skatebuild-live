@@ -1,5 +1,101 @@
 [
   {
+    "slug": "wknd-karsten-thy-kingdom-come-skateboard-deck",
+    "productName": "WKND Karsten Thy Kingdom Come Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461178/zumiezbuild/gbxc19qjbn2hjrt9ru8c.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "39.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/wknd-karsten-thy-kingdom-come-8-25-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "WKND Skateboards",
+    "productTags": []
+  },
+  {
+    "slug": "wknd-look-out-skateboard-deck",
+    "productName": "WKND Look Out Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461966/zumiezbuild/xzsfqq3l09anztdyhvzt.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "71.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/wknd-look-out-8-0-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "WKND Skateboards",
+    "productTags": []
+  },
+  {
+    "slug": "wknd-louie-skateboard-deck",
+    "productName": "WKND Louie Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462066/zumiezbuild/jggaqd7e3fubunkdomch.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "71.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/wknd-louie-8-25-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "WKND Skateboards",
+    "productTags": []
+  },
+  {
+    "slug": "wknd-maalouf-buggy-alert-skateboard-deck",
+    "productName": "WKND Maalouf Buggy Alert Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461182/zumiezbuild/pvpefa4cda1uvl7zxcdy.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "39.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/wknd-maalouf-buggy-alert-8-5-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "WKND Skateboards",
+    "productTags": []
+  },
+  {
+    "slug": "wknd-maalouf-fire-in-the-pipe-skateboard-deck",
+    "productName": "WKND Maalouf Fire In The Pipe Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461287/zumiezbuild/betymtnjrlj83stqjlac.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "71.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/wknd-maalouf-fire-in-the-pipe-8-0-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "WKND Skateboards",
+    "productTags": []
+  },
+  {
+    "slug": "wknd-maalouf-ghost-skateboard-deck",
+    "productName": "WKND Maalouf Ghost Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460812/zumiezbuild/pitmksszmqwpuxhfgf4f.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "59.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/wknd-maalouf-ghost-8-5-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "WKND Skateboards",
+    "productTags": []
+  },
+  {
     "slug": "wknd-maalouf-subconscious-skateboard-deck",
     "productName": "WKND Maalouf Subconscious Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460625/zumiezbuild/cyu0sxpm4oziqheqndvj.webp",
@@ -12,6 +108,7 @@
         "productVendorUrl": "https://www.zumiez.com/wknd-maalouf-subconscious-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "WKND Skateboards",
     "productTags": []
   },
   {
@@ -27,6 +124,7 @@
         "productVendorUrl": "https://www.zumiez.com/wknd-meurle-storms-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "WKND Skateboards",
     "productTags": []
   },
   {
@@ -42,6 +140,7 @@
         "productVendorUrl": "https://www.zumiez.com/wknd-muerle-simply-8-125-skateboard-deck.html"
       }
     ],
+    "productBrand": "WKND Skateboards",
     "productTags": []
   },
   {
@@ -57,6 +156,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/wknd-skateboards-alex-schmidt-croc-o-clock-deck?variant=51347672432913"
       }
     ],
+    "productBrand": "WKND Skateboards",
     "productTags": []
   },
   {
@@ -72,6 +172,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/wknd-skateboards-filip-almqvist-jesus-freak-deck?variant=51347681149201"
       }
     ],
+    "productBrand": "WKND Skateboards",
     "productTags": []
   },
   {
@@ -87,6 +188,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/wknd-skateboards-nikolai-piombo-xpt-deck?variant=51347667976465"
       }
     ],
+    "productBrand": "WKND Skateboards",
     "productTags": []
   },
   {
@@ -102,6 +204,7 @@
         "productVendorUrl": "https://www.zumiez.com/wknd-taylor-cake-boss-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "WKND Skateboards",
     "productTags": []
   },
   {
@@ -117,6 +220,7 @@
         "productVendorUrl": "https://www.zumiez.com/wknd-thompson-ethereal-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "WKND Skateboards",
     "productTags": []
   },
   {
@@ -132,6 +236,7 @@
         "productVendorUrl": "https://www.zumiez.com/wknd-thompson-pretend-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "WKND Skateboards",
     "productTags": []
   },
   {
@@ -147,6 +252,7 @@
         "productVendorUrl": "https://www.zumiez.com/worble-cloud-racer-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Worble",
     "productTags": []
   },
   {
@@ -162,6 +268,7 @@
         "productVendorUrl": "https://www.zumiez.com/worble-cookie-brain-drain-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Worble",
     "productTags": []
   },
   {
@@ -177,6 +284,7 @@
         "productVendorUrl": "https://www.zumiez.com/worble-poppy-cat-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Worble",
     "productTags": []
   },
   {
@@ -192,6 +300,7 @@
         "productVendorUrl": "https://www.zumiez.com/worble-red-rocket-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Worble",
     "productTags": []
   },
   {
@@ -207,6 +316,7 @@
         "productVendorUrl": "https://www.zumiez.com/8-5-casino-world-industries.html"
       }
     ],
+    "productBrand": "World Industries",
     "productTags": []
   },
   {
@@ -222,6 +332,7 @@
         "productVendorUrl": "https://www.zumiez.com/world-industries-cats-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "World Industries",
     "productTags": []
   },
   {
@@ -237,6 +348,7 @@
         "productVendorUrl": "https://www.zumiez.com/world-industries-flame-boy-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "World Industries",
     "productTags": []
   },
   {
@@ -252,6 +364,7 @@
         "productVendorUrl": "https://www.zumiez.com/world-industries-ice-cold-wet-willy-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "World Industries",
     "productTags": []
   },
   {
@@ -267,6 +380,7 @@
         "productVendorUrl": "https://www.zumiez.com/world-industries-toothache-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "World Industries",
     "productTags": []
   },
   {
@@ -282,6 +396,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/worrest-up-down-83-slick-twin-tail-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -297,6 +412,7 @@
         "productVendorUrl": "https://www.tactics.com/welcome/yanko-matador-90-panther-shape-skateboard-deck/white"
       }
     ],
+    "productBrand": "Welcome",
     "productTags": []
   },
   {
@@ -312,6 +428,7 @@
         "productVendorUrl": "https://www.tactics.com/powell-peralta/yosozumi-samurai-tiger-825-skateboard-deck"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -327,6 +444,7 @@
         "productVendorUrl": "https://www.tactics.com/passport/youre-making-me-nervous-80-skateboard-deck/tub-time"
       }
     ],
+    "productBrand": "Passport",
     "productTags": []
   },
   {
@@ -342,6 +460,7 @@
         "productVendorUrl": "https://www.tactics.com/roger-skateboards/young-fall-bird-825-skateboard-deck"
       }
     ],
+    "productBrand": "Roger Skateboards",
     "productTags": []
   },
   {
@@ -357,6 +476,7 @@
         "productVendorUrl": "https://www.tactics.com/roger-skateboards/young-pup-825-skateboard-deck/black"
       }
     ],
+    "productBrand": "Roger Skateboards",
     "productTags": []
   },
   {
@@ -372,6 +492,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/yuri-full-heat-85-skateboard-deck"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -387,6 +508,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/yuri-loud-8475-skateboard-deck"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -402,6 +524,7 @@
         "productVendorUrl": "https://www.tactics.com/april/yuto-dialed-825-skateboard-deck"
       }
     ],
+    "productBrand": "April",
     "productTags": []
   },
   {
@@ -417,6 +540,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/zach-brickhouse-825-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -432,6 +556,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/zach-hummus-838-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -447,6 +572,7 @@
         "productVendorUrl": "https://www.tactics.com/heroin/zane-dude-90-skateboard-deck"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -462,6 +588,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/zero-adam-arunski-wedge-people-deck?variant=50853283725585"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -477,6 +604,7 @@
         "productVendorUrl": "https://www.zumiez.com/zero-beat-street-logo-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -497,6 +625,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/zero-og-blood-skull-deck?variant=50853309710609"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -512,6 +641,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/zero-bold-deck?variant=50853308203281"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -527,6 +657,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/zero-brandon-burleigh-urban-deck?variant=51144221524241"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -542,6 +673,7 @@
         "productVendorUrl": "https://www.zumiez.com/zero-burleigh-fast-times-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -562,6 +694,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/chrome-logo-8375-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -577,6 +710,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/zero-jamie-thomas-angel-of-peace-deck?variant=51144268251409"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -592,6 +726,7 @@
         "productVendorUrl": "https://www.zumiez.com/zero-lightning-army-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -607,6 +742,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Zero_Lopez_Metal_Health_Deck/descpage-ZEALMHDK.html"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -622,6 +758,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/zero-real-tree-single-skull-deck?variant=50853297357073"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -642,6 +779,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/thomas-chrome-825-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -657,6 +795,7 @@
         "productVendorUrl": "https://www.zumiez.com/zero-thomas-octopus-8-25-skateboard-deck-380713.html"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -672,36 +811,7 @@
         "productVendorUrl": "https://www.zumiez.com/zero-x-liquid-death-burman-8-5-skateboard-deck.html"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "zero-zero-x-misfits-collage-deck",
-    "productName": "Zero Zero x Misfits Collage Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414819/ldjsonbuild/v8vkgcop0ioghkdcpn80.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "75.00",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/zero-zero-x-misfits-collage-deck?variant=51267777200401"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "zion-d-face-skateboard-deck",
-    "productName": "Zion D*Face Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401485/ldjsonbuild/ue7i8dm04tiucuegvhyq.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "76.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/real/zion-dface-85-skateboard-deck"
-      }
-    ],
+    "productBrand": "Zero",
     "productTags": []
   }
 ]

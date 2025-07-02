@@ -12,6 +12,7 @@
         "productVendorUrl": "https://www.zumiez.com/quantum-metallic-series-skateboard-bearings.html"
       }
     ],
+    "productBrand": "Quantum",
     "productTags": []
   },
   {
@@ -27,6 +28,7 @@
         "productVendorUrl": "https://www.zumiez.com/quantum-vector-series-skateboard-bearings.html"
       }
     ],
+    "productBrand": "Quantum",
     "productTags": []
   },
   {
@@ -42,6 +44,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/reflex-durabuilt-bearings-92096?variant=48246614163729"
       }
     ],
+    "productBrand": "Reflex",
     "productTags": []
   },
   {
@@ -57,6 +60,7 @@
         "productVendorUrl": "https://www.tactics.com/nothing-special/robert-neal-pro-skateboard-bearings/blue"
       }
     ],
+    "productBrand": "Nothing Special",
     "productTags": []
   },
   {
@@ -72,6 +76,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/rollerbones-16-pack-bearings-94735?variant=48246944432401"
       }
     ],
+    "productBrand": "Rollerbones",
     "productTags": []
   },
   {
@@ -87,6 +92,7 @@
         "productVendorUrl": "https://www.zumiez.com/rush-6-ball-skateboard-bearings-1.html"
       }
     ],
+    "productBrand": "Rush Bearings",
     "productTags": []
   },
   {
@@ -102,6 +108,7 @@
         "productVendorUrl": "https://www.zumiez.com/sausage-7-steel-ballz-skateboard-bearings.html"
       }
     ],
+    "productBrand": "Sausage Skateboards",
     "productTags": []
   },
   {
@@ -122,6 +129,7 @@
         "productVendorUrl": "https://www.tactics.com/shake-junt/low-rider-skateboard-bearings"
       }
     ],
+    "productBrand": "Shake Junt",
     "productTags": []
   },
   {
@@ -137,6 +145,7 @@
         "productVendorUrl": "https://www.tactics.com/shake-junt/sj-abec-7-skateboard-bearings/green-gold"
       }
     ],
+    "productBrand": "Shake Junt",
     "productTags": []
   },
   {
@@ -152,6 +161,7 @@
         "productVendorUrl": "https://www.tactics.com/unheard/11-11-skateboard-bearings"
       }
     ],
+    "productBrand": "Unheard",
     "productTags": [
       {
         "field": "test",
@@ -172,6 +182,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/skf-alexis-sablone-pro-bearings-93450?variant=48246812737809"
       }
     ],
+    "productBrand": "SkF",
     "productTags": []
   },
   {
@@ -187,6 +198,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/skf-ishod-wair-pro-bearings-92116?variant=48246616817937"
       }
     ],
+    "productBrand": "SkF",
     "productTags": []
   },
   {
@@ -202,6 +214,7 @@
         "productVendorUrl": "https://www.zumiez.com/skf-kader-pro-skateboard-bearings.html"
       }
     ],
+    "productBrand": "SKF Bearings",
     "productTags": []
   },
   {
@@ -217,6 +230,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/skf-kader-sylla-pro-bearings?variant=51342755528977"
       }
     ],
+    "productBrand": "SkF",
     "productTags": []
   },
   {
@@ -232,6 +246,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/skf-louie-lopez-bearings?variant=51234206712081"
       }
     ],
+    "productBrand": "SkF",
     "productTags": []
   },
   {
@@ -247,6 +262,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/skf-oski-pro-bearings-92117?variant=48246616588561"
       }
     ],
+    "productBrand": "SkF",
     "productTags": []
   },
   {
@@ -262,6 +278,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/skf-skf-standard-bearings-17542?variant=48243383042321"
       }
     ],
+    "productBrand": "SkF",
     "productTags": []
   },
   {
@@ -287,6 +304,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/spitfire-cheapshots-bearing-25730?variant=48243426066705"
       }
     ],
+    "productBrand": "Spitfire",
     "productTags": []
   },
   {
@@ -302,6 +320,7 @@
         "productVendorUrl": "https://www.tactics.com/skf/standard-skateboard-bearings"
       }
     ],
+    "productBrand": "SKF",
     "productTags": []
   },
   {
@@ -317,6 +336,7 @@
         "productVendorUrl": "https://www.tactics.com/bones-bearings/swiss-ceramic-skateboard-bearings/grey"
       }
     ],
+    "productBrand": "Bones Bearings",
     "productTags": []
   },
   {
@@ -332,6 +352,7 @@
         "productVendorUrl": "https://www.tactics.com/chocolate/swiss-skateboard-bearings"
       }
     ],
+    "productBrand": "Chocolate",
     "productTags": []
   },
   {
@@ -347,6 +368,7 @@
         "productVendorUrl": "https://www.tactics.com/nothing-special/team-skateboard-bearings/black"
       }
     ],
+    "productBrand": "Nothing Special",
     "productTags": []
   },
   {
@@ -362,6 +384,7 @@
         "productVendorUrl": "https://www.tactics.com/modus-bearings/titanium-skateboard-bearings/white"
       }
     ],
+    "productBrand": "Modus",
     "productTags": []
   }
 ]

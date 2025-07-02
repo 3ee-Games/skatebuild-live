@@ -1,5 +1,21 @@
 [
   {
+    "slug": "dgk-blessed-skateboard-deck",
+    "productName": "DGK Blessed Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461650/zumiezbuild/awiwd5xlcxxlkwhwbb61.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "59.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/dgk-blessed-8-06-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "DGK",
+    "productTags": []
+  },
+  {
     "slug": "dgk-boo-johnson-breezy-boo-deck",
     "productName": "DGK Boo Johnson Breezy Boo Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746414760/ldjsonbuild/as9ilpukgsou8pwpiutx.webp",
@@ -12,6 +28,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/dgk-boo-johnson-breezy-boo-deck?variant=51297429258513"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -27,6 +44,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-boo-krazy-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -42,6 +60,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/dgk-brian-reid-tone-deck?variant=51297392754961"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -57,6 +76,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-ceremony-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -72,6 +92,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/dgk-chaz-ortiz-avenue-deck?variant=51297417068817"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -87,6 +108,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-coupe-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -102,6 +124,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/dgk-dane-vaughn-gris-gris-deck?variant=50910671438097"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -117,6 +140,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-glass-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -132,6 +156,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-guadalupe-uv-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -147,6 +172,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-hardtop-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -162,6 +188,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-henry-ghetto-gt-8-06-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -177,6 +204,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-hyna-8-38-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -192,6 +220,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/dgk-jack-curtin-thizz-deck?variant=51297453670673"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -207,6 +236,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-koi-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -222,6 +252,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-mazzari-only-option-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -237,6 +268,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-ortiz-lo-side-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -252,6 +284,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-ortiz-santa-del-barrio-8-1-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -267,6 +300,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-quise-midnight-club-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -282,6 +316,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-reap-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -297,6 +332,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-reid-treasures-8-06-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -312,6 +348,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-rollin-lo-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -327,6 +364,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-save-us-lenticular-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -342,6 +380,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-scrapbook-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -357,6 +396,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-serenity-8-1-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -372,6 +412,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-shanahan-tuner-8-06-skateboard-deck-354868.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -387,6 +428,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-syndicate-8-38-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -402,6 +444,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-t-top-8-38-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -417,6 +460,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-the-harpers-street-soldier-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -432,6 +476,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-trippin-8-25-lenticular-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -447,6 +492,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-vaughn-ghetto-gt-8-06-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -462,6 +508,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/dgk-will-mazzari-hood-tours-twin-tail-deck?variant=50910668849425"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -477,6 +524,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-wolf-blossom-crew-8-1-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -492,6 +540,7 @@
         "productVendorUrl": "https://www.zumiez.com/dgk-x-kaido-house-roulette-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -507,6 +556,7 @@
         "productVendorUrl": "https://www.tactics.com/welcome/diablo-95-boline-20-shape-skateboard-deck/black-red"
       }
     ],
+    "productBrand": "Welcome",
     "productTags": []
   },
   {
@@ -522,6 +572,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/dickson-full-heat-825-skateboard-deck"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -537,6 +588,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/dickson-lords-of-the-underworld-838-skateboard-deck"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -552,6 +604,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/dickson-metaphysical-85-skateboard-deck"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -567,6 +620,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/dickson-nightmare-city-8125-skateboard-deck"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -587,6 +641,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/deathwish-jon-dickson-engine-deck?variant=51491354902801"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -602,6 +657,7 @@
         "productVendorUrl": "https://www.tactics.com/fucking-awesome/dill-apocalypto-beach-825-skateboard-deck/teal"
       }
     ],
+    "productBrand": "Fucking Awesome",
     "productTags": []
   },
   {
@@ -617,6 +673,7 @@
         "productVendorUrl": "https://www.tactics.com/jacuzzi-unlimited/dilo-fire-825-skateboard-deck"
       }
     ],
+    "productBrand": "Jacuzzi Unlimited",
     "productTags": []
   },
   {
@@ -632,6 +689,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/disorder-alex-midler-girl-and-chain-deck?variant=50215261634833"
       }
     ],
+    "productBrand": "Disorder Skateboards",
     "productTags": []
   },
   {
@@ -647,6 +705,7 @@
         "productVendorUrl": "https://www.zumiez.com/disorder-clive-underworld-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Disorder Skateboards",
     "productTags": []
   },
   {
@@ -662,6 +721,7 @@
         "productVendorUrl": "https://www.zumiez.com/disorder-dixon-masterpiece-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Disorder Skateboards",
     "productTags": []
   },
   {
@@ -677,6 +737,7 @@
         "productVendorUrl": "https://www.zumiez.com/disorder-dixon-six-feet-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Disorder Skateboards",
     "productTags": []
   },
   {
@@ -692,6 +753,7 @@
         "productVendorUrl": "https://www.zumiez.com/disorder-huston-garden-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Disorder Skateboards",
     "productTags": []
   },
   {
@@ -707,6 +769,7 @@
         "productVendorUrl": "https://www.zumiez.com/disorder-huston-we-want-you-8-125-skateboard-deck.html"
       }
     ],
+    "productBrand": "Disorder Skateboards",
     "productTags": []
   },
   {
@@ -722,6 +785,7 @@
         "productVendorUrl": "https://www.zumiez.com/disorder-motorhead-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Disorder Skateboards",
     "productTags": []
   },
   {
@@ -737,26 +801,7 @@
         "productVendorUrl": "https://www.zumiez.com/disorder-my-dawg-8-0-skateboard-deck.html"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "disorder-nyjah-all-seeing-skateboard-deck",
-    "productName": "Disorder Nyjah All Seeing Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461342/zumiezbuild/vjwcxwl6twpcsjdtdzfm.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "69.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/disorder-nyjah-all-seeing-8-25-skateboard-deck.html"
-      },
-      {
-        "spot": "70.00",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/disorder-skateboards-nyjah-huston-all-seeing-eye-deck-96764?variant=49835699077393"
-      }
-    ],
+    "productBrand": "Disorder Skateboards",
     "productTags": []
   }
 ]

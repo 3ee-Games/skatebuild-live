@@ -1,5 +1,101 @@
 [
   {
+    "slug": "ripndip-ryu-skateboard-deck",
+    "productName": "RIPNDIP Ryu Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461479/zumiezbuild/ge2ckjxzlg5qvpeflnss.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "56.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/ripndip-ryu-8-5-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "RIPNDIP",
+    "productTags": []
+  },
+  {
+    "slug": "ripndip-scary-cute-skateboard-deck",
+    "productName": "RIPNDIP Scary Cute Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461796/zumiezbuild/cpdmyybyhn9zsoz5zt0h.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "56.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/ripndip-scary-cute-8-5-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "RIPNDIP",
+    "productTags": []
+  },
+  {
+    "slug": "ripndip-so-mushroom-skateboard-deck",
+    "productName": "RIPNDIP So Mushroom Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461859/zumiezbuild/qmwkjh0wnlmyap6yqoz6.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "44.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/ripndip-so-mushroom-8-0-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "RIPNDIP",
+    "productTags": []
+  },
+  {
+    "slug": "ripndip-sprinkles-skateboard-deck",
+    "productName": "RIPNDIP Sprinkles Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461724/zumiezbuild/hztot2yardpydqjg4yd0.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "44.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/ripndip-sprinkles-8-0-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "RIPNDIP",
+    "productTags": []
+  },
+  {
+    "slug": "ripndip-venice-skateboard-deck",
+    "productName": "RIPNDIP Venice Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461581/zumiezbuild/zk66ghipfkxztgy5rvll.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "34.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/ripndip-venice-8-0-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "RIPNDIP",
+    "productTags": []
+  },
+  {
+    "slug": "ripndip-we-come-in-peace-skateboard-deck",
+    "productName": "RIPNDIP We Come In Peace Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462095/zumiezbuild/mhyw9c6xyczxx5na4x6o.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "44.99",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/ripndip-we-come-in-peace-8-5-skateboard-deck.html"
+      }
+    ],
+    "productBrand": "RIPNDIP",
+    "productTags": []
+  },
+  {
     "slug": "ripndip-x-kiss-made-for-lovin-skateboard-deck",
     "productName": "RIPNDIP x Kiss Made For Lovin Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461794/zumiezbuild/rfo7dasemsix1z0iaemt.webp",
@@ -12,6 +108,7 @@
         "productVendorUrl": "https://www.zumiez.com/ripndip-x-kiss-made-for-lovin-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "RIPNDIP",
     "productTags": []
   },
   {
@@ -27,6 +124,7 @@
         "productVendorUrl": "https://www.zumiez.com/ripndip-x-world-industries-flame-jerm-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "RIPNDIP",
     "productTags": []
   },
   {
@@ -42,6 +140,7 @@
         "productVendorUrl": "https://www.zumiez.com/ripndip-x-world-industries-water-nerm-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "RIPNDIP",
     "productTags": []
   },
   {
@@ -57,6 +156,7 @@
         "productVendorUrl": "https://www.zumiez.com/ripndrip-is-this-real-life-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "RIPNDIP",
     "productTags": []
   },
   {
@@ -72,6 +172,7 @@
         "productVendorUrl": "https://www.tactics.com/powell-peralta/ripper-975-geegah-skateboard-deck/silver-foil"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -87,6 +188,7 @@
         "productVendorUrl": "https://www.tactics.com/powell-peralta/ripper-85-249-shape-skateboard-deck/blue-fade"
       }
     ],
+    "productBrand": "Powell Peralta",
     "productTags": []
   },
   {
@@ -102,6 +204,7 @@
         "productVendorUrl": "https://www.tactics.com/quasi-skateboards/rizzo-tearz-8375-twin-tail-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Quasi",
     "productTags": []
   },
   {
@@ -117,6 +220,7 @@
         "productVendorUrl": "https://www.tactics.com/chocolate/roberts-ink-blot-825-twin-tip-shape-skateboard-deck/brown-stain"
       }
     ],
+    "productBrand": "Chocolate",
     "productTags": []
   },
   {
@@ -132,6 +236,7 @@
         "productVendorUrl": "https://www.tactics.com/pizzaskateboards/robinson-swifty-83-skateboard-deck"
       }
     ],
+    "productBrand": "Pizza",
     "productTags": []
   },
   {
@@ -147,6 +252,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/robot-in-a-chair-skateboard-deck"
       }
     ],
+    "productBrand": "Tactics",
     "productTags": []
   },
   {
@@ -162,6 +268,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/rodeo-orville-peck-guest-825-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -177,6 +284,7 @@
         "productVendorUrl": "https://www.tactics.com/dgk/rodrigo-tx-shhh-81-skateboard-deck"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -197,6 +305,7 @@
         "productVendorUrl": "https://www.tactics.com/roger-skateboards/barton-cursed-8375-skateboard-deck"
       }
     ],
+    "productBrand": "Roger Skate Co.",
     "productTags": []
   },
   {
@@ -217,6 +326,7 @@
         "productVendorUrl": "https://www.tactics.com/roger-skateboards/doggo-85-skateboard-deck"
       }
     ],
+    "productBrand": "Roger Skate Co.",
     "productTags": []
   },
   {
@@ -232,6 +342,7 @@
         "productVendorUrl": "https://www.zumiez.com/roger-eves-skeleton-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Roger Skate Co.",
     "productTags": []
   },
   {
@@ -252,6 +363,7 @@
         "productVendorUrl": "https://www.tactics.com/roger-skateboards/half-roger-9125-skateboard-deck"
       }
     ],
+    "productBrand": "Roger Skate Co.",
     "productTags": []
   },
   {
@@ -267,6 +379,7 @@
         "productVendorUrl": "https://www.tactics.com/umaverse/roman-pop-art-80-skateboard-deck"
       }
     ],
+    "productBrand": "Umaverse",
     "productTags": []
   },
   {
@@ -282,6 +395,7 @@
         "productVendorUrl": "https://www.tactics.com/toy-machine/romero-fence-series-813-skateboard-deck"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -297,6 +411,7 @@
         "productVendorUrl": "https://www.tactics.com/toy-machine/romero-horror-show-85-skateboard-deck"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -312,6 +427,7 @@
         "productVendorUrl": "https://www.tactics.com/toy-machine/romero-ladoucer-838-skateboard-deck"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -327,6 +443,7 @@
         "productVendorUrl": "https://www.tactics.com/toy-machine/romero-lost-found-825-skateboard-deck"
       }
     ],
+    "productBrand": "Toy Machine",
     "productTags": []
   },
   {
@@ -342,6 +459,7 @@
         "productVendorUrl": "https://www.tactics.com/april/ronnie-kessner-beam-825-skateboard-deck"
       }
     ],
+    "productBrand": "April",
     "productTags": []
   },
   {
@@ -357,6 +475,7 @@
         "productVendorUrl": "https://www.tactics.com/space-program/rosales-ko-85-skateboard-deck/brown"
       }
     ],
+    "productBrand": "Space Program",
     "productTags": []
   },
   {
@@ -372,6 +491,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/rosette-ringed-dot-80-7-ply-birch-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -387,6 +507,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/roskopp-three-1017-ltd-reissue-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -402,6 +523,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/roskopp-tiki-mug-85-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -417,6 +539,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/rowan-dimensions-8125-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -432,6 +555,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/rowan-here-to-stay-85-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -447,6 +571,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/rowan-kill-825-skateboard-deck"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -462,6 +587,7 @@
         "productVendorUrl": "https://www.tactics.com/baker/rowan-stacked-name-825-skateboard-deck/blue"
       }
     ],
+    "productBrand": "Baker",
     "productTags": []
   },
   {
@@ -477,6 +603,7 @@
         "productVendorUrl": "https://www.tactics.com/polar-skate-co/rozenberg-house-of-eternal-return-80-skateboard-deck"
       }
     ],
+    "productBrand": "Polar Skate Co.",
     "productTags": []
   },
   {
@@ -492,6 +619,7 @@
         "productVendorUrl": "https://www.tactics.com/black-label/ryan-screamer-85-skateboard-deck/teal"
       }
     ],
+    "productBrand": "Black Label",
     "productTags": []
   },
   {
@@ -507,6 +635,7 @@
         "productVendorUrl": "https://www.tactics.com/flip/saari-city-ordinance-85-skateboard-deck"
       }
     ],
+    "productBrand": "Flip",
     "productTags": []
   },
   {
@@ -522,6 +651,7 @@
         "productVendorUrl": "https://www.tactics.com/sci-fi-fantasy/safety-vest-85-skateboard-deck"
       }
     ],
+    "productBrand": "Sci-Fi Fantasy",
     "productTags": []
   },
   {
@@ -537,6 +667,7 @@
         "productVendorUrl": "https://www.tactics.com/fucking-awesome/sage-around-the-world-85-skateboard-deck"
       }
     ],
+    "productBrand": "Fucking Awesome",
     "productTags": []
   },
   {
@@ -552,6 +683,7 @@
         "productVendorUrl": "https://www.tactics.com/fucking-awesome/sage-cant-blame-the-youth-838-skateboard-deck/green"
       }
     ],
+    "productBrand": "Fucking Awesome",
     "productTags": []
   },
   {
@@ -567,6 +699,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/salba-baby-stomper-1009-ltd-reissue-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -582,6 +715,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/salba-tiger-103-ltd-reissue-skateboard-deck/green"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -597,6 +731,7 @@
         "productVendorUrl": "https://www.tactics.com/meow/samarria-brevard-dragonfly-80-skateboard-deck"
       }
     ],
+    "productBrand": "Meow",
     "productTags": []
   },
   {
@@ -612,6 +747,7 @@
         "productVendorUrl": "https://www.tactics.com/meow/samarria-utopia-825-skateboard-deck"
       }
     ],
+    "productBrand": "Meow",
     "productTags": []
   },
   {
@@ -627,6 +763,7 @@
         "productVendorUrl": "https://www.tactics.com/tactics/sand-monsters-skateboard-deck"
       }
     ],
+    "productBrand": "Tactics",
     "productTags": []
   },
   {
@@ -642,6 +779,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/sandoval-i-ride-862-skateboard-deck"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -657,6 +795,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/sandoval-stipo-8375-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -672,111 +811,7 @@
         "productVendorUrl": "https://www.tactics.com/gx1000/sandstorm-80-skateboard-deck"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "santa-cruz-asp-paradise-twin-skateboard-deck",
-    "productName": "Santa Cruz Asp Paradise Twin Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461036/zumiezbuild/tauolntaxlc2p1zviq0b.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "72.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/santa-cruz-asp-paradise-twin-8-0-skateboard-deck.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "santa-cruz-asta-space-cat-vx-skateboard-deck",
-    "productName": "Santa Cruz Asta Space Cat VX Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460806/zumiezbuild/eziflkfh9qcdugujbsi0.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "96.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/santa-cruz-8-25-asta-space-cat-vx-skateboard-deck.html"
-      },
-      {
-        "tactics": "71.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/santa-cruz/asta-cosmic-cat-80-skateboard-deck"
-      },
-      {
-        "spot": "73.00",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-tom-asta-cosmic-cat-deck?variant=50616944230673"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "santa-cruz-classic-dot-deck",
-    "productName": "Santa Cruz Classic Dot Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746416021/ldjsonbuild/kur4n34opawk7z5swgqx.webp",
-    "imageWidth": 200,
-    "imageHeight": 200,
-    "productPrices": [
-      {
-        "spot": "67.00",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-classic-dot-deck-72776?variant=48244018315537"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "santa-cruz-delfino-pinball-deck-9-14-x-31-5",
-    "productName": "Santa Cruz Delfino Pinball Deck 9.14 x 31.5",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747431077/metacrawler/h7z375fddm4jckmrcevh.webp",
-    "imageWidth": 270,
-    "imageHeight": 360,
-    "productPrices": [
-      {
-        "skatewarehouse": "76.95",
-        "url": "https://www.skatewarehouse.com",
-        "productVendorUrl": "https://www.skatewarehouse.com/Santa_Cruz_Delfino_Pinball_Deck/descpage-SCDPBDK.html"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "santa-cruz-delfino-pinball-skateboard-deck",
-    "productName": "Santa Cruz Delfino Pinball Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746460760/zumiezbuild/ma07tphb63mkch44sbv7.webp",
-    "imageWidth": 325,
-    "imageHeight": 385,
-    "productPrices": [
-      {
-        "zumiez": "68.95",
-        "url": "https://www.zumiez.com",
-        "productVendorUrl": "https://www.zumiez.com/santa-cruz-delfino-pinball-9-1-skateboard-deck.html"
-      },
-      {
-        "spot": "76.95",
-        "url": "https://skateparkoftampa.com",
-        "productVendorUrl": "https://skateparkoftampa.com/products/santa-cruz-fabiana-delfino-pinball-shaped-deck?variant=51434076209425"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "santa-cruz-dressen-laugh-it-up-shaped-deck-9-3-x-32-36",
-    "productName": "Santa Cruz Dressen Laugh It Up Shaped Deck 9.3 x 32.36",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1747431082/metacrawler/tity3pddghnprxjjirrx.webp",
-    "imageWidth": 270,
-    "imageHeight": 360,
-    "productPrices": [
-      {
-        "skatewarehouse": "59.98",
-        "url": "https://www.skatewarehouse.com",
-        "productVendorUrl": "https://www.skatewarehouse.com/Santa_Cruz_Dressen_Laugh_It_Up_Shaped_Deck/descpage-SCDLITDK.html"
-      }
-    ],
+    "productBrand": "GX1000",
     "productTags": []
   }
 ]

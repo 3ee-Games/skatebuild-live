@@ -1,5 +1,26 @@
 [
   {
+    "slug": "disorder-nyjah-all-seeing-skateboard-deck",
+    "productName": "Disorder Nyjah All Seeing Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746461342/zumiezbuild/vjwcxwl6twpcsjdtdzfm.webp",
+    "imageWidth": 325,
+    "imageHeight": 385,
+    "productPrices": [
+      {
+        "zumiez": "69.95",
+        "url": "https://www.zumiez.com",
+        "productVendorUrl": "https://www.zumiez.com/disorder-nyjah-all-seeing-8-25-skateboard-deck.html"
+      },
+      {
+        "spot": "70.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/disorder-skateboards-nyjah-huston-all-seeing-eye-deck-96764?variant=49835699077393"
+      }
+    ],
+    "productBrand": "Disorder Skateboards",
+    "productTags": []
+  },
+  {
     "slug": "disorder-patc-skateboard-deck",
     "productName": "Disorder PATC Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746462086/zumiezbuild/qk2fxflqvvblsltlbxnd.webp",
@@ -12,6 +33,7 @@
         "productVendorUrl": "https://www.zumiez.com/disorder-patc-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Disorder Skateboards",
     "productTags": []
   },
   {
@@ -27,6 +49,7 @@
         "productVendorUrl": "https://www.zumiez.com/disorder-smooth-criminal-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Disorder Skateboards",
     "productTags": []
   },
   {
@@ -42,6 +65,7 @@
         "productVendorUrl": "https://www.zumiez.com/disorder-tv-party-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Disorder Skateboards",
     "productTags": []
   },
   {
@@ -57,6 +81,7 @@
         "productVendorUrl": "https://www.zumiez.com/disorder-walker-braided-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Disorder Skateboards",
     "productTags": []
   },
   {
@@ -77,6 +102,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/disorder-skateboards-domo-walker-card-deck?variant=50739404013841"
       }
     ],
+    "productBrand": "Disorder Skateboards",
     "productTags": []
   },
   {
@@ -92,6 +118,7 @@
         "productVendorUrl": "https://www.tactics.com/edglrd/dmn-825-skateboard-deck"
       }
     ],
+    "productBrand": "EDGLRD",
     "productTags": []
   },
   {
@@ -107,6 +134,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Dogtown_Jesse_Martinez_Guadalupe_1987_Deck/descpage-DTJMG10DK.html"
       }
     ],
+    "productBrand": "Dogtown",
     "productTags": []
   },
   {
@@ -122,6 +150,7 @@
         "productVendorUrl": "https://www.skatewarehouse.com/Dogtown_Rat_Ring_Yellow_Cruiser_Deck/descpage-DTRRCY77DK.html"
       }
     ],
+    "productBrand": "Dogtown",
     "productTags": []
   },
   {
@@ -137,6 +166,7 @@
         "productVendorUrl": "https://www.tactics.com/foundation/don-luong-888-egg-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Foundation",
     "productTags": []
   },
   {
@@ -152,6 +182,7 @@
         "productVendorUrl": "https://www.tactics.com/anti-hero/doobie-absentes-875-skateboard-deck"
       }
     ],
+    "productBrand": "Anti-Hero",
     "productTags": []
   },
   {
@@ -167,6 +198,7 @@
         "productVendorUrl": "https://www.tactics.com/anti-hero/doobie-anti-intelligence-875-skateboard-deck"
       }
     ],
+    "productBrand": "Anti-Hero",
     "productTags": []
   },
   {
@@ -182,6 +214,7 @@
         "productVendorUrl": "https://www.tactics.com/anti-hero/doobie-wild-unknown-875-skateboard-deck"
       }
     ],
+    "productBrand": "Anti-Hero",
     "productTags": []
   },
   {
@@ -197,6 +230,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/doom-sayers-corpo-guy-deck?variant=51283742687505"
       }
     ],
+    "productBrand": "Doom Sayers",
     "productTags": []
   },
   {
@@ -212,6 +246,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/doom-sayers-eli-williams-snake-shake-3d-deck?variant=51283746652433"
       }
     ],
+    "productBrand": "Doom Sayers",
     "productTags": []
   },
   {
@@ -227,6 +262,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/doom-sayers-never-bite-deck?variant=51283748258065"
       }
     ],
+    "productBrand": "Doom Sayers",
     "productTags": []
   },
   {
@@ -242,6 +278,7 @@
         "productVendorUrl": "https://www.zumiez.com/doomsayers-devilman-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Doom Sayers",
     "productTags": []
   },
   {
@@ -257,6 +294,7 @@
         "productVendorUrl": "https://www.zumiez.com/doomsayers-eli-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Doom Sayers",
     "productTags": []
   },
   {
@@ -272,6 +310,7 @@
         "productVendorUrl": "https://www.zumiez.com/doomsayers-never-rat-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Doom Sayers",
     "productTags": []
   },
   {
@@ -292,6 +331,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/real-double-duty-cop-easy-rider-deck?variant=51484192735505"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -312,6 +352,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/real-double-duty-security-true-fit-deck?variant=51484196110609"
       }
     ],
+    "productBrand": "Real",
     "productTags": []
   },
   {
@@ -327,6 +368,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/dressen-laugh-it-up-925-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -342,6 +384,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/dressen-pup-95-ltd-reissue-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -357,6 +400,7 @@
         "productVendorUrl": "https://www.tactics.com/santa-cruz/dressen-sumo-dog-93-skateboard-deck"
       }
     ],
+    "productBrand": "Santa Cruz",
     "productTags": []
   },
   {
@@ -372,6 +416,7 @@
         "productVendorUrl": "https://www.tactics.com/fixer/drifter-95-skateboard-deck/blue"
       }
     ],
+    "productBrand": "Fixer",
     "productTags": []
   },
   {
@@ -387,6 +432,7 @@
         "productVendorUrl": "https://www.tactics.com/frog/dustin-henry-uncle-85-skateboard-deck"
       }
     ],
+    "productBrand": "Frog",
     "productTags": []
   },
   {
@@ -402,6 +448,7 @@
         "productVendorUrl": "https://www.tactics.com/sci-fi-fantasy/dyson-sphere-80-skateboard-deck/pink"
       }
     ],
+    "productBrand": "Sci-Fi Fantasy",
     "productTags": []
   },
   {
@@ -417,6 +464,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/edglrd-aggro-dr1ft-decapitation-deck?variant=50578747195665"
       }
     ],
+    "productBrand": "Edglrd",
     "productTags": []
   },
   {
@@ -432,6 +480,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/edglrd-blue-agony-deck?variant=50578758140177"
       }
     ],
+    "productBrand": "Edglrd",
     "productTags": []
   },
   {
@@ -447,6 +496,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/edglrd-green-money-deck?variant=50578723799313"
       }
     ],
+    "productBrand": "Edglrd",
     "productTags": []
   },
   {
@@ -462,6 +512,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/edglrd-photopolymer-1nv45i0n-deck?variant=50578753224977"
       }
     ],
+    "productBrand": "Edglrd",
     "productTags": []
   },
   {
@@ -477,6 +528,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/edwards-scissor-hands-825-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -492,6 +544,7 @@
         "productVendorUrl": "https://www.tactics.com/zero/edwards-stipo-825-skateboard-deck"
       }
     ],
+    "productBrand": "Zero",
     "productTags": []
   },
   {
@@ -507,6 +560,7 @@
         "productVendorUrl": "https://www.tactics.com/heroin/egg-eater-975-wheel-wells-skateboard-deck"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -522,6 +576,7 @@
         "productVendorUrl": "https://www.tactics.com/hopps-skateboards/eggeling-artist-series-838-skateboard-deck/teal"
       }
     ],
+    "productBrand": "Hopps",
     "productTags": []
   },
   {
@@ -537,6 +592,7 @@
         "productVendorUrl": "https://www.tactics.com/hopps-skateboards/eggeling-throwie-85-skateboard-deck/red"
       }
     ],
+    "productBrand": "Hopps",
     "productTags": []
   },
   {
@@ -552,6 +608,7 @@
         "productVendorUrl": "https://www.tactics.com/heroin/eggzilla-3-140-skateboard-deck"
       }
     ],
+    "productBrand": "Heroin",
     "productTags": []
   },
   {
@@ -567,6 +624,7 @@
         "productVendorUrl": "https://www.tactics.com/carpet/egypt-825-skateboard-deck/black-green"
       }
     ],
+    "productBrand": "Carpet",
     "productTags": []
   },
   {
@@ -582,6 +640,7 @@
         "productVendorUrl": "https://www.zumiez.com/elenex-cherry-rose-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Elenex",
     "productTags": []
   },
   {
@@ -597,6 +656,7 @@
         "productVendorUrl": "https://www.zumiez.com/elenex-mercy-rose-silver-foil-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Elenex",
     "productTags": []
   },
   {
@@ -612,6 +672,7 @@
         "productVendorUrl": "https://www.zumiez.com/elenex-momo-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Elenex",
     "productTags": []
   },
   {
@@ -627,6 +688,7 @@
         "productVendorUrl": "https://www.zumiez.com/elenex-passion-240-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Elenex",
     "productTags": []
   },
   {
@@ -642,6 +704,7 @@
         "productVendorUrl": "https://www.zumiez.com/elenex-x-t-eric-monroe-beyonce-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Elenex",
     "productTags": []
   },
   {
@@ -657,6 +720,7 @@
         "productVendorUrl": "https://www.tactics.com/edglrd/elijah-odom-flexerx-838-skateboard-deck"
       }
     ],
+    "productBrand": "EDGLRD",
     "productTags": []
   },
   {
@@ -672,6 +736,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/ellington-breaking-and-entering-80-skateboard-deck"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -687,6 +752,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/ellington-east-76th-90-double-driller-skateboard-deck"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -702,6 +768,7 @@
         "productVendorUrl": "https://www.tactics.com/deathwish/ellington-the-twins-975-skateboard-deck"
       }
     ],
+    "productBrand": "Deathwish",
     "productTags": []
   },
   {
@@ -717,6 +784,7 @@
         "productVendorUrl": "https://www.tactics.com/gx1000/embedded-85-skateboard-deck"
       }
     ],
+    "productBrand": "GX1000",
     "productTags": []
   },
   {
@@ -737,6 +805,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/polar-skateboards-emile-laurent-burnside-2084-deck?variant=50451848823057"
       }
     ],
+    "productBrand": "Polar Skate Co.",
     "productTags": []
   },
   {
@@ -752,21 +821,7 @@
         "productVendorUrl": "https://www.tactics.com/the-heated-wheel/eniz-fazliov-pierced-frog-825-skateboard-deck"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "eniz-fazliov-snake-charmer-skateboard-deck",
-    "productName": "Eniz Fazliov Snake Charmer Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402470/ldjsonbuild/kndy3nqshirva1haqkyl.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "59.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/the-heated-wheel/eniz-fazliov-snake-charmer-825-skateboard-deck"
-      }
-    ],
+    "productBrand": "The Heated Wheel",
     "productTags": []
   }
 ]

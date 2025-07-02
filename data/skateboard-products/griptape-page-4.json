@@ -12,6 +12,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-x-beetlejuice-lydia-grip-tape.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -27,6 +28,7 @@
         "productVendorUrl": "https://www.zumiez.com/welcome-x-beetlejuice-sandworm-grip-tape.html"
       }
     ],
+    "productBrand": "Welcome Skateboards",
     "productTags": []
   },
   {
@@ -42,6 +44,7 @@
         "productVendorUrl": "https://www.tactics.com/pepper/xg-skateboard-grip-tape"
       }
     ],
+    "productBrand": "Pepper",
     "productTags": []
   },
   {
@@ -57,6 +60,7 @@
         "productVendorUrl": "https://www.tactics.com/hard-luck/zig-zag-graphic-skateboard-grip-tape"
       }
     ],
+    "productBrand": "Hard Luck",
     "productTags": []
   }
 ]

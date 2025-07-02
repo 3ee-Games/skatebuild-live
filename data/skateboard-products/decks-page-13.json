@@ -1,5 +1,42 @@
 [
   {
+    "slug": "get-off-the-internet-skateboard-deck",
+    "productName": "Get Off The Internet Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746401039/ldjsonbuild/zvrsenjmn1ykyqcemdmc.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "68.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/theories-of-atlantis/get-off-the-internet-80-skateboard-deck"
+      }
+    ],
+    "productBrand": "Theories",
+    "productTags": []
+  },
+  {
+    "slug": "ghost-ride-skateboard-deck",
+    "productName": "Ghost Ride Deck",
+    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746395517/ldjsonbuild/vztuv0yntbini6qlqgn6.webp",
+    "imageWidth": 78,
+    "imageHeight": 291,
+    "productPrices": [
+      {
+        "tactics": "59.95",
+        "url": "https://www.tactics.com",
+        "productVendorUrl": "https://www.tactics.com/doom-sayers-club/ghost-ride-86-skateboard-deck"
+      },
+      {
+        "spot": "64.00",
+        "url": "https://skateparkoftampa.com",
+        "productVendorUrl": "https://skateparkoftampa.com/products/doom-sayers-ghost-ride-deck?variant=51283744686353"
+      }
+    ],
+    "productBrand": "Doom Sayers Club",
+    "productTags": []
+  },
+  {
     "slug": "gimme-skelter-skateboard-deck",
     "productName": "Gimme Skelter Deck",
     "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746396952/ldjsonbuild/wbqcdjb9fusxcuge5xst.webp",
@@ -12,6 +49,7 @@
         "productVendorUrl": "https://www.tactics.com/halloween-stickers-skateboards/gimme-skelter-838-skateboard-deck"
       }
     ],
+    "productBrand": "Halloween Stickers Skateboards",
     "productTags": []
   },
   {
@@ -27,6 +65,7 @@
         "productVendorUrl": "https://www.tactics.com/fucking-awesome/gino-statue-80-skateboard-deck"
       }
     ],
+    "productBrand": "Fucking Awesome",
     "productTags": []
   },
   {
@@ -42,6 +81,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-bannerot-gridbox-loveseat-9-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -57,6 +97,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-bannerot-93-til-palette-9-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -72,6 +113,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/girl-cory-kennedy-93-naturals-deck?variant=50838154445073"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -87,6 +129,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-davis-giant-metal-og-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -102,6 +145,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-davis-hand-shakers-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -117,6 +161,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-davis-modernica-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -137,6 +182,7 @@
         "productVendorUrl": "https://www.tactics.com/girl/geering-suzuki-method-85-skateboard-deck"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -152,6 +198,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-davis-93-til-palette-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -167,6 +214,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-gass-gridbox-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -182,6 +230,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-mans-ruin-gass-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -197,6 +246,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-geering-hand-shakers-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -212,6 +262,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-geering-out-to-lunch-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -227,6 +278,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-geering-party-eyes-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -242,6 +294,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/girl-griffin-gass-hello-kitty-50-deck?variant=51452972695825"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -257,6 +310,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-malto-93-til-palette-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -272,6 +326,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-mccrank-gridbox-twin-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -287,6 +342,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/girl-mike-carroll-hello-kitty-50-deck?variant=51452960506129"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -307,6 +363,7 @@
         "productVendorUrl": "https://www.tactics.com/girl/mike-mo-game-over-825-blind-bag-skateboard-deck/blind-bag"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -322,6 +379,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-pacheco-gridbox-8-0-skateboard-deck.html"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -337,6 +395,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-pacheco-modernica-twin-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -352,6 +411,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/girl-rick-howard-best-of-both-worlds-deck?variant=50838122791185"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -367,6 +427,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/girl-sean-malto-93-til-lovers-deck?variant=51452988358929"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -382,6 +443,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/girl-simon-bannerot-serif-deck?variant=51453010837777"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -397,6 +459,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/girl-tyler-pacheco-93-naturals-deck?variant=50838155919633"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -412,6 +475,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-x-sanrio-gass-hello-kitty-and-friends-pompompurin-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -432,6 +496,7 @@
         "productVendorUrl": "https://www.tactics.com/girl/bannerot-sanrio-hello-kitty-50th-anniversary-85-skateboard-deck"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -447,6 +512,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-x-huf-93-til-8-25-skateboard-deck-1.html"
       }
     ],
+    "productBrand": "HUF",
     "productTags": []
   },
   {
@@ -462,6 +528,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-x-pac-man-bennett-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -477,6 +544,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-x-pac-man-malto-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -492,6 +560,7 @@
         "productVendorUrl": "https://www.zumiez.com/girl-x-sanrio-pacheco-kawaii-arcade-8-375-skateboard-deck.html"
       }
     ],
+    "productBrand": "Girl",
     "productTags": []
   },
   {
@@ -507,6 +576,7 @@
         "productVendorUrl": "https://www.tactics.com/dgk/glass-825-skateboard-deck"
       }
     ],
+    "productBrand": "DGK",
     "productTags": []
   },
   {
@@ -522,6 +592,7 @@
         "productVendorUrl": "https://www.tactics.com/sci-fi-fantasy/glick-life-force-838-skateboard-deck"
       }
     ],
+    "productBrand": "Sci-Fi Fantasy",
     "productTags": []
   },
   {
@@ -537,6 +608,7 @@
         "productVendorUrl": "https://www.tactics.com/halloween-stickers-skateboards/glow-mold-80-skateboard-deck"
       }
     ],
+    "productBrand": "Halloween Stickers Skateboards",
     "productTags": []
   },
   {
@@ -552,6 +624,7 @@
         "productVendorUrl": "https://www.tactics.com/krooked/gonz-mermaid-re-color-825-skateboard-deck"
       }
     ],
+    "productBrand": "Krooked",
     "productTags": []
   },
   {
@@ -567,6 +640,7 @@
         "productVendorUrl": "https://www.tactics.com/flip/gonzalez-creatures-80-skateboard-deck/multi"
       }
     ],
+    "productBrand": "Flip",
     "productTags": []
   },
   {
@@ -582,6 +656,7 @@
         "productVendorUrl": "https://www.tactics.com/polar-skate-co/gonzalez-demon-child-8625-p9-shape-skateboard-deck"
       }
     ],
+    "productBrand": "Polar Skate Co.",
     "productTags": []
   },
   {
@@ -602,6 +677,7 @@
         "productVendorUrl": "https://skateparkoftampa.com/products/polar-skateboards-roman-gonzalez-dinghies-deck-97191?variant=50087705379089"
       }
     ],
+    "productBrand": "Polar Skate Co.",
     "productTags": []
   },
   {
@@ -617,6 +693,7 @@
         "productVendorUrl": "https://www.tactics.com/polar-skate-co/gonzalez-san-gabriels-8125-skateboard-deck"
       }
     ],
+    "productBrand": "Polar Skate Co.",
     "productTags": []
   },
   {
@@ -632,6 +709,7 @@
         "productVendorUrl": "https://www.zumiez.com/goodwood-blue-wave-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Goodwood Skateboards",
     "productTags": []
   },
   {
@@ -647,6 +725,7 @@
         "productVendorUrl": "https://www.zumiez.com/goodwood-fossilized-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Goodwood Skateboards",
     "productTags": []
   },
   {
@@ -662,6 +741,7 @@
         "productVendorUrl": "https://www.zumiez.com/goodwood-good-boy-8-5-skateboard-deck.html"
       }
     ],
+    "productBrand": "Goodwood Skateboards",
     "productTags": []
   },
   {
@@ -677,6 +757,7 @@
         "productVendorUrl": "https://www.zumiez.com/goodwood-happy-birthday-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Goodwood Skateboards",
     "productTags": []
   },
   {
@@ -692,6 +773,7 @@
         "productVendorUrl": "https://www.zumiez.com/goodwood-true-love-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Goodwood Skateboards",
     "productTags": []
   },
   {
@@ -707,6 +789,7 @@
         "productVendorUrl": "https://www.zumiez.com/goodwood-wavy-inverse-8-25-skateboard-deck.html"
       }
     ],
+    "productBrand": "Goodwood Skateboards",
     "productTags": []
   },
   {
@@ -722,6 +805,7 @@
         "productVendorUrl": "https://www.tactics.com/magenta/gore-relic-8125-skateboard-deck"
       }
     ],
+    "productBrand": "Magenta",
     "productTags": []
   },
   {
@@ -737,36 +821,7 @@
         "productVendorUrl": "https://www.tactics.com/metal-skateboards/gorgo-8375-skateboard-deck/yellow"
       }
     ],
-    "productTags": []
-  },
-  {
-    "slug": "gottwig-trails-skateboard-deck",
-    "productName": "Gottwig Trails Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746403314/ldjsonbuild/mlyn9chxya8hs8aibysd.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "73.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/krooked/gottwig-trails-825-skateboard-deck"
-      }
-    ],
-    "productTags": []
-  },
-  {
-    "slug": "grabke-exploding-clock-ltd-reissue-skateboard-deck",
-    "productName": "Grabke Exploding Clock LTD Reissue Deck",
-    "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1746402019/ldjsonbuild/o7qemnm0j5pshq4yzvp6.webp",
-    "imageWidth": 78,
-    "imageHeight": 291,
-    "productPrices": [
-      {
-        "tactics": "86.95",
-        "url": "https://www.tactics.com",
-        "productVendorUrl": "https://www.tactics.com/santa-cruz/grabke-exploding-clock-1004-ltd-reissue-skateboard-deck"
-      }
-    ],
+    "productBrand": "Metal",
     "productTags": []
   }
 ]

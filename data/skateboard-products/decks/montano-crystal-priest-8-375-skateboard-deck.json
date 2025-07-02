@@ -1,0 +1,27 @@
+{
+  "productName": "Montano Crystal Priest 8.375 Skateboard Deck",
+  "productBrand": "Alien Workshop",
+  "productType": "Skateboard Decks",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1751479685/ldjsonbuild/alien-workshop-montano-crystal-priest-8375-skateboard-deck.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1751474679,
+  "productVendorUrl": "https://www.tactics.com/alien-workshop/montano-crystal-priest-8375-skateboard-deck",
+  "productPrices": [
+    {
+      "tactics": "71.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/alien-workshop/montano-crystal-priest-8375-skateboard-deck"
+    },
+    {
+      "ccs": "69.95",
+      "url": "https://shop.ccs.com",
+      "productVendorUrl": "https://shop.ccs.com/products/alien-workshop-montano-crystal-priest-skateboard-deck-8-125?variant=44472422564023&currency=USD&utm_source=google&utm_medium=cpc&utm_campaign=google%2Bshopping&srsltid=AfmBOorbw81_jX2VdvjIah6pjiDrmbpkxyZ-Dm7-cLk8B9K9l9_UxvTEIdM&gQT=2"
+    },
+    {
+      "skateparkoftampa": "70.00",
+      "url": "https://www.skateparkoftampa.com",
+      "productVendorUrl": "https://www.skateparkoftampa.com/products/alien-workshop-sammy-montano-crystal-priest-deck?variant=51742783504657&srsltid=AfmBOoqsK56OM8vkkBmmFep3CozSTlN1uUfSRKKHwKhWgk0xG4lWhVY4m0k&gQT=2"
+    }
+  ]
+}

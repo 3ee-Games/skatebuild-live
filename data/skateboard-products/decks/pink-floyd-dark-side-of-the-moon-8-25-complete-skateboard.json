@@ -1,0 +1,27 @@
+{
+  "productName": "Pink Floyd Darkside Sunburst Deck",
+  "productBrand": "Habitat",
+  "productType": "Complete Skateboards",
+  "cloudinaryUrl": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1751479909/ldjsonbuild/habitat-pink-floyd-dark-side-of-the-moon-825-complete-skateboard.webp",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "updated": 1751474679,
+  "productVendorUrl": "https://www.tactics.com/habitat/pink-floyd-dark-side-of-the-moon-825-complete-skateboard/sunburst",
+  "productPrices": [
+    {
+      "tactics": "68.95",
+      "url": "https://www.tactics.com",
+      "productVendorUrl": "https://www.tactics.com/habitat/pink-floyd-dark-side-of-the-moon-825-skateboard-deck"
+    },
+    {
+      "habitat": "72.00",
+      "url": "https://habitatskateboards.com",
+      "productVendorUrl": "https://habitatskateboards.com/products/pink-floyd-sunburst-darkside-8-25?variant=45380764598449"
+    },
+    {
+      "spot": "72.00",
+      "url": "https://skateparkoftampa.com",
+      "productVendorUrl": "https://skateparkoftampa.com/products/habitat-pink-floyd-darkside-sunburst-deck?variant=51742816436497"
+    }
+  ]
+}
