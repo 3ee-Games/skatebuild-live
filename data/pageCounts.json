@@ -1,0 +1,22 @@
+{
+  "skateboard-products": {
+    "decks": 36,
+    "griptape": 4,
+    "trucks": 3,
+    "wheels": 5,
+    "bearings": 2,
+    "bushings": 1,
+    "rails": 1,
+    "risers": 1
+  },
+  "rollerskate-products": {
+    "boots": 2,
+    "plates": 2,
+    "trucks": 2,
+    "wheels": 4,
+    "slideblocks": 1,
+    "bearings": 2,
+    "bushings": 1,
+    "toestops": 2
+  }
+}
