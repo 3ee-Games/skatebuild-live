@@ -12,6 +12,7 @@
         "productVendorUrl": "https://medusaskates.com/sure-grip-oxford-tipton-limited-edition-roller-skate-boot/"
       }
     ],
+    "productBrand": "Sure-Grip",
     "productTags": []
   },
   {
@@ -32,6 +33,7 @@
         "productVendorUrl": "https://rollerskateusa.com/product/sure-grip-phoenix-boot/"
       }
     ],
+    "productBrand": "Sure-Grip",
     "productTags": []
   },
   {
@@ -47,6 +49,7 @@
         "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip_Rebel_Boots/descpage-SGREBEL.html"
       }
     ],
+    "productBrand": "Sure-Grip",
     "productTags": []
   },
   {
@@ -62,6 +65,7 @@
         "productVendorUrl": "https://medusaskates.com/vnla-a-la-mode-boots-only/"
       }
     ],
+    "productBrand": "VNLA",
     "productTags": []
   },
   {
@@ -77,6 +81,7 @@
         "productVendorUrl": "https://medusaskates.com/vnla-classic-limited-edition/"
       }
     ],
+    "productBrand": "VNLA",
     "productTags": []
   },
   {
@@ -92,6 +97,7 @@
         "productVendorUrl": "https://medusaskates.com/vnla-evolution-boot/"
       }
     ],
+    "productBrand": "VNLA",
     "productTags": []
   },
   {
@@ -107,6 +113,7 @@
         "productVendorUrl": "https://medusaskates.com/vnla-freestyle-anniversary-boot/"
       }
     ],
+    "productBrand": "VNLA",
     "productTags": []
   },
   {
@@ -122,6 +129,7 @@
         "productVendorUrl": "https://medusaskates.com/vnla-freestyle-boot-black-and-white/"
       }
     ],
+    "productBrand": "VNLA",
     "productTags": []
   },
   {
@@ -137,6 +145,7 @@
         "productVendorUrl": "https://medusaskates.com/vnla-luna-boots-only/"
       }
     ],
+    "productBrand": "VNLA",
     "productTags": []
   },
   {
@@ -152,6 +161,7 @@
         "productVendorUrl": "https://skatesus.com/product/edea-wave-figure-roller-skate-boot/"
       }
     ],
+    "productBrand": "EDEA",
     "productTags": []
   },
   {
@@ -167,6 +177,7 @@
         "productVendorUrl": "https://www.derbywarehouse.com/WIFA_Street_Suede_Boots/descpage-WIFASSB.html"
       }
     ],
+    "productBrand": "WIFA",
     "productTags": []
   }
 ]

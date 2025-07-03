@@ -12,6 +12,7 @@
         "productVendorUrl": "https://medusaskates.com/bont-slide-blocks/"
       }
     ],
+    "productBrand": "Bont",
     "productTags": []
   },
   {
@@ -37,6 +38,7 @@
         "productVendorUrl": "https://www.derbywarehouse.com/Brunny_Pro_Blocks_3056/descpage-BPBSL.html"
       }
     ],
+    "productBrand": "Brunny Hardcore",
     "productTags": [
       {
         "field": "combine",
@@ -62,6 +64,7 @@
         "productVendorUrl": "https://medusaskates.com/brunny-p-o-slide-blocks-3056-version-1-2/"
       }
     ],
+    "productBrand": "Brunny",
     "productTags": [
       {
         "field": "combine",
@@ -82,6 +85,7 @@
         "productVendorUrl": "https://medusaskates.com/cib-slide-blocks"
       }
     ],
+    "productBrand": "CIB",
     "productTags": []
   },
   {
@@ -97,6 +101,7 @@
         "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip/descpage-SGGB.html"
       }
     ],
+    "productBrand": "Sure-Grip",
     "productTags": []
   }
 ]

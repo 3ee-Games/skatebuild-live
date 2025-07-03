@@ -12,6 +12,7 @@
         "productVendorUrl": "https://www.suregrip.com/products/snyder-royal"
       }
     ],
+    "productBrand": "Sure-Grip",
     "productTags": []
   },
   {
@@ -27,6 +28,7 @@
         "productVendorUrl": "https://skatesus.com/product/roll-line-spin-roller-skate-frame/"
       }
     ],
+    "productBrand": "EDEA",
     "productTags": []
   },
   {
@@ -42,6 +44,7 @@
         "productVendorUrl": "https://www.moxiskates.com/collections/roller-skate-plates/products/sunlite-plates"
       }
     ],
+    "productBrand": "RC Sports",
     "productTags": []
   },
   {
@@ -57,6 +60,7 @@
         "productVendorUrl": "https://www.suregrip.com/products/century-nts"
       }
     ],
+    "productBrand": "Sure-Grip",
     "productTags": []
   },
   {
@@ -72,6 +76,7 @@
         "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip_Avanti_Magnesium/descpage-AVNTMAG.html"
       }
     ],
+    "productBrand": "Sure-Grip",
     "productTags": []
   },
   {
@@ -87,6 +92,7 @@
         "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip_LoRide_Plates/descpage-SGLRP.html"
       }
     ],
+    "productBrand": "Sure-Grip",
     "productTags": []
   },
   {
@@ -102,6 +108,7 @@
         "productVendorUrl": "https://www.derbywarehouse.com/Sure-Grip_Power-Trac/descpage-PTRAC.html"
       }
     ],
+    "productBrand": "Sure-Grip",
     "productTags": []
   },
   {
@@ -117,6 +124,7 @@
         "productVendorUrl": "https://bont.com/collections/roller-skate-plates/products/tracer-speed-roller-skate-plates"
       }
     ],
+    "productBrand": "Bont",
     "productTags": []
   },
   {
@@ -132,6 +140,7 @@
         "productVendorUrl": "https://skatesus.com/product/roll-line-variant-c-roller-skate-frames/"
       }
     ],
+    "productBrand": "EDEA",
     "productTags": []
   },
   {
@@ -147,6 +156,7 @@
         "productVendorUrl": "https://skatesus.com/product/roll-line-variant-m-roller-skate-frames/"
       }
     ],
+    "productBrand": "EDEA",
     "productTags": []
   },
   {
@@ -162,6 +172,7 @@
         "productVendorUrl": "https://powerslide.com/products/zena-standard-20"
       }
     ],
+    "productBrand": "Chaya",
     "productTags": []
   },
   {
@@ -177,6 +188,7 @@
         "productVendorUrl": "https://bont.com/collections/roller-skate-plates/products/zeus-carbon-nts-speed-roller-skate-plates"
       }
     ],
+    "productBrand": "Bont",
     "productTags": []
   },
   {
@@ -192,6 +204,7 @@
         "productVendorUrl": "https://bont.com/collections/roller-skate-plates/products/zeus-nts-speed-roller-skate-plates"
       }
     ],
+    "productBrand": "Bont",
     "productTags": []
   }
 ]
