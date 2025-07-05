@@ -48,6 +48,14 @@
     "created": "2025-05-09T05:04:03.001552+00:00"
   },
   {
+    "name": "test again",
+    "build_type": "skateboard",
+    "skating_type": "park",
+    "owner_username": "catra",
+    "slug": "test-again",
+    "created": "2025-07-05T20:53:50.925500+00:00"
+  },
+  {
     "name": "test1",
     "build_type": "skateboard",
     "skating_type": "street",
