@@ -1,0 +1,23 @@
+{
+  "name": "test again",
+  "build_type": "skateboard",
+  "skating_type": "park",
+  "deck_slug": "andy-anderson-heron-skull-skateboard-deck",
+  "griptape_slug": "andy-roy-web-skateboard-grip-tape",
+  "risers_slug": "diamond-supply-co-skateboard-risers",
+  "rails_slug": "shake-junt-rails",
+  "trucks_slug": "independent-gonz-box-set",
+  "bearings_slug": "ace-trucks-high-performance-bearings",
+  "wheels_slug": "oj-thunder-juice-wheels",
+  "bushings_slug": "bones-medium-bushings",
+  "attributes": [
+    {
+      "name": "craft",
+      "value": 0.1
+    }
+  ],
+  "slug": "test-again",
+  "owner_username": "catra",
+  "created": "2025-07-05T20:53:50.925500+00:00",
+  "updated": "2025-07-05T20:53:50.925500+00:00"
+}
