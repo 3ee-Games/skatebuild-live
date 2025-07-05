@@ -2,7 +2,7 @@
   "name": "another test",
   "build_type": "skateboard",
   "skating_type": "park",
-  "deck_slug": "aaron-loreth-hail-fail-skateboard-deck",
+  "deck_slug": "andy-anderson-heron-skull-skateboard-deck",
   "griptape_slug": "mob-grip-tape",
   "risers_slug": "bones-riser-pads",
   "rails_slug": "deathwish-glitter-death-rails",
@@ -18,6 +18,6 @@
   ],
   "slug": "another-test",
   "owner_username": "test12345",
-  "created": "2025-07-05T20:38:54.015632+00:00",
-  "updated": "2025-07-05T20:38:54.015632+00:00"
+  "created": "2025-07-05T20:41:15.506269+00:00",
+  "updated": "2025-07-05T20:41:15.506269+00:00"
 }
