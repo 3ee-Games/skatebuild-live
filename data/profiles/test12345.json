@@ -1,13 +1,15 @@
 {
-  "name": "test12345",
-  "hometown": "",
-  "skater_type": [],
-  "stance": "",
+  "name": "test2",
+  "hometown": "eerwer",
+  "skater_type": [
+    "skateboarder"
+  ],
+  "stance": "regular",
   "status": "amateur",
   "sponsors": [],
   "contest_results": [],
-  "image": "",
-  "imageSmall": "",
+  "image": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250705/01201-3114618437-A_dwspop_man_with_perfect_glowing_blue_eyes_1.0_and_with_glasses_looking_up_at_the_camera_dwspop_space_1.1_galaxy_in_the_ba_uehisc",
+  "imageSmall": "https://res.cloudinary.com/dxgyuy0iu/image/upload/v1/img/20250705/a831d69322fc4d4891624eda3fdb302e_jm9q9k",
   "supporter": null,
   "social_urls": []
 }
