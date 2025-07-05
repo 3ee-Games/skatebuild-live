@@ -64,6 +64,14 @@
     "created": "2025-05-09T05:02:06.300799+00:00"
   },
   {
+    "name": "Testing",
+    "build_type": "skateboard",
+    "skating_type": "vert",
+    "owner_username": "checkouttest007",
+    "slug": "testing",
+    "created": "2025-07-05T20:32:19.757523+00:00"
+  },
+  {
     "name": "oootie speed deck pulled",
     "build_type": "skateboard",
     "skating_type": "park",
