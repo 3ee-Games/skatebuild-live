@@ -1,0 +1,23 @@
+{
+  "name": "Testing",
+  "build_type": "skateboard",
+  "skating_type": "vert",
+  "deck_slug": "",
+  "griptape_slug": "",
+  "risers_slug": "",
+  "rails_slug": "",
+  "trucks_slug": "",
+  "bearings_slug": "",
+  "wheels_slug": "",
+  "bushings_slug": "",
+  "attributes": [
+    {
+      "name": "Testing",
+      "value": 0.89
+    }
+  ],
+  "slug": "testing",
+  "owner_username": "checkouttest007",
+  "created": "2025-07-05T20:32:19.757523+00:00",
+  "updated": "2025-07-05T20:32:19.757523+00:00"
+}
