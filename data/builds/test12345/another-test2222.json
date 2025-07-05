@@ -1,0 +1,27 @@
+{
+  "name": "another test2222",
+  "build_type": "skateboard",
+  "skating_type": "park",
+  "deck_slug": "andy-anderson-heron-skull-skateboard-deck",
+  "griptape_slug": "low-key-sprayed-mob-skateboard-grip-tape",
+  "risers_slug": "bones-riser-pads",
+  "rails_slug": "shake-junt-rails",
+  "trucks_slug": "independent-x-hockey-silver-skateboard-truck",
+  "bearings_slug": "enjoi-abec-teenish-bearings",
+  "wheels_slug": "dragon-formula-rat-bones-ii-skateboard-wheels",
+  "bushings_slug": "bones-hardcore-soft-bushings",
+  "attributes": [
+    {
+      "name": "testing",
+      "value": 0.79
+    },
+    {
+      "name": "rips",
+      "value": 0.12
+    }
+  ],
+  "slug": "another-test2222",
+  "owner_username": "test12345",
+  "created": "2025-07-05T21:53:39.861137+00:00",
+  "updated": "2025-07-05T21:53:39.861137+00:00"
+}
