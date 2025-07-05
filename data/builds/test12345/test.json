@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "build_type": "skateboard",
+  "skating_type": "park",
+  "deck_slug": "aaron-loreth-hail-fail-skateboard-deck",
+  "griptape_slug": "mob-grip-tape",
+  "risers_slug": "bones-riser-pads",
+  "rails_slug": "deathwish-glitter-death-rails",
+  "trucks_slug": "ace-trucks-ace-colored-truck",
+  "bearings_slug": "ace-trucks-high-performance-bearings",
+  "wheels_slug": "cloud-ride-clear-pink-cruiser-wheels",
+  "bushings_slug": "bones-hardcore-soft-bushings",
+  "attributes": [
+    {
+      "name": "Speed",
+      "value": 1.0
+    },
+    {
+      "name": "Price",
+      "value": 1.0
+    }
+  ],
+  "slug": "test",
+  "owner_username": "test12345",
+  "created": "2025-07-05T20:36:47.169406+00:00",
+  "updated": "2025-07-05T20:36:47.169406+00:00"
+}
