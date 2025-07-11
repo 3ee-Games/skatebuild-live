@@ -1,0 +1,23 @@
+{
+  "name": "Eggzilla",
+  "build_type": "skateboard",
+  "skating_type": "park",
+  "deck_slug": "eggzilla-skateboard-deck",
+  "griptape_slug": "",
+  "risers_slug": "",
+  "rails_slug": "",
+  "trucks_slug": "",
+  "bearings_slug": "spitfire-cheapshot-skateboard-bearings",
+  "wheels_slug": "",
+  "bushings_slug": "",
+  "attributes": [
+    {
+      "name": "?",
+      "value": 0.5
+    }
+  ],
+  "slug": "eggzilla",
+  "owner_username": "SinkerSink",
+  "created": "2025-07-11T01:18:38.525041+00:00",
+  "updated": "2025-07-11T01:18:38.525041+00:00"
+}
