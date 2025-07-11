@@ -1,5 +1,13 @@
 [
   {
+    "name": "Eggzilla",
+    "build_type": "skateboard",
+    "skating_type": "park",
+    "owner_username": "SinkerSink",
+    "slug": "eggzilla",
+    "created": "2025-07-11T01:18:38.525041+00:00"
+  },
+  {
     "name": "great googly moogly",
     "build_type": "skateboard",
     "skating_type": "park",
