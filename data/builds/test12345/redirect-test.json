@@ -1,0 +1,23 @@
+{
+  "name": "redirect test",
+  "build_type": "skateboard",
+  "skating_type": "park",
+  "deck_slug": "chris-hiett-skull-flight-skateboard-deck",
+  "griptape_slug": "andy-roy-web-skateboard-grip-tape",
+  "risers_slug": "skateboard-riser-set",
+  "rails_slug": "creature-skateboards-slider-rails",
+  "trucks_slug": "forged-titanium-stage-skateboard-trucks",
+  "bearings_slug": "spitfire-cheapshot-skateboard-bearings",
+  "wheels_slug": "a-w-o-l-cruiser-skateboard-wheels",
+  "bushings_slug": "bones-hard-white-black-bushings",
+  "attributes": [
+    {
+      "name": "test",
+      "value": 0.81
+    }
+  ],
+  "slug": "redirect-test",
+  "owner_username": "test12345",
+  "created": "2025-07-14T23:24:22.700282+00:00",
+  "updated": "2025-07-14T23:24:22.700282+00:00"
+}
