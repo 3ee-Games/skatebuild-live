@@ -152,6 +152,14 @@
     "created": "2025-07-10T23:19:52.709871+00:00"
   },
   {
+    "name": "redirect test",
+    "build_type": "skateboard",
+    "skating_type": "park",
+    "owner_username": "test12345",
+    "slug": "redirect-test",
+    "created": "2025-07-14T23:24:22.700282+00:00"
+  },
+  {
     "name": "test",
     "build_type": "skateboard",
     "skating_type": "park",
