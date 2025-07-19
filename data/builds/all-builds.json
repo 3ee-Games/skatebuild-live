@@ -160,6 +160,14 @@
     "created": "2025-07-14T23:24:22.700282+00:00"
   },
   {
+    "name": "redirect testhdskjdhfskjdhfksdf",
+    "build_type": "skateboard",
+    "skating_type": "park",
+    "owner_username": "test12345",
+    "slug": "redirect-testhdskjdhfskjdhfksdf",
+    "created": "2025-07-19T05:16:25.371724+00:00"
+  },
+  {
     "name": "test",
     "build_type": "skateboard",
     "skating_type": "park",
